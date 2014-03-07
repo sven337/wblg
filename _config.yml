@@ -1,10 +1,11 @@
-#encoding: ISO-8859-15
 name: Sven337
+description: Computers, electronics, politics
 markdown: kramdown
 kramdown:
     input: GFM
     use_coderay: true
+    coderay_defaultlang: C
 pygments: true
 baseurl: /~sven337
 encoding: ISO-8859-15
-
+url: http://perso.aquilenet.fr/~sven337
