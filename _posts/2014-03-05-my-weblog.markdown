@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Welcome"
+title:  "Bienvenue"
 date:   2014-03-05 21:56:19
+categories: francais
 ---
 
 Bienvenue sur mon site. Je l'utiliserai pour publier des articles techniques portant sur l'informatique et l'électronique.
