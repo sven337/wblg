@@ -7,7 +7,7 @@ category: francais
 comments: true
 ---
 
-Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4.
+Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4. Cette version est plus complète et a l'intérêt d'être en un seul morceau.
 
 Méthode: **Étude du CD d'upgrade firmware 2.20**
 
@@ -106,7 +106,7 @@ Les fichiers .inf ont au début une valeur qui correspond à un hash **CRC**. J'ai
   * l'un à `ReadINFCRC__FPCcR9Crc16Type` (Le nom bizarre correspond au "mangling" des fonctions C++ fait par GCC. Cela correspond à la signature : `ReadINFCRC(char const *, Crc16Type &)`) 
   * l'autre à `ComputeCRCFile`
 
-J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](crc_rt6.c).
+J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](/~sven337/data/rt6/crc_rt6.c).
 
 Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
  
