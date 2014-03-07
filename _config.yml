@@ -1,0 +1,10 @@
+#encoding: ISO-8859-15
+name: Sven337
+markdown: kramdown
+kramdown:
+    input: GFM
+    use_coderay: true
+pygments: true
+baseurl: /~sven337
+encoding: ISO-8859-15
+
