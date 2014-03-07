@@ -175,7 +175,7 @@ Le système reconnaît que le média est une mise à jour des points d'intérêt à tra
 Détails du fonctionnement. Questions : Est-ce que le format est compréhensible ? Est-ce qu'on peut envisager de mettre à jour les cartes à partir d'Openstreetmap ? Que signifie exactement "mise à jour pas compatible avec les véhicules après août 2011" ?
 Le système reconnaît que le média est une mise à jour des points d'intérêt à travers la présence d'un fichier **CD_VER.NAV**, et il exécute le script NAV_UPGRADE.CMD.
 
-# 7. --Besoin d'aide--
+# 7. <s>Besoin d'aide</s>
 
 Si vous voulez aider cet effort, et que vous n'êtes pas informaticien, voici quelques idées de choses à faire :
 
