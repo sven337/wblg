@@ -1,0 +1,17 @@
+---
+layout: default
+title: Axyzt
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+  <h1>RSS</h1>
+  <a href="{{ site.baseurl }}/feeds/feed.xml">All articles</a><br/>
+  <a href="{{ site.baseurl }}/feeds/feed_francais.xml">Articles en français</a><br/>
+  <a href="{{ site.baseurl }}/feeds/feed_english.xml">Articles in English</a><br/>
+</div>
