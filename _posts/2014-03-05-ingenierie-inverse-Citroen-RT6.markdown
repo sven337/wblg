@@ -2,7 +2,9 @@
 layout: post
 title: "Ingénierie inverse de l'autoradio eMyWay (RT6) Citroën"
 date: 2014-03-05 23:00:00
-tags: francais electronics auto
+tags: electronics auto
+category: francais
+comments: true
 ---
 
 Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4.
@@ -15,7 +17,7 @@ Le RT6, développé par Magneti Marelli, semble à première vue être assez similair
 est en présence d'une plateforme **VxWorks 5.5.1** avec Tornado 2.2.1. La carte mère est probablement similaire à une WindRiver d'architecture PowerPC
 (exemples de produits : [http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC](http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC)) La carte est-elle la même que le RT3 ? Je pensais que le RT3 était en MIPS mais [http://fr.viadeo.com/fr/profile/cyrille.lohier](http://fr.viadeo.com/fr/profile/cyrille.lohier) laisse penser le contraire. Les binaires semblent être produits avec GCC: `(GNU) gcc-2.96 (2.96+ MW/LM) AltiVec VxWorks 5.5`.
 
-Le RT4 a une architecture très similaire et a été l'objet d'efforts d'ingénierie inverse menés par différentes personnes dont plusieurs ont posté sur ce forum. On notera qu'il existe une version RT6 des "mira scripts", en cours de développement ([http://mira308sw.altervista.org/en/index.htm](http://mira308sw.altervista.org/en/index.htm)). Mira connaît très bien l'appareil.
+Le RT4 a une architecture très similaire et a été l'objet d'efforts d'ingénierie inverse menés par différentes personnes dont plusieurs ont posté en français sur [Planete Citroen](http://www.planete-citroen.com). On notera qu'il existe une version RT6 des "mira scripts", en cours de développement ([http://mira308sw.altervista.org/en/index.htm](http://mira308sw.altervista.org/en/index.htm)). Mira connaît très bien l'appareil.
 
 # 2. Arborescence
 
@@ -70,7 +72,8 @@ On trouve :
   * ENTRY: YES ou NO... (aucun idée de ce que c'est, à vérifier) 
   * SUBVER : "sous version" ?? 
   * ID: "sous sous version" ?? 
-
+<br />
+ 
 ## 2.2. Fichiers .CMD et .ini
 
 On dirait que c'est une habitude chez MM d'utiliser des extensions pour des types de fichiers qui ne correspondent pas du tout. Les .CMD et .ini sont...
@@ -120,7 +123,7 @@ La plupart des exécutables sont des fichiers .gz compressés. Un peu d'étude du c
 
 VxWorks ajoute en fait un octet de _bourrage_ au début de chaque fichier compressé (qui sert pour calculer un checksum, mais uniquement si la variable **inflateCksum** est définie - adresse `0xff4cf04` dans **BootRom.sym** qui est l'exécutable principal, et elle ne l'est pas pour l'instant). Cet octet fait que le format n'est pas reconnu par l'outil zpipe inclus dans zlib. Il faut donc faire une petite modification sur **zpipe** dans `main()`:
 
-~~~ C
+~~~ c
     /* do decompression if -d specified */
     else if (argc >= 2 && strcmp(argv[1], "-d") == 0) {
     if (argc == 3) {
