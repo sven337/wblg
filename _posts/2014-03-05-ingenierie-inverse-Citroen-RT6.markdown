@@ -9,6 +9,8 @@ comments: true
 
 Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4. Cette version est plus complète et a l'intérêt d'être en un seul morceau.
 
+Notez que je ne possède plus ni de C4 ni de RT6, je ne suis donc plus actif sur ce projet.
+
 Méthode: **Étude du CD d'upgrade firmware 2.20**
 
 # 1. Travaux précédents
@@ -19,7 +21,7 @@ est en présence d'une plateforme **VxWorks 5.5.1** avec Tornado 2.2.1. La carte 
 
 Le RT4 a une architecture très similaire et a été l'objet d'efforts d'ingénierie inverse menés par différentes personnes dont plusieurs ont posté en français sur [Planete Citroen](http://www.planete-citroen.com). On notera qu'il existe une version RT6 des "mira scripts", en cours de développement ([http://mira308sw.altervista.org/en/index.htm](http://mira308sw.altervista.org/en/index.htm)). Mira connaît très bien l'appareil.
 
-# 2. Arborescence
+# 2. Étude du CD d'upgrade firmware 2.20
 
 On trouve sur le CD:
 
@@ -110,12 +112,13 @@ J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il 
 
 Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
  
-    
+~~~ 
     $ ./crc_rt6 /mnt/hd/Application/BTL/File_Search.gz.inf 4
     Computed CRC16 0x0c 0x62
     $ ./crc_rt6 /mnt/hd/Application/BTL/File_Search.gz 0
     Computed CRC16 0x2f 0x64
-    
+~~~
+
 
 ## 2.8. Compression des binaires
 
@@ -147,26 +150,138 @@ Cela permet de passer un _seek_ en argument. La valeur de _seek_ à utiliser est 
 
 J'ai fait cela sur tous les binaires compressés du firmware. Pas de surprise, ce sont bien des binaires PowerPC, avec les symboles de debug.
 
-# 3. Question Bluetooth
+## 2.9 Le processus de mise à jour
 
-Bluetooth définit plusieurs **profils**, qui correspondent à un ensemble de fonctionnalités rendues par un appareil à un autre. Pour la musique, il existe **AD2P** qui est le profil permettant de transférer le son par radio, et **AVRCP** qui permet le contrôle de l'appareil lecteur par un autre (play, pause, next, previous, ...). Je souhaite savoir quelle version du profil Bluetooth AVRCP mon véhicule supporte. Cette information n'est disponible nulle part mais l'étude du module Bluetooth pourra répondre à la question. On trouve dans `Application/BCM/t2bf/bcm_t2bf.bin` (note: je nomme **.bin** les fichiers obtenus par décompression du **.gz**) les chaînes suivantes :
+On a ``/F`` qui est la partition de boot. Probablement du flash, probablement soudé sur la carte mère, peut-être une carte SD, à voir. (XXX mettre à jour selon les résultats des expérimentations qui ont eu lieu depuis) On a ``/SDC`` qui est la partition d'application. SDC comme **SD C**ard, je suppose.
 
-    
-    
-    AVRCP version 1.0 supported
-    AVRCP version 1.3 supported
-    AVRCP unknown version
-    
+### 2.9.1 Initialisation
 
-Donc le RT6 supporterait la version 1.3 d'AVRCP. Il y a une version 1.4 qui ajoute une fonction recherche et la possibilité de gérer plusieurs _players_ (par exemple deux téléphones simultanément pour streamer de la musique). [http://en.wikipedia.org/wiki/Bluetooth_profile+Audio.2FVideo_Remote_Control_Profile_.28AVRCP.29](http://en.wikipedia.org/wiki/Bluetooth_profile+Audio.2FVideo_Remote_Control_Profile_.28AVRCP.29)
+Lors de l'insertion d'un CD d'upgrade du firmware, le système réagit à la présence du fichier ``CD.inf`` et exécute ``FlasherROMStart("/path/to/cd")`` dans ``/UPG/Flasher/FLASHER.ROM`` (indication de Mira non vérifiée). Celui-ci détecte la version de l'appareil et si c'est bien un RNEG il exécute le fichier ``/UPG/Flasher/FLASHER.ROM.RNEG``. Cela prouve que le RT6 est globalement similaire aux RT3/RT4 qui l'ont précédé.
+Dans ``FLASHER.ROM.RNEG`` on trouve la fonction ``FlasherRomRNEGStart(char *sourcedrive)`` qui appelle ``GetHardwareConfiguration("CFG_HW_FAMILY")`` pour vérifier (à nouveau ?!) si c'est bien un RNEG, et écrit la réponse (= 1 sur RNEG) dans deux variables: 
+- C_SETUP_HW::m_is_rneg_family
+- C_SETUP_HW::m_is_sd_present. 
 
-**sdptool** sous Linux liste les profils supportés par un appareil Bluetooth... mais **BT_CAR_SYSTEM** (le RT6) ne répond pas aux requêtes. En tout cas cela m'a permis de détecter la version d'AVRCP sur mon Blackberry et mon YP-P2 - ces deux appareils sont en 1.0, donc la voiture ne pourra pas afficher les méta données ni m'indiquer la liste des pistes. Conclusion il vaut mieux brancher ces appareils en **USB** (sauf que le Blackberry n'est pas accepté par le RT6 en USB, "média illisible", probablement à cause de la table des partitions - en effet le BB expose une table des partitions avec une seule partition, alors que la plupart des clés n'ont pas de table des partitions, à vérifier si c'est effectivement le souci, dans ce cas on serait en présence d'une erreur/oubli de la part de MM). 
+Ensuite, ``C_SETUP_HW::m_is_preampli_present`` et ``m_is_mtb_present`` sont renseignés. Apparemment "mtb" signifie motherboard (carte mère). J'espère bien, que la carte mère est présente... Il y a une également une variable ``mtb_tuner_type``... qui prend les valeurs 0 1 2 3).
 
-# 4. Upgrade firmware
+Un affichage pour le _debug_ semble être réalisé par ``Splash_PrintL1__FPCc``.
+
+Le stockage flash est sur``/F``. La partition subit les appels suivants, dans l'ordre : 
+
+~~~ 
+KernelUnprotectFlash
+UnMountPartition
+MountAndCheckTffs
+BootRomFormatTffs
+KernelProtectBoot
+~~~
+
+**TFFS** semble donc être le format du FS. <http://en.wikipedia.org/wiki/Flash_file_system#TrueFFS> sous entend que c'est un FS utilisé par VxWorks, donc c'est une possibilité très nette que ce soit bien notre FS.
+
+### 2.9.2 Vérification du CD
+Une fois le FS formaté, c'est la fonction ``LaunchSoftUpgrade`` qui prend le relais. Le RT6 utilise la bibliothèque **EiC** (<http://www.linuxbox.com/tiki/node/149>, merci à Mira) pour fournir des scripts dont la syntaxe est celle du langage C. EiC va définir un ensemble de fonctions C qui seront appelables depuis les scripts .CMD. Je disposais de la liste exhaustive de ces fonctions mais suite à une erreur de manipulation je ne les ai plus.
+Ces fonctions sont exportées à travers EiC en appelant ``EiC_AddBuiltinFunc(const char *, void *(*func)(void))``. (Par exemple, ``EiC_AddBuiltinFunc("MaFunctionAMoi", &MaFunctionAMoi)``). On doit pouvoir en rajouter assez facilement de cette manière, mais Mira a utilisé une autre technique à mon avis plus compliquée.
+
+Une fois **EiC** initialisée, le programme cherche le fichier ``[source]/UPG/Command/CHECK_CD.CMD`` ([source] correspond à l'adresse du "device" contenant la mise à jour, je ne sais pas encore quels sont les points de montage). Ce script est très explicite, écrit par un certain Philippe Chapelet <http://fr.linkedin.com/pub/philippe-chapelet/45/834/bb7>.
+
+``EiC_ExeFile(argc, argv)``, **CHECK_CMD** est appelé avec ``argv[2]="BOOTROM"`` (TODO vérifier s'il y a un appel avec "NORMAL" ou une autre valeur, il existe aussi "RECOVERY", voir comment c'est utilisé), les 2 autres arguments sont l'adresse source et le path du script lui même (ce qui est confirmé par le contenu du script).
+
+### 2.9.3 Mise à jour
+
+Le script de vérification retourne 0 si tout est OK. Dans ce cas, la mise à jour va avoir lieu. Le programme cherche le script d'upgrade, ``[source]/UPG/Command/FLASHER.ROM.RNEG.CMD``. Ce script est appelé avec les mêmes arguments qu'au-dessus.
+C'est lui qui fait l'essentiel du travail.
+
+### 2.9.4 Après la mise à jour
+
+Une fonction vérifie le flag ``g_Flasher_ROMERROR``. **0** = pas d'erreur, **3** = message d'**erreur** + SetDBBootFlagError(), 1 2 4 message d'erreur, en cas d'erreur "emergency reboot".
+
+## 2.10 Questions restantes
 
 À faire : détails du fonctionnement de l'upgrade firmware. Questions: est-ce qu'on peut ne mettre à jour qu'un seul fichier ? Est-ce qu'on peut faire des changements et revenir en arrière sur une version officielle du firmware ?
 
 Le système reconnaît que le média est une mise à jour du firmware à travers la présence d'un fichier CD.inf, et il exécute le binaire `/upg/flasher/flasher.rom`.
+
+
+# 3. Fonctionnalités Bluetooth
+
+Bluetooth définit plusieurs **profils**, qui correspondent à un ensemble de fonctionnalités rendues par un appareil à un autre. Pour la musique, il existe **AD2P** qui est le profil permettant de transférer le son par radio, et **AVRCP** qui permet le contrôle de l'appareil lecteur par un autre (play, pause, next, previous, ...). Je souhaite savoir quelle version du profil Bluetooth AVRCP mon véhicule supporte. Cette information n'est disponible nulle part mais l'étude du module Bluetooth pourra répondre à la question. On trouve dans `Application/BCM/t2bf/bcm_t2bf.bin` (note: je nomme **.bin** les fichiers obtenus par décompression du **.gz**) les chaînes suivantes :
+
+
+```
+AVRCP version 1.0 supported
+AVRCP version 1.3 supported
+AVRCP unknown version
+```
+
+Donc le RT6 supporterait la version 1.3 d'AVRCP. Il y a une version 1.4 qui ajoute une fonction recherche et la possibilité de gérer plusieurs _players_ (par exemple deux téléphones simultanément pour streamer de la musique). <http://en.wikipedia.org/wiki/Bluetooth_profile#Audio.2FVideo_Remote_Control_Profile_.28AVRCP.29>
+
+**sdptool** sous Linux liste les profils supportés par un appareil Bluetooth... mais **BT_CAR_SYSTEM** (le RT6) ne répond pas aux requêtes. En tout cas cela m'a permis de détecter la version d'AVRCP sur mon Blackberry et mon YP-P2 - ces deux appareils sont en 1.0, donc la voiture ne pourra pas afficher les méta données ni m'indiquer la liste des pistes. Conclusion il vaut mieux brancher ces appareils en **USB** (sauf que le Blackberry n'est pas accepté par le RT6 en USB, "média illisible", probablement à cause de la table des partitions - en effet le BB expose une table des partitions avec une seule partition, alors que la plupart des clés n'ont pas de table des partitions, à vérifier si c'est effectivement le souci, dans ce cas on serait en présence d'une erreur/oubli de la part de MM). 
+
+# 4. Architecture matérielle
+
+## 4.1 Stockage
+Le RT6 est équipé d'une carte SD de 8Go qui sert de stockage système au format TFFS, ainsi que d'une EEPROM qui stocke des paramètres de configuration persistants. La carte SD permet de réaliser certaines manipulations sans risque (car on peut facilement la sauvegarder). L'EEPROM peut donner lieu à des retours en garantie qui se sont avérés coûteux. Il convient d'être particulièrement prudent avec le _MiraScript_ **CONFIGFLAG**.
+Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en servir en Jukebox : obligation d'utiliser le port USB si on veut avoir un stockage important.
+
+## 4.2 Démontage
+Voici des photographies prise par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
+<!--![](/~sven337/data/rt6/01.jpg)
+![](/~sven337/data/rt6/02.jpg)
+![](/~sven337/data/rt6/03.jpg)
+![](/~sven337/data/rt6/04.jpg)
+![](/~sven337/data/rt6/05.jpg)
+![](/~sven337/data/rt6/06.jpg)
+![](/~sven337/data/rt6/07.jpg)
+![](/~sven337/data/rt6/09.jpg)
+![](/~sven337/data/rt6/10.jpg)
+![](/~sven337/data/rt6/11.jpg)
+![](/~sven337/data/rt6/12.jpg)
+![](/~sven337/data/rt6/13.jpg)
+![](/~sven337/data/rt6/14.jpg)
+![](/~sven337/data/rt6/15.jpg)
+![](/~sven337/data/rt6/16.jpg)
+![](/~sven337/data/rt6/18.jpg)
+![](/~sven337/data/rt6/19.jpg)-->
+
+[1](/~sven337/data/rt6/01.jpg)
+[2](/~sven337/data/rt6/02.jpg)
+[3](/~sven337/data/rt6/03.jpg)
+[4](/~sven337/data/rt6/04.jpg)
+[5](/~sven337/data/rt6/05.jpg)
+[6](/~sven337/data/rt6/06.jpg)
+[7](/~sven337/data/rt6/07.jpg)
+8 - sans intérêt
+[9](/~sven337/data/rt6/09.jpg)
+[10 - puce GPS](/~sven337/data/rt6/10.jpg)
+[11](/~sven337/data/rt6/11.jpg)
+[12 - microcontrôleur](/~sven337/data/rt6/12.jpg)
+[13 - audio & radio](/~sven337/data/rt6/13.jpg)
+[14 - microcontrôleur](/~sven337/data/rt6/14.jpg)
+[15 - audio & radio](/~sven337/data/rt6/15.jpg)
+[16](/~sven337/data/rt6/16.jpg)
+17 - sans intérêt
+[18 - Minus & Cortex](/~sven337/data/rt6/18.jpg)
+[19](/~sven337/data/rt6/19.jpg)
+
+### GPS
+
+La puce **GPS** dans le RT6 est soit une **Atmel**, soit une **SIRF**, d'après le code. La photo n°10 nous montre un chip **SIRF GSC2Xi**, ce qui semble correspondre au produit **SIRFStarII**. Bien sûr, cette entreprise supprime de son site les anciennes références, et je n'ai pas pu trouver de datasheet. J'aurai l'occasion un jour de décrire tout le bien que je pense que ces pratiques.
+
+### Microcontrôleur
+
+Sur les photos n°12 et 14 on trouve un microcontrôleur : <http://www.datasheetarchive.com/M30290FCTHP-datasheet.html>.
+Si on savait à quoi est relié le connecteur noir, on saurait à quoi il sert.
+
+### Circuit audio
+
+Photo n°13 et 15, la "carte son" **SAF7741** <http://www.nxp.com/documents/leaflet/75016755.pdf> associée aux deux tuners **TEF 7000** (en petit au dessus). Il faut que je trouve la datasheet du SAF7741, mais j'ai l'impression qu'il n'a que des sorties analogiques vers les HP (donc **pas de SPDIF**).
+
+### Cortex
+
+Photo n°18, un FPGA **Altera Cyclone 3** <http://www.altera.com/literature/hb/cyc3/cyclone3_handbook.pdf>, modèle **EP3C25** package **F324** vitesse **A7**. Ce FPGA sert très probablement de carte graphique pour piloter l'écran. La technologie utilisée semble être <http://www.altera.com/support/examples/nios2/exm-tes-demo.html>.
+Un chip **flash 16Mo** Spansion <http://www.spansion.com/Support/Related%20Product%20Info/S29GL128N_overview.pdf> **GL128N90FFAR2** voila peut-être notre **/F**?
+3 chips **Micron** marqués ``2DF42 D9GPD``, probablement de la **RAM** (en haut pour le FPGA, en bas pour le CPU ?), à vérifier
+Un **CPU Freescale MPC5200B** <http://cache.freescale.com/files/32bit/doc/data_sheet/MPC5200.pdf>, modèle exact difficile à connaître, probablement **SPC5200CVR400** - PowerPC 32 bits 400MHz avec FPU, 16k cache, CAN, USB, Ethernet (??), ... 
+
 
 # 5. Upgrade POI
 
@@ -178,13 +293,24 @@ Le système reconnaît que le média est une mise à jour des points d'intérêt à tra
 Détails du fonctionnement. Questions : Est-ce que le format est compréhensible ? Est-ce qu'on peut envisager de mettre à jour les cartes à partir d'Openstreetmap ? Que signifie exactement "mise à jour pas compatible avec les véhicules après août 2011" ?
 Le système reconnaît que le média est une mise à jour des points d'intérêt à travers la présence d'un fichier **CD_VER.NAV**, et il exécute le script NAV_UPGRADE.CMD.
 
-# 7. <s>Besoin d'aide</s>
+# 7. Modifier le code firmware
 
-Si vous voulez aider cet effort, et que vous n'êtes pas informaticien, voici quelques idées de choses à faire :
+Il faut bien garder à l'esprit qu'il est assez facile de **comprendre comment les choses fonctionnent** (en tout cas pour quelqu'un du métier), car le firmware est livré avec ses symboles de debug. Il suffit d'un désassembleur et de temps pour lire ce que le programme fait. Faire des modifications est un autre débat, malheureusement. À moins de se procurer un kit de développement VxWorks (payant), il faudra faire les modifications directement en assembleur PowerPC, et les injecter dans le firmware existant. J'avais commencé à travailler avec **objdump** pour supprimer une fonction quelconque du firmware, et la remplacer par une écrite à la main, ce qui est un montage plus "propre" que le bidouillage de Mira pour les *generic function calls*. Toutefois la manipulation n'avait pas abouti.
 
-  * photographies détaillées de l'extérieur et intérieur du RT6, avec repérage de tous les composants (afin de connaître les caractéristiques du matériel) 
-  * plus spécifiquement, déterminer quel médium de stockage est dans le RT6 (disque dur, si oui marque et modèle, flash, si oui amovible ou pas, si oui marque et modèle, ...) 
-  * prêt d'un RT6 pour test (non, je veux pas la voiture avec) 
-  * prise de contact avec MM pour solliciter le code source ou la documentation (très peu de chances d'aboutir et c'est à double tranchant, réservé à des gens très diplomates) 
-  * récupérer d'autres versions du firmware/POI/carto (attention aux aspects légaux) pour me les envoyer 
-  * tester pour moi certaines fonctionnalités ("cheat codes" que j'indiquerai, etc.), voire plus selon votre courage 
+# 9. Changer l'image d'accueil
+
+Le BMP d'accueil est stocké sur le RT6 dans le chemin suivant : **/F/Application/Boot/BootScreen.bmp**. Il est, comme tous les fichiers du RT6, soumis à une vérification du CRC selon la procédure décrite plus haut. Ce fichier ne semble pas présent sur le média d'install du firmware 2.20. 
+C'est la fonction **BootRomSplash** qui le charge (je crois). Elle est appelée avec une valeur entre 0 et 5 qui décrit le type de splash - "please insert upgrade CD", "error detected", etc.
+
+Je n'ai jamais procédé à un changement d'image d'accueil, mais c'est une opération que Mira sait réaliser.
+
+# 10. Pour rigoler/avis sur l'appareil
+
+Le code du firmware fait apparaître que **Maserati** est également utilisateur du RT6. Moi, si j'achète une Maserati, j'attends nettement mieux que le RT6... :)
+Je suis plutôt déçu de cet appareil qui est lent dans la plupart de ses opérations (saisie d'une adresse GPS, démarrage, lecture d'une clé USB), qui contient certains bugs particulièrement gênants (déconnexions intempestives Bluetooth AD2P, refus de lire certaines clés USB), et dont le système de navigation est assez mauvais tant dans ses algorithmes (il ne démord pas du chemin qu'il a choisi, par une espèce d'hystérèse, si vous vous en écartez) que dans sa cartographie (qui n'est pas vraiment à jour même dans ses éditions récentes, le tout pour un prix prohibitif).
+Il est vrai que travaillant dans un secteur plus dynamique et plus rapide à innover que l'automobile, j'ai des exigences très importantes de la part de l'informatique embarquée que j'utilise au quotidien. Le RT6 fait ce pour quoi il a été conçu, mais le prix de l'option ne me semble pas être réaliste en regard des défauts qu'il présente.
+
+# 11. <s>Besoin d'aide</s>
+
+N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations à me transmettre je les mettrai en ligne (contact en bas de la page).
+
