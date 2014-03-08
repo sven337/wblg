@@ -223,24 +223,31 @@ Le RT6 est équipé d'une carte SD de 8Go qui sert de stockage système au format T
 Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en servir en Jukebox : obligation d'utiliser le port USB si on veut avoir un stockage important.
 
 ## 4.2 Démontage
-Voici des photographies prise par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
-<!--![](/~sven337/data/rt6/01.jpg)
-![](/~sven337/data/rt6/02.jpg)
-![](/~sven337/data/rt6/03.jpg)
-![](/~sven337/data/rt6/04.jpg)
-![](/~sven337/data/rt6/05.jpg)
-![](/~sven337/data/rt6/06.jpg)
-![](/~sven337/data/rt6/07.jpg)
-![](/~sven337/data/rt6/09.jpg)
-![](/~sven337/data/rt6/10.jpg)
-![](/~sven337/data/rt6/11.jpg)
-![](/~sven337/data/rt6/12.jpg)
-![](/~sven337/data/rt6/13.jpg)
-![](/~sven337/data/rt6/14.jpg)
-![](/~sven337/data/rt6/15.jpg)
-![](/~sven337/data/rt6/16.jpg)
-![](/~sven337/data/rt6/18.jpg)
-![](/~sven337/data/rt6/19.jpg)-->
+Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
+
+<!--
+<div class="flexslider">
+<ul class="slides">
+<li data-thumb="/~sven337/data/rt6/01-thumb.jpg"><img src="/~sven337/data/rt6/01.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/02-thumb.jpg"><img src="/~sven337/data/rt6/02.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/03-thumb.jpg"><img src="/~sven337/data/rt6/03.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/04-thumb.jpg"><img src="/~sven337/data/rt6/04.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/05-thumb.jpg"><img src="/~sven337/data/rt6/05.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/06-thumb.jpg"><img src="/~sven337/data/rt6/06.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/07-thumb.jpg"><img src="/~sven337/data/rt6/07.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/09-thumb.jpg"><img src="/~sven337/data/rt6/09.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/10-thumb.jpg"><img src="/~sven337/data/rt6/10.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/11-thumb.jpg"><img src="/~sven337/data/rt6/11.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/12-thumb.jpg"><img src="/~sven337/data/rt6/12.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/13-thumb.jpg"><img src="/~sven337/data/rt6/13.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/14-thumb.jpg"><img src="/~sven337/data/rt6/14.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/15-thumb.jpg"><img src="/~sven337/data/rt6/15.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/16-thumb.jpg"><img src="/~sven337/data/rt6/16.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/18-thumb.jpg"><img src="/~sven337/data/rt6/18.jpg" /></li>
+<li data-thumb="/~sven337/data/rt6/19-thumb.jpg"><img src="/~sven337/data/rt6/19.jpg" /></li>
+</ul>
+</div>
+-->
 
 [1](/~sven337/data/rt6/01.jpg)
 [2](/~sven337/data/rt6/02.jpg)
@@ -314,3 +321,24 @@ Il est vrai que travaillant dans un secteur plus dynamique et plus rapide à inno
 
 N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations à me transmettre je les mettrai en ligne (contact en bas de la page).
 
+
+<!-- 
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
+
+<link rel="stylesheet" href="/~sven337/css/flexslider.css" type="text/css" media="screen" />
+
+<script defer src="/~sven337/js/jquery.flexslider-min.js"></script>
+
+<script type="text/javascript">
+$(window).load(function(){
+  $('.flexslider').flexslider({
+	animation: "slide",
+	controlNav: "thumbnails",
+	start: function(slider){
+	  $('body').removeClass('loading');
+	}
+  });
+});
+</script>
+-->
