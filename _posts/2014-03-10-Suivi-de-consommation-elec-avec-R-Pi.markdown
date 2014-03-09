@@ -1,6 +1,7 @@
 ---
-title: Suivre sa consommation électrique avec un Raspberry Pi
-date: 2014-03-08
+layout: post
+title: "Suivre sa consommation électrique avec un Raspberry Pi"
+date: 2014-03-09 22:17:00
 category: francais
 ---
 
