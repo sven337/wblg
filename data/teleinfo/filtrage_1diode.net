@@ -1,0 +1,33 @@
+* Redressement simple alternance teleinfo
+
+.MODEL PC817opto D
++ IS = 1E-6
++ BV = 6
++ N = 4
+
+.MODEL 1N4148 D 
++ IS = 4.352E-9 
++ N = 1.906 
++ BV = 110 
++ IBV = 0.0001 
++ RS = 0.6458 
++ CJO = 7.048E-13 
++ VJ = 0.869 
++ M = 0.03 
++ FC = 0.5 
++ TT = 3.48E-9
+
+.tran 0.05us 3.2ms
+.plot tran v(1) v(3) v(3)-v(2)
+.END
+
+V1 i1 0 sin(0 12 50kHz)
+Rdummy1 i1 0 1000k
+V2 pulse1 0 PULSE(0 1 0 0 0 833us 1.666ms)
+Rdummy2 pulse1 0 1000k
+B1 1 0 V=V(i1)*V(pulse1)
+R1 1 2 750
+D1 2 3 1N4148
+C1 3 0 22nF
+R2 3 4 2.5k
+DoptoLED 4 0 1N4148

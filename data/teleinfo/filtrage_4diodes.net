@@ -1,0 +1,43 @@
+*abcdef
+
+* Circuit de redressement du signal teleinfo EDF pour traitement par Raspberry Pi
+* Le Pi dispose d'une UART spéciale - niveau de signal +3.3V pour 0, 0V pour 1 (vs. +12V/-12V pour RS232)
+* L'absence d'alternance négative côté UART permet de simplifier le montage
+* Protection du primaire avec R1 (préco EDF 750-5000ohm, montages typiques 1.2k), redressement double alternance, filtrage avec une capacité C1 pour obtenir un signal carré,
+* optocoupleur avec sa résistance de protection R2, opto PC817 iF <= 50mA vF = 1.2V soit R > 270ohm
+* résistance de pull-up et branchement au pin 10 du GPIO du Pi
+* spec EDF@ http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf
+
+V1 i1 0 sin(0 12 50kHz)
+Rdummy1 i1 0 1000k
+V2 pulse1 0 PULSE(0 1 0 0 0 833us 1.666ms)
+Rdummy2 pulse1 0 1000k
+B1 1 0 V=V(i1)*V(pulse1)
+R1 1 2 900
+D1 2 3 1N4148
+D2 0 3 1N4148
+D3 5 0 1N4148
+D4 5 2 1N4148
+C1 3 5 22nF
+R2 3 4 2.2k
+DoptoLED 4 5 PC817opto
+
+.MODEL PC817opto D
++ IS = 1E-6
++ BV = 6
++ N = 4
+
+.MODEL 1N4148 D 
++ IS = 4.352E-9 
++ N = 1.906 
++ BV = 110 
++ IBV = 0.0001 
++ RS = 0.6458 
++ CJO = 7.048E-13 
++ VJ = 0.869 
++ M = 0.03 
++ FC = 0.5 
++ TT = 3.48E-9
+.tran 0.05us 3.2ms
+.plot tran v(1) v(3) v(3)-v(2)
+.END
