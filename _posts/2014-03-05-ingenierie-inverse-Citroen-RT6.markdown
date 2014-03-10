@@ -327,24 +327,3 @@ N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez d
         $('.fancybox').fancybox();
     });
 </script>
-
-<!--
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
-
-<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-
-<script defer src="js/jquery.flexslider-min.js"></script>
-
-<script type="text/javascript">
-$(window).load(function(){
-  $('.flexslider').flexslider({
-	animation: "slide",
-	controlNav: "thumbnails",
-	start: function(slider){
-	  $('body').removeClass('loading');
-	}
-  });
-});
-</script>
--->
