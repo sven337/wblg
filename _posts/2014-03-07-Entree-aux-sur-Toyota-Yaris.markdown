@@ -16,7 +16,7 @@ Cet article en est un résumé.
 
 # Mes essais n'ont pas fonctionné
 
-J'ai réalisé trois tentatives différentes qui n'ont pas fonctionné. Les Yaris américaines disposent, sur le connecteur à l'arrière de l'autoradio, d'une entrée auxiliaire. Celle-ci n'est bien souvent pas câblée dans le véhicule, mais elle existe néanmoins, et il suffit d'y connecter 3 fils pour pouvoir s'en servir. C'est ce que réalisent des objets tels que celui-ci: ![](/~sven337/data/w58824/cable_aux.jpg) (ou, si cela vous chante, la référence Toyota officielle qui vous coûtera de l'ordre de 50 euros). Ensuite, un simple appui sur le bouton AUX (ou DISP, ou CD, ... selon le modèle exact qui n'est _pas_ W58824) et l'entrée fonctionne.
+J'ai réalisé trois tentatives différentes qui n'ont pas fonctionné. Les Yaris américaines disposent, sur le connecteur à l'arrière de l'autoradio, d'une entrée auxiliaire. Celle-ci n'est bien souvent pas câblée dans le véhicule, mais elle existe néanmoins, et il suffit d'y connecter 3 fils pour pouvoir s'en servir. C'est ce que réalisent des objets tels que celui-ci: <a href="data/w58824/cable_aux.jpg"><img src="data/w58824/cable_aux-thumb.jpg" /></a> (ou, si cela vous chante, la référence Toyota officielle qui vous coûtera de l'ordre de 50 euros). Ensuite, un simple appui sur le bouton AUX (ou DISP, ou CD, ... selon le modèle exact qui n'est _pas_ W58824) et l'entrée fonctionne.
 
 Nous avons moins de chance en France, car si le même connecteur est bien présent au dos de l'autoradio, il est utilisé à des fins différentes. Sur ma voiture, seules 3 des 20 pattes de ce connecteur sont utilisées, et c'est pour la commande au volant.
 
@@ -65,4 +65,10 @@ J'ai réalisé après coup que l'appareil utilise un pré-amplificateur - il est don
 Les connexions sont dures à réaliser de manière fiable et solide, et un connecteur AUX ne vaut pas les neuf heures de travail que j'ai consacré à ce projet. Un essai d'injection sur le pré-amplificateur me semble être la meilleure piste, mais la réalisation d'un émulateur de changeur CD (lien plus haut), ou l'achat d'un tel appareil - qui fournit souvent par ailleurs des fonctionnalités utiles comme un port USB - est probablement le choix le plus simple. Le coût n'est bien sûr pas nul.
 
 Si vous êtes intéressé pour continuer les expérimentations, je serais très intéressé de connaître vos résultats ! Contactez-moi et je les mettrai en ligne.
+
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
 
