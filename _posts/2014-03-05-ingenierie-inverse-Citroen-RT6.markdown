@@ -108,7 +108,7 @@ Les fichiers .inf ont au début une valeur qui correspond à un hash **CRC**. J'ai
   * l'un à `ReadINFCRC__FPCcR9Crc16Type` (Le nom bizarre correspond au "mangling" des fonctions C++ fait par GCC. Cela correspond à la signature : `ReadINFCRC(char const *, Crc16Type &)`) 
   * l'autre à `ComputeCRCFile`
 
-J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](/~sven337/data/rt6/crc_rt6.c).
+J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](data/rt6/crc_rt6.c).
 
 Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
  
@@ -225,49 +225,44 @@ Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en ser
 ## 4.2 Démontage
 Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
 
-<!--
-<div class="flexslider">
-<ul class="slides">
-<li data-thumb="/~sven337/data/rt6/01-thumb.jpg"><img src="/~sven337/data/rt6/01.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/02-thumb.jpg"><img src="/~sven337/data/rt6/02.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/03-thumb.jpg"><img src="/~sven337/data/rt6/03.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/04-thumb.jpg"><img src="/~sven337/data/rt6/04.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/05-thumb.jpg"><img src="/~sven337/data/rt6/05.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/06-thumb.jpg"><img src="/~sven337/data/rt6/06.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/07-thumb.jpg"><img src="/~sven337/data/rt6/07.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/09-thumb.jpg"><img src="/~sven337/data/rt6/09.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/10-thumb.jpg"><img src="/~sven337/data/rt6/10.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/11-thumb.jpg"><img src="/~sven337/data/rt6/11.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/12-thumb.jpg"><img src="/~sven337/data/rt6/12.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/13-thumb.jpg"><img src="/~sven337/data/rt6/13.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/14-thumb.jpg"><img src="/~sven337/data/rt6/14.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/15-thumb.jpg"><img src="/~sven337/data/rt6/15.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/16-thumb.jpg"><img src="/~sven337/data/rt6/16.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/18-thumb.jpg"><img src="/~sven337/data/rt6/18.jpg" /></li>
-<li data-thumb="/~sven337/data/rt6/19-thumb.jpg"><img src="/~sven337/data/rt6/19.jpg" /></li>
-</ul>
-</div>
--->
+<a href="data/rt6/01.jpg" class="fancybox" rel="gallery" title="1"><img src="data/rt6/01-thumb.jpg" /></a>
+<a href="data/rt6/02.jpg" class="fancybox" rel="gallery" title="2"><img src="data/rt6/02-thumb.jpg" /></a>
+<a href="data/rt6/03.jpg" class="fancybox" rel="gallery" title="3"><img src="data/rt6/03-thumb.jpg" /></a>
+<a href="data/rt6/04.jpg" class="fancybox" rel="gallery" title="4"><img src="data/rt6/04-thumb.jpg" /></a>
+<a href="data/rt6/05.jpg" class="fancybox" rel="gallery" title="5"><img src="data/rt6/05-thumb.jpg" /></a>
+<a href="data/rt6/06.jpg" class="fancybox" rel="gallery" title="6"><img src="data/rt6/06-thumb.jpg" /></a>
+<a href="data/rt6/07.jpg" class="fancybox" rel="gallery" title="7"><img src="data/rt6/07-thumb.jpg" /></a>
+<a href="data/rt6/09.jpg" class="fancybox" rel="gallery" title="9"><img src="data/rt6/09-thumb.jpg" /></a>
+<a href="data/rt6/10.jpg" class="fancybox" rel="gallery" title="10 - puce GPS"><img src="data/rt6/10-thumb.jpg" /></a>
+<a href="data/rt6/11.jpg" class="fancybox" rel="gallery" title="11"><img src="data/rt6/11-thumb.jpg" /></a>
+<a href="data/rt6/12.jpg" class="fancybox" rel="gallery" title="12 - microcontrôleur"><img src="data/rt6/12-thumb.jpg" /></a>
+<a href="data/rt6/13.jpg" class="fancybox" rel="gallery" title="13 - audio & radio"><img src="data/rt6/13-thumb.jpg" /></a>
+<a href="data/rt6/14.jpg" class="fancybox" rel="gallery" title="14 - microcontrôleur"><img src="data/rt6/14-thumb.jpg" /></a>
+<a href="data/rt6/15.jpg" class="fancybox" rel="gallery" title="15 - audio & radio"><img src="data/rt6/15-thumb.jpg" /></a>
+<a href="data/rt6/16.jpg" class="fancybox" rel="gallery" title="16"><img src="data/rt6/16-thumb.jpg" /></a>
+<a href="data/rt6/18.jpg" class="fancybox" rel="gallery" title="18 - Minus & Cortex"><img src="data/rt6/18-thumb.jpg" /></a>
+<a href="data/rt6/19.jpg" class="fancybox" rel="gallery" title="19"><img src="data/rt6/19-thumb.jpg" /></a>
 
-[1](/~sven337/data/rt6/01.jpg)
-[2](/~sven337/data/rt6/02.jpg)
-[3](/~sven337/data/rt6/03.jpg)
-[4](/~sven337/data/rt6/04.jpg)
-[5](/~sven337/data/rt6/05.jpg)
-[6](/~sven337/data/rt6/06.jpg)
-[7](/~sven337/data/rt6/07.jpg)
+<!--[1](data/rt6/01.jpg)
+[2](data/rt6/02.jpg)
+[3](data/rt6/03.jpg)
+[4](data/rt6/04.jpg)
+[5](data/rt6/05.jpg)
+[6](data/rt6/06.jpg)
+[7](data/rt6/07.jpg)
 8 - sans intérêt
-[9](/~sven337/data/rt6/09.jpg)
-[10 - puce GPS](/~sven337/data/rt6/10.jpg)
-[11](/~sven337/data/rt6/11.jpg)
-[12 - microcontrôleur](/~sven337/data/rt6/12.jpg)
-[13 - audio & radio](/~sven337/data/rt6/13.jpg)
-[14 - microcontrôleur](/~sven337/data/rt6/14.jpg)
-[15 - audio & radio](/~sven337/data/rt6/15.jpg)
-[16](/~sven337/data/rt6/16.jpg)
+[9](data/rt6/09.jpg)
+[10 - puce GPS](data/rt6/10.jpg)
+[11](data/rt6/11.jpg)
+[12 - microcontrôleur](data/rt6/12.jpg)
+[13 - audio & radio](data/rt6/13.jpg)
+[14 - microcontrôleur](data/rt6/14.jpg)
+[15 - audio & radio](data/rt6/15.jpg)
+[16](data/rt6/16.jpg)
 17 - sans intérêt
-[18 - Minus & Cortex](/~sven337/data/rt6/18.jpg)
-[19](/~sven337/data/rt6/19.jpg)
+[18 - Minus & Cortex](data/rt6/18.jpg)
+[19](data/rt6/19.jpg)
+-->
 
 ### GPS
 
@@ -322,13 +317,24 @@ Il est vrai que travaillant dans un secteur plus dynamique et plus rapide à inno
 N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations à me transmettre je les mettrai en ligne (contact en bas de la page).
 
 
-<!-- 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
+
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+        $('.fancybox').fancybox();
+    });
+</script>
+
+<!--
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
 
-<link rel="stylesheet" href="/~sven337/css/flexslider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
 
-<script defer src="/~sven337/js/jquery.flexslider-min.js"></script>
+<script defer src="js/jquery.flexslider-min.js"></script>
 
 <script type="text/javascript">
 $(window).load(function(){
