@@ -108,7 +108,7 @@ J'ai réalisé un premier prototype sur platine d'essai (_breadboard_). Le fonctio
 
 <a href="data/teleinfo/montage_final.jpg" title="Montage final en écrin carton"><img src="data/teleinfo/montage_final-thumb.jpg" /></a>
 
-Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère travailler avec une [Veroboard](https://en.wikipedia.org/wiki/File:VEROBOARD_sample.jpg).
+Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère travailler avec une [Veroboard](https://en.wikipedia.org/wiki/Veroboard).
 
 # Intégration logicielle
 
