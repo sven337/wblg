@@ -6,7 +6,7 @@ category: francais
 ---
 
 Cet article détaille comment **suivre sa consommation électrique** avec un **Raspberry Pi** et un montage électronique simple et surtout très bon marché. 
-Il nécessite de disposer d'un compteur électrique suffisamment moderne XXX détails et photos.
+Il nécessite de disposer d'un compteur électrique suffisamment moderne.
 
 # Introduction
 
@@ -16,7 +16,8 @@ Néanmoins je possède un Raspberry Pi, ainsi qu'un placard électrique dans lequel
 
 # La sortie téléinfo
 
-La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : ![Compteur A14C5](/~sven337/data/teleinfo/compteur.jpg). 
+La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : ![Compteur A14C5](/~sven337/data/teleinfo/compteur.jpg). La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
+
 La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. De nombreux projets se contentent de **capter l'impulsion lumineuse** du compteur (une impulsion = 1W.h en général), mais la sortie téléinfo peut nous donner bien plus que cela :
 
 - puissance instantanée en watts
@@ -26,8 +27,8 @@ La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr
 La sortie téléinfo implémente un protocole qui n'est électriquement pas compatible avec les protocoles que parlent les ordinateurs en général (RS-232, USB, parallèle, ...), ni d'ailleurs avec les protocoles du monde de l'informatique embarquée tels que I2C, SPI, ou un bête GPIO. C'est un choix curieux de la part d'EDF, mais le protocole téléinfo est assez facile à convertir en un protocole connu tel que **RS-232**.
 La spécification est publique et plutôt bien écrite, alors au travail !
 
-La forme du signal est la suivante : un **0** correspond à une **sinusoïde** à **50KHz** variant entre **+0V** et **+12V**, un **1** correspond à un plateau à **+0V**. (j'écris cela de mémoire, vous référer à la spec pour être sûrs).
-**RS-232** utilise quant à lui **+12V** pour un 1, et **-12V** pour un 0. Cette tension négative est un mauvais choix technique qui complique beaucoup la vie de l'électronique moderne souhaitant implémenter RS-232. En général les circuits intégrés ont une UART qui utilise des niveaux de signaux différents (TTL) : +Vdd = 3.3V pour un 1, et +0V pour un 0. C'est plus simple, et plus logique... mais les ports série des ordinateurs "parlent" du vrai RS-232. Le circuit **MAX232** est un exemple de circuit intégré qui s'occupe de la conversion des niveaux entre RS-232 "réel" et RS-232 TTL (celui à 3.3V).
+La forme du signal est la suivante : un **0** correspond à une **sinusoïde** à **50KHz** variant entre **-12V** et **+12V**, un **1** correspond à un plateau à **+0V**.
+**RS-232** utilise quant à lui **+12V** pour un 1, et **-12V** pour un 0. Cette tension négative est un choix technique discutable qui complique la vie de l'électronique moderne souhaitant implémenter RS-232. En général les circuits intégrés ont une UART qui utilise des niveaux de signaux différents (TTL) : +Vdd = 3.3V pour un 1, et +0V pour un 0. C'est plus simple, et plus logique... mais les ports série des ordinateurs "parlent" du vrai RS-232. Le circuit **MAX232** est un exemple de circuit intégré qui s'occupe de la conversion des niveaux entre RS-232 "réel" et RS-232 TTL (celui à 3.3V).
 
 # Travaux précédents
 
@@ -62,7 +63,7 @@ Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier
 Il s'agit de la séquence 0->1->0->1. Bien sûr, c'est plutôt la sortie qui nous intéresse. Ce qu'on voudrait voir, c'est quand est-ce que **le Pi** voit un zéro ou un un. Ce n'est pas quelque chose qu'on trouve directement, mais cette information dépend du courant qui traverse la LED de l'optocoupleur, qui est lui-même proportionnel à la tension aux bornes du condensateur. On se contentera donc de regarder la tension aux bornes du condensateur, et de décider _au doigt mouillé_ si les transitions sont suffisamment franches ou pas.
 
 Pour la tension aux bornes du condensateur, c'est ``plot v(3)``. On obtient la courbe suivante :
-![](/~sven337/data/teleinfo/plot_output_1D.jpg)
+![](/~sven337/data/teleinfo/spice_output_1D.jpg)
 
 ### Qu'est-ce qu'on aimerait avoir ?
 
@@ -84,7 +85,7 @@ On peut améliorer l'ondulation résiduelle en faisant un redressement double alte
 [redressement double alternance](/~sven337/data/teleinfo/filtrage_4diodes.net)
 
 Voici le signal aux bornes du condensateur :
-![](/~sven337/data/teleinfo/plot_output_4D.jpg)
+![](/~sven337/data/teleinfo/spice_output_4D.jpg)
 
 Si le temps de chute n'a pas bougé, et reste inquiétant, on note que l'ondulation résiduelle est bien meilleure (car on charge le condensateur deux fois plus souvent, il se décharge donc deux fois moins pendant l'oscillation !). On pourrait faire mieux, mais il faudrait alors augmenter la capacité (ce qui compromettrait très fortement le temps de chute, alors qu'on est déjà limite), ou diminuer la résistance **R1** afin d'augmenter le courant de charge - mais cela nous sortirait de la spécification d'EDF, ce qui nous enverrait probablement directement en prison après le départ de feu à notre compteur ! 
 
