@@ -225,23 +225,23 @@ Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en ser
 ## 4.2 Démontage
 Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
 
-<a href="data/rt6/01.jpg" class="fancybox" rel="gallery" title="1"><img src="data/rt6/01-thumb.jpg" /></a>
-<a href="data/rt6/02.jpg" class="fancybox" rel="gallery" title="2"><img src="data/rt6/02-thumb.jpg" /></a>
-<a href="data/rt6/03.jpg" class="fancybox" rel="gallery" title="3"><img src="data/rt6/03-thumb.jpg" /></a>
-<a href="data/rt6/04.jpg" class="fancybox" rel="gallery" title="4"><img src="data/rt6/04-thumb.jpg" /></a>
-<a href="data/rt6/05.jpg" class="fancybox" rel="gallery" title="5"><img src="data/rt6/05-thumb.jpg" /></a>
-<a href="data/rt6/06.jpg" class="fancybox" rel="gallery" title="6"><img src="data/rt6/06-thumb.jpg" /></a>
-<a href="data/rt6/07.jpg" class="fancybox" rel="gallery" title="7"><img src="data/rt6/07-thumb.jpg" /></a>
-<a href="data/rt6/09.jpg" class="fancybox" rel="gallery" title="9"><img src="data/rt6/09-thumb.jpg" /></a>
-<a href="data/rt6/10.jpg" class="fancybox" rel="gallery" title="10 - puce GPS"><img src="data/rt6/10-thumb.jpg" /></a>
-<a href="data/rt6/11.jpg" class="fancybox" rel="gallery" title="11"><img src="data/rt6/11-thumb.jpg" /></a>
-<a href="data/rt6/12.jpg" class="fancybox" rel="gallery" title="12 - microcontrôleur"><img src="data/rt6/12-thumb.jpg" /></a>
-<a href="data/rt6/13.jpg" class="fancybox" rel="gallery" title="13 - audio & radio"><img src="data/rt6/13-thumb.jpg" /></a>
-<a href="data/rt6/14.jpg" class="fancybox" rel="gallery" title="14 - microcontrôleur"><img src="data/rt6/14-thumb.jpg" /></a>
-<a href="data/rt6/15.jpg" class="fancybox" rel="gallery" title="15 - audio & radio"><img src="data/rt6/15-thumb.jpg" /></a>
-<a href="data/rt6/16.jpg" class="fancybox" rel="gallery" title="16"><img src="data/rt6/16-thumb.jpg" /></a>
-<a href="data/rt6/18.jpg" class="fancybox" rel="gallery" title="18 - Minus & Cortex"><img src="data/rt6/18-thumb.jpg" /></a>
-<a href="data/rt6/19.jpg" class="fancybox" rel="gallery" title="19"><img src="data/rt6/19-thumb.jpg" /></a>
+<a href="data/rt6/01.jpg" title="1"><img src="data/rt6/01-thumb.jpg" /></a>
+<a href="data/rt6/02.jpg" title="2"><img src="data/rt6/02-thumb.jpg" /></a>
+<a href="data/rt6/03.jpg" title="3"><img src="data/rt6/03-thumb.jpg" /></a>
+<a href="data/rt6/04.jpg" title="4"><img src="data/rt6/04-thumb.jpg" /></a>
+<a href="data/rt6/05.jpg" title="5"><img src="data/rt6/05-thumb.jpg" /></a>
+<a href="data/rt6/06.jpg" title="6"><img src="data/rt6/06-thumb.jpg" /></a>
+<a href="data/rt6/07.jpg" title="7"><img src="data/rt6/07-thumb.jpg" /></a>
+<a href="data/rt6/09.jpg" title="9"><img src="data/rt6/09-thumb.jpg" /></a>
+<a href="data/rt6/10.jpg" title="10 - puce GPS"><img src="data/rt6/10-thumb.jpg" /></a>
+<a href="data/rt6/11.jpg" title="11"><img src="data/rt6/11-thumb.jpg" /></a>
+<a href="data/rt6/12.jpg" title="12 - microcontrôleur"><img src="data/rt6/12-thumb.jpg" /></a>
+<a href="data/rt6/13.jpg" title="13 - audio & radio"><img src="data/rt6/13-thumb.jpg" /></a>
+<a href="data/rt6/14.jpg" title="14 - microcontrôleur"><img src="data/rt6/14-thumb.jpg" /></a>
+<a href="data/rt6/15.jpg" title="15 - audio & radio"><img src="data/rt6/15-thumb.jpg" /></a>
+<a href="data/rt6/16.jpg" title="16"><img src="data/rt6/16-thumb.jpg" /></a>
+<a href="data/rt6/18.jpg" title="18 - Minus & Cortex"><img src="data/rt6/18-thumb.jpg" /></a>
+<a href="data/rt6/19.jpg" title="19"><img src="data/rt6/19-thumb.jpg" /></a>
 
 <!--[1](data/rt6/01.jpg)
 [2](data/rt6/02.jpg)
