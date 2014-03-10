@@ -324,6 +324,5 @@ N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez d
 <script>
     $(document).ready(function() {
 		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
-        $('.fancybox').fancybox();
     });
 </script>
