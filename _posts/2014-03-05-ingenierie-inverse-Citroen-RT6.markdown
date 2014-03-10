@@ -317,10 +317,6 @@ Il est vrai que travaillant dans un secteur plus dynamique et plus rapide à inno
 N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations à me transmettre je les mettrai en ligne (contact en bas de la page).
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
-<script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
-
 <script>
     $(document).ready(function() {
 		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();

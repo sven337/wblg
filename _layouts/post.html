@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<link rel="stylesheet" href="fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="fancybox/jquery.fancybox.pack.js"></script>
 <h1 class="pagetitle">{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 
 <div class="post">
 {{ content }}
 </div>
+
 
 {% unless page.no-comments %}
    <div id="disqus_thread"></div>
