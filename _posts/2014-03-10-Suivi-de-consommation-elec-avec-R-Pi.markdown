@@ -16,7 +16,7 @@ Néanmoins je possède un Raspberry Pi, ainsi qu'un placard électrique dans lequel
 
 # La sortie téléinfo
 
-La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : ![Compteur A14C5](/~sven337/data/teleinfo/compteur.jpg). La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
+La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : <a href="data/teleinfo/compteur.jpg"  title="Compteur A14C5"><img src="data/teleinfo/compteur-thumb.jpg" /></a>. La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
 
 La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. De nombreux projets se contentent de **capter l'impulsion lumineuse** du compteur (une impulsion = 1W.h en général), mais la sortie téléinfo peut nous donner bien plus que cela :
 
@@ -42,8 +42,8 @@ J'ai réalisé un montage différent dont l'objectif (atteint) était de n'utiliser 
 
 Ayant eu beaucoup de mal à trouver un optocoupleur qui ferait l'affaire pour un branchement direct (car il faut non seulement qu'il soit bidirectionnel mais aussi que ses caractéristiques soient compatibles avec le timing du signal, chose pas toujours facile à garantir), j'ai opté pour un montage redresseur et un filtrage (permettant d'obtenir **0** = **+12V** constant, **1** = **+0V**, qui attaque l'optocoupleur le moins cher que j'ai pu trouver, dont la sortie est reliée au Pi de manière similaire au message du forum dont je donne un lien ci-dessus.
 
-Voici le schéma correspondant : 
-![Schéma redressement teleinfo](/~sven337/data/teleinfo/schema.jpg)
+Voici le schéma correspondant (cliquez pour l'avoir en grand):
+<a href="data/teleinfo/schema.jpg" title="Schéma redressement teleinfo" ><img src="data/teleinfo/schema-thumb.jpg" style="border:1px solid black" width="80%" /></a>
 
 J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans le paragraphe suivant ce n'était pas une bonne idée.
 
@@ -54,16 +54,16 @@ J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans l
 Avant toute chose et afin de dimensionner correctement les composants, j'ai choisi de simuler le circuit à l'aide de **ngspice** (logiciel libre disponible sous Linux). Ce type de simulateur ne donne pas toujours de bons résultats mais pour un circuit aussi simple il nous sera très utile. Une alternative consisterait à calculer la valeur du condensateur et de la résistance de protection de l'optocoupleur à la main, mais cela nécessiterait de savoir ce qu'on veut obtenir en termes mathématiques ! En réalité, on se contentera de regarder la forme du signal et de décider si oui ou non il se rapproche suffisament du signal carré attendu par l'UART du Raspberry Pi. N'ayant pas d'oscilloscope, je fais tout cela en simulation.
 
 Voici un premier circuit à simuler, avec redressement en simple alternance :
-[redressement simple alternance](/~sven337/data/teleinfo/filtrage_1diode.net)
+[title="Circuit redressement mono alternance"](data/teleinfo/filtrage_1diode.net)
 
 Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier, ensuite la commande ``tran 0.05us 3.2ms`` fait une simulation pendant 3.2 ms par pas de 0.05 us, et on peut visualiser la courbe de tension en un point donné en utilisant la commande ``plot``.
 ``plot v(1)`` nous montre le signal appliqué à l'entrée :
-![](/~sven337/data/teleinfo/spice_input_signal.jpg)
+<a  href="data/teleinfo/spice_input_signal.jpg"><img src="data/teleinfo/spice_input_signal-thumb.jpg" /></a>
 
 Il s'agit de la séquence 0->1->0->1. Bien sûr, c'est plutôt la sortie qui nous intéresse. Ce qu'on voudrait voir, c'est quand est-ce que **le Pi** voit un zéro ou un un. Ce n'est pas quelque chose qu'on trouve directement, mais cette information dépend du courant qui traverse la LED de l'optocoupleur, qui est lui-même proportionnel à la tension aux bornes du condensateur. On se contentera donc de regarder la tension aux bornes du condensateur, et de décider _au doigt mouillé_ si les transitions sont suffisamment franches ou pas.
 
 Pour la tension aux bornes du condensateur, c'est ``plot v(3)``. On obtient la courbe suivante :
-![](/~sven337/data/teleinfo/spice_output_1D.jpg)
+<a  href="data/teleinfo/spice_output_1D.jpg" title="Redressement mono-alternance"><img src="data/teleinfo/spice_output_1D-thumb.jpg" /></a>
 
 ### Qu'est-ce qu'on aimerait avoir ?
 
@@ -82,10 +82,10 @@ Ces points sont-ils vraiment un problème ? Dur à dire sans rentrer plus en détai
 
 On peut améliorer l'ondulation résiduelle en faisant un redressement double alternance, ce qui correspond au schéma que j'ai présenté plus haut.
 
-[redressement double alternance](/~sven337/data/teleinfo/filtrage_4diodes.net)
+[Circuit redressement double alternance](data/teleinfo/filtrage_4diodes.net)
 
 Voici le signal aux bornes du condensateur :
-![](/~sven337/data/teleinfo/spice_output_4D.jpg)
+<a  href="data/teleinfo/spice_output_4D.jpg" title="Redressement bi-alternance"><img src="data/teleinfo/spice_output_4D-thumb.jpg" /></a>
 
 Si le temps de chute n'a pas bougé, et reste inquiétant, on note que l'ondulation résiduelle est bien meilleure (car on charge le condensateur deux fois plus souvent, il se décharge donc deux fois moins pendant l'oscillation !). On pourrait faire mieux, mais il faudrait alors augmenter la capacité (ce qui compromettrait très fortement le temps de chute, alors qu'on est déjà limite), ou diminuer la résistance **R1** afin d'augmenter le courant de charge - mais cela nous sortirait de la spécification d'EDF, ce qui nous enverrait probablement directement en prison après le départ de feu à notre compteur ! 
 
@@ -106,9 +106,9 @@ La valeur de R2 est contrainte par la sécurité de l'optocoupleur, qui nous impos
 
 J'ai réalisé un premier prototype sur platine d'essai (_breadboard_). Le fonctionnement m'ayant donné satisfaction j'ai décidé de réaliser un assemblage plus propre sur un PCB proto, que j'ai ensuite placé dans un écrin en carton-de-paquet-de-biscuits.
 
-![](/~sven337/data/teleinfo/montage_final.jpg)
+<a href="data/teleinfo/montage_final.jpg" title="Montage final en écrin carton"><img src="data/teleinfo/montage_final-thumb.jpg" /></a>
 
-Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère nettement travailler avec une [Veroboard](https://en.wikipedia.org/wiki/File:VEROBOARD_sample.jpg).
+Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère travailler avec une [Veroboard](https://en.wikipedia.org/wiki/File:VEROBOARD_sample.jpg).
 
 # Intégration logicielle
 
@@ -116,9 +116,14 @@ Si tout est bon matériellement, le Pi recevra sur son port série un signal qu'il
 Il faut tout de même:
 
 1. s'assurer qu'aucun programme (par exemple un **getty** pour la console série) n'écoute sur le port série
-1. configurer le port en 1200 baud, 7/E/1 (7 bits de données, 1 bit de parité paire, 1 bit de stop)
+1. configurer le port en **1200 baud**, **7/E/1** (7 bits de données, 1 bit de parité paire, 1 bit de stop)
 1. lancer un programme pour écouter sur le port série
 
 
 
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
 
