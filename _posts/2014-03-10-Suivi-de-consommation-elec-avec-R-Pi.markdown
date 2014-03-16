@@ -110,6 +110,7 @@ J'ai réalisé un premier prototype sur platine d'essai (_breadboard_). Le fonctio
 
 Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère travailler avec une [Veroboard](https://en.wikipedia.org/wiki/Veroboard).
 
+
 # Intégration logicielle
 
 Si tout est bon matériellement, le Pi recevra sur son port série un signal qu'il est capable de comprendre.
@@ -118,7 +119,43 @@ Il faut tout de même:
 1. s'assurer qu'aucun programme (par exemple un **getty** pour la console série) n'écoute sur le port série
 1. configurer le port en **1200 baud**, **7/E/1** (7 bits de données, 1 bit de parité paire, 1 bit de stop)
 1. lancer un programme pour écouter sur le port série
+1. créer des tableaux, des graphes, présenter tout dans une application web, ...
 
+Je couvrirai le dernier point dans un article séparé, qui concernera l'électricité mais aussi le gaz.
+
+Mon Raspberry Pi fonctionne avec la distribution Arch Linux, et voici le script que j'utilise :
+~~~ bash
+systemctl stop serial-getty@ttyAMA0.service
+./ti_cat | egrep '^(PAPP|BASE)' -a --line-buffered | ./cksum | ../data/report_to_hm_web.sh
+~~~
+
+La deuxième ligne n'est pas l'expression la plus simple. 
+
+- Le programme ``ti_cat`` est une version très allégée d'un programme de teleinfo réalisé par quelqu'un d'autre, celui-ci se contente d'écrire tout ce qu'il reçoit du port série, après l'avoir configuré correctement. ``cat`` n'est malheureusement pas suffisant opur cela.
+- Le grep filtre les seuls éléments qui m'intéressent, qui sont la puissance apparente et l'indice du compteur. Peut-être certains autres vous intéresseront-ils en particulier pour les abonnements HP/HC. 
+- ``cksum`` est un programme qui calcule les checksums tels que spécifiés par EDF, et, comme son nom ne l'indique pas, accumule les valeurs pour calculer une moyenne de puissance sur une minute. En effet la plupart des programmes tels que ``teleinfofs`` fournissent, lorsque vous les interrogez, la valeur *instantanée* de la puissance apparente, alors qu'il est plus correct de faire la moyenne depuis la dernière requête, ce que fait cksum.
+
+Au final, on obtient, chaque minute, l'indice du compteur, ainsi que la puissance apparente. Rigoureusement l'intégrale de la puissance apparente doit nous permettre de retrouver l'indice, mais cela simplifie les calculs de coût par jour d'avoir l'indice sous la main (le calcul devient dès lors une simple soustraction).
+
+Ces programmes sont disponibles sur Github : <https://github.com/sven337/home-monitoring-client> dans le répertoire **edf**. Les autres programmes seront couverts dans les articles suivants, parfois en anglais. Si vous ne parlez pas anglais et qu'un article vous intéresse, je ferai la traduction sur demande. Mon objectif est de décrire en français ce qui concerne uniquement notre brave patrie, et en anglais ce qui peut intéresser une plus large audience.
+
+# Graphes
+
+Je traiterai cela plus en détail dans un prochain article, mais voici quand même un _teaser_:
+
+## Graphe RRD
+<a href="data/teleinfo/teleinfo_rrd.png" title="Graphe de consommation RRD sur une semaine"><img src="data/teleinfo/teleinfo_rrd-thumb.png" /></a>
+
+On voit ici plusieurs informations intéressantes, mais c'est à grosse maille. J'ai beaucoup cuisiné vendredi soir, et on peut voir que le four et les plaques à induction étaient allumés en même temps car j'ai consommé une puissance importante. On voit également assez facilement que, contrairement à mon habitude, j'ai cuisiné le mardi midi en plus du soir (je ne me souviens pas de ce que j'ai mangé et cela n'est pas sur le graphe).
+Le trou mercredi correspond à la désactivation temporaire du système de reporting afin de prendre les photos qui sont présentes sur cette page. (Ce n'est d'ailleurs pas une grande réussite).
+
+Le total de puissance et le coût correspondant sont calculés par RRD avec le script ``rrd_render_graphs.sh``.
+
+## Graphe Javascript
+<a href="data/teleinfo/teleinfo_jsgraph.jpg" title="Graphe de consommation sur la journée"><img src="data/teleinfo/teleinfo_jsgraph-thumb.jpg" /></a>
+
+Ce graphe est interactif, en Javascript, et créé à partir des mêmes données. Sur la capture que je montre ce sont les données sur une journée. On visualise entre 1h et 2h du matin l'activation du compresseur du réfrigérateur, puis à nouveau de 4h à 5h. Je me suis levé vers 8h50 et j'ai allumé mon ordinateur. Un peu avant 12h on observe la courbe caractéristique (parce que j'ai l'habitude de la voir) de la plaque à induction utilisée pour faire chauffer de l'eau : en mode _booster_ pendant quelques minutes à 3.2kW, puis à 1.75kW pendant le temps de cuisson de ce qui était (je m'en souviens) des pâtes.
+On a ensuite la bouilloire électrique, l'aspirateur, et le sèche-cheveux, le tout pour une consommation en régime permanent d'environ 300W (informatique, réfrigérateur, VMC) en journée, et 600W le soir (éclairage à _économie de gaz naturel_, je veux dire, éclairage incandescent).
 
 
 <script>
