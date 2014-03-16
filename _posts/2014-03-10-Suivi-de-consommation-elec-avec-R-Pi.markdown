@@ -124,6 +124,7 @@ Il faut tout de même:
 Je couvrirai le dernier point dans un article séparé, qui concernera l'électricité mais aussi le gaz.
 
 Mon Raspberry Pi fonctionne avec la distribution Arch Linux, et voici le script que j'utilise :
+
 ~~~ bash
 systemctl stop serial-getty@ttyAMA0.service
 ./ti_cat | egrep '^(PAPP|BASE)' -a --line-buffered | ./cksum | ../data/report_to_hm_web.sh
@@ -144,7 +145,7 @@ Ces programmes sont disponibles sur Github : <https://github.com/sven337/home-mo
 Je traiterai cela plus en détail dans un prochain article, mais voici quand même un _teaser_:
 
 ## Graphe RRD
-<a href="data/teleinfo/teleinfo_rrd.png" title="Graphe de consommation RRD sur une semaine"><img src="data/teleinfo/teleinfo_rrd-thumb.png" /></a>
+<a href="data/teleinfo/teleinfo_rrdgraph.png" title="Graphe de consommation RRD sur une semaine"><img src="data/teleinfo/teleinfo_rrdgraph-thumb.png" /></a>
 
 On voit ici plusieurs informations intéressantes, mais c'est à grosse maille. J'ai beaucoup cuisiné vendredi soir, et on peut voir que le four et les plaques à induction étaient allumés en même temps car j'ai consommé une puissance importante. On voit également assez facilement que, contrairement à mon habitude, j'ai cuisiné le mardi midi en plus du soir (je ne me souviens pas de ce que j'ai mangé et cela n'est pas sur le graphe).
 Le trou mercredi correspond à la désactivation temporaire du système de reporting afin de prendre les photos qui sont présentes sur cette page. (Ce n'est d'ailleurs pas une grande réussite).
