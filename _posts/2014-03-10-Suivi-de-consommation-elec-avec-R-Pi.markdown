@@ -126,8 +126,8 @@ Je couvrirai le dernier point dans un article séparé, qui concernera l'électrici
 Mon Raspberry Pi fonctionne avec la distribution Arch Linux, et voici le script que j'utilise :
 
 ~~~ bash
-systemctl stop serial-getty@ttyAMA0.service
-./ti_cat | egrep '^(PAPP|BASE)' -a --line-buffered | ./cksum | ../data/report_to_hm_web.sh
+	systemctl stop serial-getty@ttyAMA0.service
+	./ti_cat | egrep '^(PAPP|BASE)' -a --line-buffered | ./cksum | ../data/report_to_hm_web.sh
 ~~~
 
 La deuxième ligne n'est pas l'expression la plus simple. 
