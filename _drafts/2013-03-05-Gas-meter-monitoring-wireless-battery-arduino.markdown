@@ -82,6 +82,7 @@ The first idea that comes to mind is naturally the **Arduino** platform. Commerc
 Then, you have the **PIC** family. I didn't give it much thought - most people seem to design their own boards to use PICs with, and that's not something I'm interested in. DIY is good, but one chooses what they want to do themselves. 
 
 What I picked instead is a [**JeeNode**](http://jeelabs.net/projects/hardware/wiki/JeeNode) board, without its wireless transmitter (which is too expensive for my taste). This board is Arduino compatible, designed for battery operation, there's a (single-man ?) company behind it so the boards are available commercially, and there's a rich wiki and a lot of documentation available over at [JeeLabs](http://jeelabs.org/). This weblog is no longer updated but it contains a lot of useful information and I strongly advise you to go through it.
+
 ![JeeNode v6](http://jeelabs.net/attachments/download/584/DSC_2490.jpg)
 
 ### Pulse counting
@@ -149,9 +150,10 @@ On the picture you can see: the diagnostic LED (it's just about to light up, bec
 Assemble the JeeNode kit as documented, this is not hard at all. Add the female header on the SPI slot (note: you may also solder actual wires there - up to you. I might solder wires instead if I did it again).
 
 Be very careful on the pinout : first of all, the pinout of the RF24 module and that of the JeeNode SPI are not the same, so you can't do a straight connection. Refer to the JeeNode wiki page for the pinout, and be careful about the nice looking graph that they have, because it swapped **RST** and **SCK** (I've fixed that for you below, after wasting three hours on the matter).
+
 <a href="data/gas/qrc-jn-v6-part.png" title="Accurate JeeNode v6 reference"><img src="data/gas/qrc-jn-v6-part-thumb.png" /></a>
 
-I haven't taken the picture of those elements outside of the case.
+I haven't taken the picture of the elements outside of the case.
 
 ## Case and LEDs
 
@@ -176,7 +178,7 @@ On the picture I've identified the following elements:
 - C is the reset switch
 - D is the battery connector
 
-<a href="data/gas/case_and_battery.jpg" title="Case and battery case"><img src="data/gas/case_and_battery.jpg" /></a>
+<a href="data/gas/case_and_battery.jpg" title="Case and battery case"><img src="data/gas/case_and_battery-thumb.jpg" /></a>
 
 ## Raspberry Pi
 
@@ -241,3 +243,9 @@ Packet loss is about 10%, not a problem at all. Battery life is great: I've chan
 The Raspberry Pi's side is still brittle. I haven't properly encased the wireless transmitter, so it hangs by its connecting wires next to the Pi. Touch the wires and the chip will lock up, requiring a restart of the receive program. Upgrade the kernel and ``spidev0`` will completely disappear. This is annoying because about once a month, this part of the system requires attention, and this is not what I wish. Future work will focus on physically "cleaning up" this part (putting the transmitter in a box), and ensuring that the software works well, which isn't really the case at this point.
 
 The graphs let me see quite a bit about when my central heating is running or not, how much it really consumes, and how much gas we burn doing the dishes and taking showers - although this is harder to see because reading pulses is inherently "spiky" and imprecise - you never know when you're *not* consuming gas. First part in changing something is measuring it, and once we also see water consumption we'll have a clear view of how much our bathroom habits cost. Then we can try to change them.
+
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
