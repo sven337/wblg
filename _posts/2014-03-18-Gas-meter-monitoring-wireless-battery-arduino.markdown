@@ -5,6 +5,12 @@ date:   2014-03-18 01:02:03
 categories: english
 ---
 
+# Table of contents
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
+
 # Monitoring gas consumption
 
 I monitor my consumption of gas and electricity. I've covered electricity in a previous article (in French, because it only applies to meters from our national power company). The setup uses a Raspberry Pi and a custom electronics board to interface the meter to the Raspberry Pi. 
