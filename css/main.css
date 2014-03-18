@@ -23,7 +23,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; 
-	font-size: 1.5em;}
+	font-size: 1.5em;
+	border-bottom: 3px solid;
+}
+h2 { font-size: 1.2em;
+	margin-left: 0.5em;
+}
 p { margin: 1em 0em 1em 1.5em; }
 
 a         { color: #00a; }
@@ -73,6 +78,7 @@ a:visited { color: #a0a; }
   display: inline-block;
   margin-bottom: 1.5em;
   font-size: 3em;
+  border-bottom: none;
 }
 
 .title a {
@@ -164,4 +170,6 @@ a:visited { color: #a0a; }
 
 .pagetitle {
 	text-align: center;
+	font-size: 2em;
+	border-bottom: none;
 }
