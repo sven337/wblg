@@ -76,7 +76,7 @@ We need a microcontroller. The wishlist is:
 - commercial boards available for the controller/clock/IO ports (I don't design PCBs, I don't want to learn)
 - can be programmed with as little hardware as possible (USB->TTL serial adapter OK, standalone expensive programmer NOK)
 - programmable in C (I know and like x86 assembly, I'm not immensely interested in learning others)
-u
+
 The first idea that comes to mind is naturally the **Arduino** platform. Commercial boards are definitely available. Cheap is debatable - the official boards are expensive, the cheap clones are OK. In terms of ease of programming Arduino is a world record (that's why it succeeds). The real problem is the "low power" aspect. Most Arduino boards run over +5V and draw a lot of power. They're also physically big and that is a problem for cases.
 
 Then, you have the **PIC** family. I didn't give it much thought - most people seem to design their own boards to use PICs with, and that's not something I'm interested in. DIY is good, but one chooses what they want to do themselves. 
