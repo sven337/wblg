@@ -225,7 +225,7 @@ Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en ser
 ## 4.2 Démontage
 Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
 
-<a href="/~sven337/data/rt6/01.jpg" title="1"><img src="/~sven337/data/rt6/01-thumb.jpg" /></a>
+<!--<a href="/~sven337/data/rt6/01.jpg" title="1"><img src="/~sven337/data/rt6/01-thumb.jpg" /></a>
 <a href="/~sven337/data/rt6/02.jpg" title="2"><img src="/~sven337/data/rt6/02-thumb.jpg" /></a>
 <a href="/~sven337/data/rt6/03.jpg" title="3"><img src="/~sven337/data/rt6/03-thumb.jpg" /></a>
 <a href="/~sven337/data/rt6/04.jpg" title="4"><img src="/~sven337/data/rt6/04-thumb.jpg" /></a>
@@ -242,27 +242,28 @@ Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudi
 <a href="/~sven337/data/rt6/16.jpg" title="16"><img src="/~sven337/data/rt6/16-thumb.jpg" /></a>
 <a href="/~sven337/data/rt6/18.jpg" title="18 - Minus & Cortex"><img src="/~sven337/data/rt6/18-thumb.jpg" /></a>
 <a href="/~sven337/data/rt6/19.jpg" title="19"><img src="/~sven337/data/rt6/19-thumb.jpg" /></a>
-
-<!--[1](~sven337/data/rt6/01.jpg)
-[2](~sven337/data/rt6/02.jpg)
-[3](~sven337/data/rt6/03.jpg)
-[4](~sven337/data/rt6/04.jpg)
-[5](~sven337/data/rt6/05.jpg)
-[6](~sven337/data/rt6/06.jpg)
-[7](~sven337/data/rt6/07.jpg)
-8 - sans intérêt
-[9](~sven337/data/rt6/09.jpg)
-[10 - puce GPS](~sven337/data/rt6/10.jpg)
-[11](~sven337/data/rt6/11.jpg)
-[12 - microcontrôleur](~sven337/data/rt6/12.jpg)
-[13 - audio & radio](~sven337/data/rt6/13.jpg)
-[14 - microcontrôleur](~sven337/data/rt6/14.jpg)
-[15 - audio & radio](~sven337/data/rt6/15.jpg)
-[16](~sven337/data/rt6/16.jpg)
-17 - sans intérêt
-[18 - Minus & Cortex](~sven337/data/rt6/18.jpg)
-[19](~sven337/data/rt6/19.jpg)
 -->
+
+- ![1](/~sven337/data/rt6/01.jpg)
+- ![2](/~sven337/data/rt6/02.jpg)
+- [3](/~sven337/data/rt6/03.jpg)
+- [4](/~sven337/data/rt6/04.jpg)
+- [5](/~sven337/data/rt6/05.jpg)
+- [6](/~sven337/data/rt6/06.jpg)
+- [7](/~sven337/data/rt6/07.jpg)
+- 8 - sans intérêt
+- [9](/~sven337/data/rt6/09.jpg)
+- [10 - puce GPS](/~sven337/data/rt6/10.jpg)
+- [11](/~sven337/data/rt6/11.jpg)
+- [12 - microcontrôleur](/~sven337/data/rt6/12.jpg)
+- [13 - audio & radio](/~sven337/data/rt6/13.jpg)
+- [14 - microcontrôleur](/~sven337/data/rt6/14.jpg)
+- [15 - audio & radio](/~sven337/data/rt6/15.jpg)
+- [16](/~sven337/data/rt6/16.jpg)
+- 17 - sans intérêt
+- [18 - Minus & Cortex](/~sven337/data/rt6/18.jpg)
+- [19](/~sven337/data/rt6/19.jpg)
+
 
 ### GPS
 
