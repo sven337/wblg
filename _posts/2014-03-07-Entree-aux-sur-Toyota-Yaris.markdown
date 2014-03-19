@@ -16,10 +16,10 @@ Cet article en est un résumé.
 
 # Mes essais n'ont pas fonctionné
 
-J'ai réalisé trois tentatives différentes qui n'ont pas fonctionné. Les Yaris américaines disposent, sur le connecteur à l'arrière de l'autoradio, d'une entrée auxiliaire. Celle-ci n'est bien souvent pas câblée dans le véhicule, mais elle existe néanmoins, et il suffit d'y connecter 3 fils pour pouvoir s'en servir. C'est ce que réalisent des objets tels que celui-ci: <a href="data/w58824/cable_aux.jpg"><img src="data/w58824/cable_aux-thumb.jpg" /></a> (ou, si cela vous chante, la référence Toyota officielle qui vous coûtera de l'ordre de 50 euros). Ensuite, un simple appui sur le bouton AUX (ou DISP, ou CD, ... selon le modèle exact qui n'est _pas_ W58824) et l'entrée fonctionne.
+J'ai réalisé trois tentatives différentes qui n'ont pas fonctionné. Les Yaris américaines disposent, sur le connecteur à l'arrière de l'autoradio, d'une entrée auxiliaire. Celle-ci n'est bien souvent pas câblée dans le véhicule, mais elle existe néanmoins, et il suffit d'y connecter 3 fils pour pouvoir s'en servir. C'est ce que réalisent des objets tels que celui-ci: <a href="/~sven337/data/w58824/cable_aux.jpg"><img src="/~sven337/data/w58824/cable_aux-thumb.jpg" /></a> (ou, si cela vous chante, la référence Toyota officielle qui vous coûtera de l'ordre de 50 euros). Ensuite, un simple appui sur le bouton AUX (ou DISP, ou CD, ... selon le modèle exact qui n'est _pas_ W58824) et l'entrée fonctionne.
 
 Nous avons moins de chance en France, car si le même connecteur est bien présent au dos de l'autoradio, il est utilisé à des fins différentes. Sur ma voiture, seules 3 des 20 pattes de ce connecteur sont utilisées, et c'est pour la commande au volant.
-<a title="Connecteur D74 utilisé pour commandes au volant" href="data/w58824/conn_SW.jpg"><img src="data/w58824/conn_SW-thumb.jpg"/></a>
+<a title="Connecteur D74 utilisé pour commandes au volant" href="/~sven337/data/w58824/conn_SW.jpg"><img src="/~sven337/data/w58824/conn_SW-thumb.jpg"/></a>
 
 # Quelles sont les options restantes ?
 
@@ -41,18 +41,18 @@ Les options **2** et **3** imposent de démonter l'appareil.
 
 Démonter l'appareil est compliqué, notamment parce que Panasonic a choisi d'utiliser des clips en plastique dur, du genre de ceux qui se cassent si vous les regardez de travers. J'espère que UFC-Que choisir se décidera à faire un énorme procès à l'inventeur de ces clips.
 
-<a title="Vue de face" href="data/w58824/front.jpg"><img src="data/w58824/front-thumb.jpg"/></a>
-<a title="Vue de dos avec connecteurs" href="data/w58824/back_connected.jpg"><img src="data/w58824/back_connected-thumb.jpg"/></a>
-<a title="conn_main1-thumb.jpg" href="data/w58824/conn_main1.jpg"><img src="data/w58824/conn_main1-thumb.jpg"/></a>
-<a title="conn_main1p-thumb.jpg" href="data/w58824/conn_main1p.jpg"><img src="data/w58824/conn_main1p-thumb.jpg"/></a>
-<a title="conn_main2-thumb.jpg" href="data/w58824/conn_main2.jpg"><img src="data/w58824/conn_main2-thumb.jpg"/></a>
+<a title="Vue de face" href="/~sven337/data/w58824/front.jpg"><img src="/~sven337/data/w58824/front-thumb.jpg"/></a>
+<a title="Vue de dos avec connecteurs" href="/~sven337/data/w58824/back_connected.jpg"><img src="/~sven337/data/w58824/back_connected-thumb.jpg"/></a>
+<a title="conn_main1-thumb.jpg" href="/~sven337/data/w58824/conn_main1.jpg"><img src="/~sven337/data/w58824/conn_main1-thumb.jpg"/></a>
+<a title="conn_main1p-thumb.jpg" href="/~sven337/data/w58824/conn_main1p.jpg"><img src="/~sven337/data/w58824/conn_main1p-thumb.jpg"/></a>
+<a title="conn_main2-thumb.jpg" href="/~sven337/data/w58824/conn_main2.jpg"><img src="/~sven337/data/w58824/conn_main2-thumb.jpg"/></a>
 
-<a title="back-thumb.jpg" href="data/w58824/back.jpg"><img src="data/w58824/back-thumb.jpg"/></a>
-<a title="Retrait des clips tout pourris" href="data/w58824/front-noplastic.jpg"><img src="data/w58824/front-noplastic-thumb.jpg"/></a>
-<a title="side-thumb.jpg" href="data/w58824/side.jpg"><img src="data/w58824/side-thumb.jpg"/></a>
-<a title="side2-thumb.jpg" href="data/w58824/side2.jpg"><img src="data/w58824/side2-thumb.jpg"/></a>
-<a title="Carte lecteur CD" href="data/w58824/cdreader_board.jpg"><img src="data/w58824/cdreader_board-thumb.jpg"/></a>
-<a title="Carte mère" href="data/w58824/mainboard.jpg"><img src="data/w58824/mainboard-thumb.jpg"/></a>
+<a title="back-thumb.jpg" href="/~sven337/data/w58824/back.jpg"><img src="/~sven337/data/w58824/back-thumb.jpg"/></a>
+<a title="Retrait des clips tout pourris" href="/~sven337/data/w58824/front-noplastic.jpg"><img src="/~sven337/data/w58824/front-noplastic-thumb.jpg"/></a>
+<a title="side-thumb.jpg" href="/~sven337/data/w58824/side.jpg"><img src="/~sven337/data/w58824/side-thumb.jpg"/></a>
+<a title="side2-thumb.jpg" href="/~sven337/data/w58824/side2.jpg"><img src="/~sven337/data/w58824/side2-thumb.jpg"/></a>
+<a title="Carte lecteur CD" href="/~sven337/data/w58824/cdreader_board.jpg"><img src="/~sven337/data/w58824/cdreader_board-thumb.jpg"/></a>
+<a title="Carte mère" href="/~sven337/data/w58824/mainboard.jpg"><img src="/~sven337/data/w58824/mainboard-thumb.jpg"/></a>
 
 ## Carte électronique
 
