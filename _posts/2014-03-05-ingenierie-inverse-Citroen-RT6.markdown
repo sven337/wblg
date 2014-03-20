@@ -12,7 +12,11 @@ Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'auto
 
 Notez que je ne possède plus ni de C4 ni de RT6, je ne suis donc plus actif sur ce projet.
 
-Méthode: **Étude du CD d'upgrade firmware 2.20**
+# Table des matières
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
 
 # 1. Travaux précédents
 
