@@ -54,15 +54,25 @@ module Jekyll
       # go through content using the slideshows filter
       # for any imgs in <ul>s, change the src to use the new thumbs
       # set a data attribute referencing the original (fullsize) image
+
+	  page = @context.registers[:page]
+	  img_rel = ""
+      if page.has_key?('img_rel')
+	  	img_rel=page['img_rel'] + '/'
+	  end
+
       doc = Nokogiri::XML.fragment(content.encode!("UTF-8"))
       doc.css('img').each do |img|
 	    subimg = img
-	    a = img.document.create_element 'a'
         url = img['src']
+		if url.index("http") == 0
+			next
+		end
+	    a = img.document.create_element 'a'
 		title = img['alt']
-		a['href'] = url
+		a['href'] = img_rel + url
 		a['title'] = title
-        newurl = File.dirname(url) << '/' << File.basename(url,
+        newurl = img_rel + File.dirname(url) << '/' << File.basename(url,
           File.extname(url)) << '-thumb' << File.extname(url)
 		subimg['src'] = newurl
 		a.inner_html = subimg.to_s
