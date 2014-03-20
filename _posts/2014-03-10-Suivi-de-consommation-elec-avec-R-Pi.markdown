@@ -17,7 +17,7 @@ Néanmoins je possède un Raspberry Pi, ainsi qu'un placard électrique dans lequel
 
 # La sortie téléinfo
 
-La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : <a href="compteur.jpg"  title="Compteur A14C5"><img src="compteur-thumb.jpg" /></a>. La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
+La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : !["Compteur A14C5"](compteur.jpg). La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
 
 La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. De nombreux projets se contentent de **capter l'impulsion lumineuse** du compteur (une impulsion = 1W.h en général), mais la sortie téléinfo peut nous donner bien plus que cela :
 
@@ -44,7 +44,8 @@ J'ai réalisé un montage différent dont l'objectif (atteint) était de n'utiliser 
 Ayant eu beaucoup de mal à trouver un optocoupleur qui ferait l'affaire pour un branchement direct (car il faut non seulement qu'il soit bidirectionnel mais aussi que ses caractéristiques soient compatibles avec le timing du signal, chose pas toujours facile à garantir), j'ai opté pour un montage redresseur et un filtrage (permettant d'obtenir **0** = **+12V** constant, **1** = **+0V**, qui attaque l'optocoupleur le moins cher que j'ai pu trouver, dont la sortie est reliée au Pi de manière similaire au message du forum dont je donne un lien ci-dessus.
 
 Voici le schéma correspondant (cliquez pour l'avoir en grand):
-<a href="schema.jpg" title="Schéma redressement teleinfo" ><img src="schema-thumb.jpg" style="border:1px solid black" width="80%" /></a>
+![Schéma redressement téléinfo](schema.jpg)
+{:style="border:1px solid black"}
 
 J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans le paragraphe suivant ce n'était pas une bonne idée.
 
@@ -59,7 +60,7 @@ Voici un premier circuit à simuler, avec redressement en simple alternance :
 
 Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier, ensuite la commande ``tran 0.05us 3.2ms`` fait une simulation pendant 3.2 ms par pas de 0.05 us, et on peut visualiser la courbe de tension en un point donné en utilisant la commande ``plot``.
 ``plot v(1)`` nous montre le signal appliqué à l'entrée :
-<a  href="spice_input_signal.jpg"><img src="spice_input_signal-thumb.jpg" /></a>
+![Signal d'entrée](spice_input_signal.jpg)
 
 Il s'agit de la séquence 0->1->0->1. Bien sûr, c'est plutôt la sortie qui nous intéresse. Ce qu'on voudrait voir, c'est quand est-ce que **le Pi** voit un zéro ou un un. Ce n'est pas quelque chose qu'on trouve directement, mais cette information dépend du courant qui traverse la LED de l'optocoupleur, qui est lui-même proportionnel à la tension aux bornes du condensateur. On se contentera donc de regarder la tension aux bornes du condensateur, et de décider _au doigt mouillé_ si les transitions sont suffisamment franches ou pas.
 
