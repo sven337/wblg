@@ -9,6 +9,12 @@ img_rel: /~sven337/data/teleinfo
 Cet article détaille comment **suivre sa consommation électrique** avec un **Raspberry Pi** et un montage électronique simple et surtout très bon marché. 
 Il nécessite de disposer d'un compteur électrique suffisamment moderne.
 
+# Table des matières
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
+
 # Introduction
 
 Le Raspberry Pi est un mini ordinateur capable de faire fonctionner Linux, et qui coûte peu cher. De nombreuses personnes suggèrent de s'en servir comme serveur (web, e-mails, ...), mais je doute que ses performances soient suffisantes pour cela. (À vrai dire je n'ai jamais testé car j'utilise un eeePC 701 comme serveur depuis plusieurs années, dont je suis très satisfait.)
