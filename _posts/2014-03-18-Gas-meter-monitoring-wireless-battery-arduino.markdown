@@ -3,6 +3,7 @@ layout: post
 title:  "Low power wireless gas meter monitoring"
 date:   2014-03-18 01:02:03
 categories: english
+img_rel: /~sven337/data/gas
 ---
 
 # Table of contents
@@ -138,7 +139,7 @@ Be absolutely sure to wire up a LED (with its resistor) to the sensor, so that i
 Major lesson there folks: diagnostic LEDs are important. Use them. (I may have been a little too ambitious with 3 diagnostic LEDs hooked up to the microcontroller - but I ran is serious wireless issues which were hard to debug.)
 
 Below is a picture of my sensor, stuck in place by a lot of adhesive putty. Sorry, I didn't take it off for pictures - placement *is* annoying to do. (For what it's worth, it hasn't moved in months.)
-<a href="/~sven337/data/gas/custom_sensor_1.jpg" title="Reed pulse sensor"><img src="/~sven337/data/gas/custom_sensor_1-thumb.jpg" /></a>
+![Reed pulse sensor](custom_sensor_1.jpg)
 
 On the picture you can see: the diagnostic LED (it's just about to light up, because the liter wheel shows almost 9), the pullup resistor, and the 4 pin cable (of which only three pins are connected). Not seen is the reed switch, on the underside of the meter.
 
@@ -157,7 +158,7 @@ Assemble the JeeNode kit as documented, this is not hard at all. Add the female 
 
 Be very careful on the pinout : first of all, the pinout of the RF24 module and that of the JeeNode SPI are not the same, so you can't do a straight connection. Refer to the JeeNode wiki page for the pinout, and be careful about the nice looking graph that they have, because it swapped **RST** and **SCK** (I've fixed that for you below, after wasting three hours on the matter).
 
-<a href="/~sven337/data/gas/qrc-jn-v6-part.png" title="Accurate JeeNode v6 reference"><img src="/~sven337/data/gas/qrc-jn-v6-part-thumb.png" /></a>
+![Accurate JeeNode v6 reference](qrc-jn-v6-part.png)
 
 I haven't taken the picture of the elements outside of the case.
 
@@ -175,7 +176,7 @@ I haven't taken the picture of the elements outside of the case.
 The case is small, perhaps a little too small. I had to mill the four plastic supports inside, and create holes for the battery connector, connector to the sensor, as well as an external reset switch (used for programming and rebooting), three diagnostic LEDs, and the FTDI connector. That way I never have to open the box again !
 Use a drill or soldering iron to create holes for the various connectors, and hold them in place with hot glue. Cyanoacrylate is supposed to be great but I found it's not as strong as it pretends to be (except on skin).
 
-<a href="/~sven337/data/gas/case_1.jpg" title="Case"><img src="/~sven337/data/gas/case_1-thumb.jpg" /></a>
+![Case](case_1.jpg)
 
 On the picture I've identified the following elements: 
 
@@ -184,7 +185,7 @@ On the picture I've identified the following elements:
 - C is the reset switch
 - D is the battery connector
 
-<a href="/~sven337/data/gas/case_and_battery.jpg" title="Case and battery case"><img src="/~sven337/data/gas/case_and_battery-thumb.jpg" /></a>
+![Case and battery case](case_and_battery.jpg)
 
 ## Raspberry Pi
 

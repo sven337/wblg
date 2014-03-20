@@ -5,6 +5,7 @@ date: 2014-03-05 23:00:00
 tags: electronics auto
 category: francais
 comments: true
+img_rel: "/~sven337/data/rt6"
 ---
 
 Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4. Cette version est plus complète et a l'intérêt d'être en un seul morceau.
@@ -108,7 +109,7 @@ Les fichiers .inf ont au début une valeur qui correspond à un hash **CRC**. J'ai
   * l'un à `ReadINFCRC__FPCcR9Crc16Type` (Le nom bizarre correspond au "mangling" des fonctions C++ fait par GCC. Cela correspond à la signature : `ReadINFCRC(char const *, Crc16Type &)`) 
   * l'autre à `ComputeCRCFile`
 
-J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](~sven337/data/rt6/crc_rt6.c).
+J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](/~sven337/data/rt6/crc_rt6.c).
 
 Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
  
@@ -225,44 +226,25 @@ Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en ser
 ## 4.2 Démontage
 Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
 
-<!--<a href="/~sven337/data/rt6/01.jpg" title="1"><img src="/~sven337/data/rt6/01-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/02.jpg" title="2"><img src="/~sven337/data/rt6/02-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/03.jpg" title="3"><img src="/~sven337/data/rt6/03-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/04.jpg" title="4"><img src="/~sven337/data/rt6/04-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/05.jpg" title="5"><img src="/~sven337/data/rt6/05-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/06.jpg" title="6"><img src="/~sven337/data/rt6/06-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/07.jpg" title="7"><img src="/~sven337/data/rt6/07-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/09.jpg" title="9"><img src="/~sven337/data/rt6/09-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/10.jpg" title="10 - puce GPS"><img src="/~sven337/data/rt6/10-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/11.jpg" title="11"><img src="/~sven337/data/rt6/11-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/12.jpg" title="12 - microcontrôleur"><img src="/~sven337/data/rt6/12-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/13.jpg" title="13 - audio & radio"><img src="/~sven337/data/rt6/13-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/14.jpg" title="14 - microcontrôleur"><img src="/~sven337/data/rt6/14-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/15.jpg" title="15 - audio & radio"><img src="/~sven337/data/rt6/15-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/16.jpg" title="16"><img src="/~sven337/data/rt6/16-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/18.jpg" title="18 - Minus & Cortex"><img src="/~sven337/data/rt6/18-thumb.jpg" /></a>
-<a href="/~sven337/data/rt6/19.jpg" title="19"><img src="/~sven337/data/rt6/19-thumb.jpg" /></a>
--->
-
-- ![1](/~sven337/data/rt6/01.jpg)
-- ![2](/~sven337/data/rt6/02.jpg)
-- [3](/~sven337/data/rt6/03.jpg)
-- [4](/~sven337/data/rt6/04.jpg)
-- [5](/~sven337/data/rt6/05.jpg)
-- [6](/~sven337/data/rt6/06.jpg)
-- [7](/~sven337/data/rt6/07.jpg)
+- ![1](01.jpg)
+- ![2](02.jpg)
+- ![3](03.jpg)
+- ![4](04.jpg)
+- ![5](05.jpg)
+- ![6](06.jpg)
+- ![7](07.jpg)
 - 8 - sans intérêt
-- [9](/~sven337/data/rt6/09.jpg)
-- [10 - puce GPS](/~sven337/data/rt6/10.jpg)
-- [11](/~sven337/data/rt6/11.jpg)
-- [12 - microcontrôleur](/~sven337/data/rt6/12.jpg)
-- [13 - audio & radio](/~sven337/data/rt6/13.jpg)
-- [14 - microcontrôleur](/~sven337/data/rt6/14.jpg)
-- [15 - audio & radio](/~sven337/data/rt6/15.jpg)
-- [16](/~sven337/data/rt6/16.jpg)
+- ![9](09.jpg)
+- ![10 - puce GPS](10.jpg)
+- ![11](11.jpg)
+- ![12 - microcontrôleur](12.jpg)
+- ![13 - audio & radio](13.jpg)
+- ![14 - microcontrôleur](14.jpg)
+- ![15 - audio & radio](15.jpg)
+- ![16](16.jpg)
 - 17 - sans intérêt
-- [18 - Minus & Cortex](/~sven337/data/rt6/18.jpg)
-- [19](/~sven337/data/rt6/19.jpg)
+- ![18 - Minus & Cortex](18.jpg)
+- ![19](19.jpg)
 
 
 ### GPS
