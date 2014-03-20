@@ -44,8 +44,7 @@ J'ai réalisé un montage différent dont l'objectif (atteint) était de n'utiliser 
 Ayant eu beaucoup de mal à trouver un optocoupleur qui ferait l'affaire pour un branchement direct (car il faut non seulement qu'il soit bidirectionnel mais aussi que ses caractéristiques soient compatibles avec le timing du signal, chose pas toujours facile à garantir), j'ai opté pour un montage redresseur et un filtrage (permettant d'obtenir **0** = **+12V** constant, **1** = **+0V**, qui attaque l'optocoupleur le moins cher que j'ai pu trouver, dont la sortie est reliée au Pi de manière similaire au message du forum dont je donne un lien ci-dessus.
 
 Voici le schéma correspondant (cliquez pour l'avoir en grand):
-![Schéma redressement téléinfo](schema.jpg)
-{:style="border:1px solid black"}
+![Schéma redressement téléinfo](schema.jpg){:style="border:1px solid black"}
 
 J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans le paragraphe suivant ce n'était pas une bonne idée.
 
