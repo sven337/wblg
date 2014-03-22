@@ -40,7 +40,7 @@ p { margin: 1em 7.5em 1em 7.5em; }
 li { list-style-position: inside;}
 #markdown-toc { background-color: #F9F9F9; padding: 5px;}
 #markdown-toc li { margin-left: 0em;  }
-
+img { display: block; margin: auto; }
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
