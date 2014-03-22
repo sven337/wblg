@@ -230,25 +230,23 @@ Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en ser
 ## 4.2 Démontage
 Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
 
-- ![1](01.jpg)
-- ![2](02.jpg)
-- ![3](03.jpg)
-- ![4](04.jpg)
-- ![5](05.jpg)
-- ![6](06.jpg)
-- ![7](07.jpg)
-- 8 - sans intérêt
-- ![9](09.jpg)
-- ![10 - puce GPS](10.jpg)
-- ![11](11.jpg)
-- ![12 - microcontrôleur](12.jpg)
-- ![13 - audio & radio](13.jpg)
-- ![14 - microcontrôleur](14.jpg)
-- ![15 - audio & radio](15.jpg)
-- ![16](16.jpg)
-- 17 - sans intérêt
-- ![18 - Minus & Cortex](18.jpg)
-- ![19](19.jpg)
+![1](01.jpg)
+![2](02.jpg)
+![3](03.jpg)
+![4](04.jpg)
+![5](05.jpg)
+![6](06.jpg)
+![7](07.jpg)
+![9](09.jpg)
+![10 - puce GPS](10.jpg)
+![11](11.jpg)
+![12 - microcontrôleur](12.jpg)
+![13 - audio & radio](13.jpg)
+![14 - microcontrôleur](14.jpg)
+![15 - audio & radio](15.jpg)
+![16](16.jpg)
+![18 - Minus & Cortex](18.jpg)
+![19](19.jpg)
 
 
 ### GPS
