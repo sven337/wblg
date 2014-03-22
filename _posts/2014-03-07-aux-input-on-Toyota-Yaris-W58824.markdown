@@ -3,7 +3,7 @@ layout: post
 title:  "DIY - Add AUX input on Toyota Yaris W58824 head unit"
 date:   2014-03-07 21:16:55
 categories: english
-data_rel: /~sven337/data/w58824
+img_rel: /~sven337/data/w58824
 ---
 
 # Objective
