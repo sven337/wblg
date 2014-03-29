@@ -26,14 +26,16 @@ h1 { margin-bottom: 1em;
 	font-size: 1.5em;
 	border-bottom: 3px solid;
 	margin-left: 0em;
+	color: #566e92;
 }
 h2 { font-size: 1.2em;
 	margin-left: 2em;
 	margin-bottom: 0.5em;
 	text-decoration: underline;
+	color: #6683b0;
 }
-h3 { margin-left: 4em; }
-h4 { margin-left: 6em; font-size: 0.9em; }
+h3 { margin-left: 4em; color: #4e6a94;}
+h4 { margin-left: 6em; font-size: 0.9em; color: #3d5272;}
 p { margin: 1em 7.5em 1em 7.5em; }
 .post > ul > li { margin-left: 7.5em; margin-right: 7.5em; }
 .post > ol > li { margin-left: 7.5em; margin-right: 7.5em; }
@@ -92,7 +94,7 @@ a:visited { color: #a0a; }
 }
 
 .title a {
-  color: #a00;
+  color: #653428;
 }
 
 .title a:hover {
