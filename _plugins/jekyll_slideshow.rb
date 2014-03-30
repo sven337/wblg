@@ -29,7 +29,7 @@ module Jekyll
           # overwrite it. concretely, we overwrite it if and only if the
           # thumbnail is older than the current version of the file we want to
           # thumbify
-          if (File.file?(new_path) &&
+          if (!File.file?(new_path) ||
               File.mtime(new_path).to_i < file.mtime)
             to_thumb.push(file)
           end
