@@ -76,7 +76,7 @@ Energy total and associated cost are computed by RRD as part of ``rrd_render_gra
 ## Javascript graph
 ![Day consumption](teleinfo_jsgraph.jpg)
 
-This is an interactive Hihcharts-based graph, created from the same data exported by ``rrdtool``. On this screenshot, data over a single day is visible.
+This is an interactive Highcharts-based graph, created from the same data exported by ``rrdtool``. On this screenshot, data over a single day is visible.
 The fridge's compressor started up at 1AM and ran until 2AM, then again at 4AM until 5AM. I got up at 8.50AM and powered on my computer (which stays in _suspend to RAM_ overnight). Right before noon, there is the typical consumption curve of one induction plate used to cook pasta: _booster_ mode for a few minutes at 3.2kW (until the water boils), then 1.75kW (80% load) for the rest of the time.
 Then there is the electric water boiler for tea, vacuum cleaner, hair dryer... with a baseline of about 300W (computers, mechanical ventilation, fridge) during the day, and about 600W in the evenings (incandescent lighting).
 
