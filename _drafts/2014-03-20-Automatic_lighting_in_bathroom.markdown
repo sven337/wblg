@@ -117,8 +117,10 @@ My original implementation used batteries, but was using them a little too quick
 
 ### Appearance
 
+What I made is nothing to write home about, as my wife is keen on reminding me. I have some pictures below.
+I'm not sure it would be possible to do much better because after all only the sensor is visible... 
 
 # Feedback 
 
-The system isn't tightly integrated, but the 
-# Further work
+The system isn't tightly integrated, but it's been working for several months and I've been very impressed with this cheap sensor. It's sensitive enough, with a wide enough angle, and doesn't appear to draw gigantic amounts of current (the SSR is another story).
+I'm  pretty happy with the realization and for further lighting work will definitely re-use a similar sensor. My next lighting projects will be using LEDs, however.
