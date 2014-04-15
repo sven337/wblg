@@ -8,7 +8,7 @@ comments: true
 img_rel: "/~sven337/data/chinese_smps"
 ---
 
-I bought a cheap Chinese power supply, rated at 12V 1A, to use in my LED lamp retrofit project (about which I've been writing an article for weeks, but it's not published yet). It's marked CE (meaning it respects European norms, which essentially have to do with EMI interference), but it still has a serious problem.
+I bought a cheap, Chinese, [12V 1A power supply](http://www.smunchina.com/html_products/10W-12V-Ultra-thin-single-output-series-186.html), to use in my LED lamp retrofit project (about which I've been writing an article for weeks, but it's not published yet). It's marked CE (meaning it respects European norms, which essentially have to do with EMI interference), but it still has a serious problem.
 
 # The power supply
 
@@ -32,6 +32,8 @@ To safely use this power supply, you need to:
 - do the same check while pressing on the case
 - move the big resistor a tiny bit to increase creepage distance
 
+(Disregard the blue annotations which are not relevant to safety.)
+
 ![Isolating the case from mains](case_internal_tape.jpg)
 ![Internals](internals_annotated.jpg)
 ![Output resistor creepage distance](creepage.jpg)
@@ -39,7 +41,20 @@ To safely use this power supply, you need to:
 
 # Internals
 
-(I will update the article later with some information about the inner workings of this power supply.)
+This is a typical switched-mode power supply. Let's take another look at the "internals" picture, this time paying attention to the blue annotations.
+
+The different stages of the supply are:
+
+1. the fuse (marked "danger" on the picture for the reasons exposed above. I haven't checked its current rating)
+1. the red capacitor and the choke, which act as an EMI filter. This supply is low power enough that no PFC circuit is required by EU regulations.
+1. the bridge noted **E** - it is a [DB157](http://www.rectron.com/data_sheets/db151-db157.pdf) bridge rectifier. This appears to be a standard, low-cost rectifier which doesn't deserve particular comments.
+1. the large electrolytic capacitor marked **A**. It is a 10 micro-farad capacitor, 400V rated. The capacity sounds a little low, although I'm mostly experienced with larger power supplies so I'm not sure how low that really is.
+1. the IC at **B** is a [**VIPer22A**](http://www.st.com/web/catalog/sense_power/FM142/CL1454/SC432/PF93117) chip that integrates a power MOSFET and a PWM controller
+1. **D** is the step-down transformer
+1. **F** are the output diodes, generally this is a Schottky barrier but I suspect those are regular silicon diodes and not Schottky ones. Not a major problem for a 1A rated power supply, but efficiently is probably not great.
+1. **C** is the feedback optocoupler
+1. The rest of the components are for output filtering and voltage sensing.
+
 
 ![Input capacitor](input_stage.jpg)
 ![Bridge](input_stage2.jpg)
