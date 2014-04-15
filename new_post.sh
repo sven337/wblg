@@ -17,7 +17,7 @@ layout: post
 title: $title
 date: $(date '+%Y-%m-%d %H:%M:%S')
 tags: XXX
-category:english
+category: english
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
