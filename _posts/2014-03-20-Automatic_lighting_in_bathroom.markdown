@@ -29,8 +29,8 @@ Pressing a switch is no big deal. But once you have fully working automatic ligh
 
 Following my usual bottom-up approach, the question of **what can I do** comes *before* the question of **what will I attempt to do**. So let's look at how an automatic lighting system works! There are two big parts: 
 
-1.detect the presence of a human being (as well as the absence thereof)
-1.actually turning on - and off - the light.
+1. detect the presence of a human being (as well as the absence thereof)
+1. actually turning on - and off - the light.
 
 ## Detect presence
 
