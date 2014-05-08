@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transforming halogen lamp into LED lamp
-date: 2014-03-30 18:42:05
+date: 2014-05-08 12:42:05
 tags: electronics lighting
 category: english
 comments: true
@@ -16,7 +16,6 @@ Unfortunately, it doesn't have a dimmer, nor a switch, and instead of spending t
 # What the lamp looks like
 
 ![The lamp](orig_lamp.jpg)
-![Power cord](orig_plug.jpg)
 ![Top view - side](top_side.jpg)
 ![Top view](orig_top.jpg)
 
@@ -37,15 +36,17 @@ Enter power LEDs. A power LED is a regular LED that is designed to emit a lot of
 
 ## Driving a power LED
 
-LEDs are current-driven devices: their voltage is almost a constant, and brightness is controlled by the current through them. If fed with a typical constant-voltage power supply, and for some reason the voltage increases even a little bit, this will translate into a big spike of current, which will make the LED very bright for a few seconds, then very hot, and then very dead. That is the issue of power LEDs: they need a driver, which is a constant-current power supply. That supply can be powered by the mains, or by constant-voltage power supply.
+LEDs are current-driven devices: their voltage is almost a constant, and brightness is controlled by the current through them. If fed with a typical constant-voltage power supply, and for some reason the voltage increases even a little bit, this will translate into a big spike of current, which will make the LED very bright for a few seconds, then very hot, and then very dead. That is the issue of power LEDs: they need a driver, which is a constant-current power supply. That supply can be powered by the mains, or by constant-voltage power supply. A basic LED driver is a buck converter made of a transistor, an inductor, and a diode, although more elaborate designs exist.
 If we look at our objectives, we will likely require some electronics, probably in the form of a JeeNode microcontroller board (handling remote control, taking action on presence detection, automatically dimming, as well as, perhaps, temperature and current monitoring). Electronics usually need a constant-voltage supply, so we'll go the way of a constant-voltage supply, and a separate LED driver.
 
 ## Cooling a power LED
 
 Power LEDs may have better efficiency than incandescent light bulbs, they still dissipate a lot of power as heat. However, unlike light bulbs, a power LED:
-	- has a small surface, so natural dissipation is reduced
+	- has a small surface, so convection is practically non-existent
+	- does not radiate infrared, so radiation is practically non-existent
 	- cannot stand higher temperatures than about 100°C (unlike light bulbs which are happier the hotter they get)
-So a heatsink is needed. I have no idea of its volume, having never used power LEDs before, but based on my experience with computer chips even a 20W power LED will require a fairly big heatsink.
+
+So heat has to be *conducted* away from the LED, using a heatsink. I have no idea of its volume, having never used power LEDs before, but based on my experience with computer chips even a 20W power LED will require a fairly big heatsink.
 
 ## Choosing a power LED
 
@@ -61,18 +62,92 @@ I picked a low-price, but CE-compliant, power supply, about which I reported in 
 # Bill of materials
 
 We need: 
-- constant voltage power supply - 3.5EUR
+
+- constant voltage 12V 1A power supply - 4EUR
 - constant current DC-DC LED driver - 2EUR
 - power LED - 5EUR
 - heatsink - 2EUR
 - microcontroller with PWM capability - 14EUR
 
-Things could be simpler if there weren't the "extra" objectives described at the beginning. An AC-DC constant current LED driver, a power LED and its heatsink, and we would be done.
+Things could be simpler if there weren't the "extra" objectives described at the beginning: An AC-DC constant current LED driver, a power LED and its heatsink, and we would be done.
 
 I tried to find a 12V COB power LED - most COBs appear to be require around 30V, but 30V is too much for a microcontroller, and settled on the one listed above. I bought a generic heatsink to go with it, keeping in mind that there are serious physical constraints in this project. The microcontroller, as usual, will be a **JeeNode**. 
 The LED driver was a bit more difficult to find, because DC-DC 10W 900mA LED drivers don't appear to be that easy to find! I picked <http://www.dx.com/p/mr16-1-3w-650-700ma-constant-current-regulated-led-driver-8-40v-input-13557>. The description doesn't appear to match, but the module is based on a [PT4115](http://www.micro-bridge.com/data/CRpowtech/PT4115E.pdf) chip which is rated for 1.2A and has a **DIM** pin available. I will need to modify the module to change its current output to the **950mA** my LED wants, and expose the **DIM** pin.
 
 I also bought 7 meters of 3 * 0.75mm^2 electrical cable, to change that of the original lamp that was too short, and a male rewirable EU power plug with ground pin (which is the first time in my whole life that I bought an item more expensive on the Internet than in a physical shop).
 
-# Implementation
+# Implementation - round 1
+
+I'm calling "round 1" the prototype where things aren't finalized. Pictures speak a thousand words, so I'll just show a bunch of pictures and explain the few things that aren't obvious from the picture.
+
+## Ripping out the contents of the halogen lamp
+
+![Top "bowl"](orig_top_empty.jpg)
+
+## Blind me test
+
+Connect the power supply to the driver, the LED to the driver, don't even bother with a heatsink, and start up everything. Congratulations, you're blind for 15 minutes! Cut the power quickly as the LED will die without a heatsink.
+Seriously, **don't do that with power LEDs**. Don't ever watch them directly.
+If you don't watch the LED directly, though, this is a first test to make sure that everything is running.
+
+## Modding the driver
+
+The LED driver I bought is based on the exciting **PT4115** chip. The chip itself isn't enough, it needs to be added an inductor and a diode to make a complete LED driver, and it turns out that it's easier and cheaper to buy a driver like I did and remove the unwanted components, than buy a PT4115 by itself and try to source the inductor.
+
+What are the problems with the driver as I bought it?
+
+* It's made for AC input, so it has a bridge rectifier and an input capacitor, they will reduce efficiency and introduce an unacceptable voltage drop.
+* It has MR16 pins for input, but I really just want to solder wires for input
+* It is set up for 700mA with a 150 milliohm resistor, we want 900mA
+* It doesn't have a **DIM** wire, even though the **PT4115** has a **DIM** input!
+* The + and - at the output of the bridge are swapped :(
+
+The mod was fairly easy to do:
+
+* Unsolder (or rip out...) the four input diodes
+* I haven't touched the capacitor, but it can be removed too
+* Solder red and black input wires at what used to be the output of the bridge, be sure you get the polarity right (the silkscreen is wrong on the unit I received, so you need to double check with the PT4115 datasheet where the *GND* and *VDD* pins are connected)
+* Solder a tiny wire on the DIM pin of the PT4115 (make sure you add some tin on the pin, have tin on the wire, and it will be easy)
+* Change the current sense SMD resistor marked R150 for the value you need, refer to the PT4115 datasheet for that -- I haven't done that yet
+
+## Connecting everything
+
+Metal case and mains means you *need* to have an earth connector. I'm somewhat unhappy with the connections of that power supply because they feel a little dangerous to me, I would like to have better isolation of the mains contacts, because a finger will easily touch them.
+I've polished the heatsink I bought, used some thermal paste to place the LED onto it. I didn't even screw on the LED, the paste itself is enough for it to remain in place, even though contact would probably be better with some pressure.
+
+It actually was easy enough to connect the microcontroller and its sensors, so I did it all at once. The main motivation behind this was to get temperature data to make sure my heatsinking was sufficient.
+
+Pictures below.
+
+![LED and heatsink](led_with_heatsink.jpg)
+![Top view](round1_topview.jpg)
+![Top view - 2](round1_topview_2.jpg)
+![Inside](round1_inside.jpg)
+![Power supply detail](round1_psu.jpg)
+![Light dependant resistor](ldr.jpg)
+
+On the "Inside" picture I've labelled a few elements:
+
+- **A** is the output of the LED driver, those wires go through the hole in the metal plate to connect to the LED
+- **B** is the LED driver itself, the mod isn't visible becaues it's all wrapped in tape to avoid accidental contact with metal parts
+- **C** is the DIM wire added the driver, it connects to one of the pins of the Jeenode
+- **D** is the nRF24L01+ wireless transmitter attached to the Jeenode
+- **E** are the wires that connect the DS18B20 temperature sensor to the Jeenode (will be replaced by a thermistor in the future)
+- **F** are the wires that connect the light dependant resistor to the Jeenode
+- **G** are wires temporarily in place to connect the Jeenode to my computer to easily retrieve temperature data
+
+# Results - round 1
+
+## Light output
+
+The current is at 700mA (so about 7 watts) instead of the rated 10 watts, because I don't have an SMD resistor to replace the current sense resistor on the driver yet. And at 7 watts, the light output isn't sufficient. It appears to generate somewhat less light than the 53W halogen bulb I have at the ceiling.
+I'll mod the driver to get the rated power out of the LED, but I'm not holding my breath - 10W is just not enough. The 700lm objective is not enough.
+
+## Heatsink
+
+The heatsink is probably too small, but I've measured a maximum temperature of 52°C with the probe in contact with it. I'll estimate that means that the LED is running at about 95°C. Driving it at 900mA is probably going to exceed the safe operating temperature, so I'll need a bigger heatsink. I have a CPU heatsink lying around, if I can physically fit it will help.
+
+## Oh my god this is ugly...
+
+... I need to clean up the assembly. :)
 
