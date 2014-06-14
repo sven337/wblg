@@ -3,7 +3,7 @@ layout: post
 title: Acheter des composants électroniques sur Internet
 date: 2014-06-02 18:49:55
 tags: electronique
-category: french
+category: francais
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
@@ -28,13 +28,21 @@ Par conséquent, c'est sur Ebay que vous pourrez acheter **le moins cher**, mais 
 Les règles de fonctionnement de Ebay font qu'en pratique, si vous ne recevez pas votre commande, elle vous sera intégralement remboursée sans discuter.
 Il faut faire très attention aux vendeurs qui décrivent mal leur objet : la photographie ne correspond pas toujours à la description, et c'est la description qui fait foi.
 
+Exemple de produit qu'il est idéal d'acheter sur Ebay :
+[http://www.ebay.com/itm/280826626432?](http://www.ebay.com/itm/280826626432)
+
 ## Aliexpress
 
 Aliexpress est intéressant pour acheter de l'**outillage** ou des **composants assemblés** (alimentations, ruban de LED, ...). Le prix est en général plus élevé sur Aliexpress (du simple fait de l'envoi en courrier suivi), mais on trouve plus de variété que sur Ebay. L'intérêt majeur d'Aliexpress est que c'est le couple (vendeur, objet) qui fait l'objet d'une notation, ce qui permet de voir *pour un objet donné* l'avis des autres acheteurs, et de savoir quels produits sont à éviter et lesquels semblent bons. Pour de l'outillage ou de l'électronique assemblée, qui coûte entre 5 et 30 euros, cette fonctionnalité est appréciable.
 Un deuxième point à signaler est que Aliexpress permet plus facilement de contacter le vendeur pour formuler une demande particulière (par exemple "je vois que vous vendez ce connecteur en diamètre 5 mm, l'avez vous aussi en 6 mm ?"), et la réponse est souvent positive.
 Le système d'Aliexpress est du "semi-gros", donc il permet les commandes au détail mais de nombreux vendeurs imposent un minimum de commande élevé. Plusieurs personnes m'ont rapporté que ce minimum est en général négociable avec le vendeur. Je n'ai jamais eu à faire une telle demande jusqu'à présent.
 
+Exemple de produit qu'il est idéal d'acheter sur Aliexpress :
+[http://www.aliexpress.com/item/Best-13-02-5m-5m-300LED-IP65-waterproof-12V-SMD-5050-white-cold-white-warm/725423136.html](http://www.aliexpress.com/item/Best-13-02-5m-5m-300LED-IP65-waterproof-12V-SMD-5050-white-cold-white-warm/725423136.html)
+
 ## DealExtreme
 
 DealExtreme (DX) est un site qui vend directement, contrairement aux deux précédents qui ne sont que des intermédiaires. Le catalogue est très réduit, mais permet à la communauté DX relativement active de laisser des commentaires parfois très informatifs, à travers le formulaire de "feedback" mais aussi un forum dédié pour chaque article. Pour des composants individuels on trouve en général moins cher sur Ebay, mais DX est intéressant pour l'**outillage**, les **gadgets**, et les **assortiments** de composants. 
 
+Exemple de produit qu'il est idéal d'acheter sur DealExtreme :
+[http://www.dx.com/p/nrf24l01-2-4ghz-wireless-transceiver-module-126467](http://www.dx.com/p/nrf24l01-2-4ghz-wireless-transceiver-module-126467)
