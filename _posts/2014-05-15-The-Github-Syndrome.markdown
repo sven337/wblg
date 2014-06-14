@@ -10,6 +10,12 @@ img_rel: "/~sven337/data/XXX"
 
 Github is a great platform to host software and share it. It also has dangerous effects on the open source community, that tend to reduce software quality as well as my general pleasure of working with open source.
 
+# Table of contents
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
+
 # It was better before...
 
 Although I can't disclose details, I am an experienced open source developer, having been the leader of a quite successful open source project for a decade. This project received contributions from hundreds of different people over the years. I was in fact a dictator, ensuring quality of code, releases at a satisfying frequency, and making sure contributors would learn and improve the quality of their work. Making a contribution to the project required producing good quality patches. Our notoriety as well as this quality ensured that no fork ever had any success, even though it was justified in some cases because some contributors had goals that ran against mine as a project leader.
@@ -23,7 +29,7 @@ In traditional open source, if a contributor produces sub-par work and still wan
 
 The practical consequence is that in traditional open source, a contributor cannot effectively distribute his changes without the agreement of the project's developers - and this agreement matters because the developers are the technical experts (most of the time) and they're the one doing support, so they know what will work and what will not. That is not to say that they cannot be wrong, but the following assertion holds:
 
-**p(contributor_wrong) > p(developer_wrong)** - where **p** stands for probabilitity.
+**p(contributor_wrong) > p(developer_wrong)**
 
 The only choices a contributor has are: 
 
@@ -51,17 +57,17 @@ Note that pull requests aren't the best way of getting changes reviewed - the be
 
 ### Upstream knows better than you
 
-See the title of this paragraph. This is a fundamental heuristic. It's not a fact, but it's true in 99% of cases, and even more so in the case of open source newbies - who, I submit to you, represent most of the people I'm complaining about in that post because they should *not* be encouraged to publish their code by themselves just yet.
+See the title of this paragraph. This is a fundamental heuristic. It's not a fact, but it's true in 99% of cases, and even more so in the case of open source newbies - who, I submit to you should *not* be encouraged to publish their code by themselves just yet.
 
-When upstream rejects your patch, there are three possible cases:
+When upstream rejects your patch, there are four possible cases:
 
 1. Your patch is technically incorrect. It will crash, or expose bugs in certain uses cases, not necessarily yours. 
 1. Your patch is stylistically incorrect, making long terme maintenance harder.
 1. Your patch is politically incorrect, in other words it runs counter to the project's objectives.
-1. Your patch is correct and upstream is stupid.
+1. Your patch is correct and upstream is being stupid or not doing its job
 
-The third case will justify a fork, but I'd only do it after I've confirmed that upstream leadership is **so fucking stupid** that it *outweighs their technical expertise* and brand value. This happened only once in my long life in open source, and I didn't fork the project by myself.
-The fourth case happens sometimes, but the odds are very low. I almost never got a correct patch rejected. This happens most often when you're dealing with a *not-really-open-source project*, such as most **projects backed by a commercial entity**, where for various reasons they do not accept patches from the outside even though they claim they do. Examples abound but that would jeopardize my anonymity, so just imagine.
+The third case will justify a fork, but I'd only do it after I've confirmed that upstream leadership has wrong objectives. This happened only once in my long life in open source, and I didn't fork the project all by myself.
+The fourth case happens sometimes, but the odds are very low. I almost never got a correct patch rejected. This happens most often when you're dealing with a *not-really-open-source project*, such as most projects backed by a commercial entity, where for various reasons they do not accept patches from the outside even though they claim they do. Examples abound but that would jeopardize my anonymity, so just imagine.
 
 In the other two cases, objections from upstream are justified. Here is a nice little algorithm for you:
 
@@ -76,7 +82,7 @@ But thanks to my friends at Github, you can now ignore those objections with a s
 ## Fragmenting the hell out of an already complex world
 
 Another issue with the Github mentality is that not only this encourages people to publish crap, instead of making actually good changes, it also fragments the market to an incredible extent.
-Take the [https://github.com/maniacbug/RF24](RF24) library. It's a driver for the **nRF24L01+** radio transmitter that I like so much (mainly because its datasheet is what I would like to see for all ICs and computers). How many times was it forked? About once for *every fucking user on the planet*. How many of those users are competent enough to write low-level multiplatform code? ... That's what I thought.
+Take the [RF24](https://github.com/maniacbug/RF24) library. It's a driver for the **nRF24L01+** radio transmitter that I like so much (mainly because its datasheet is what I would like to see for all ICs and computers). How many times was it forked? About once for *every fucking user on the planet*. How many of those users are competent enough to write low-level multiplatform code? ... That's what I thought.
 
 Each fork made some changes:
 
@@ -85,7 +91,7 @@ Each fork made some changes:
 - 20% are fixes to actual issues
 - 5% are gold nuggets (dramatic performance improvements, ...)
    
-For example, if you look at [https://github.com/TMRh20/RF24https://github.com/TMRh20/RF24](one of the most recent forks), you have pretty much all of that. 
+For example, if you look at [one of the most recent forks](https://github.com/TMRh20/RF24https://github.com/TMRh20/RF24), you have pretty much all of that. 
 
 The real objective for our open source community should be to **throw away the 75% of crap** and useless changes, integrate the 20% of fixes, and promote (ie. make a new release for) the 5% of gold nuggets. What do we do in practice with Github? We publish **N different software solutions**, **none of which are fully working**, to the same problem.
 
@@ -104,6 +110,7 @@ So I'm playing catchup with the different forks, and not acquiring (nor sharing)
 # But, Linux, blablabla
 
 Had Linux been written in 2013, we'd have ten thousand "linux" repositories on Github, with no upstream merging path, and nobody would know what version to download and install. Bugs would not typically get fixed, and distributors would end up forking Linux for real, and maintaining incompatible code that would bear the same version number.
+The Github spirit is open source without maintenance.
 
 # I need you to save my open source community
 
