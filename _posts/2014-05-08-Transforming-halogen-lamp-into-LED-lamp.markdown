@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transforming halogen lamp into LED lamp
+title: Transforming halogen lamp into LED lamp - Round 1
 date: 2014-05-08 12:42:05
 tags: electronics lighting
 category: english
@@ -129,7 +129,7 @@ Pictures below.
 On the "Inside" picture I've labelled a few elements:
 
 - **A** is the output of the LED driver, those wires go through the hole in the metal plate to connect to the LED
-- **B** is the LED driver itself, the mod isn't visible becaues it's all wrapped in tape to avoid accidental contact with metal parts
+- **B** is the LED driver itself, the mod isn't visible because it's all wrapped in tape to avoid accidental contact with metal parts
 - **C** is the DIM wire added the driver, it connects to one of the pins of the Jeenode
 - **D** is the nRF24L01+ wireless transmitter attached to the Jeenode
 - **E** are the wires that connect the DS18B20 temperature sensor to the Jeenode (will be replaced by a thermistor in the future)
