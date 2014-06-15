@@ -28,24 +28,24 @@ Un écran plat est constitué des composants suivants :
 
 Cet élément est celui qui est réellement responsable de l'affichage. C'est une grande plaque, noire, rarement accessible facilement. Elle est protégée devant l'écran par un matériau transparent qui encaisse l'essentiel des coups et rayures. La dalle est en général l'élément qui flanche dans le cas d'une casse : lors d'une chute, par exemple d'un ordinateur portable, la dalle est susceptible de casser.
 
-La dalle n'est jamais réparable. Une fois cassée, seul un remplacement complet de ladite permet de réparer l'écran. Un tel remplacement n'est en général économiquement pas rentable : à neuf, il est impossible, et en occasion c'est rare de pouvoir trouver une dalle à un prix acceptable... mais dans le cas d'un ordinateur portable où l'écran n'est pas remplaçable, il n'y a guère le choix. N'achetez pas d'ordinateur portable.
+La dalle n'est jamais réparable. Une fois cassée, seul un remplacement complet permet de réparer l'écran. Un tel remplacement n'est en général économiquement pas rentable : à neuf, il est impossible, et en occasion c'est rare de pouvoir trouver une dalle à un prix acceptable... mais dans le cas d'un ordinateur portable où l'écran n'est pas remplaçable, il n'y a guère le choix. N'achetez pas d'ordinateur portable.
 
 ## Les lampes
 
 De nouvelles technologies apparaissent mais à l'heure où j'écris ces lignes la plus courante, en particulier sur les écrans de plus de 4 ans qui sont les plus susceptibles d'être concernés par cet article, est le tube fluorescent. C'est la même technologie que vous avez dans les lampes à économie d'énergie et dans les "néons" présents dans les immeubles collectifs.
 
-Un gaz est placé dans une ampoule scellée, et excité par un **courant alternatif** de fréquence assez élevée, d'intensité assez faible, sous une tension d'environ **700V** (parfois plus). Lorsque ce gaz est excité il émet de la lumière, qui n'est pas forcément blanche, mais interceptée par un revêtement de surface sur l'ampoule qui la transforme en lumière (plus ou moins blanche).
+Un gaz est placé dans une ampoule scellée, et excité par un **courant alternatif** de fréquence assez élevée, d'intensité assez faible, sous une tension d'environ **700V** (parfois plus). Lorsque ce gaz est excité il émet de la lumière, qui n'est pas forcément blanche, mais interceptée par un revêtement de surface sur l'ampoule qui la transforme en lumière (plus ou moins) blanche.
 
-Les pannes arrivent parfois, toutefois je n'en ai jamais observé personnellement. J'imagine qu'il existe deux modes de panne : soit la panne "circuit ouvert, pas de lumière", qui correspondra à une lampe grillée (dans ce cas vous ne verrez pas une partie de l'image à moins de vous approcher très, très près), soit la panne "court-circuit", qui vous garantit au minimum la mise en protection de l'alimentation (donc pas de lumière sur aucune des lampes), quand ce n'est pas le décès "luminothermique" de ladite alimentation. 
+Les pannes arrivent parfois, toutefois je n'en ai jamais observé personnellement. J'imagine qu'il existe deux modes de panne : soit la panne "circuit ouvert, pas de lumière", qui correspondra à une lampe grillée (dans ce cas vous ne verrez pas une partie de l'image à moins de vous approcher très, très près), soit la panne "court-circuit", qui vous garantit au minimum la mise en protection de l'alimentation (donc pas de lumière sur aucune des lampes), quand ce n'est pas le décès "luminothermique" de ladite alimentation (rien à voir avec l'oxydation de l'aluminium).
 
 ## L'électronique de contrôle
 
 Celle-ci est parfois répartie sur plusieurs cartes électroniques au dos de l'écran, selon la conception. Cette carte est assez facile à identifier : c'est la plus complexe, qui abrite des puces électroniques de taille assez importante, parfois équipées d'un radiateur. Le PCB (*printed circuit board*, c'est-à-dire le circuit imprimé) est en général vert ou bleu, double face, multicouches et recouvert de composants miniaturisés.
 Cette électronique est responsable, de manière non exhaustive, de :
 
-- envoyer les données à la dalle 
 - décoder le signal radio (TV TNT = DVB-T, FM, ...) le cas échéant
 - décoder le signal HDMI, VGA, ... le cas échéant
+- envoyer les données à la dalle 
 - répondre aux appuis sur les boutons et la télécommande
 - changer de chaîne, augmenter le volume sonore, ...
 
@@ -105,9 +105,9 @@ Avant toute chose, il me faut aborder la question de la sécurité. Réparer une al
 
 Hors tension, c'est-à-dire débranchée de la prise (et non seulement avec l'interrupteur ouvert, car celui-ci commute normalement la phase, mais vous ne savez pas vraiment si la phase est à gauche ou à droite chez vous), la seule source de danger d'une alimentation provient de son stockage d'énergie à haute tension, c'est-à-dire le ou les condensateurs électrolytiques qui sont situées à l'entrée. Ceux-ci sont en effet chargés à une tension d'environ **400V**, et disposent d'une quantité d'énergie susceptible de vous brûler ou de dépolariser votre coeur. En général, une résistance de décharge de forte valeur est présente (encore que je ne l'ai pas vue sur la dernière alimentation que j'ai réparé, mais peut-être était elle intégrée dans le *driver*), qui permet de vider progressivement le condensateur. 
 Après la mise hors tension je recommande d'attendre au moins une minute avant de toucher n'importe quel composant. Ensuite, une vérification au voltmètre aux bornes des condensateurs d'entrée permettra de vérifier que la tension à leur borne est inférieure à **30V**. À ce stade, l'alimentation est inoffensive et vous pouvez la toucher (avec les doigts, mais pas avec la langue !) sans crainte, du côté primaire (avant le transformateur) comme du côté du secondaire.
-Évitez d'avoir les mains qui tremblent lors de votre mesure sur les condensateurs, et ne négligez pas le délai d'attente. Si vos mains tremblent, vous risquez de court-circuiter le condensateur avec les sondes du multimètres, imposant une décharge rapide qui fera des étincelles et détruira le condensateur. Ça fait de la lumière, du bruit, ça fait peur, et ça peut faire mal. Pas idéal.
+Évitez d'avoir les mains qui tremblent lors de votre mesure sur les condensateurs, et ne négligez pas le délai d'attente. Si vos mains tremblent, vous risquez de court-circuiter le condensateur avec les sondes du multimètres, imposant une décharge rapide qui fera des étincelles et détruira le condensateur. Ça fait de la lumière, du bruit, ça fait peur, et ça peut faire mal.
 
-Le délai d'attente vise à vous éviter de mesurer des tensions importantes. Mesurer une tension de 300V ne pose pas de vrai problème et peut se faire en sécurité avec la plupart des multimètres, mais pour un multimètres premier prix avec des sondes premier prix il est raisonnable de s'interroger sur la qualité de l'isolation. En plus, faire la mesure avec vos deux mains met le coeur en plein dans le passage. 
+Le délai d'attente vise à vous éviter de mesurer des tensions importantes. Mesurer une tension de 300V ne pose pas de vrai problème et peut se faire en sécurité avec la plupart des multimètres, mais pour un multimètre premier prix avec des sondes premier prix il est raisonnable de s'interroger sur la qualité de l'isolation. En plus, faire la mesure avec vos deux mains met le coeur en plein dans le passage, donc autant éviter de mesurer des tensions trop importantes.
 
 ### Sous tension
 
@@ -120,7 +120,7 @@ Au primaire de l'alimentation DC, **tous les points sont à un potentiel du secte
 
 #### Onduleur (alimentation DC->AC)
 
-Pour l'onduleur, c'est l'inverse (à supposer qu'il soit sur une carte séparée) : le primaire ne présente pas de danger particulier, mais le secondaire vous présente plus de **500V** AC, avec un courant qui peut atteindre plusieurs centaines de milliampères. De plus vous risquez de vous retrouver en incapacité physique (par tétanisation des muscles) de relâcher. **Le secondaire de l'onduleur ne doit pas être touché sous tension !** (Hors tension, par contre, il n'est pas dangereux et ce sans délai d'attente car il n'y a pas de condensateur de stockage à haute tension, puisque le secondaire est entièrement AC.)
+Pour l'onduleur, c'est l'inverse (à supposer qu'il soit sur une carte séparée) : le primaire ne présente pas de danger particulier, mais le secondaire vous présente plus de **700V** AC, avec un courant qui peut atteindre plusieurs centaines de milliampères. De plus vous risquez de vous retrouver en incapacité physique (par tétanisation des muscles) de relâcher. **Le secondaire de l'onduleur ne doit pas être touché sous tension !** (Hors tension, par contre, il n'est pas dangereux et ce sans délai d'attente car il n'y a pas de condensateur de stockage à haute tension, puisque le secondaire est entièrement AC.)
 
 Attention aux limites de votre multimètre, un multimètre À Pas Cher(TM) n'a en général pas une isolation lui permettant de mesurer la tension présentée aux lampes. Ça ne m'a pas empêché de le faire quelques fois mais ce n'est pas une très bonne idée. 
 
@@ -166,14 +166,14 @@ Les cas qui ne sont probablement *pas* des problèmes d'alimentation sont les sui
 La panne provient à 90% des condensateurs électrolytiques en sortie. Dans une alimentation, ces condensateurs sont pratiquement des pièces d'usure. Un condensateur électrolytique, c'est un cylindre en aluminium, scellé, qui contient un électrolyte liquide. Lorsque le condensateur chauffe (parce qu'il est soumis à une température élevée, courant car les diodes de redressement en sortie s'échauffent, ou parce qu'un gros courant le traverse), l'électrolyte se dilate, et il arrive qu'il fuie. Vous voyez cela si le sommet du condensateur (là où une croix métallique est destinée, précisément pour permettre l'expansion sans explosion) est bombé, ou s'il a fui.
 C'est une panne très courante et plutôt bien décrite sur Internet, par exemple dans [cet article](http://www.tomshardware.fr/articles/Reparer-carte-mere,2-434-4.html).
 
-![Condensateurs de sortie, diodes de redressement](psu_24v_diodes.jpg)
+![Condensateurs de sortie, en parfait état](psu_24v_diodes.jpg)
 
 Ne vous inquiétez pas à propos des condensateurs en entrée (les très gros, en général marqués 400V) : ceux là chauffent peu et ne s'usent donc pratiquement pas. Seuls les condensateurs électrolytiques (cylindriques de gros volume) situés en sortie sont réellement susceptible d'être "usés".
 
 Parfois, les condensateurs de sortie ne sont pas visiblement bombés. Cela ne permet pas pour autant de les mettre hors de cause (et sur une alimentation d'écran que j'ai réparée, rien ne permettait de voir que ces condensateurs devaient être changés).
 Pour vérifier qu'ils sont vraiment en cause, l'idéal serait de brancher un oscilloscope sur la sortie de l'alimentation et de regarder si la tension est stable. Si vous possédez un oscilloscope vous n'êtes probablement pas en train de lire mon article :)
 
-Mon approche consiste à brancher le voltmètre sur la sortie et à démarrer l'écran (*avec* une charge, c'est-à-dire avec la carte électronique branchée sur l'alimentation), et à regarder si la tension de sortie varie. Si le condensateur est en mauvais état vous arriverez souvent à voir une baisse sur le voltmètre (par exemple, 3.8V au lieu de 5V). C'était mon cas sur un écran que j'ai réparé où tout fonctionnait, mais l'image était déformée, et clignotait, signe que l'électronique de contrôle "plantait" mais sans complètement se bloquait.
+Mon approche consiste à brancher le voltmètre sur la sortie et à démarrer l'écran (*avec* une charge, c'est-à-dire avec la carte électronique branchée sur l'alimentation), et à regarder si la tension de sortie varie. Si le condensateur est en mauvais état vous arriverez souvent à voir une baisse sur le voltmètre (par exemple, 3.8V au lieu de 5V). C'était le cas sur un écran que j'ai réparé où tout fonctionnait, mais l'image était déformée, et clignotait, signe que l'électronique de contrôle "plantait" mais sans complètement se bloquer.
 À noter qu'en général la chaleur tend à réduire les problèmes des condensateurs défectueux : parfois, lorsqu'ils sont chauds (certains les attaquent au sèche-cheveux), le problème peut disparaître. C'est un signe de plus que les condensateurs de sortie sont à changer.
 
 Ce changement n'est pas une opération très difficile, les composants étant faciles à trouver et à changer. Le coût en revanche peut être conséquent.
@@ -182,9 +182,10 @@ Ce changement n'est pas une opération très difficile, les composants étant facil
 
 Sur l'onduleur, la cause courante de la panne sera les transistors de découpage (qui sont parfois nombreux, étant donné qu'on trouve en général plusieurs transformateurs chacun attaqué par deux transistors). Ceux-ci sont souvent sous-dimensionnés et mal refroidis, et se mettent en court-circuit. Ils ne jouent plus leur rôle de "robinet" pour le courant et deviennent constamment passants, ce qui détruit souvent la puce *driver* et crée un court-circuit à l'entrée de l'onduleur (auquel l'alimentation DC réagit en coupant tout).
 
-Pour tester les transistors, j'ai une technique très approximative qui fonctionne néanmoins plutôt bien. Identifiez (à l'aide de la *datasheet* obtenue sur *Google* à partir des marquages présents sur le transistor) quel pin correspond à quelle fonction - en général sur les MOSFET de surface l'ordre est gate, drain, source, et vérifiez avec un ohmmètre la résistance entre le drain et la source, avec le + sur le drain, et le - sur la source (impératif). Vous devriez trouver une résistance infinie, ou du moins très grande. Si vous trouvez 0, il y a de très fortes chances que le transistor soit en court-circuit. Dans ce cas il est souhaitable de le déssouder (si possible sans le détruite) et de le tester hors du circuit pour confirmer.
+Pour tester les transistors, j'ai une technique très approximative qui fonctionne néanmoins plutôt bien. Identifiez (à l'aide de la *datasheet* obtenue sur *Google* à partir des marquages présents sur le transistor) quel pin correspond à quelle fonction - en général sur les MOSFET de surface l'ordre est gate, drain, source, et vérifiez avec un ohmmètre la résistance entre le drain et la source, avec le + sur le drain, et le - sur la source (impératif). Vous devriez trouver une résistance infinie, ou du moins très grande. Si vous trouvez 0, il y a de très fortes chances que le transistor soit en court-circuit. Dans ce cas il est souhaitable de le déssouder (si possible sans le détruire) et de le tester hors du circuit pour confirmer.
 
-Pour tester le driver, je ne connais pas de méthode. Si un des transistors est en court-circuit il est préférable de changer le driver qui aura possiblement été détruit lorsque le transistor s'est mis en court-circuit, mais je me suis déjà contenté de ne changer que le transistor et cela fonctionnait très bien. Pour moi, le remplacement du driver va surtout dépendre de contraintes économiques et techniques : est-il possible de le trouver à bas coût en quantité raisonnable (car la bobine de 5000 ne vous intéresse probablement pas) ? Est-il possible de le changer avec votre fer à souder sans détruire toute la carte ?
+Pour tester le driver, je ne connais pas de méthode. Si un des transistors est en court-circuit il est préférable de changer le driver qui aura possiblement été détruit lorsque le transistor s'est mis en court-circuit, mais je me suis déjà contenté de ne changer que le transistor et cela fonctionnait très bien. Pour moi, le remplacement du driver va surtout dépendre de contraintes économiques et techniques : est-il possible de le trouver à bas coût en quantité raisonnable (car la bobine de 5000 ne vous intéresse probablement pas) ? Est-il possible de le changer avec votre fer à souder sans détruire la carte ?
+Souvent la réponse à l'une de ces questions est non, ce qui emporte la décision.
 
 ## Se procurer les composants
 
@@ -202,12 +203,11 @@ Pour les condensateurs, repérez :
 
 Le critère est de trouver un condensateur de même capacité, de tension de service supérieure ou égale, et de dimensions compatibles avec l'espace disponible sur la carte (souvent, c'est serré !). En général, vous aurez besoin d'un condensateur marqué "low ESR" (*equivalent series resistance*, un critère secondaire mais important).
 
-Certains sites vous recommandent de prendre une grande marque de condensateurs, par exemple Panasonic. Le problème est que leur coût est parfois prohibitif pour réparer du matériel usagé. J'ai tendance à penser qu'un achat de condensateur dans les bons critères, mais À Pas Cher(TM), est une bonne stratégie. S'il meurt à nouveau dans l'année qui vient vous saurez que vous pouvez acheter du haut de gamme !
+Certains recommandent de prendre une grande marque de condensateurs, par exemple Panasonic. Le problème est que leur coût est parfois prohibitif pour réparer du matériel usagé. J'ai tendance à penser qu'un achat de condensateur dans les bons critères, mais À Pas Cher(TM), est une bonne stratégie. S'il meurt à nouveau dans l'année qui vient vous saurez que vous pouvez acheter du haut de gamme !
 
 ### Les transistors de découpage
 
-Le marquage sur les transistors vous indique toujours leur type, dont vous pourrez trouver la *datasheet* avec peu d'efforts. 
-Le remplacement se fait de préférence à l'identique, mais cela pose rarement problème, en particulier pour les transistors de découpage de l'onduleur car les concepteurs utilisent systématiquement des transistors très courants et peu onéreux (d'où les pannes fréquentes...).
+Le marquage sur les transistors vous indique toujours leur type, dont vous pourrez trouver la *datasheet* avec peu d'efforts. Le remplacement se fait de préférence à l'identique, mais cela pose rarement problème, en particulier pour les transistors de découpage de l'onduleur car les concepteurs utilisent systématiquement des transistors très courants et peu onéreux (d'où les pannes fréquentes...).
 
 Si vous ne pouvez pas remplacer à l'identique, bon courage pour trouver un transistor compatible. Cela n'est pas dur mais sort franchement du cadre de cet article introductif.
 
@@ -240,14 +240,15 @@ Regardez une vidéo Youtube si vous ne savez pas faire. Pour les condensateurs tr
 Faites très attention à une chose : les petites pistes sur les PCB tendent à se décoller voire à se couper quand elles ont trop chauffé. Si cela arrive, votre travail va devenir très difficile, car vous vous êtes engagé dans la destruction de la carte, ce qui n'était pas notre objectif premier. Notez que vous pouvez toujours tenter de remplacer la carte, pour cela cherchez sur *Google* un des marquages apposés sur le PCB. Quand vous verrez le prix, vous changerez probablement d'avis et reprendrez votre fer à souder en main !
 
 ![Transistor TO252 déssoudé](inverter_transistor_ripout.jpg)
+
 ### Installer les nouveaux composants
 
 Installer les composants est plus facile que de les enlever : vous avez donc fait le plus dur.
-Pour les composants traversants, (attention au sens des condensateurs électrolytiques qui sont polarisés !) si vous n'avez pas réussi à retirer toute la soudure du trou, vous pouvez tenter d'insérer le composant tout en faisant fondre la soudure, ou carrément de percer dans le trou. Attention à percer au diamètre le plus faible possible : il ne faut surtout pas élargir le trou dans le PCB, car le PCB est pourvu d'une bague en métal qui fait contact. Si vous détruisez celle-ci vous aurez énormément de difficulté à souder correctement le nouveau composant.
+Pour les composants traversants (attention au sens des condensateurs électrolytiques qui sont polarisés !), si vous n'avez pas réussi à retirer toute la soudure du trou, vous pouvez tenter d'insérer le composant tout en faisant fondre la soudure, ou carrément de percer dans le trou. Attention à percer au diamètre le plus faible possible : il ne faut surtout pas élargir le trou dans le PCB, car le PCB est pourvu d'une bague en métal qui fait contact. Si vous détruisez celle-ci vous aurez énormément de difficulté à souder correctement le nouveau composant.
 
 Pour les composants en surface, il faut de la patience, *Youtube*, et ne pas trop trembler. La tension de surface de l'étain fondu, associée à la magie de la tresse à déssouder, rendent l'installation d'un chip assez facile par rapport à ce qu'on peut s'imaginer.
 
-Le problème arrive lorsque l'étape de déssoudage a été mal réalisé, comme sur la catastrophe, dont je ne suis pas fier d'être responsable, que je vous présente ci-dessous. Voyez comment plusieurs des pistes (entourées sur l'image) sont cassés, ce qui nécessitera un raccord avec du fil. Notez également que certaines pistes semblent de plus être droites : c'est parce qu'elles sont décollées ! Un enfer pour la réparation.
+Le problème arrive lorsque l'étape de déssoudage a été mal réalisé, comme sur la catastrophe, dont je ne suis pas fier d'être responsable, que je vous présente ci-dessous. Voyez comment plusieurs des pistes (entourées sur l'image) sont cassés, ce qui nécessitera un raccord avec du fil. Notez également que certaines pistes semblent ne plus être droites : c'est parce qu'elles sont décollées ! Un enfer pour la réparation.
 
 ![Driver BD9898FV déssoudé](inverter_TSOPremove_view.jpg)
 ![Détail pour l'installation du nouveau BD9898FV](inverter_TSOPremove_detail.jpg)
