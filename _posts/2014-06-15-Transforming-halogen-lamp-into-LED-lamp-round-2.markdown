@@ -162,6 +162,8 @@ I still haven't used *connectors*, so most of my connections are individual wire
 Current level monitoring would be good. You do that with a shunt resistor and I don't have any lying around, so I haven't done it. 
 Higher power would be good, but it would require that I change everything (the power supply is maxed out @12V 1A, the JeeNode can't take higher than 13V, the LED is rated for ~950mA @12V, and the cooling solution is probably a bit limited).
 
+**Presence detection** still hasn't been implemented. I know how to do it technically (a PIR module such as [this one](http://www.ebay.com/itm/400330055400) will work, as evidenced by [my bathroom lighting](//perso.aquilenet.fr/~sven337/english/2014/03/30/Automatic_lighting_in_bathroom.html)), but it would have the same problem as the light sensor: it would be ugly. Presence detection is made mostly useless by the ``/etc/pm/sleep.d`` hook on my computer: my being in the room and my computer being on are very strongly correlated, so practically the lamp is on when I'm in the room and off when I leave it.
+
 I'm still quite excited to have gotten this to work so easily, even though it's not perfect, for a first power LED project it's a success.
 
 Let me know if you have questions!
