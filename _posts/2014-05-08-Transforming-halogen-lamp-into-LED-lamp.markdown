@@ -8,6 +8,12 @@ comments: true
 img_rel: "/~sven337/data/hal2led"
 ---
 
+# Table of contents
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
+
 # Introduction 
 
 I found a old halogen lamp in a dumpster years ago. My wife redecorated it, and I did minor fixes. 
@@ -108,7 +114,7 @@ The mod was fairly easy to do:
 * I haven't touched the capacitor, but it can be removed too
 * Solder red and black input wires at what used to be the output of the bridge, be sure you get the polarity right (the silkscreen is wrong on the unit I received, so you need to double check with the PT4115 datasheet where the *GND* and *VDD* pins are connected)
 * Solder a tiny wire on the DIM pin of the PT4115 (make sure you add some tin on the pin, have tin on the wire, and it will be easy)
-* Change the current sense SMD resistor marked R150 for the value you need, refer to the PT4115 datasheet for that -- I haven't done that yet
+* Change the current sense SMD resistor marked R150 for the value you need, refer to the PT4115 datasheet for that. 
 
 ## Connecting everything
 
@@ -150,4 +156,7 @@ The heatsink is probably too small, but I've measured a maximum temperature of 5
 ## Oh my god this is ugly...
 
 ... I need to clean up the assembly. :)
+
+## To be continued...
+
 
