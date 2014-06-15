@@ -79,12 +79,19 @@ Si vous êtes curieux je vous recommande chaudement la lecteur de l'article suiva
 On trouve parfois, sur cette partie de l'alimentation, un PFC actif. En général un PFC passif est présent (voire pas de PFC du tout, ce qui il me semble n'est autorisé en Union Européenne qu'en dessous d'une valeur de puissance tellement faible que cela ne s'applique probablement qu'aux écrans 17").
 On a bien sûr un pont de redressement, des condensateurs d'entrée, des transistors de découpage, un transformateur, des diodes de redressement, et des condensateurs de filtrage en sortie. La cause de panne la plus courante sur cette partie est la dégradation (âge et températures) des condensateurs électrolytiques de filtrage en sortie. Nous y reviendrons.
 
+![Alimentation DC avec PFC actif et sortie 5V, 12V, 24V](psu_front.jpg)
+![PFC actif](psu_pfc_transistor.jpg)
+![Transistors de découpage](psu_transistors.jpg)
+
 ### Onduleur ###
 
 Cet étage est en général attaqué par une tension un peu plus élevée que les 3.3V ou 5V de l'électronique de contrôle. En effet les lampes consomment une puissance non négligeable (surtout sur des diagonales importantes), et puisqu'il faudra découper après et élever la tension, autant se dispenser de faire circuler de trop gros courants. Sur un écran d'ordinateur de 17", l'alimentation DC attaquait l'onduleur avec **12V DC**, alors que sur une télévision 37" dont je montrerai quelques photos plus loin, c'était du **24V DC** (avec tout de même **6A** de courant nominal).
 
 Des condensateurs d'entrée sont présents, et la tension est découpée et fournie à un transformateur par lampe (4 lampes, 4 transformateurs). Ce transformateur dispose d'un ratio important qui génère une tension d'environ **1kV AC**. (Je n'ai pas mesuré très précisément). 
 En général sur l'onduleur, la panne vient des transistors de découpage, systématiquement sous-dimensionnés, mais parfois également de leur driver (sachant que la mort du transistor entraîne souvent la mort du driver).
+
+Sur l'onduleur ci-dessous, j'ai déjà commencé à faire la réparation et j'ai retiré 3 transistors ainsi qu'un driver (qui a brûlé). On voit toujours les capacités d'entrée, les quatre transformateurs, les 8 transistors, et les 2 drivers.
+![Onduleur](inverter_fullview.jpg)
 
 # Réparer l'écran plat
 
@@ -159,6 +166,8 @@ Les cas qui ne sont probablement *pas* des problèmes d'alimentation sont les sui
 La panne provient à 90% des condensateurs électrolytiques en sortie. Dans une alimentation, ces condensateurs sont pratiquement des pièces d'usure. Un condensateur électrolytique, c'est un cylindre en aluminium, scellé, qui contient un électrolyte liquide. Lorsque le condensateur chauffe (parce qu'il est soumis à une température élevée, courant car les diodes de redressement en sortie s'échauffent, ou parce qu'un gros courant le traverse), l'électrolyte se dilate, et il arrive qu'il fuie. Vous voyez cela si le sommet du condensateur (là où une croix métallique est destinée, précisément pour permettre l'expansion sans explosion) est bombé, ou s'il a fui.
 C'est une panne très courante et plutôt bien décrite sur Internet, par exemple dans [cet article](http://www.tomshardware.fr/articles/Reparer-carte-mere,2-434-4.html).
 
+![Condensateurs de sortie, diodes de redressement](psu_24v_diodes.jpg)
+
 Ne vous inquiétez pas à propos des condensateurs en entrée (les très gros, en général marqués 400V) : ceux là chauffent peu et ne s'usent donc pratiquement pas. Seuls les condensateurs électrolytiques (cylindriques de gros volume) situés en sortie sont réellement susceptible d'être "usés".
 
 Parfois, les condensateurs de sortie ne sont pas visiblement bombés. Cela ne permet pas pour autant de les mettre hors de cause (et sur une alimentation d'écran que j'ai réparée, rien ne permettait de voir que ces condensateurs devaient être changés).
@@ -230,6 +239,7 @@ Regardez une vidéo Youtube si vous ne savez pas faire. Pour les condensateurs tr
 
 Faites très attention à une chose : les petites pistes sur les PCB tendent à se décoller voire à se couper quand elles ont trop chauffé. Si cela arrive, votre travail va devenir très difficile, car vous vous êtes engagé dans la destruction de la carte, ce qui n'était pas notre objectif premier. Notez que vous pouvez toujours tenter de remplacer la carte, pour cela cherchez sur *Google* un des marquages apposés sur le PCB. Quand vous verrez le prix, vous changerez probablement d'avis et reprendrez votre fer à souder en main !
 
+![Transistor TO252 déssoudé](inverter_transistor_ripout.jpg)
 ### Installer les nouveaux composants
 
 Installer les composants est plus facile que de les enlever : vous avez donc fait le plus dur.
@@ -239,3 +249,11 @@ Pour les composants en surface, il faut de la patience, *Youtube*, et ne pas tro
 
 Le problème arrive lorsque l'étape de déssoudage a été mal réalisé, comme sur la catastrophe, dont je ne suis pas fier d'être responsable, que je vous présente ci-dessous. Voyez comment plusieurs des pistes (entourées sur l'image) sont cassés, ce qui nécessitera un raccord avec du fil. Notez également que certaines pistes semblent de plus être droites : c'est parce qu'elles sont décollées ! Un enfer pour la réparation.
 
+![Driver BD9898FV déssoudé](inverter_TSOPremove_view.jpg)
+![Détail pour l'installation du nouveau BD9898FV](inverter_TSOPremove_detail.jpg)
+
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
