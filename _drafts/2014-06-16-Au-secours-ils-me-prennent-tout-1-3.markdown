@@ -37,7 +37,7 @@ En réalité, la TVA est un impôt égalitaire, qui est plus importante en valeur ab
 Bien sûr, la consommation (= les sommes depensées pour acheter produits et services) n'est pas une fonction linéaire du revenu. Il existe une consommation "de base", incompressible, qui correspond aux dépenses contraintes (nourriture, logement, énergie). 
 Cela justifie l'argument selon lequel la TVA est inéquitable : en pourcentage du revenu, il est relativement exact qu'elle est plus importante chez les pauvres que chez les riches (mais en aucun cas en valeur absolue). 
 
-La simplicité de la TVA est intéressante : qui que je sois, je paie le même montant de TVA lorsque j'achète le même produit. Augmenter la TVA n'a rien d'une mesure "anti-pauvres", dans l'absolu : la vraie question est celle de l'arbitrage, c'est-à-dire "vaut il mieux augmenter la TVA ou un autre impôt". Et on verra que cette caractéristique d'égalité stricte de la TVA n'est pas présente dans les autres impôts, donc l'arbitrage entre deux impôts donne, lui, lieu à une discussion sur l'équité : est-ce que je souhaite faire porter l'augmentation à égalité par tous les citoyens (bon courage pour m'expliquer que ce n'est pas une mesure juste), ou plutôt par les plus aisés d'entre eux (bon courage pour m'expliquer que ce n'est pas une mesure juste).
+La simplicité de la TVA est intéressante : qui que je sois, je paie le même montant de TVA lorsque j'achète le même produit. Augmenter la TVA n'a rien d'une mesure "anti-pauvres", dans l'absolu : la vraie question est celle de **l'arbitrage**, c'est-à-dire *"vaut il mieux augmenter la TVA ou un autre impôt"*. Et on verra que cette caractéristique d'égalité stricte de la TVA n'est pas présente dans les autres impôts, donc l'arbitrage entre deux impôts donne, lui, lieu à une discussion sur l'équité : est-ce que je souhaite faire porter l'augmentation à égalité par tous les citoyens (bon courage pour m'expliquer que ce n'est pas une mesure juste), ou plutôt par les plus aisés d'entre eux (bon courage pour m'expliquer que ce n'est pas une mesure juste).
 
 ### TVA sociale
 
@@ -46,7 +46,7 @@ Le réel problème de la TVA sociale est qu'elle viendrait en sus de la TVA, et po
 
 ## Impôt sur le revenu (IR)
 
-L'impôt sur le revenu des personnes physiques est l'impôt le plus compliqué, le plus chronophage, le plus traumatisant, et donc le plus présent dans notre débat politique. C'est à mon sens, pour les informaticiens qui me lisent, comme un gros logiciel mal écrit, patché au fil des ans, mal maintenu, que plus personne ne maîtrise et dont le fonctionnement s'écarte souvent de la spécification. La spécification en question étant récrite partiellement au gré de la météo, cet état de fait n'est pas surprenant.
+L'impôt sur le revenu des personnes physiques est l'impôt le plus compliqué, le plus chronophage, le plus traumatisant, et donc le plus présent dans notre débat politique. C'est à mon sens, pour les informaticiens qui me lisent, comme un gros logiciel mal écrit, patché au fil des ans, mal maintenu, que plus personne ne maîtrise et dont le fonctionnement s'écarte souvent de la spécification. La spécification en question étant **récrite partiellement au gré de la météo**, cet état de fait n'est pas surprenant.
 Mais restons factuel pour quelques lignes de plus.
 
 ### Principe
@@ -75,7 +75,7 @@ Certains de ces objectifs fonctionnent avec une réduction de l'assiette d'imposi
 Le problème majeur de l'impôt sur le revenu est qu'il est **traumatisant**, pour les raisons suivantes :
 
 - taux trompeur (le taux marginal, supérieur au taux réel, est celui utilisé légalement, mais il est contre-intuitif)
-- perception *ex post* qui renforce le sentiment de se faire "prendre de l'argent"
+- perception *ex post* qui renforce le sentiment de se faire "prendre de l'argent" (d'où le titre de cet article, propos que j'ai réellement entendus)
 - rupture d'égalité devant l'impôt (niches non accessibles à tous, connaissances et délais spécifiques à maîtriser pour bénéficier de certains avantages)
 
 ### Les nouveaux parasites 
