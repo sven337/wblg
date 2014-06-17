@@ -139,7 +139,7 @@ The command stream is exposed as a TCP socket with ``netcat``, allowing any of m
 	esac
 ```
 
-When the computer goes to sleep (automatically after 30 minutes of inactivity thanks to ``xautolock``), the lamp shuts down - although I should add a ten second delay allowing me to exit the room while seeing where I'm going. When it starts back up, the lamp gets the order to maintain 30% of its maximal ambient light level. The 30 figure doesn't have much meaning, it corresponds to a fairly low level that I find appropriate for the start of my day. I raise it to "as bright as you can" during the work day.
+When the computer goes to sleep (automatically after 30 minutes of inactivity thanks to ``xautolock``), the lamp shuts down - with a ten second delay allowing me to exit the room and still see where I'm going. When the computer wakes up, the lamp gets the order to maintain 30% of its maximal ambient light level. The 30 figure doesn't have much meaning, it corresponds to a fairly low level that I find appropriate for the start of my day. I raise it to "as bright as you can" during the work day.
 
 # Higher power
 
