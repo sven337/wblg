@@ -2,8 +2,8 @@
 layout: post
 title: Au secours, ils me prennent tout ! 2/3
 date: 2014-06-16 09:04:39
-tags: XXX
-category: english
+tags: politique
+category: francais
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
