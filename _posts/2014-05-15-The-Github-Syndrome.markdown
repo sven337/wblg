@@ -41,7 +41,7 @@ That's it, there is no third **distribute my crap for the world to see** option.
 
 # Github's motto: Promote "Not Invented Here"
 
-Github promotes this third option, by giving everybody a big button enabling them to publicize *whatever code their write*. I'll argue that making it easier to publish one's code is the exact opposite of what open source needs, if we as a community care about the quality of our code as well as the ease of joining our community.
+Github promotes this third option, by giving everybody a big button enabling them to publicize *whatever code they write*. I'll argue that making it easier to publish one's code is the exact opposite of what open source needs, if we as a community care about the quality of our code as well as the ease of joining our community.
 No, open source isn't about publishing **one's code**, it's about publishing **software**, which is typically done as part of a team with different skills spread over different team members.
 
 Giving an economical incentive to contributors to *not* work to get their code merged upstream has nefarious effects.
@@ -91,7 +91,7 @@ Each fork made some changes:
 - 20% are fixes to actual issues
 - 5% are gold nuggets (dramatic performance improvements, ...)
    
-For example, if you look at [one of the most recent forks](https://github.com/TMRh20/RF24https://github.com/TMRh20/RF24), you have pretty much all of that. 
+For example, if you look at [one of the most recent forks](https://github.com/TMRh20/RF24), you have pretty much all of that. 
 
 The real objective for our open source community should be to **throw away the 75% of crap** and useless changes, integrate the 20% of fixes, and promote (ie. make a new release for) the 5% of gold nuggets. What do we do in practice with Github? We publish **N different software solutions**, **none of which are fully working**, to the same problem.
 
