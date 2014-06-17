@@ -7,13 +7,17 @@ title: Sven337
   <h1>Blog Posts in English</h1>
   <ul class="posts">
     {% for post in site.categories.english %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% unless post.path contains '_drafts' %}
+		  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endunless %}
     {% endfor %}
   </ul>
   <h1>Articles en français</h1>
   <ul class="posts">
     {% for post in site.categories.francais %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% unless post.path contains '_drafts' %}
+		  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endunless %}
     {% endfor %}
   </ul>
   <h1>RSS</h1>
