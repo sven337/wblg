@@ -40,7 +40,7 @@ L'impôt sur le revenu des personnes mariées est calculé en faisant la somme de l
 
 Un plan d'épargne entreprise (PEE) est un dispositif d'épargne bloquée dans lequel l'État, en échange de l'engagement du salarié à conserver son épargne pendant 5 ans, consent une remise significative sur les impôts et charges qui devraient normalement être payées par les revenus dudit plan. (Les placements sont de plus potentiellement "abondés", c'est-à-dire augmentés, par l'entreprise, à des conditions fiscales avantageuses. Cela permet à des entreprises d'augmenter virtuellement leurs salariés à moindre coût, ce dispositif est donc très utilisé.)
 Toutefois, du fait que ce dispositif impose de bloquer de l'argent pendant *cinq longues années*, et que les français sont irresponsables et ne comprennent pas la notion d'engagement (citons par exemple les forfaits de téléphone mobile "avec engagement de deux ans", qui en réalité ne vous engagent que pour environ la moitié de cette durée, ou les médecins/coiffeurs/garagistes dont les clients ne viennent régulièrement pas, alors qu'ils avaient rendez-vous, et cela sans prévenir afin de ne pas avoir à assumer leur légèreté), il existe des conditions de déblocage anticipé.
-Pour les produits financiers standard de type compte à terme (un compte à terme est le symétrique d'un prêt), si vous souhaitez rompre le contrat avant la fin de la période d'engagement, cela est en général possible moyennant une pénalité parfois significative. Si on prend le cas du PEA (plan d'épargne en actions, une invention stupide de l'état français pour dépenser de l'argent public afin d'encourager les français à jouer à la loterie, je veux dire, à la bourse), la rupture est possible à tout moment, moyennant perte de l'avantage fiscal.
+Pour les produits financiers standard de type compte à terme (un compte à terme est le symétrique d'un prêt), si vous souhaitez rompre le contrat avant la fin de la période d'engagement, cela est en général possible moyennant une pénalité parfois significative. Si on prend le cas du PEA (plan d'épargne en actions, une invention stupide de l'état français pour dépenser de l'argent public afin d'encourager les français à <s>jouer à la loterie</s>  <s>parier</s>  "investir" en bourse), la rupture est possible à tout moment, moyennant perte de l'avantage fiscal.
 Pour le PEE, le montage est différent, car il aurait été dommage d'avoir un peu d'harmonie dans les produits financiers à avantage fiscal. Le déblocage avant échéance est impossible, sauf cas particuliers qui permettent de **conserver l'avantage fiscal**. Ces cas particuliers sont, notamment :
 
 - achat de la résidence principale
@@ -56,7 +56,7 @@ Dans le monde du travail, le mariage permet quelques menus avantages :
 
 - avoir ses vacances en même temps que son conjoint (sous réserve des nécessités du service)
 - demander une mutation pour rapprochement de conjoints (pour les fonctionnaires), bénéficier de l'assurance chômage en cas de démission pour suivre son conjoint (pour les salariés)
-- plein de petits détails dont certains chanceux profitent car ils sont les seuls au courant
+- plein de petits détails dont certains chanceux profitent car ils sont les seuls au courant, comme d'habitude dans notre droit du travail français
 
 # Le PACS rend ces bonus beaucoup plus accessibles
 
@@ -67,7 +67,7 @@ Cette facilité déséquilibre totalement l'ensemble des avantages octroyés au mari
 
 # Le mariage des personnes de même sexe...
 
-Arrive l'élection de M. Hollande, qui nous promet d'ouvrir le mariage aux personnes de même sexe. Je n'ai rien contre, et à vrai dire lorsque le gouvernement passe son temps là dessus il ne le passe pas à exercer son incompétence sur des sujets plus importants pour la société, mais il aurait semblé logique de faire suivre cette réforme de la **suppression pure et simple du PACS**, dont la raison d'être originelle avait dès lors disparu !
+Arrive l'élection de M. Hollande, qui nous promet d'ouvrir le mariage aux personnes de même sexe. Je n'ai rien contre (j'aurais voté pour si on m'avait demandé mon avis), et à vrai dire lorsque le gouvernement passe son temps là dessus il ne le passe pas à exercer son incompétence sur des sujets plus importants pour la société, mais il aurait semblé logique de faire suivre cette réforme de la **suppression pure et simple du PACS**, dont la raison d'être originelle avait dès lors disparu !
 Or, je n'ai pas entendu de telle suggestion, car les français sont certainement trop habitués au PACS - ce qui n'est pas surprenant étant donné les avantages qu'il offre avec une grande facilité d'accès.
 
 Le problème de fond est que les avantages - dont je conteste la légitimité, bien que j'en profite partiellement - du mariage coûtent de l'argent à l'état, sous la forme d'impôts non perçus. Les rendre aveuglément accessibles sous couvert de réforme sociétale est une erreur, et il est évident que le PACS aujourd'hui sert avant tout à réduire les impôts (ou obtenir des mutations, etc.) d'un couple hétérosexuel, bien avant de servir à un couple homosexuel à réaliser une union civile qui ne leur était auparavant pas ouverte. Il aurait fallu ouvrir le mariage aux personnes de même sexe plutôt que de créer le PACS, et à défaut, supprimer le PACS dès que ce mariage a été légalisé.
