@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mon opération LASIK
-date: 2014-06-23 09:22:05
+date: 2014-07-05 18:04:00
 tags: médecine
 category: francais
 comments: true
@@ -22,6 +22,12 @@ Inutile de détailler les raisons pour lesquelles je n'aime pas les lunettes.
 
 ## Aspect financier
 
+{:.CSSTableGenerator}
+| Correction | Coût sur 25 ans | Coût par an |
+| LASIK | 2000EUR | 100EUR |
+| Lentilles | 3200EUR | 160EUR |
+| Lunettes | 2200EUR | 110EUR |
+
 Je vais faire un calcul qui correspond à mon cas (myopie moyenne, astigmatisme très faible). Le vôtre peut différer, mais la méthode de calcul reste applicable.
 
 ### LASIK
@@ -41,12 +47,6 @@ J'avais une monture en titane, environ 300EUR, et les verres étaient à environ 8
 
 ### Bilan
 
-{:.CSSTableGenerator}
-| Correction | Coût sur 25 ans | Coût par an |
-| LASIK | 2000EUR | 100EUR |
-| Lentilles | 3200EUR | 160EUR |
-| Lunettes | 2200EUR | 110EUR |
-
 Certes, en changeant un peu les hypothèses on peut faire dire n'importe quoi à ces données. Ce qui est certain, par contre, c'est que le LASIK ne revient pas significativement plus cher que les lentilles ou les lunettes, ce serait plutôt l'inverse.
 
 Notez que je n'ai pas pris en compte les remboursements de la sécurité sociale (c'est normal, ils sont inexistants en optique) ou de votre mutuelle. Cela dit, les contrats de mutuelle remboursent en général le LASIK à hauteur de 15 à 20 ans de lentilles, donc cela ne change que peu l'équation.
@@ -54,6 +54,7 @@ Notez que je n'ai pas pris en compte les remboursements de la sécurité sociale (
 ## Quelles sont les raisons de ne pas vous faire opérer ?
 
 À mon avis :
+
 - si vous portez des lunettes et n'avez jamais essayé les lentilles, ne vous faites pas opérer et essayez les lentilles de contact qui vous fourniront presque tous les avantages du LASIK, sans modifier vos yeux de manière irréversible
 - si vous ne voyez pas le problème des lunettes
 - si vous n'avez pas totalement confiance dans le praticien que vous avez rencontré
@@ -77,15 +78,15 @@ Le premier laser va ensuite brûler la cornée, à la bonne profondeur, en dessinan
 
 #### Abrasion
 
-Cette étape est désagréable car il faut fixer un laser (qui éblouit), sans cligner des yeux, pendant une durée d'environ 30 secondes (et qui dépend bien sûr de la quantité de matière à détruire, c'est-à-dire de la puissance optique de votre correction - les détails sont en général dans la *datasheet* de l'appareil qui sera utilisé pour vous opérer). L'abrasion n'a pas été très douloureuse pour moi, mais l'un de mes amis, mal anesthésié, s'était plaint qu'elle était intolérable. Il semblerait que le dosage des anesthésies locales occulaire sont un peu aléatoire.
+Cette étape est désagréable car il faut fixer un laser (qui éblouit), sans cligner des yeux, pendant une durée d'environ 30 secondes (et qui dépend bien sûr de la quantité de matière à détruire, c'est-à-dire de la puissance optique de votre correction - les détails sont en général dans la *datasheet* de l'appareil qui sera utilisé pour vous opérer). L'abrasion n'a pas été très douloureuse pour moi, mais l'un de mes amis, mal anesthésié, s'était plaint qu'elle était intolérable. Il semblerait que le dosage des anesthésies locales occulaires est un peu aléatoire.
 
 ### Après
 
 Immédiatement après l'opération vous porterez des lunettes noires et aurez interdiction absolue de vous toucher les yeux, car le capot, détaché, n'a aucune résistance mécanique. Il pourrait "tomber" comme une lentille de contact, ce qui vous donnerait l'immense joie de vous inscrire sur les listes d'attente pour une greffe de cornée afin de recouvrer la vue. Sérieusement, j'ignore les probabilités de complications, mais mon médecin m'avait dit que la plupart des problèmes graves se produisent dans les quelques jours suivant l'opération, soit à cause d'un souci mécanique comme je viens de décrire, soit à cause d'une infection.
 
-Vous pourrez ouvrir les yeux dans les minutes qui suivent l'opération, et vous y verrez suffisamment pour marcher un petit peu. Par contre, dès que l'anesthésie va se dissiper, vos yeux retrouveront leur sensibilité et indiqueront à votre cerveau qu'[http://fr.wikipedia.org/wiki/Douleur](ils ont été endommagés). L'anti-inflammatoire (qui vous aura été prescrit) calmera la douleur, mais tant qu'il n'est pas appliqué vous serez incapable d'ouvrir les yeux (et dans mon cas, en train de vous rouler par terre, en pleurs, dans un parking souterrain - véridique). C'est de très loin le plus mauvais souvenir que je conserve de cette procédure, mais il me faut signaler que mes deux amis qui ont fait l'opération n'ont absolument souvenir d'un tel niveau de douleur. J'ai juste été malchanceux.
+Vous pourrez ouvrir les yeux dans les minutes qui suivent l'opération, et vous y verrez suffisamment pour marcher un petit peu. Par contre, dès que l'anesthésie va se dissiper, vos yeux retrouveront leur sensibilité et indiqueront à votre cerveau qu'[ils ont été endommagés](http://fr.wikipedia.org/wiki/Douleur). L'anti-inflammatoire (qui vous aura été prescrit) calmera la douleur, mais tant qu'il n'est pas appliqué vous serez incapable d'ouvrir les yeux (et dans mon cas, en train de vous rouler par terre, en pleurs, dans un parking souterrain - véridique). C'est de très loin le plus mauvais souvenir que je conserve de cette procédure, mais il me faut signaler que mes deux amis qui ont fait l'opération n'ont absolument souvenir d'un tel niveau de douleur. J'ai juste été malchanceux.
 
-Dans les heures qui suivent l'opération, la lumière vous gênera beaucoup. L'idéal est de se coucher et d'essayer de dormir. Vous ressentirez rapidement que vous avez les yeux secs, sensation qui ne vous quittera pas pendant de nombreux mois, et qui vous réveillera parfois la nuit. Vous y verrez "correctement" dans les heures qui suivent l'opération, et une vue normale reviendra sous 24h à 48h. Deux jours après l'opération, je voyais 10/10.
+Dans les heures qui suivent l'opération, la lumière vous gênera beaucoup. L'idéal est de se coucher et d'essayer de dormir (ou d'écouter [Rendez-vous avec X](http://rendezvousavecmrx.free.fr/)). Vous ressentirez rapidement que vous avez les yeux secs, sensation qui ne vous quittera pas pendant de nombreux mois, et qui vous réveillera parfois la nuit. Vous y verrez "correctement" dans les heures qui suivent l'opération, et une vue normale reviendra sous 24h à 48h. Deux jours après l'opération, je voyais 10/10.
 
 # Retour d'expérience après deux ans
 
@@ -101,7 +102,7 @@ Quelques-uns sur Internet affirment être "handicapés à vie" parce qu'ils ont les
 
 ### Lunettes de soleil
 
-La cornée post-opératoire est très sensible aux rayons ultra-violets (à vrai dire, la cornée tout court est très sensible [...]). Le médecin vous recommendera formellement de porter des lunettes de soleil dès que vous êtes en extérieur. J'ai la "chance" d'être particulièrement sensible à la lumière (je n'ai jamais pu sortir sans lunettes de soleil en été), et cette sensibilité m'a toujours efficacement rappelé de porter mes lunettes de soleil.
+La cornée post-opératoire est très sensible aux rayons ultra-violets (à vrai dire, la cornée *tout court* est très sensible [...]). Le médecin vous recommendera formellement de porter des lunettes de soleil dès que vous êtes en extérieur. J'ai la "chance" d'être particulièrement sensible à la lumière (je n'ai jamais pu sortir sans lunettes de soleil en été), et cette sensibilité m'a toujours efficacement rappelé de porter mes lunettes de soleil.
 En été, point de difficulté, mais à la mi-saison vous devrez également protéger vos yeux des UV. Le choix que j'ai fait, étant donné le cyclisme que je pratique par ailleurs, est d'acheter des [lunettes de vélo de catégorie 1](http://www.decathlon.fr/arenberg-cat1-id_8118519.html). Ce modèle précis est peu onéreux, de bonne qualité (pour le cyclisme comme pour la protection au quotidien), et sa forme enveloppante aide également à limiter la séchèresse occulaire. Je recommande fortement d'acheter ces onéreuses lunettes et de les porter systématiquement en extérieur et pourquoi pas en intérieur.
 
 ## Pourquoi je le referais
