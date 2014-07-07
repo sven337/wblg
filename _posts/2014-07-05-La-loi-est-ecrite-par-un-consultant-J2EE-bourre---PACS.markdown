@@ -12,7 +12,7 @@ La loi est mal écrite, et je ne peux m'empêcher de faire un parallèle avec du co
 
 Mais ce que je souhaite dénoncer dans cette rubrique "consultant bourré", ce sont les effets secondaires *imprévus*, néfastes, qui sont conséquence d'une production législative bâclée. Il y a pléthore d'exemples en droit pénal mais ce domaine ne m'intéresse pas beaucoup.
 
-Dans ce premier épisode je vais vous raconter l'histoire du PACS, ou comment l'obsession de ne pas paraître homophobe dans une décennie où ce n'est plus à la mode a perverti de nombreux dispositifs prééexistants.
+Dans ce premier épisode je vais vous raconter l'histoire du PACS, ou comment l'obsession de ne pas paraître homophobe dans une décennie où ce n'est plus à la mode a perverti de nombreux dispositifs préexistants.
 
 # Le PACS : le mariage light pour les homos
 
