@@ -8,7 +8,7 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-La loi est mal écrite, et je ne peux m'empêcher de faire un parallèle avec du code informatique. Comme je l'expliquais dans un article précédent sur le système fiscal, on modifie sans cesse la spécification (= les objectifs) de la loi, et l'implémentation consiste à rajouter des verrues sans jamais rien supprimer ou factoriser. On se retrouve avec des lois écrites dans un français sibyllin, des références très difficiles à retrouver, et une incertitude constante. Cela fait le bonheur des avocats et du système judicaire en général, et en soi c'est déjà un problème car la loi devient inaccessible au citoyen non expert.
+La loi est mal écrite, et je ne peux m'empêcher de faire un parallèle avec du code informatique. Comme je l'expliquais dans un [article précédent](//perso.aquilenet.fr/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html) sur le système fiscal, on modifie sans cesse la spécification (= les objectifs) de la loi, et l'implémentation consiste à rajouter des verrues sans jamais rien supprimer ou factoriser. On se retrouve avec des lois écrites dans un français sibyllin, des références très difficiles à retrouver, et une incertitude constante. Cela fait le bonheur des avocats et du système judicaire en général, et en soi c'est déjà un problème car la loi devient inaccessible au citoyen non expert.
 
 Mais ce que je souhaite dénoncer dans cette rubrique "consultant bourré", ce sont les effets secondaires *imprévus*, néfastes, qui sont conséquence d'une production législative bâclée. Il y a pléthore d'exemples en droit pénal mais ce domaine ne m'intéresse pas beaucoup.
 
