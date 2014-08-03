@@ -92,7 +92,7 @@ XXX
 ## La fiscalité de la rémunération des actionnaires
 
 Le système pour les actionnaires est tellement simple en comparaison de celui des salariés, que c'est à en pleurer de ne pouvoir se passer de salariés.
-La raison majeure, il faut le dire, est que la rémunération des actionnaires finance assez peu la sécurité sociale, dont le système de financement très complexe est une cause majeure des sous-performances de nombreuses entreprises.
+La raison majeure, il faut le dire, est que la rémunération des actionnaires paie assez peu la sécurité sociale, dont le système de financement très complexe est une cause majeure des sous-performances de nombreuses entreprises françaises.
 
 XXX
 
