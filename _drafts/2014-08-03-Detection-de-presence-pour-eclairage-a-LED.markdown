@@ -8,6 +8,9 @@ comments: true
 img_rel: "/~sven337/data/pir_ssr2"
 ---
 
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
 Cet article vise à expliquer théoriquement comment rajouter une détection de présence à un système d'éclairage à LED. Je l'écris pour un ami, sans avoir réalisé tous les montages que je vais décrire. N'hésitez pas à me rapporter d'éventuelles erreurs, ou les détails de votre réalisation.
 
 # Objectif
@@ -116,36 +119,58 @@ En réalité, le défaut de l'alimentation qui fait cet effet est précisément lié a
 ## Composants
 
 On a ici simplement besoin d'un condensateur et d'une résistance, dont il va falloir calculer les valeurs.
-Un circuit RC série, exposé à un échelon de tension E = 12V, va avoir aux bornes du condensateur une tension donnée par la formule suivante : `U_c = E*(1 - exp(-t/RC))`. 
+Un circuit RC série, exposé à un échelon de tension E = 12V, va avoir aux bornes du condensateur une tension donnée par la formule suivante : $$ U_c = E*(1 - e^{-t/(R*C)}) $$. 
 Voir [cette page](http://wiki.sillages.info/index.php/R%C3%A9ponse_d%27un_circuit_RC_%C3%A0_un_%C3%A9chelon_de_tension) si vous êtes rouillé.
 
 On va imaginer un "*fade-in*" qui dure une demi-seconde. Vous ajusterez la durée selon votre plaisir (et l'avis de madame). Il faut faire quelques hypothèses :
 
 - les LED sont complètement éteintes en dessous de 2.5V (tension de seuil approximative de ces LED)
 - les LED sont à 100% de luminosité à partir de 11.5V (très approximatif mais par expérience c'est vrai, car la luminosité de la LED varie exponentiellement avec la tension dans ces rubans, il n'y a donc quasiment pas de différence entre 11.5V et 12V)
-- on appelle t1 et t2 les temps correspondant à ces seuils, c-a-d Uc(t1) = 2.5V, Uc(t2) = 11.5V
+- on appelle $$t_1$$ et $$t_2$$ les temps correspondant à ces seuils, c-a-d $$U_c(t_1) = 2.5V$$, $$U_c(t_2) = 11.5V$$
 
-On cherche donc les valeurs de R et C telles que t2 - t1 = 0.5s.
+On cherche donc les valeurs de R et C telles que :
 
-Uc(t1) = 2.5V
-Uc(t2) = 11.5V
-t2 - t1 = 0.5s
+$$
+\begin{align}
+U_c(t_1) = 2.5V \\
+U_c(t_2) = 11.5V \\
+t_2 - t_1 = 0.5s \\
+\end{align}
+$$
 
-exp(-t1/RC)) = (E - 2.5V) / E
-exp(-t2/RC)) = (E - 11.5V) / E
+C'est-à-dire :
 
-t1 = - RC * ln((E-2.5V) / E)
--t2 = RC * ln((E-11.5V) / E)
+$$
+\begin{align}
+e^{-t_1/(RC)} = \frac{E - 2.5V}{E}\\
+e^{-t_2/(RC)} = \frac{E - 11.5V}{E}\\
+\end{align}
+$$
 
-t2-t1= RC * (ln((E-2.5V) / E) - ln((E-11.5V) / E))
+Essayons de faire apparaître $$t_2-t_1$$ : 
+$$
+\\
+-t_1 = RC * \ln{\frac{E-2.5V}{E}} \\
+t_2 = - RC * \ln{\frac{E-11.5V}{E}} \\
+$$
 
-RC = (t2 - t1) / (ln((E-2.5V) / E) - ln((E-11.5V) / E))
-RC = 0.5 / (ln(9.5/12) - ln (0.5/12))
-RC = 0.170 s^-1
+En additionnant les deux expressions, on peut résoudre en $$RC$$:
+$$
+\\
+t_2-t_1 = RC * (\ln{\frac{E-2.5V}{E}} - ln{\frac{E-11.5V}{E}}) \\
+\implies t_2-t_1 = RC * \ln{\frac{E-2.5V}{E-11.5V}} \\
+\implies RC = \frac{t_2 - t_1}{\ln{\frac{E-2.5V}{E-11.5V}}}
+$$
 
-Maintenant, on va fixer C (parmi les choix qui s'offrent à nous), et cela nous donnera le R à utiliser (car il est facile de faire à peu près n'importe quelle valeur de R, alors que pour C c'est plus difficile). Je regarde dans mes tiroirs et je trouve un condensateur électrolytique de 6.8uF, soit :
+Numériquement, on trouve :
+$$
+RC = 0.5 / (ln(9.5/12) - ln (0.5/12)) \\
+RC \approx 0.170 s^{-1}
+$$
 
-R = 0.170 / 6.8E-6 = 24kOhm
+Maintenant, on va fixer C (parmi les choix qui s'offrent à nous), et cela nous donnera le R à utiliser (car il est facile de faire à peu près n'importe quelle valeur de R, alors que pour C c'est plus difficile). Je regarde dans mes tiroirs et je trouve un condensateur électrolytique de $$6.8\mu F$$, soit :
+
+$$R = \frac{0.170}{6.8\times 10^{-6}} \approx 24k\Omega$$
 
 On mettra donc, en parallèle des LED, une résistance de 24k et un condensateur de 6.8uF. Les LED et la branche RC sont reliées au drain du transistor.
 Avec ces valeurs, on subit une latence de 40 millisecondes à l'allumage (le temps que la tension atteigne environ 2.5V), puis on voit une augmentation progressive de la luminosité jusqu'à 500 millisecondes après l'allumage !
