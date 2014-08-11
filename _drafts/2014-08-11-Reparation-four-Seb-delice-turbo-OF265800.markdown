@@ -2,19 +2,19 @@
 layout: post
 title: Réparation four Seb délice turbo OF265800
 date: 2014-08-11 09:27:31
-tags: XXX
-category: english
+tags: electronique reparation
+category: francais
 comments: true
 img_rel: "/~sven337/data/four"
 ---
 
-Je vais expliquer comment ouvrir et changer des pièces dans le four Seb <s>turbo-diesel</s>délice turbo OF265800. Ces informations sont probablement valables pour les modèles de la même gamme mais de taille différente (30L, ...).
+Je vais expliquer comment ouvrir et changer des pièces dans le four Seb <s>turbo-diesel</s> délice turbo **OF265800**. Ces informations sont probablement valables pour les modèles de la même gamme mais de taille différente (30L, ...).
 
 ![Photographie commerciale du four](image-four.jpg)
 
 # La panne 
 
-Ce four est mon deuxième mini-four Seb, en sept ans, dont le **mécanisme de la porte** a **cassé**. Je ne doute pas qu'il m'arrive de manipuler la porte avec un peu plus de force que la ménagère de moins cinquante kilogrammes pour laquelle ce genre d'appareil est prévu, mais je considère anormal qu'un appareil de cuisine nécessite d'être manipulé avec la plus grand douceur si on souhaite qu'il vive plus de 4 ans.
+Ce four est mon deuxième mini-four Seb, en sept ans, dont le **mécanisme de la porte** a **cassé**. Je ne doute pas qu'il m'arrive de manipuler la porte avec un peu plus de force que la *ménagère de moins cinquante kilogrammes* pour laquelle ce genre d'appareil est prévu, mais je considère anormal qu'un appareil de cuisine nécessite d'être manipulé avec la plus grand douceur si on souhaite qu'il vive plus de 4 ans.
 
 Sur le précédent four, c'était la pièce métallique qui relie la porte au four qui avait cassé, et les pièces n'étaient plus disponibles. J'avais donc été contraint de le changer. Cette fois-ci, le problème était moins important : la porte n'était plus retenue à l'ouverture, elle avait tendance à tomber d'un coup. Le cran intermédaire d'ouverture de la porte ne "fonctionnait" plus.
 J'ai décidé de ne pas céder à la stratégie du jetable que les constructeurs essaient de nous imposer et d'ouvrir pour voir.
@@ -34,11 +34,11 @@ Pour démonter ce four il faut commencer par le retourner et retirer les 8 vis cr
 
 Une fois ces vis enlevées, remettez le four dans le bon sens et retirez les vis de la face arrière. L'une d'entre elles a une tête de type SnakeEye, mais vous ferez comme moi et l'appellerez PutainDeVisÀLaCon. (En réalité je ne suis pas certain du premier nom, mais pour le deuxième il n'y a aucun doute.)
 
-Par chance je possède un coffret d'embouts "bizarres" dont l'un convenait parfaitement. (Pour ceux que cela intéresse, il s'agit de l'ancienne version de [ce coffret chez Castorama](http://www.castorama.fr/store/Coffret-35-embouts-de-precision-prod8540001.html). Le commentaire client - qui n'est pas de moi - reflète mon avis.) Si vous n'en avez pas, vous pouvez, au choix:
+Par chance je possède un coffret d'embouts "bizarres" dont l'un convenait parfaitement. (Pour ceux que cela intéresse, il s'agit de l'ancienne version de [ce coffret chez Castorama](http://www.castorama.fr/store/Coffret-35-embouts-de-precision-prod8540001.html). Le commentaire client - qui n'est pas de moi - reflète mon avis.) Si vous n'en avez pas, vous pouvez, au choix :
 
-1.courir acheter un coffret similaire. Cela vous servira si vous faites régulièrement de la réparation électronique, car de nombreux appareils sont pourvus de TorxPlus (PutainDeVisDeMerde) et autres vis conçues pour vous **empêcher de réparer** l'appareil que vous **possédez**.
-1.essayer à la pince, la vis n'étant pas très serrée, mais pourvue d'une rondelle spéciale qui peut vous compliquer un peu la vie
-1.limer un tournevis plat pour le transformer en tournevis pour PutainDeVisÀLaCon. À mon sens c'est stupide de faire cela quand on peut acheter le bon embout à bon prix, mais c'est votre argent.
+1. courir acheter un coffret similaire. Cela vous servira si vous faites régulièrement de la réparation électronique, car de nombreux appareils sont pourvus de TorxPlus (PutainDeVisDeMerde) et autres vis conçues pour vous **empêcher de réparer** l'appareil que vous **possédez**.
+1. essayer à la pince, la vis n'étant pas très serrée, mais pourvue d'une rondelle spéciale qui peut vous compliquer un peu la vie
+1. limer un tournevis plat pour le transformer en tournevis pour PutainDeVisÀLaCon. À mon sens c'est stupide de faire cela quand on peut acheter le bon embout à bon prix, mais c'est votre argent.
 
 ### Devant
 
@@ -47,6 +47,7 @@ Ouvrez la porte du four : un certain nombre de vis sont présentes, qui maintienn
 ## Dépose du capot
 
 Une fois les vis retirées il devient possible d'enlever le capot. Celui-ci fonctionne comme la voiture suivante (la photo n'est pas de moi) :
+
 ![Principe d'ouverture du capot](tesla-model-x-portes.jpg).
 
 Il faut lever chaque côté du four, jusqu'à ce que les trois éléments en métal du côté qui sont enfichés dans le dessus se dégagent. Il n'est pas utile d'exercer beaucoup de force : si ça ne vient pas assez facilement, c'est que quelque chose coince, et vous risquez de tordre la tôle de manière qui sera difficile à réparer. J'en sais quelque chose.
@@ -56,6 +57,7 @@ Une fois les côtés retirés vous pouvez enlever l'arrière, quoique cela ne soit p
 # Réparation du ressort
 
 Sur ce modèle de four, la porte est retenue par deux ressorts. Dans mon cas, l'origine du problème était facile à voir :
+
 ![Ressort de porte cassé](ressort-porte-casse.jpg)
 ![Point de fixation du ressort](ressort-porte-fixation.jpg)
 
@@ -63,15 +65,19 @@ Il aurait été judicieux d'essayer de remplacer ce ressort. J'imagine que Seb, à 
 
 Bref, considérant que la casse s'est produite sur la première spire du ressort, j'ai décidé de dérouler quelques-unes des spires à la pince (attention le ressort est particulièrement raide, ne vous blessez pas !) et de recréer le crochet de fixation. La raideur du ressort est évidemment modifiée, et surtout les contraintes qu'il va subir seront plutôt plus importantes qu'avant, donc je ne prévois pas que cette réparation soit particulièrement durable.
 J'imagine que le ressort a cassé à cause des contraintes thermiques qu'il a subi : c'est en effet le seul élément de tout le four qui n'est pas protégé par une gaine, ce qui est une erreur de conception (ou plutôt un choix délibéré pour vous forcer à changer le mini-four au bout de 5 ans).
-L'autre ressort est protégé *partiellement* par une gaine, je ne comprends pas pourquoi la gaine ne fait pas toute la longueur :
-![Gaine thermique du ressort de porte](ressort-porte-gaine.jpg)
 
 Voici une photographie de ma réparation : 
+
 ![Ressort après réparation](ressort-repare.jpg)
+	
+	
+On note que l'autre ressort est protégé *partiellement* par une gaine, je ne comprends pas pourquoi la gaine ne fait pas toute la longueur :
+
+![Gaine thermique du ressort de porte](ressort-porte-gaine.jpg)
 
 # Anatomie
 
-iJ'en ai profité pour prendre une photographie de la partie électrique du four, afin de montrer les différents organes. La photo n'est pas très bonne et j'en suis désolé.
+J'en ai profité pour prendre une photographie de la partie électrique du four, afin de montrer les différents organes. La photo n'est pas très bonne et j'en suis désolé.
 
 ![Anatomie](anatomie.jpg)
 
@@ -102,7 +108,7 @@ Cela fait assez peur car l'électricité dans le four est totalement coupée, et on
 
 Je le mentionne pour ceux qui sont concernés : les résistances chauffantes des appareils de cuisson ne vivent pas éternellement, et si elles sont utilisés intensivement elles finissent par casser. En général, la casse prend la forme d'une coupure de circuit, et la résistance ne chauffe plus (c'est comme si elle n'était plus branchée). Peut-être qu'elle peut aussi se mettre en court-circuit, j'en doute un peu mais je ne suis pas expert, auquel cas elle va chauffer beaucoup, et mettre le feu à votre habitation à moins que la protection thermique du four ne réagisse avant (ce qui est normalement le cas), sachant que le tableau électrique devrait également couper le circuit au bout d'un moment.
 
-Lorsque la résistance est cassée, elle n'est pas réparable : il faut la changer. Cela peut-être assez cher (j'avais compté environ 30EUR pour une résistance de friteuse, ce qui est une bonne affaire vu le prix d'une friteuse neuve, mais tout de même pas donné), et surtout, il peut être très compliqué de trouver la bonne référence, si le constructeur ne coopère pas. Par expérience les quelques réparateurs d'électro-ménager qui n'ont pas fait faillite sont de bon conseil et peuvent vous aider à trouver la bonne pièce (car ils ont accès à un catalogue de pièces constructeurs et génériques, exactement comme votre garagiste), mais cela reste une démarche hasardeuse.
+Lorsque la résistance est cassée, elle n'est pas réparable : il faut la changer. Cela peut être assez cher (j'avais compté environ 30EUR pour une résistance de friteuse, ce qui est une bonne affaire vu le prix d'une friteuse neuve, mais tout de même pas donné), et surtout, il peut être très compliqué de trouver la bonne référence, si le constructeur ne coopère pas. Par expérience les quelques réparateurs d'électro-ménager qui n'ont pas fait faillite sont de bon conseil et peuvent vous aider à trouver la bonne pièce (car ils ont accès à un catalogue de pièces constructeurs et génériques, exactement comme votre garagiste), mais cela reste une démarche hasardeuse.
 
 Je réalise n'avoir pas vérifié si la résistance était démontable sur ce modèle de four, et ce n'est pas très visible sur la photo que j'ai prise.
 
@@ -115,4 +121,9 @@ J'avoue être, en revanche, impressionné par le fonctionnement du thermostat étan
 
 Mon prochain mini-four sera d'une autre marque, car je n'apprécie pas du tout de devoir réparer un appareil acheté neuf il y a moins de cinq ans, et j'apprécie encore moins que le constructeur ait estimé important de me compliquer la manoeuvre (PutainDeVisÀLaCon, tôles vissées directement, manuel de réparation non disponible, ...).
 
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
 
