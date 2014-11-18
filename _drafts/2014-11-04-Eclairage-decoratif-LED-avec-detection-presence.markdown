@@ -81,7 +81,15 @@ On passe de la valeur à sa représentation point fixe en décalant d'un certain no
 
 ### Correction de luminosité
 
-Les valeurs 
+Le signal envoyé par l'Arduino pour commander les LED est un PWM linéaire. Or, une variation linéaire du rapport cyclique ne se traduit pas par une variation linéaire de la luminosité perçue par l'être humain, et c'est très simple de s'en convaincre. En programmant une rampe de 0 à 255 sur plusieurs secondes, on voit très facilement que pour les faibles valeurs, les variations sont très perceptibles, alors que pour une luminosité plus élevée il faut varier beaucoup plus l'intensité pour percevoir une différence à l'oeil.
+C'est l'adage "la sensation est le logarithme de la stimulation" : il faut corriger les valeurs de PWM de telle sorte que nos rampes linéaires soient linéaires *du point de vue de l'humain*. En pratique il faudra donc les rendre exponentielles, et j'ai écrit une fonction qui corrige les valeurs afin de les rapprocher d'une échelle perçue comme linéaire.
+À noter que de nombreuses personnes sur Internet appliquent une correction gamma (basée sur une fonction puissance), ce qui me semble être incorrect mais que je n'ai pas creusé. De toute façon on ne recherche pas la correction théorique, mais simplement à avoir une rampe *un peu meilleure* que ce qu'on obtient sans correction.
+
 ## Intégration
 
+Ce projet a une dimension esthétique très sérieuse. Par chance, mon propriétaire a mal installé son escalier et n'a pas réalisé les finitions qu'il aurait dû : il restait donc beaucoup de place sous l'escalier pour placer l'électronique, et j'ai utilisé un panneau de particules peint pour dissimuler le montage, avec un trou pour faire apparaître le détecteur. 
+J'ai fait quelques photographies.
+
 ## Résultat
+
+Le résultat est excellent et approuvé par la famille et les amis. Le positionnement du capteur m'a un peu inquiété au début mais il est suffisamment sensible pour détecter la présence à la montée comme à la descente. On s'habitue tellement vite à l'éclairage automatique qu'on souhaiterait l'avoir dans toute la maison !
