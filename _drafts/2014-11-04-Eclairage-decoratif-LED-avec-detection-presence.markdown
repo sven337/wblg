@@ -78,9 +78,9 @@ Voici les rampes pour l'allumage :
 
 ```C
 	// delay, R, G, B, next
-	{ 1, 0.02, 0.01, 0, 2 }, //RISE_START
-	{ 200, 0.15, 0, 0.08, RISE_END },
-	{ 1000, 1, 0.35, 0.08, RISE_END }, // RISE_END
+	{    1, 0.02, 0.01, 0   , 2 }, //RISE_START
+	{  200, 0.15, 0   , 0.08, RISE_END },
+	{ 1000, 1   , 0.35, 0.08, RISE_END }, // RISE_END
 ```
 
 Soit en bon français : 
@@ -95,11 +95,11 @@ Et pour l'extinction :
 ```C
 	{ 1000, 0.15, 0, 0.13, 9 }, // FADEOUT_START
 	{ 1000, 0.15, 0, 0.08, FADEOUT_END },
-	{ 4000, 0, 0, 0, FADEOUT_END }, // FADEOUT_END
+	{ 4000, 0   , 0, 0   , FADEOUT_END }, // FADEOUT_END
 ```
 
 1. atteindre la couleur $$R = 0.15, G = 0.00, B = 0.13$$ en 1 seconde.
-1. atteindre la couleur $$R = 0.15, G = 0.00, B = 0.00$$ en 1 seconde.
+1. atteindre la couleur $$R = 0.15, G = 0.00, B = 0.08$$ en 1 seconde.
 1. s'éteindre complètement, progressivement, en 4 secondes
 
 
@@ -141,6 +141,16 @@ On constate que l'écart est assez faible avec une échelle linéaire, et les résul
 
 Ce projet a une dimension esthétique importante. Par "chance", mon propriétaire a mal installé son escalier et n'a pas réalisé les finitions qu'il aurait dû : il restait donc beaucoup de place sous l'escalier pour placer l'électronique, et j'ai utilisé un panneau de particules peint pour dissimuler le montage, avec un trou pour faire apparaître le détecteur. 
 J'ai fait quelques photographies.
+
+![Vue d'en haut](lit_top.jpg)
+![Vue d'en bas](lit_bottom.jpg)
+![Installation du ruban à LED](ledstrip_view.jpg)
+![Connecteur du ruban à LED](ledstrip_connector.jpg)
+![Capteur de présence](PIR.jpg)
+![Électronique](elec_top.jpg)
+![Vue de côté](lit_side.jpg)
+![Extinction progressive 1](fade_side_1.jpg)
+![Extinction progressive 2](fade_side_2.jpg)
 
 ## Résultat
 
