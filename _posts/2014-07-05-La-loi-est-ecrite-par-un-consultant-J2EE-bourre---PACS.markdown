@@ -35,6 +35,7 @@ Objectivement, voici les caractéristiques spécifiques du PACS qui en font un mar
 ## Foyer fiscal
 
 L'impôt sur le revenu des personnes mariées est calculé en faisant la somme de leur revenus, chaque tranche étant naturellement deux fois plus grande que pour une personne célibataire. L'effet concret est que lorsque les mariés ont des grandes disparités de revenus (techniquement dès lors qu'ils ne sont pas dans la même tranche marginale individuellement), cela diminue l'impôt total à payer. L'objet de mon article n'est pas de discuter de l'opportunité de cette situation (mais mon avis était assez clair dans l'article précédent), mais de mentionner cet avantage. Je rédigerai un article consacré entièrement à cet avantage, afin d'expliquer les différentes stratégies de paiement de l'impôt au sein du couple (car diviser par deux à parts égales est souvent injuste).
+Attention, pour les couples dont au moins l'un des partenaires paie peu d'impôts (moins de 508EUR en 2014), le mariage ou le PACS risque de mécaniquement *augmenter* l'impôt à payer, car la [décote](http://bofip.impots.gouv.fr/bofip/2495-PGP) sera perdue.
 
 ## Autres avantages fiscaux
 
