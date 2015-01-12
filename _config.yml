@@ -5,7 +5,7 @@ kramdown:
     input: GFM
     use_coderay: true
     coderay_defaultlang: C
-pygments: true
+highlighter: pygments
 baseurl: /~sven337
 encoding: ISO-8859-15
 url: http://perso.aquilenet.fr/~sven337

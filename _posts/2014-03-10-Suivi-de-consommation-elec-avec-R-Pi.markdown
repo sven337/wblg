@@ -61,7 +61,7 @@ J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans l
 Avant toute chose et afin de dimensionner correctement les composants, j'ai choisi de simuler le circuit à l'aide de **ngspice** (logiciel libre disponible sous Linux). Ce type de simulateur ne donne pas toujours de bons résultats mais pour un circuit aussi simple il nous sera très utile. Une alternative consisterait à calculer la valeur du condensateur et de la résistance de protection de l'optocoupleur à la main, mais cela nécessiterait de savoir ce qu'on veut obtenir en termes mathématiques ! En réalité, on se contentera de regarder la forme du signal et de décider si oui ou non il se rapproche suffisament du signal carré attendu par l'UART du Raspberry Pi. N'ayant pas d'oscilloscope, je fais tout cela en simulation.
 
 Voici un premier circuit à simuler, avec redressement en simple alternance :
-[Circuit redressement mono alternance](~sven337/data/teleinfo/filtrage_1diode.net)
+[Circuit redressement mono alternance](/~sven337/data/teleinfo/filtrage_1diode.net)
 
 Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier, ensuite la commande ``tran 0.05us 3.2ms`` fait une simulation pendant 3.2 ms par pas de 0.05 us, et on peut visualiser la courbe de tension en un point donné en utilisant la commande ``plot``.
 ``plot v(1)`` nous montre le signal appliqué à l'entrée :
@@ -89,7 +89,7 @@ Ces points sont-ils vraiment un problème ? Dur à dire sans rentrer plus en détai
 
 On peut améliorer l'ondulation résiduelle en faisant un redressement double alternance, ce qui correspond au schéma que j'ai présenté plus haut.
 
-[Circuit redressement double alternance](~sven337/data/teleinfo/filtrage_4diodes.net)
+[Circuit redressement double alternance](/~sven337/data/teleinfo/filtrage_4diodes.net)
 
 Voici le signal aux bornes du condensateur :
 ![Redressement bi-alternance](spice_output_4D.jpg)
