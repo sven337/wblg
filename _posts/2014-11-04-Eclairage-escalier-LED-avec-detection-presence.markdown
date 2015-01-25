@@ -153,6 +153,8 @@ J'ai fait quelques photographies.
 ![Extinction progressive 1](fade_side_1.jpg)
 ![Extinction progressive 2](fade_side_2.jpg)
 
+Voir également [une vidéo](/~sven337/data/stairs_light.avi) sur laquelle la puissance d'éclairage semble très faible, en réalité il est assez puissant.
+
 ## Résultat
 
 Le résultat est excellent et approuvé par la famille et les amis. Le positionnement du capteur m'a un peu inquiété au début mais il est suffisamment sensible pour détecter la présence à la montée comme à la descente. On s'habitue tellement vite à l'éclairage automatique qu'on souhaiterait l'avoir dans toute la maison !
