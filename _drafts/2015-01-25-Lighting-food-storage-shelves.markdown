@@ -126,4 +126,9 @@ En vert, la position du capteur de présence, très discret et néanmoins fonctionn
 ![Éblouissement en rouge, capteur de présence en vert](final_left2.jpg)
 
 
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
 
