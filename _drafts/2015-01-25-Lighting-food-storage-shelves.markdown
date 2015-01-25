@@ -14,11 +14,12 @@ Mon cellier avait besoin d'étagères. J'ai fait le choix, risqué, d'un produit ÀP
 # Une étagère à 10 euros
 
 ![Étagère Leroy Merlin](etagere-avasco-racky-en-acier-epoxy-blanc-l75xh150xp30cm.jpg)
-Ne vous laissez pas impressionner par les commentaires sur le site, cette étagère fait ce qu'on lui demande. Évidemment elle n'est pas très solide, mais en la montant correctement (c'est-à-dire en serrant les boulons **progressivement** et **après** les avoir tous placés, comme toujours pour monter un meuble en tôle fine) elle fait ce que j'en attends. Je ne pense pas qu'elle soit approprié pour des charges importantes. La spécification annonce 50Kg par tablette, c'est très optimiste. En pratique je ne me risquerais pas au delà de 25Kg, ce qui est déjà bien suffisant pour la plupart des usages.
+Ne vous laissez pas impressionner par les commentaires sur le site, cette étagère fait ce qu'on lui demande. Évidemment elle n'est pas très solide, mais en la montant correctement (c'est-à-dire en serrant les boulons **progressivement** et **après** les avoir tous placés, comme toujours pour monter un meuble en tôle fine) elle fait ce que j'en attends. Je ne pense pas qu'elle soit appropriée pour des charges importantes. La spécification annonce 50Kg par tablette, c'est très optimiste. En pratique je ne me risquerais pas au delà de 25Kg, ce qui est déjà bien suffisant pour la plupart des usages.
 
 Au-delà du coût, les trois avantages majeurs de cette étagère sont :
+
 - finition blanc brillant (qui reflète donc très bien la lumière)
-- présence d'un repli sous chaque tablette dont la largeur correspond exactement à celle d'un bandeau de LED 3528!
+- présence d'un repli sous chaque tablette dont la largeur correspond exactement à celle d'un bandeau de LED 3528 !
 - tablettes fabriquées avec une seule plaque de tôle pliée, laissant des petits trous aux angles permettant de passer des fils
 
 # Choix des composants
@@ -29,7 +30,7 @@ On va acheter un bandeau de LED 3528, à une seule couleur, de type "warm white" 
 
 ### Type waterproof
 
-Je conseille fortement de choisir un bandeau de type "waterproof" IP65. Ce type de bandeau est recouvert d'une protection en silicone. Il n'est absolument pas étanche (l'appellation *waterproof* est donc trompeuse), mais au moins vous pourrez le nettoyer avec une éponge humide. (Pour une utilisation immergée ce sont des bandeaux IP67 ou IP68 qu'il faut, qui sont intégralement **enrobés** dans une résine et non simplement **recouverts**. Voir [ici](http://www.bestledstriplights.com/waterproof-vs-non-waterproof) pour les détails, je reproduis ci-dessous une de leurs images.
+Je conseille fortement de choisir un bandeau de type "waterproof" IP65. Ce type de bandeau est recouvert d'une protection en silicone. Il n'est absolument pas étanche (l'appellation *waterproof* est donc trompeuse), mais au moins vous pourrez le nettoyer avec une éponge humide. (Pour une utilisation immergée ce sont des bandeaux IP67 ou IP68 qu'il faut, qui sont intégralement **enrobés** dans une résine et non simplement **recouverts**.) Voir [ici](http://www.bestledstriplights.com/waterproof-vs-non-waterproof) pour les détails, je reproduis ci-dessous une de leurs images.
 ![Types de bandeaux "waterproof"](http://www.bestledstriplights.com/wp-content/uploads/2014/10/waterproof-types.jpg)
 
 L'intérêt des bandeaux IP65 est que, dans ma maigre expérience, ils sont de meilleure qualité que les bandeaux IP60 (non waterproof). De plus, la surface siliconée des IP65 les rend plus faciles à nettoyer, et évite les court-circuits accidentels qui détruiraient immédiatement l'électronique de contrôle (ou pourraient causer un incendie). Par conséquent même pour un usage au sec, je préfère dépenser un peu plus et acheter un bandeau IP65.
@@ -40,14 +41,18 @@ Il existe deux principaux types de bandeaux, ceux à LED 5050 et ceux à LED 3528.
 
 ### Commande
 
-J'ai commandé [2 rouleaux de 5 mètres](http://www.ebay.com/itm/400542008436) sur eBay. Prix : environ 24EUR.
+J'ai commandé [2 rouleaux de 5 mètres](http://www.ebay.com/itm/400542008436) sur eBay. 
+
+Prix : environ 24EUR.
 
 ## Alimentation
 
-Ces bandeaux s'alimentent en **12V** et sont annoncés pour consommer environ **0.4A** par mètre. Pour chaque étagère on aura $3 * 0.7 = 2.1m$ de bandeau, c'est-à-dire une consommation de $2.1 * 0.4 = 0.84A$ par étagère. Pour mes trois étagères, cela fait une puissance totale inférieure à **3A**, mais j'ai branché une alimentation **7A** car je me suis trompé dans mes calculs lors de la commande :) 
+Ces bandeaux s'alimentent en **12V** et sont annoncés pour consommer environ **0.4A** par mètre. Pour chaque étagère on aura $$ 3 * 0.7 = 2.1m $$ de bandeau, c'est-à-dire une consommation de $$ 2.1 * 0.4 = 0.84A $$ par étagère. Pour mes trois étagères, cela fait une puissance totale inférieure à **3A**, mais j'ai branché une alimentation **7A** car je me suis trompé dans mes calculs lors de la commande :) 
 De toute façon, en achetant du matériel chinois, il n'est jamais trop prudent de surdimensionner très largement les composants. En effet la spécification est rarement réaliste, et mon alimentation vendue pour *7A* ne les tient certainement pas, vu son poids et sa taille.
 
-J'ai commandé [cette alimentation](http://www.ebay.com/itm/261704378838) sur eBay, mais je ne vous conseille pas d'acheter la même. Préférez plutôt [celle-là](http://www.aliexpress.com/item/12V-6A-72W-AC-DC-Power-Adapter-Supply-Charger-for-3528-5050-RGB-LED-Strip-Light/587961982.html), à adapter bien sûr en fonction de votre besoin en puissance. Prix : environ 15EUR.
+J'ai commandé [cette alimentation](http://www.ebay.com/itm/261704378838) sur eBay, mais je ne vous conseille pas d'acheter la même. Préférez plutôt [celle-là](http://www.aliexpress.com/item/12V-6A-72W-AC-DC-Power-Adapter-Supply-Charger-for-3528-5050-RGB-LED-Strip-Light/587961982.html), à adapter bien sûr en fonction de votre besoin en puissance. 
+
+Prix : environ 15EUR.
 
 ## Capteur de présence
 
@@ -109,7 +114,7 @@ En photo :
 
 ## Installation finale
 
-Les étagères sont connectées entre elle avec des fils de plus gros diamètre (car les longueurs de raccords sont importantes, surtout entre l'étagère qui est située à droite dans ma pièce et les deux autres), avec encore une fois des dominos. Le capteur de présence est placé au niveau du sol, il détectera nos jambes (et cela fonctionne !).
+Les étagères sont connectées entre elles avec des fils de plus gros diamètre (car les longueurs de raccords sont importantes, surtout entre l'étagère qui est située à droite dans ma pièce et les deux autres), avec encore une fois des dominos. Le capteur de présence est placé au niveau du sol, il détectera nos jambes (et cela fonctionne !).
 
 On constate, et c'est visible sur les photographies suivantes prises sans autre éclairage que celui des bandeaux, que la puissance d'éclairage permet de se dispenser du plafonnier de la pièce.
 
@@ -130,5 +135,7 @@ En vert, la position du capteur de présence, très discret et néanmoins fonctionn
     $(document).ready(function() {
 		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
     });
+</script>
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
