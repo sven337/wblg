@@ -153,7 +153,7 @@ J'ai fait quelques photographies.
 ![Extinction progressive 1](fade_side_1.jpg)
 ![Extinction progressive 2](fade_side_2.jpg)
 
-Voir également [une vidéo](/~sven337/data/stairs_light.avi) sur laquelle la puissance d'éclairage semble très faible, en réalité il est assez puissant.
+Voir également [une vidéo](/~sven337/data/stairs/stairs_light.avi) sur laquelle la puissance d'éclairage semble très faible, en réalité il est assez puissant.
 
 ## Résultat
 
