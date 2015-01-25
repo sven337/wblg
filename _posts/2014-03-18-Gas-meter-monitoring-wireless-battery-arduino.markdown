@@ -143,6 +143,8 @@ Below is a picture of my sensor, stuck in place by a lot of adhesive putty. Sorr
 
 On the picture you can see: the diagnostic LED (it's just about to light up, because the liter wheel shows almost 9), the pullup resistor, and the 4 pin cable (of which only three pins are connected). Not seen is the reed switch, on the underside of the meter.
 
+**Update in January 2015:** I was tired of the homemade sensor and wanted to buy something that would be mechanically more resistant. I purchased a [door-opened sensor](http://www.ebay.com/itm/221444737027), that has the advantage of coming in a plastic casing. This is what it looks like:
+![Reed pulse sensor - better](product_sensor.jpg)
 
 ## Microcontroller, wireless transmitter
 
