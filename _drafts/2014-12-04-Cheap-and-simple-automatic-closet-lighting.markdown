@@ -103,6 +103,7 @@ The COB LED is hidden inside. It doesn't shine into the eyes of the user directl
 ![Light is on - in reality much more light is produced than what is visible on this picture!](lit.jpg)
 
 As of this writing it's been used for two months and gives entire satisfaction. The one "flaw" is that the PIR sensor detects the user even through the curtain, so just passing in front of the closet will light it. It will the shut down after 30 seconds (the delay I set on the PIR sensor), so it's not a big deal.
+The pictures don't do the LED justice: it actually produces quite enough light.
 
 <script>
     $(document).ready(function() {
