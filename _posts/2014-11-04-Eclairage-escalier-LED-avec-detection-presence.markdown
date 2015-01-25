@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Éclairage décoratif à LED avec détection de présence
+title: Éclairage d'escalier à LED avec détection de présence
 date: 2014-11-04 13:06:25
 tags: electronics lighting
 category: francais
@@ -143,6 +143,7 @@ Ce projet a une dimension esthétique importante. Par "chance", mon propriétaire 
 J'ai fait quelques photographies.
 
 ![Vue d'en haut](lit_top.jpg)
+![Vue d'en haut (2)](lit_top2.jpg)
 ![Vue d'en bas](lit_bottom.jpg)
 ![Installation du ruban à LED](ledstrip_view.jpg)
 ![Connecteur du ruban à LED](ledstrip_connector.jpg)
