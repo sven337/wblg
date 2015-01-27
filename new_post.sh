@@ -3,7 +3,7 @@
 read -p 'Enter title: ' title
 
 
-NAME=`date --iso-8601`-$(echo $title | sed 's/ /-/g' | tr -d -c '[:alnum:]-').markdown
+NAME=$(echo $title | sed 's/ /-/g' | tr -d -c '[:alnum:]-').markdown
 NEW_FILE=_drafts/$NAME
 
 if [ -f $NEW_FILE -o -f _posts/$NAME ]; then
@@ -21,6 +21,7 @@ category: english
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
+
 EOF
 
 vim $NEW_FILE
