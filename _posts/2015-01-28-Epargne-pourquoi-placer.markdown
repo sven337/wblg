@@ -5,7 +5,7 @@ date: 2015-01-28 10:15:39
 tags: argent
 category: francais
 comments: true
-img_rel: "/~sven337/data/XXX"
+img_rel: "/~sven337/data/placements"
 ---
 
 Une de nos passions nationales consiste à se plaindre en permanence qu'on a pas assez d'argent. En réalité, et heureusement, beaucoup de français parviennent à gagner plus d'argent que ce dont ils ont besoin pour survivre, et sont donc amenés à **épargner** (ou, pour certains, à flamber tous leurs revenus, choix de vie qui n'a pas besoin de manuel explicatif pour être réalisé !).
@@ -104,7 +104,9 @@ Les placements peu liquides ne sont pas forcément un problème. Si vous connaisse
 
 Le niveau de risque dépend également de l'horizon de placement. Il est totalement faux que *la bourse monte toujours* ou que *la pierre monte toujours*. Ce qui est vrai, c'est que **à long terme**, ces placements montent toujours (en tout cas pour la bourse).
 Surtout, ne vous contentez pas de me croire sur parole :
-![](https://jlcollinsnh.files.wordpress.com/2012/04/djia1900-2012.png)
+
+![Dow Jones Industrial Average - 1900 à 2012](djia1900-2012.png)
+
 Voir aussi l'[article dont provient ce graphe](http://jlcollinsnh.com/2012/04/19/stocks-part-ii-the-market-always-goes-up/).
 
 Donc sur un horizon long, on va accepter les risques importants, alors que pour quelques années seulement on tentera de réduire le risque à un niveau raisonnable.
@@ -132,3 +134,11 @@ Les objectifs ici sont les mêmes qu'au niveau 3, mais on tolèrera une liquidité 
 Dans un article à venir, j'aborderai les différents placements et nous verrons leur adéquation aux différents niveaux d'épargne.
 
 Votre travail, d'ici là, est de **réfléchir** au niveau auquel vous vous situez actuellement, de **calculer** vos besoins d'argent pour les différents niveaux, et de vous faire une idée du "flux d'épargne" dont vous allez disposer dans les années à venir.
+
+<script>
+    $(document).ready(function() {
+        $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
+
+
