@@ -27,7 +27,7 @@ Life as a contributor wasn't always easy, and getting a patch integrated was a s
 In traditional open source, if a contributor produces sub-par work and still wants people to use it, he's got one way: create a fork, attempt to publicize it, and compete with the original project for users. This never works unless the *developers* of the original project jump ship - which only ever happens when leadership is *bad* **and** *too stupid to change*. 
 (Everybody in a position of power becomes bad over time. I did. The developers called me out on that, after ten years of mostly good services on my part, and I stepped down because I'm not too stupid to recognize when my influence stops being positive. That's a story for another time, however.)
 
-The practical consequence is that in traditional open source, a contributor cannot effectively distribute his changes without the agreement of the project's developers - and this agreement matters because the developers are the technical experts (most of the time) and they're the one doing support, so they know what will work and what will not. That is not to say that they cannot be wrong, but the following assertion holds:
+The practical consequence is that in traditional open source, a contributor cannot effectively distribute his changes without the agreement of the project's developers - and this agreement matters because the developers are the technical experts (most of the time) and they're the ones doing support, so they know what will work and what will not. That is not to say that they cannot be wrong, but the following assertion holds:
 
 **p(contributor_wrong) > p(developer_wrong)**
 
@@ -62,7 +62,7 @@ See the title of this paragraph. This is a fundamental heuristic. It's not a fac
 When upstream rejects your patch, there are four possible cases:
 
 1. Your patch is technically incorrect. It will crash, or expose bugs in certain uses cases, not necessarily yours. 
-1. Your patch is stylistically incorrect, making long terme maintenance harder.
+1. Your patch is stylistically incorrect, making long term maintenance harder.
 1. Your patch is politically incorrect, in other words it runs counter to the project's objectives.
 1. Your patch is correct and upstream is being stupid or not doing its job
 
