@@ -8,7 +8,7 @@ comments: true
 img_rel: "/~sven337/data/shelves"
 ---
 
-Mon cellier avait besoin d'étagères. J'ai fait le choix, risqué, d'un produit ÀPasCher(TM) chez Leroy Merlin. Il s'agit de [ce modèle](http://www.leroymerlin.fr/v3/p/produits/etagere-avasco-racky-en-acier-epoxy-blanc-l75xh150xp30cm-e62980), à 10EUR. J'en ai acheté 3. J'ai ensuite amélioré ces étagères en rajoutant un système d'éclairage automatique, à détection de présence, qui permet non seulement d'éclairer le contenu des étagères mais aussi l'ensemble de la pièce. Cet article explique présent ma réalisation.
+Mon cellier avait besoin d'étagères. J'ai fait le choix, risqué, d'un produit ÀPasCher(TM) chez Leroy Merlin. Il s'agit de [ce modèle](http://www.leroymerlin.fr/v3/p/produits/etagere-avasco-racky-en-acier-epoxy-blanc-l75xh150xp30cm-e62980), à 10EUR. J'en ai acheté 3. J'ai ensuite amélioré ces étagères en rajoutant un système d'éclairage automatique, à détection de présence, qui permet non seulement d'éclairer le contenu des étagères mais aussi l'ensemble de la pièce. Cet article explique ma réalisation.
 
 
 # Une étagère à 10 euros

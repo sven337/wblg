@@ -91,7 +91,7 @@ Les objectifs prioritaires à ce niveau sont :
 
 ## Niveau 3 : les projets long terme
 
-La prochaine étape est d'**empiler votre argent** afin de pouvoir réaliser des **projets coûteux**. Pour beaucoup de français, il s'agira d'**acheter un logement** (ce qui sur le plan strictement financier n'est pas forcément une bonne idée) ; d'**avoir un enfant** (ça coûte de l'argent, ne serait-ce que pour pouvoir prendre un congé parental, se mettre à mi-temps, payer la crèche, ...). Pour d'autres il peut s'agir de se payer une **ascension de l'Everest** (j'ai lu quelque part que cela coûtait aux alentours de 20kEUR...).
+La prochaine étape est d'**empiler votre argent** afin de pouvoir réaliser des **projets coûteux**. Pour beaucoup de français, il s'agira d'**acheter un logement** (ce qui sur le plan strictement financier n'est pas forcément une bonne idée) ; d'**avoir un enfant** (ça coûte de l'argent, ne serait-ce que pour pouvoir prendre un congé parental, se mettre à mi-temps, payer la crèche, ...). Pour d'autres il peut s'agir de se payer une **ascension de l'Everest** (j'ai lu quelque part que cela coûtait aux alentours de 30kEUR...).
 
 À ce niveau là on commence à s'interroger sur votre âge et sur vos projets. Si vous avez 30 ans, vos projets sont sur un plus long terme qui si vous en avez 70, et cela va être un facteur déterminant par rapport à la **prise de risque**. Le mieux est de connaître votre **horizon de placement**, c'est-à-dire la date approximative à laquelle vous compter dépenser cet argent (car vous avez prévu de le dépenser un jour, n'est-ce-pas ?).
 
