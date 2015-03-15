@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Épargne (2/2) : comment placer son argent
+title: "Épargne (2/2) : comment placer son argent"
 date: 2015-02-02 20:40:34
 tags: argent
 category: francais
