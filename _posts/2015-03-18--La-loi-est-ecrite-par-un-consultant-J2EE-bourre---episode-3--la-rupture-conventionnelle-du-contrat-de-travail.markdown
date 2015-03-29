@@ -39,7 +39,7 @@ Au final, on peut se faire licencier pour faute, mais pas vraiment pour incompét
 
 # Et si les deux sont d'accord ?
 
-Il arrive que les deux parties soient d'accord pour mettre fin au contrat de travail. Un employé qui ne s'épanouit pas (et donc préfèrerait faire autre chose) ne fera pas un excellent travail, ce qui sera remarqué par le patron qui souhaitera dès lors voir l'employé partir. Cette situation arrive en fait assez souvent dans la réalité - mais pas en droit du travail français jusqu'à 2008 !
+Il arrive que les deux parties soient d'accord pour mettre fin au contrat de travail. Un employé qui ne s'épanouit pas (et donc préfèrerait faire autre chose) ne fera pas un excellent travail, ce qui sera remarqué par le patron qui souhaitera dès lors voir l'employé partir. Cette situation arrive en fait assez souvent dans la réalité - mais pas en droit du travail français jusqu'à 2008&nbsp;!
 
 En 2008 a été introduite la notion de rupture conventionnelle du contrat de travail (qu'on appelle parfois "licenciement à l'amiable" ou "départ négocié"). Ce principe répond à un vrai besoin, en effet par le passé il était impossible de sécuriser un départ d'un commun accord. Bien sûr, l'employé pouvait démissionner directement, mais il y perdait l'indemnité de licenciement, et cela ne prenait pas acte du désir du patron de le voir partir. De son côté le patron pouvait licencier l'employé, mais il s'exposait à un risque légal (l'employé prétendrait accepter son licenciement, et se retournerait contre l'employeur quelques mois plus tard, lequel aurait du mal à prouver aux prud'hommes que le licenciement avait une cause réelle et sérieuse). 
 
