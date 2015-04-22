@@ -33,7 +33,7 @@ Là, nos parasites de la société ont enfin justifié leur salaire et garanti leur 
 Ce prélèvement désormais non libératoire, on va le rendre libératoire quand même, mais sans lui donner ce nom. Si vos revenus de produits de placement à taux fixe (case 2TR) sont inférieurs à 2000EUR, vous pouvez opter pour une imposition à 24% sur ces revenus (en les inscrivant en case 2FA et en rectifiant certains montants, en suivant la notice que j'ai dû lire dix fois pour la comprendre). Bref, vous pouvez opter pour un prélèvement forfaitaire libératoire, exactement comme avant, mais alors qu'avant il suffisait d'une case à cocher auprès de votre organisme financier, il y a maintenant 5 ou 6 valeurs différentes à renseigner et recalculer sur la déclaration n°2042. (Ce faisant, vous perdrez la déductibilité partielle de la CSG, donc l'avantage réel est un peu inférieur à la différence entre votre taux marginal et 24%.)
 La seule différence est le plafond à 2000EUR, que nombre d'entre nous n'atteignent pas. 
 
-Pour plus de détails, voir page 107 de la [brochure "pratique" 2015 pour la déclaration des revenus 2014](http://www2.impots.gouv.fr/documentation/2015/brochure_ir/files/assets/common/downloads/publication.pdf) éditée par notre administration.
+Pour plus de détails, voir page 107 du PDF de la [brochure "pratique" 2015 pour la déclaration des revenus 2014](http://www2.impots.gouv.fr/documentation/2015/brochure_ir/files/assets/common/downloads/publication.pdf) éditée par notre administration.
 
 Nos députés avaient bu quand ils ont voté ce dispositif.
 
