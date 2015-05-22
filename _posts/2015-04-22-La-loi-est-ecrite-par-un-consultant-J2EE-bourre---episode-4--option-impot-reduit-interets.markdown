@@ -14,7 +14,7 @@ Il n'aura pas échappé à certains que la "remise à plat" de notre système fiscal,
 
 Ainsi, un certain nombre de placements étaient auparavant éligibles à un prélèvement à la source dit **forfaitaire** et **libératoire**. Forfaitaire parce que son taux était fixe, et libératoire parce qu'après ce prélèvement, les revenus n'étaient pas soumis à l'impôt sur le revenu et n'avaient pas à être déclarés.
 
-Ce prélèvement avait pour effet, vu son taux (24% sur la plupart des placements), de permettre aux personnes dont le taux marginal d'imposition était relativement élevé (30% ou plus) de diminuer artificellement leur imposition. L'intérêt pour la nation était que le prélèvement à la source était plus simple, et donc le traitement coûtait potentiellement moins cher (puisque c'est en fait les banques qui s'en occupaient), mais le manque à gagner était évident.
+Ce prélèvement avait pour effet, vu son taux (24% sur la plupart des placements), de permettre aux personnes dont le taux marginal d'imposition était relativement élevé (30% ou plus) de diminuer artificiellement leur imposition. L'intérêt pour la nation était que le prélèvement à la source était plus simple, et donc le traitement coûtait potentiellement moins cher (puisque c'est en fait les banques qui s'en occupaient), mais le manque à gagner était évident.
 
 # Le prélèvement forfaitaire non libératoire
 
