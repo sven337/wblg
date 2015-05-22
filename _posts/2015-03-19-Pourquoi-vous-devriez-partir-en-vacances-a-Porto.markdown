@@ -25,7 +25,7 @@ Commençons ensemble cette visite guidée, avec photos, de la ville de Porto.
 
 ![](facades3.jpg)
 Si vous avez la chance de loger dans le centre ville, la grande densité des constructions vous donnera une vue imprenable, et très touchante, sur la vie des locaux. On voyait par exemple depuis notre chambre d'hôtel un magnifique exemple d'architecture taulo-néoclassique, décorée avec goût par de nombreuses tentures admirablement drapées sur les fils à linge qui ornent chacune des fenêtres de la ville.
-En baissant la tête on constate rapidement que les logements portugais sont petits, car la moitié des possessions des habitants semblent être stockée à l'extérieur. Nous avons ainsi pu avoir une image authentique et touchante de la vie quotidienne des habitants.
+En baissant la tête on constate rapidement que les logements portugais sont petits, car la moitié des possessions des habitants semble être stockée à l'extérieur. Nous avons ainsi pu avoir une image authentique et touchante de la vie quotidienne des habitants.
 
 # Le quai classé
 
