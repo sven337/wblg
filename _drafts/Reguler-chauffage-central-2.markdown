@@ -7,6 +7,31 @@ category: francais
 comments: true
 img_rel: "/~sven337/data/acleis"
 ---
+
+Dans le précédent article nous avons vu un prototype permettant de contrôler la chaudière. Dans cet article nous verrons le dispositif qui envoie les ordres à la chaudière en fonction de différents paramètres.
+
+Il s'agit ici uniquement de logiciel, qui fait intervenir :
+
+- un thermomètre intérieur (DS18B20, nRF24L01+) présent dans ma [lampe de bureau](/~sven337/english/2014/05/08/Transforming-halogen-lamp-into-LED-lamp.html)
+- un deuxième thermomètre intérieur situé dans une autre pièce
+- un thermomètre extérieur (DS18B20, nRF24L01+, NiMH 1.2V, module boost, panneau solaire, projet que je n'ai pas encore décrit sur ce weblog car il a été victime du **syndrome du bon prototype** : on fait quelque chose, ça marche du premier coup, on le met en place sans jamais le mettre au propre parce qu'il marche parfaitement, et on l'oublie)
+- une interface permettant de choisir le mode COLD, HOT et AWAY, le changement étant réalisé à travers une crontab
+- un programme serveur qui, en fonction du mode en cours et des températures, calcule s'il faut activer le chauffage ou pas
+
+# Données d'entrée
+
+Le principe du contrôle climatique pour le chauffage est de se baser sur la température extérieure, afin d'anticiper les variations éventuelles de température intérieure. Dans le cas présent je souhaite tout de même prendre en compte la température intérieure afin que les apports de chaleur provenant par exemple de l'électroménager ou de la cuisine soient pris en compte.
+Donc je souhaite tenter une approche hybride qui définit :
+
+- une "température de non chauffage", d'environ 15°C d'après les différentes pages web que j'ai lues (à ajuster à l'usage). Cette température est un seuil de température extérieure à partir duquel on arrête de chauffer. 
+- un calcul de la puissance de chauffe en fonction de la température extérieure (en général c'est une fonction affine, d'après ce que j'ai pu lire)
+- une modulation du résultat de l'étape précédente en fonction de la température intérieure.
+
+# Interface
+
+# Prise de décision
+
+Je vais décrire ici le fonctionnement 
 température ext de non chauffage environ 15°C
 
 dans un premier temps, fonctionnement en tout-ou-rien (avec température raisonnable configurée sur la chaudière) basé sur l'heure de la journée, température intérieure (corrigée), et température extérieure.
