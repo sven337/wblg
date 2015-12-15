@@ -160,3 +160,9 @@ The heatsink is probably too small, but I've measured a maximum temperature of 5
 ## To be continued...
 
 See [part 2](//perso.aquilenet.fr/~sven337/english/2014/06/15/Transforming-halogen-lamp-into-LED-lamp-round-2.html).
+
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
