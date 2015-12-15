@@ -10,7 +10,7 @@ img_rel: "/~sven337/data/ledlamp_boost"
 
 I have a LED lamp for my bicycle. It uses 2 AAA batteries. I've used it for some time with rechargeable NiMH AAA batteries, but these have a lower voltage and this means the lamp is not as bright, also, NiMH Eneloop batteries are pretty expensive.
 
-Luckily, chinese factories have very cheap boost modules on sale - on eBay you can find modules with a description as follows: *DC-DC ( Input 0.8-3.3V ) ( Output 3.3V ) Step-UP Boost Voltage Converter Module* that cost less than 3 dollars, which is essentially the same cost as a quality AAA NiMH battery. Wouldn't it be cool to use one fewer battery in the lamp? It literally took me fifteen minutes to do the below.
+Luckily, chinese factories have very cheap boost modules on sale - on eBay you can find modules with a description as follows: *DC-DC ( Input 0.8-3.3V ) ( Output 3.3V ) Step-UP Boost Voltage Converter Module* that cost 3 dollars, which is essentially the same cost as a quality AAA NiMH battery. Wouldn't it be cool to use one fewer battery in the lamp? It literally took me fifteen minutes to do the project.
 
 ![A cheap, 3.3V boost module](boost-module.jpg)
 
