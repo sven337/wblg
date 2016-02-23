@@ -5,6 +5,7 @@ date: 2014-08-03 20:04:50
 tags: electronics lighting
 category: francais
 comments: true
+img_rel: ""
 ---
 
 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">

@@ -4,6 +4,7 @@ title:  "Bienvenue"
 date:   2014-03-05 21:56:19
 no-comments: 1
 categories: francais
+img_rel: ""
 ---
 
 Bienvenue sur mon site. Je l'utiliserai pour publier des articles techniques portant sur l'informatique et l'électronique.
