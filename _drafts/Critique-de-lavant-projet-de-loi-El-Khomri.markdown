@@ -14,904 +14,427 @@ Je vais ici m'appuyer sur ce document, qui constitue la source la plus fiable su
 
 # Le titre
 
-'''Projet de loi sur la Négociation collective, le Travail et l?Emploi \(NE.T.E\) 
+```
+Projet de loi sur la Négociation collective, le Travail et l'Emploi (NE.T.E) 
 
 Ou : 
 
-Projet de loi pour l?avenir de la négociation collective, du travail et de l?emploi 
-'''
-
-****
-
-## **Sommaire **
-
-Titre 1er Refonder le droit du travail et donner plus de poids à la négociation col ective ........................ 3 
-
-Chapitre 1 Un Préambule pour le code du travail \(principes Badinter\) ............................................... 3 
-
-Article 1er \[Préambule des principes\] ............................................................................................... 3 
-
-Chapitre 2 Création de la commission de refondation du code .......................................................... 8 
-
-Article 2 \[Commission\] ..................................................................................................................... 8 
-
-Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés ......... 8 
-
-Article 3 \[Durée du travail\] ............................................................................................................... 8 
-
-Article 4 \(congés spécifiques\) ....................................................................................................... 39 
-
-Article 5 \(CET\) ............................................................................................................................... 59 
-
-Article 6 \(jeunes travailleurs\) ........................................................................................................ 60 
-
-Article 7 \(dispositions non codifiées forfaits \+ accords de modulation\) ......................................... 61 
-
-Titre II Favoriser une culture du dialogue et de la négociation ............................................................. 61 
-
-Chapitre 1 : Des règles de négociation plus souples et le renforcement de la loyauté de la 
-
-négociation ........................................................................................................................................ 61 
-
-Article 8 \[préambule des accords, méthode, publicité\] .................................................................. 61 
-
-Article 9 \[règles révision et dénonciation\] ...................................................................................... 63 
-
-Article 10 \[retouches\] ..................................................................................................................... 65 
-
-Chapitre 2 Renforcement de la légitimité des accords collectifs ...................................................... 66 
-
-Article 11 \[accord majoritaire\] ........................................................................................................ 66 
-
-Article 12 \[Accord majoritaire en faveur de l?emploi\] ..................................................................... 68 
-
-Article 13 \[sécurisation accords de groupe et des accords interentreprises\] ................................ 68 
-
-Article 14 Restructuration des branches ....................................................................................... 70 
-
-Chapitre 3 Des acteurs du dialogue social renforcés ........................................................................ 72 
-
-Article 15 \[Locaux syndicaux\] ........................................................................................................ 72 
-
-Article 16 \[Moyens des délégués syndicaux\] ................................................................................ 73 
-
-Article 17 \[expertise CHSCT\] ......................................................................................................... 73 
-
-Article 18 \[formation des acteurs du dialogue social\] .................................................................... 74 
-
-Article 19 \[Mesure de l?audience patronale\] .................................................................................. 75 
-
-Article 20 \[sécurisation sous FESAC\] ............................................................................................ 76 
-
-Titre III Sécuriser les parcours et construire les bases d?un nouveau modèle social à l?ère du 
-
-numérique .............................................................................................................................................. 76 
-
-Chapitre 1 Mise en place du CPA ..................................................................................................... 76 
-
-Article 21 \[compte personnel d?activité\] ......................................................................................... 76 
-
-Article 22 \[Dématérialisation du bul etin de paie\] .......................................................................... 80 
-
-Chapitre 3 Adaptation du droit du travail à l?ère du numérique ......................................................... 80 
-
-\[Article 23 \[plateformes collaboratives\] ...................................................................................... 80\] 
-
-Article 24 \[Droit à la déconnexion\] ................................................................................................. 81 
-
-Article 24 \[Télétravail et travail à distance\] .................................................................................... 82 
-
-Article 25 \[Un dialogue social adapté à l?ère du numérique\] ......................................................... 82 
-
-Titre IV Favoriser l?emploi ..................................................................................................................... 83 
-
-Chapitre 1 Faciliter la vie des TPE et PME et favoriser l?embauche ................................................. 83 
-
-Article 26 \[service d?appui de l?Etat pour les TPE et PME\] ............................................................ 83 
-
-Article 27 \[accords types de branche\] ........................................................................................... 84 
-
-Article 28 \[Barème prud?homal\] ..................................................................................................... 84 
-
-1 
-
-
-
-
-
-Article 29 \[rescrit\] ........................................................................................................................... 86 
-
-*Chapitre 2 Renforcer la formation professionnelle et l?apprentissage* .............................................. 86 
-
-Article 30 \[Apprentissage\] ............................................................................................................. 86 
-
-Article 31 \[Validation des acquis de l?expérience\] ........................................................................ 87 
-
-Article 32 \[Compte personnel de formation\] ................................................................................. 88 
-
-Article 33 \[Information et évaluation\] ............................................................................................ 88 
-
-*Chapitre 3 Sécuriser les acteurs du monde de l?emploi* .................................................................... 89 
-
-Article 34 \[portage salarial\] ............................................................................................................ 89 
-
-Article 35\[Sécurisation contrat saisonnier et négo\] ....................................................................... 91 
-
-Article 36 \[groupements d?employeurs\] ......................................................................................... 92 
-
-Article 37 \[Prolongation du plan de transformation des emplois de contrôleurs du travail en 
-
-inspecteurs du travail\] .................................................................................................................... 92 
-
-article 38 \[indus et périodes non déclarées\] .................................................................................. 96 
-
-Article 39 \[transferts\] ...................................................................................................................... 96 
-
-Article 40 \[revitalisation\] ................................................................................................................. 97 
-
-Titre V Moderniser la médecine du travail ....................................................................................... 98 
-
-Article 41 \[contrat saisonnier\] ........................................................................................................ 98 
-
-Titre VI Renforcer la lutte contre le détachement illégal ................................................................ 102 
-
-Article 42 \[obligation de vigilance des MO au regard de l?obligation de déclaration des salariés 
-
-détachés des sous-traitants \+ obligation de transmission dématérialisée de la déclaration 
-
-subsidiaire \+ obligation légale de déclaration de l?AT du salarié détaché par l?employeur et le 
-
-MO/DO\] ........................................................................................................................................ 102 
-
-Article 43 \[droit de timbre\] ............................................................................................................ 103 
-
-Article 44 \[suspension de la PSI pour absence de déclaration de détachement par le MO/DO\] 103 
-
-Article 45 \[mesure de transposition de la directive de 2014 sur le recouvrement des sanctions\]
-
-..................................................................................................................................................... 104 
-
-Article 46\[droit d?accès de tous les agents de contrôle compétents en matière de lutte contre le 
-
-travail illégal au fichier de traitement informatisé des déclarations de détachement \+ interprètes 
-
-assermentés\] ............................................................................................................................... 104 
-
-Article 47 \[code rural\] .................................................................................................................. 105 
-
-
-
-****
-
-****
-
-2 
-
-
-
-
-
-****
-
-**Titre 1er Refonder le droit du travail et donner plus de poids à la **
-
-**négociation collective** 
-
-**Chapitre 1 Un Préambule pour le code du travail **
-
-
-
-## **Article 1er**
-
-Avant le chapitre préliminaire du code du travail, il est inséré un Préambule ainsi rédigé : 
-
-
-
+Projet de loi pour l'avenir de la négociation collective, du travail et de l'emploi 
+``` 
+
+Sans commentaire. Les services de Myriam n'ont pas encore décidé quel nom donner au projet de loi, nul doute que des sondages pour réaliser un test A/B sont en cours.
+
+# Sommaire de l'avant-projet de loi
+
+Ci-dessous, le sommaire de l'avant-projet de loi, avec les titres d'origine. En gras je mets les parties que je vais commenter.
+
+* Titre 1er Refonder le droit du travail et donner plus de poids à la négociation collective  
+  * **Chapitre 1 Un Préambule pour le code du travail \(principes Badinter\)**
+  * **Chapitre 2 Création de la commission de refondation du code**
+  * Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés  
+    * Article 3 \[Durée du travail\]  
+    * Article 4 \(congés spécifiques\)  
+    * Article 5 \(CET\)  
+    * Article 6 \(jeunes travailleurs\)  
+    * Article 7 \(dispositions non codifiées forfaits \+ accords de modulation\)  
+* Titre II Favoriser une culture du dialogue et de la négociation  
+  * Chapitre 1 : Des règles de négociation plus souples et le renforcement de la loyauté de la négociation  
+    * Article 8 \[préambule des accords, méthode, publicité\]  
+    * Article 9 \[règles révision et dénonciation\]  
+    * Article 10 \[retouches\]  
+  * Chapitre 2 Renforcement de la légitimité des accords collectifs  
+    * Article 11 \[accord majoritaire\]  
+    * Article 12 \[Accord majoritaire en faveur de l'emploi\]  
+    * Article 13 \[sécurisation accords de groupe et des accords interentreprises\]  
+    * Article 14 Restructuration des branches  
+  * Chapitre 3 Des acteurs du dialogue social renforcés  
+    * Article 15 \[Locaux syndicaux\]  
+    * Article 16 \[Moyens des délégués syndicaux\]  
+    * Article 17 \[expertise CHSCT\]  
+    * Article 18 \[formation des acteurs du dialogue social\]  
+    * Article 19 \[Mesure de l'audience patronale\]  
+    * Article 20 \[sécurisation sous FESAC\]  
+* Titre III Sécuriser les parcours et construire les bases d'un nouveau modèle social à l'ère du numérique  
+  * Chapitre 1 Mise en place du CPA  
+    * Article 21 \[compte personnel d'activité\]  
+    * Article 22 \[Dématérialisation du bul etin de paie\]  
+  * Chapitre 3 Adaptation du droit du travail à l'ère du numérique  
+    * Article 23 \[plateformes collaboratives\]  
+    * Article 24 \[Droit à la déconnexion\]  
+    * Article 24 \[Télétravail et travail à distance\]  
+    * Article 25 \[Un dialogue social adapté à l'ère du numérique\]  
+* Titre IV Favoriser l'emploi  
+  * Chapitre 1 Faciliter la vie des TPE et PME et favoriser l'embauche  
+    * Article 26 \[service d'appui de l'Etat pour les TPE et PME\]  
+    * Article 27 \[accords types de branche\]  
+    * Article 28 \[Barème prud'homal\]  (sic)
+    * Article 29 \[rescrit\]  
+  * Chapitre 2 Renforcer la formation professionnelle et l'apprentissage  
+    * Article 30 \[Apprentissage\]  
+    * Article 31 \[Validation des acquis de l'expérience\]  
+    * Article 32 \[Compte personnel de formation\]  
+    * Article 33 \[Information et évaluation\]  
+  * Chapitre 3 Sécuriser les acteurs du monde de l'emploi*  
+    * Article 34 \[portage salarial\]  
+    * Article 35\[Sécurisation contrat saisonnier et négo\]  
+    * Article 36 \[groupements d'employeurs\]  
+    * Article 37 \[Prolongation du plan de transformation des emplois de contrôleurs du travail en inspecteurs du travail\]  
+    * Article 38 \[indus et périodes non déclarées\]  
+    * Article 39 \[transferts\]  
+    * Article 40 \[revitalisation\]  
+* Titre V Moderniser la médecine du travail  
+    * Article 41 \[contrat saisonnier\]  
+* Titre VI Renforcer la lutte contre le détachement illégal  
+    * Article 42 \[obligation de vigilance des MO au regard de l'obligation de déclaration des salariés détachés des sous-traitants \+ obligation de transmission dématérialisée de la déclaration subsidiaire \+ obligation légale de déclaration de l'AT du salarié détaché par l'employeur et le MO/DO\] 2 
+    * Article 43 \[droit de timbre\]  
+    * Article 44 \[suspension de la PSI pour absence de déclaration de détachement par le MO/DO\]  
+    * Article 45 \[mesure de transposition de la directive de 2014 sur le recouvrement des sanctions\] 
+    * Article 46\[droit d'accès de tous les agents de contrôle compétents en matière de lutte contre le travail illégal au fichier de traitement informatisé des déclarations de détachement \+ interprètes assermentés\] 4 
+    * Article 47 \[code rural\]  
+
+
+
+
+# Titre 1er Refonder le droit du travail et donner plus de poids à la négociation collective
+
+## Chapitre 1 Un Préambule pour le code du travail
+
+
+
+### Article 1er
+
+Avant le chapitre préliminaire du code du travail, il est inséré un Préambule ainsi rédigé :
+
+``` 
 « Préambule 
-
 « Principes essentiels du droit du travail 
-
-
-
 « Section I : Libertés et droits de la personne au travail 
 
+« Article 1.- Les libertés et droits fondamentaux de la personne sont garantis
+dans toute relation de travail.  Des limitations ne peuvent leur être apportées
+que si elles sont justifiées par l'exercice d'autres libertés et droits
+fondamentaux ou par les nécessités du bon fonctionnement de l'entreprise et si
+elles sont proportionnées au but recherché. 
 
+« Article 2.- Toute personne a droit au respect de sa dignité dans le travail.
+```
 
-« Article 1.- Les libertés et droits fondamentaux de la personne sont garantis dans toute relation de 
+Sans aucun effet concret.
 
+``` 
+« Article 3.- Le secret de la vie privée est respecté et les données
+personnelles protégées dans toute relation de travail. 
+
+« Article 4.- Le principe d'égalité s'applique dans l'entreprise. L'égalité
+professionnelle entre les femmes et les hommes doit y être respectée. 
+
+« Article 5.- Les discriminations sont interdites dans toute relation de
 travail. 
+```
 
+Sous peine de quoi ?
 
+```
+« Article 6.- La liberté du salarié de manifester ses convictions, y compris
+religieuses, ne peut connaître de restrictions que si elles sont justifiées par
+l'exercice d'autres libertés et droits fondamentaux ou par les nécessités du
+bon fonctionnement de l'entreprise et si elles sont proportionnées au but
+recherché. 
 
-Des limitations ne peuvent leur être apportées que si elles sont justifiées par l?exercice d?autres libertés 
+« Article 7.- Le harcèlement moral ou sexuel est interdit et la victime
+protégée 
 
-et droits fondamentaux ou par les nécessités du bon fonctionnement de l?entreprise et si elles sont 
+« Article 8.- Il est interdit d'employer un mineur de moins de seize ans, sauf
+exceptions prévues par la loi. 
+```
 
-proportionnées au but recherché. 
+L'article 8 est amusant. "C'est interdit, sauf si la loi dit le contraire."
+Autant ne pas créer cet article du tout.
 
+``` 
+« Article 9.- La conciliation entre la vie professionnelle et la vie
+personnelle et familiale est recherchée dans la relation de travail.  
+```
 
+Par qui, avec quels moyens, sous quelle contrainte ?  Je m'arrête là, vous avez
+compris l'idée : ces "principes essentiels" n'ont aucun effet ni intérêt
+juridique. Je ne vais pas citer les 60 articles.
 
-« Article 2.- Toute personne a droit au respect de sa dignité dans le travail. 
-
-
-
-« Article 3.- Le secret de la vie privée est respecté et les données personnelles protégées dans toute 
-
-relation de travail. 
-
-
-
-« Article 4.- Le principe d?égalité s?applique dans l?entreprise. L?égalité professionnelle entre les 
-
-femmes et les hommes doit y être respectée. 
-
-
-
-« Article 5.- Les discriminations sont interdites dans toute relation de travail. 
-
-
-
-« Article 6.- La liberté du salarié de manifester ses convictions, y compris religieuses, ne peut 
-
-connaître de restrictions que si elles sont justifiées par l?exercice d?autres libertés et droits 
-
-fondamentaux ou par les nécessités du bon fonctionnement de l?entreprise et si elles sont 
-
-proportionnées au but recherché. 
-
-
-
-« Article 7.- Le harcèlement moral ou sexuel est interdit et la victime protégée 
-
-
-
-« Article 8.- Il est interdit d?employer un mineur de moins de seize ans, sauf exceptions prévues par la 
-
-loi. 
-
-
-
-« Article 9.- La conciliation entre la vie professionnelle et la vie personnelle et familiale est recherchée 
-
-dans la relation de travail. 
-
-
-
-3 
-
-
-
-
-
-« Article 10.- L?employeur exerce son pouvoir de direction dans le respect des libertés et droits 
-
-fondamentaux des salariés. 
-
-
+``` 
+« Article 10.- L'employeur exerce son pouvoir de direction dans le respect
+des libertés et droits fondamentaux des salariés. 
 
 « Section II : Formation, exécution et rupture du contrat de travail 
 
+« Article 11. - Chacun est libre d'exercer l'activité professionnelle de son
+choix. 
 
+« Article 12. - Le contrat de travail se forme et s'exécute de bonne foi. Il
+oblige les parties. 
 
-« Article 11. - Chacun est libre d?exercer l?activité professionnelle de son choix. 
+« Article 13.- Le contrat de travail est à durée indéterminée. Il ne peut être
+conclu pour une durée déterminée que dans les cas prévus par la loi. 
 
+« Article 14. - Le contrat de travail peut prévoir une période d'essai d'une
+durée raisonnable. 
 
+« Article 15. - Les procédures de recrutement ou d'évaluation ne peuvent avoir
+pour objet ou pour effet que d'apprécier les aptitudes professionnelles. Ces
+procédures respectent la dignité et la vie privée de la personne. 
 
-« Article 12. - Le contrat de travail se forme et s?exécute de bonne foi. Il oblige les parties. 
+« Article 16.- Tout salarié est informé, lors de son embauche, des éléments
+essentiels de la relation de travail. 
 
+« Article 17.- La grossesse et la maternité ne peuvent entraîner des mesures
+spécifiques autres que celles requises par l'état de la femme. La salariée a
+droit à un congé pendant la période précédant et suivant son accouchement. 
 
+« Article 18.- Un salarié ne peut être mis à disposition d'une autre entreprise
+dans un but lucratif, sauf dans les cas prévus par la loi. 
 
-« Article 13.- Le contrat de travail est à durée indéterminée. Il ne peut être conclu pour une durée 
-
-déterminée que dans les cas prévus par la loi. 
-
-
-
-« Article 14. - Le contrat de travail peut prévoir une période d?essai d?une durée raisonnable. 
-
-
-
-« Article 15. - Les procédures de recrutement ou d?évaluation ne peuvent avoir pour objet ou pour 
-
-effet que d?apprécier les aptitudes professionnelles. Ces procédures respectent la dignité et la vie 
-
-privée de la personne. 
-
-
-
-« Article 16.- Tout salarié est informé, lors de son embauche, des éléments essentiels de la relation de 
-
+« Article 19.- Le transfert d'entreprise emporte transfert des contrats de
 travail. 
 
+« Article 20.- Chacun doit pouvoir accéder à une formation professionnelle et
+en bénéficier tout au long de sa vie. 
 
+« Article 21.- L'employeur assure l'adaptation du salarié à l'évolution de son
+emploi. Il concourt au maintien de sa capacité à exercer une activité
+professionnelle. 
 
-« Article 17.- La grossesse et la maternité ne peuvent entraîner des mesures spécifiques autres que 
-
-celles requises par l?état de la femme. 
-
-La salariée a droit à un congé pendant la période précédant et suivant son accouchement. 
-
-
-
-« Article 18.- Un salarié ne peut être mis à disposition d?une autre entreprise dans un but lucratif, sauf 
-
-dans les cas prévus par la loi. 
-
-
-
-« Article 19.- Le transfert d?entreprise emporte transfert des contrats de travail. 
-
-
-
-« Article 20.- Chacun doit pouvoir accéder à une formation professionnelle et en bénéficier tout au 
-
-long de sa vie. 
-
-
-
-« Article 21.- L?employeur assure l?adaptation du salarié à l?évolution de son emploi. Il concourt au 
-
-maintien de sa capacité à exercer une activité professionnelle. 
-
-
-
-« Article 22. - Aucune sanction disciplinaire ne peut être prononcée sans que le salarié ait été mis à 
-
-même de faire connaître ses observations. Toute sanction disciplinaire doit être proportionnée à la 
-
-faute. 
-
-
+« Article 22. - Aucune sanction disciplinaire ne peut être prononcée sans que
+le salarié ait été mis à même de faire connaître ses observations. Toute
+sanction disciplinaire doit être proportionnée à la faute. 
 
 « Article 23.- Les sanctions pécuniaires sont interdites. 
 
+« Article 24.- Le contrat de travail à durée indéterminée peut être rompu à
+l'initiative de l'employeur, du salarié ou d'un commun accord. 
 
+« Article 25.- Le salarié peut librement mettre fin au contrat à durée
+indéterminée. 
 
-« Article 24.- Le contrat de travail à durée indéterminée peut être rompu à l?initiative de l?employeur, 
+« Article 26.- Tout licenciement doit être justifié par un motif réel et
+sérieux. 
 
-du salarié ou d?un commun accord. 
+« Article 27.- Aucun licenciement ne peut être prononcé sans que le salarié ait
+été mis à même, en personne ou par ses représentants, de faire connaître ses
+observations. 
 
+« Article 28.- Le licenciement pour motif économique ou pour inaptitude
+physique du salarié ne peut être prononcé sans que l'employeur se soit efforcé
+de reclasser l'intéressé, sauf dérogation prévue par la loi. 
 
+« Article 29.- Le licenciement est précédé d'un préavis d'une durée
+raisonnable. Il ouvre droit à une indemnité dans les conditions prévues par la
+loi. » « Section III : Rémunération 
 
-« Article 25.- Le salarié peut librement mettre fin au contrat à durée indéterminée. 
+« Article 30.- Tout salarié a droit à une rémunération lui assurant des
+conditions de vie digne. Un salaire minimum est fixé par la loi. » 
 
+« Article 31.- L'employeur assure l'égalité de rémunération entre les salariés
+pour un même travail ou un travail de valeur égale. » 
 
-
-« Article 26.- Tout licenciement doit être justifié par un motif réel et sérieux. 
-
-4 
-
-
-
-
-
-« Article 27.- Aucun licenciement ne peut être prononcé sans que le salarié ait été mis à même, en 
-
-personne ou par ses représentants, de faire connaître ses observations. 
-
-
-
-« Article 28.- Le licenciement pour motif économique ou pour inaptitude physique du salarié ne peut 
-
-être prononcé sans que l?employeur se soit efforcé de reclasser l?intéressé, sauf dérogation prévue par 
-
-la loi. 
-
-
-
-« Article 29.- Le licenciement est précédé d?un préavis d?une durée raisonnable. Il ouvre droit à une 
-
-indemnité dans les conditions prévues par la loi. » 
-
-
-
-« Section III : Rémunération 
-
-
-
-« Article 30.- Tout salarié a droit à une rémunération lui assurant des conditions de vie digne. 
-
-Un salaire minimum est fixé par la loi. » 
-
-
-
-« Article 31.- L?employeur assure l?égalité de rémunération entre les salariés pour un même travail ou 
-
-un travail de valeur égale. » 
-
-
-
-« Article 32.- La rémunération du salarié lui est versée selon une périodicité régulière. 
-
-Son paiement est garanti en cas d?insolvabilité de l?employeur dans les conditions prévues par la loi. » 
-
-
+« Article 32.- La rémunération du salarié lui est versée selon une périodicité
+régulière. Son paiement est garanti en cas d'insolvabilité de l'employeur dans
+les conditions prévues par la loi. » 
 
 « Section IV : Temps de travail 
 
+« Article 33.- La durée normale du travail est fixée par la loi. Celle-ci
+détermine les conditions dans lesquelles les conventions et accords collectifs
+peuvent retenir une durée différente.  « Tout salarié dont le temps de travail
+dépasse la durée normale a droit à une compensation. 
 
 
-« Article 33.- La durée normale du travail est fixée par la loi. Celle-ci détermine les conditions dans 
+« Article 34.- Les durées quotidienne et hebdomadaire de travail ne peuvent
+dépasser les limites fixées par la loi. 
 
-lesquelles les conventions et accords collectifs peuvent retenir une durée différente. 
+« Article 35.- Tout salarié a droit à un repos quotidien et à un repos
+hebdomadaire dont la durée minimale est fixée par la loi. 
 
+« Le repos hebdomadaire est donné le dimanche, sauf dérogation dans les
+conditions déterminées par la loi. 
 
+« Article 36. - Le travail de nuit n'est possible que dans les cas et dans les
+conditions fixées par la loi. Celle-ci prévoit les garanties nécessaires à la
+protection de la santé et de la sécurité des salariés. 
 
-« Tout salarié dont le temps de travail dépasse la durée normale a droit à une compensation. 
+```
 
+Un ramassis de principes généraux, certes louables, mais qui n'ont rien à faire
+dans la loi (et qui par ailleurs y figurent déjà). Aucune obligation n'est créée, aucun droit n'est créé: ce
+"préambule" est là pour se sentir bien, mais à part alourdir le code du travail
+il n'a aucun effet juridique.
 
+Je soupçonne fortement que son rôle est avant tout un rôle de communication :
+on démarre le projet de loi par quinze pages de grands principes honorables, et
+le citoyen moyen qui ne lira pas plus loin ne voit que du bien dans ce projet. 
 
-« Article 34.- Les durées quotidienne et hebdomadaire de travail ne peuvent dépasser les limites fixées 
+## Chapitre 2 Création de la commission de refondation du code ** 
 
-par la loi. 
+Sans intérêt. Encore une commission d'incapables qui va pondre des propositions pour la plupart débiles, qui seront 
+de toute façon enterrées.
 
+## Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés ** 
 
+### Article 3
 
-« Article 35.- Tout salarié a droit à un repos quotidien et à un repos hebdomadaire dont la durée 
+```
+I. Au deuxième alinéa de l'article L.3111-2 du code du travail, après les mots, « cadre dirigeant » sont 
+insérés les mots : « participant à la direction de l'entreprise ». 
+```
 
-minimale est fixée par la loi. 
+Voici l'article en question : 
+<https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902439&dateTexte=&categorieLien=cid>
 
+Quel intérêt ?
 
-
-« Le repos hebdomadaire est donné le dimanche, sauf dérogation dans les conditions déterminées par 
-
-la loi. 
-
-
-
-« Article 36. - Le travail de nuit n?est possible que dans les cas et dans les conditions fixées par la loi. 
-
-Celle-ci prévoit les garanties nécessaires à la protection de la santé et de la sécurité des salariés. 
-
-
-
-« Article 37.- Les salariés à temps partiel bénéficient des mêmes droits dans l?entreprise que les autres 
-
-salariés. 
-
-
-
-« Article 38.- Tout salarié a droit chaque année à des congés payés à la charge de l?employeur, dont la 
-
-durée minimale est fixée par la loi. 
-
-
-
-« Section V : Santé et sécurité au travail 
-
-5 
-
-
-
-
-
-« Article 39.- L?employeur doit assurer la sécurité et protéger la santé des salariés dans tous les 
-
-domaines liés au travail. 
-
-
-
-« Il prend les mesures nécessaires pour prévenir les risques, informer et former les salariés. 
-
-
-
-« Article 40.- Le salarié placé dans une situation dont il a un motif raisonnable de penser qu?elle 
-
-présente un danger grave et imminent pour sa vie ou sa santé alerte l?employeur et peut se retirer de 
-
-cette situation dans les conditions fixées par la loi. 
-
-
-
-« Article 41.- Tout salarié peut accéder à un service de santé au travail dont les médecins bénéficient 
-
-des garanties d?indépendance nécessaires à l?exercice de leurs missions. 
-
-
-
-« Article 42.- L?incapacité au travail médicalement constatée suspend l?exécution du contrat de 
-
-travail. 
-
-
-
-« Article 43.- Tout salarié victime d?un accident du travail ou d?une maladie professionnelle bénéficie 
-
-de garanties spécifiques. » 
-
-
-
-« Section VI : Libertés et droits collectifs 
-
-
-
-« Article 44.- Les syndicats et associations professionnelles se constituent et s?organisent librement. 
-
-
-
-« Tout salarié peut librement adhérer au syndicat de son choix et défendre ses droits et intérêts par 
-
-l?action syndicale. 
-
-
-
-« L?exercice du droit syndical est reconnu dans l?entreprise. Les syndicats peuvent y être représentés 
-
-dans les conditions prévues par la loi. 
-
-
-
-« Article 45.- L?appartenance ou l?activité syndicale ne saurait être prise en considération par 
-
-l?employeur pour arrêter ses décisions. 
-
-
-
-« Article 46.- L?exercice de certaines prérogatives peut être réservé par la loi aux syndicats et 
-
-associations professionnelles reconnus représentatifs. 
-
-
-
-« Article 47.- Tout salarié participe, par l?intermédiaire de représentants élus, à la gestion de 
-
-l?entreprise. 
-
-
-
-« Ces représentants assurent la défense des intérêts individuels et collectifs des salariés. 
-
-
-
-« Ils ont le droit d?être informés et consultés sur les décisions intéressant la marche générale de 
-
-l?entreprise et les conditions de travail. 
-
-
-
-« Ils assurent la gestion des activités sociales et culturelles. » 
-
-
-
-« Article 48.- Les salariés investis de fonctions représentatives par voie de désignation ou d?élection 
-
-bénéficient, en cette qualité, d?un statut protecteur. 
-
-
-
-6 
-
-
-
-
-
-« Article 49.- Tout salarié peut défendre ses intérêts par l?exercice du droit de grève. 
-
-
-
-« Le droit de grève s?exerce dans le cadre des lois qui le réglementent. 
-
-
-
-« Article 50.- L?exercice du droit de grève ne peut justifier la rupture du contrat de travail ni donner 
-
-lieu à aucune sanction, sauf faute lourde imputable au salarié. 
-
-
-
-« Section VII : Négociation collective et dialogue social 
-
-
-
-« Article 51.- Tout projet de réforme de la législation du travail envisagé par le Gouvernement qui 
-
-relève du champ de la négociation nationale et interprofessionnelle fait l?objet d?une concertation 
-
-préalable avec les partenaires sociaux en vue de l?ouverture éventuelle d?une négociation. » 
-
-
-
-« Article 52. - Les salariés participent, par la négociation entre les syndicats et les employeurs ou leurs 
-
-organisations professionnelles, à la détermination collective des conditions d?emploi, de travail et de 
-
-formation professionnelle, ainsi que des garanties sociales. 
-
-
-
-« Les négociations doivent être loyales. 
-
-
-
-« Article 53.- Les conditions de représentativité des parties signataires nécessaires à la validité de 
-
-l?accord sont fixées par la loi. 
-
-
-
-« Article 54.- Une convention ou un accord collectif applicable dans l?entreprise régit la situation de 
-
-l?ensemble des salariés compris dans son champ d?application. 
-
-
-
-« L?autorité publique peut rendre une convention ou un accord collectif applicable à des entreprises 
-
-qui ne sont pas liées par lui. 
-
-
-
-« Article 55.- La loi détermine les conditions et limites dans lesquelles les conventions et accords 
-
-collectifs peuvent prévoir des normes différentes de celles résultant des lois et règlements ainsi que des 
-
-conventions de portée plus large. 
-
-
-
-« Article 56.- En cas de conflit de normes, la plus favorable s?applique aux salariés si la loi n?en 
-
-dispose pas autrement. 
-
-
-
-« Article 57.- Les clauses d'une convention ou d'un accord collectif s'appliquent aux contrats de 
-
-travail. 
-
-
-
-« Les stipulations plus favorables du contrat de travail prévalent si la loi n?en dispose pas autrement. 
-
-
-
-« Section VIII Contrôle administratif et règlement des litiges 
-
-
-
-« Article 58.-L?inspection du travail veille à l?application du droit du travail dans des conditions 
-
-protégeant ses membres de toute pression extérieure indue. 
-
-
-
-« Article 59. - Les litiges en matière de travail sont portés devant une juridiction composée de juges 
-
-qualifiés dans le domaine du droit du travail. 
-
-
-
-7 
-
-
-
-
-
-« Article 60.- L?exercice, par le salarié, de son droit à saisir la justice ou à témoigner ne peut, sauf 
-
-abus, donner lieu à sanction. 
-
-
-
-« Article 61.- Les syndicats peuvent agir ou intervenir devant toute juridiction pour la défense des 
-
-intérêts collectifs de ceux qu?ils ont vocation à représenter. ». 
-
-
-
-II. Le présent article entre en vigueur dans un délai d?un an à compter de la remise du rapport de la 
-
-commission de refondation du code du travail prévue à l?article 2 de la présente loi. 
-
-
-
-**Chapitre 2 Création de la commission de refondation du code ** 
-
-
-
-## **Article 2**
-
-Une commission d?experts et de praticiens des relations sociales est instituée, ayant pour objet de 
-
-proposer au gouvernement une refondation de la partie législative du code du travail, qui traduit les 
-
-principes énoncés dans le préambule créé par l?article 1 de la présente loi. 
-
-
-
-Cette refondation a pour objectif de donner une place centrale à la négociation collective et à élargir 
-
-ses domaines de compétence et son champ d?action, dans le respect du domaine de la loi reconnu par 
-
-la Constitution. 
-
-
-
-La commission associe à ses travaux les organisations professionnelles d'employeurs et syndicales de 
-
-salariés représentatives au niveau national. Elle les entend et les tient informés régulièrement de ses 
-
-avancées. 
-
-
-
-La commission remet ses travaux au gouvernement dans un délai de deux ans à compter de la 
-
-promulgation de la présente loi. Dans un délai de trois mois à compter de cette remise, le 
-
-Gouvernement indique au Parlement les suites qu?il entend donner à ces travaux. 
-
-
-
-La composition et l?organisation de ce comité sont définies par arrêté du ministre chargé du travail. 
-
-****
-
-**Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés ** 
-
-****
-
-## **Article 3 **
-
-I. Au deuxième alinéa de l?article L.3111-2 du code du travail, après les mots, « cadre dirigeant » sont 
-
-insérés les mots : « participant à la direction de l?entreprise ». 
-
+```
 II. ** **Le titre II du livre Ier de la troisième partie du code du travail est ainsi rédigé : 
 
 *« Titre II : Durée du travail, répartition et aménagement des horaires *
-
 *« Chapitre Ier : Durée et aménagement du travail *
-
 *« Section 1 : Travail effectif, astreintes et équivalences *
-
 *« Sous-section 1 : Travail effectif *
-
 *« Paragraphe 1 : Ordre public *
 
-8 
+**« Art. L3121-1. ***- **La durée du travail effectif est le temps pendant lequel le salarié est à la disposition 
+de l'employeur et se conforme à ses directives sans pouvoir vaquer librement à des occupations personnelles. ** **
 
-
-
-
-
-**« ** *Art. L3121-1. ***- **La durée du travail effectif est le temps pendant lequel le salarié est à la disposition 
-
-de l'employeur et se conforme à ses directives sans pouvoir vaquer librement à des occupations 
-
-personnelles. ** **
-
-**« ** *Art. L.3121-2. ***- **Le temps nécessaire à la restauration ainsi que les temps consacrés aux pauses sont 
-
+**« Art. L.3121-2. ***- **Le temps nécessaire à la restauration ainsi que les temps consacrés aux pauses sont 
 considérés comme du temps de travail effectif lorsque les critères définis à l'article L. 3121-1 sont 
-
 réunis. ** **
 
-**« ** *Art. L.3121-3***.- **Le temps nécessaire aux opérations d'habillage et de déshabillage, lorsque le port 
-
-d'une tenue de travail est imposé par des dispositions légales, des stipulations conventionnelles, le 
-
+**« Art. L.3121-3***.- **Le temps nécessaire aux opérations d'habillage et de déshabillage, lorsque le port d'une tenue de travail est imposé par des dispositions légales, des stipulations conventionnelles, le 
 règlement intérieur ou le contrat de travail et que l'habillage et le déshabillage doivent être réalisés 
-
 dans l'entreprise ou sur le lieu de travail, fait l'objet de contreparties. Ces contreparties sont accordées 
-
 soit sous forme de repos, soit sous forme financière. ** **
 
-**« ** *Art. L.3121-4. ***- **Le temps de déplacement professionnel pour se rendre sur le lieu d'exécution du 
-
+**« Art. L.3121-4. ***- **Le temps de déplacement professionnel pour se rendre sur le lieu d'exécution du 
 contrat de travail n'est pas un temps de travail effectif. ** **
-
 « Toutefois, s'il dépasse le temps normal de trajet entre le domicile et le lieu habituel de travail, il fait 
-
 l'objet d'une contrepartie soit sous forme de repos, soit sous forme financière. La part de ce temps de 
-
 déplacement professionnel coïncidant avec l'horaire de travail n'entraîne aucune perte de salaire. 
 
+```
+
+Ici il ne s'agit que de la répétition du code du travail tel qu'il est actuellement écrit, avec quelques petites modifications qui sont, marginalement, à l'avantage du salarié.
+
+<https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000006902440&idSectionTA=LEGISCTA000006195759&cidTexte=LEGITEXT000006072050&dateTexte=20160223>
+
+Un point intéressant : l'intitulé du paragraphe mentionne explicitement que ces dispositions sont d'ordre public. Une disposition d'ordre public est une disposition qui ne peut pas être remise en question, même avec accord des parties. En d'autres termes cette nouvelle rédaction indique clairement que la définition de "durée de travail effectif" n'est pas négociable dans les entreprises. En l'absence de cette précision, on peut imaginer un accord qui s'écarte de ce que prévoit la loi.
+
+De nombreuses dispositions sont d'ordre public, mais pas toutes. La notion d'ordre public provient de l'article 6 du code civil :
+
+``` On ne peut déroger, par des conventions particulières, aux lois qui intéressent l'ordre public et les bonnes moeurs.
+```
+
+<https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=2BC1A4513334CB7D6D266895803F7059.tpdila09v_3?idArticle=LEGIARTI000006419285&cidTexte=LEGITEXT000006070721&dateTexte=20160211>
+
+```
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L. 3121-5. ***- **Une convention ou un accord d?entreprise ou d?établissement ou, à défaut, un accord 
+**« Art. L. 3121-5. ***- **Une convention ou un accord d'entreprise ou
+d'établissement ou, à défaut, un accord de branche peut prévoir une
+rémunération des temps de restauration et de pause mentionnés à l'article
+L.3121-2, même lorsque ceux-ci ne sont pas reconnus comme du temps de travail
+effectif. ** **
 
-de branche peut prévoir une rémunération des temps de restauration et de pause mentionnés à l?article 
+**« Art. L.3121-6. ***- **Une convention ou un accord d'entreprise ou
+d'établissement ou, à défaut, un accord de branche prévoit soit d'accorder des
+contreparties aux temps d'habillage et de déshabillage mentionnés à l'article
+L.3121-3 soit d'assimiler ces temps à du temps de travail effectif. ** ** « Une
+convention ou un accord d'entreprise ou d'établissement ou, à défaut, un accord
+de branche prévoit des contreparties lorsque le temps de déplacement
+professionnel mentionné à l'article L.3121-4 dépasse le temps normal de trajet. 
 
-L.3121-2, même lorsque ceux-ci ne sont pas reconnus comme du temps de travail effectif. ** **
+```
 
-**« ** *Art. L.3121-6. ***- **Une convention ou un accord d?entreprise ou d?établissement ou, à défaut, un accord 
+Ces articles sont nouveaux et expliquent 1-que les compensations doivent exister 2-qu'elles doivent être négociées de préférence au sein de l'entreprise, et à défaut dans la convention collective. 
+Le 3121-5 est totalement inutile, puisqu'il indique que quelque chose qui n'était pas interdit (rémunérer un temps de travail non effectif) est autorisé. C'est la situation par défaut du droit, cet article n'a donc pas lieu d'exister.
 
-de branche prévoit soit d?accorder des contreparties aux temps d?habillage et de déshabillage 
-
-mentionnés à l?article L.3121-3 soit d?assimiler ces temps à du temps de travail effectif. ** **
-
-« Une convention ou un accord d?entreprise ou d?établissement ou, à défaut, un accord de branche 
-
-prévoit des contreparties lorsque le temps de déplacement professionnel mentionné à l?article L.3121-4 
-
-dépasse le temps normal de trajet. 
-
+```
 *« Paragraphe 3 : Dispositions supplétives *
 
-**« ** *Art. L.3121-7. ***- **A défaut d?accord, la rémunération prévue à l?article L. 3121-5 et les contreparties 
+**« Art. L.3121-7. ***- **A défaut d'accord, la rémunération prévue à
+l'article L. 3121-5 et les contreparties prévues à l'article L. 3121-6 sont
+fixées par l'employeur, après information du comité d'entreprise ou, à défaut,
+des délégués du personnel, s'ils existent. ** **
+```
 
-prévues à l?article L. 3121-6 sont fixées par l?employeur, après information du comité d?entreprise ou, 
+C'est là que le bât blesse et qu'on trouve la première arnaque de ce projet de loi. Jusqu'à présent, ce n'était que du bla-bla poétique sans intérêt (articles 1 et 2 du projet de loi), ou des précisions bienvenues mais sans grand impact.
+Ce nouvel article L3121-7 nous explique tout simplement que si aucun accord n'est trouvé, c'est l'employeur qui prend lui-même la décision. Dès lors, quel est son intérêt à négocier effectivement un accord ? Il lui suffit de refuser toute discussion et de fixer la contrepartie à un centime d'euro par heure. Le comité d'entreprise, informé de cela, n'aura aucun pouvoir pour s'y opposer.
 
-à défaut, des délégués du personnel, s?ils existent. ** **
+Cet article à lui seul détruit les précédents, et l'employeur est seul maître à bord sur les questions de temps de pause et d'habillement.
+
+```
 
 *« Sous-section 2 : Astreintes *
-
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L3121-8***.- **Une période d'astreinte s'entend comme une période pendant laquelle le salarié, sans 
-
-être sur son lieu de travail et sans être à la disposition permanente et immédiate de l'employeur, doit 
-
-être en mesure d'intervenir pour accomplir un travail au service de l'entreprise. ** **
-
-« La durée de cette intervention est considérée comme un temps de travail effectif. 
-
-9 
-
-
-
-
-
-« La période d?astreinte fait l?objet d?une contrepartie, soit sous forme financière, soit sous forme de 
-
-repos. 
+**« Art. L3121-8***.- **Une période d'astreinte s'entend comme [...] [NdSven337: reprise intégrale de l'article L3121-6 actuel]
 
 « Les salariés concernés par les astreintes sont informés de la programmation individuelle des périodes 
+d'astreinte dans un délai raisonnable. 
+```
 
-d?astreinte dans un délai raisonnable. 
+Ils sont "informés" dans un délai raisonnable. Ça veut dire quoi, "raisonnable" ? Et c'est sous peine de ? 
+Le code du travail regorge de ce type de disposition. Le problème c'est qu'aucune réelle contrainte n'est créée pour l'employeur, et si celui-ci décide de s'asseoir dessus, il n'existe aucun recours effectif. Cette précision, comme beaucoup d'autres dans cet avant-projet ainsi que dans notre corpus législatif actuel, est un voeux pieux, qui n'a rien à faire dans la loi.
 
-**« ** *Art. L. 3121-9. ***- **Exception faite de la durée d?intervention, la période d?astreinte est prise en compte 
+Je rappelle la rédaction actuelle qui apparaît dans l'article L3121-8 du code du travail:
 
+> La programmation individuelle des périodes d'astreinte est portée à la connaissance de chaque salarié concerné quinze jours à l'avance, sauf circonstances exceptionnelles et sous réserve que le salarié en soit averti au moins un jour franc à l'avance.
+
+
+C'était mauvais, mais au moins le délai était précisé. Bref, sur ce point, un premier recul du droit des salariés, sans réel avantage pour les employeurs.
+
+```
+**« Art. L. 3121-9. ***- **Exception faite de la durée d'intervention, la période d'astreinte est prise en compte 
 pour le calcul de la durée minimale de repos quotidien prévue à l'article L. 3131-1 et des durées de 
-
 repos hebdomadaire prévues aux articles L. 3132-2 et L. 3164-2. ** **
-
-« Lorsque le salarié est intervenu pendant la période d?astreinte, il bénéficie à l?issue de la période 
-
-d?intervention d?un repos compensateur au moins égal au temps d?intervention lui permettant de 
-
-bénéficier au total d?au moins onze heures de repos quotidien ou trente-cinq heures de repos 
-
+« Lorsque le salarié est intervenu pendant la période d'astreinte, il bénéficie à l'issue de la période 
+d'intervention d'un repos compensateur au moins égal au temps d'intervention lui permettant de 
+bénéficier au total d'au moins onze heures de repos quotidien ou trente-cinq heures de repos 
 hebdomadaire. 
+
+```
+
+C'est loin d'être le scandale que ce que certains ont voulu en faire. L'astreinte a toujours été décomptée du temps de repos, simplement, c'est la nature consécutive des 11h qui est remise en cause dans ce projet. Pour une fois que la propagande gouvernementale est relativement exacte, je cite :
+
+> Ce qui change avec le projet de loi :  aujourd'hui, lorsque le salarié est amené à intervenir pendant son astreinte, l'employeur est tenu de lui octroyer 11 heures de repos consécutives à l'issue de son intervention, y compris s'il avait déjà bénéficié d'une partie de son repos avant son intervention. Demain, lorsque le salarié interviendra pendant son astreinte, le temps de repos qu'il avait déjà pris avant d'intervenir sera pris en compte dans le calcul des 11 heures de repos. 
+
+Le gouvernement oublie que le salarié bénéficiera tout de même d'un repos équivalent à la durée d'intervention.
+Ce changement ne me semble pas être une grande victoire des patrons (et de leur allié le parti socialiste), mais un point de détail (qui est effectivement au désavantage des salariés).
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L3121-10. ***- **Une convention ou un accord d?entreprise ou d?établissement, ou, à défaut, un 
-
+**« Art. L3121-10. ***- **Une convention ou un accord d'entreprise ou d'établissement, ou, à défaut, un 
 accord de branche, met en place les astreintes. Cette convention ou accord fixe le mode d'organisation 
-
-des astreintes, les modalités d?information des salariés concernés, la compensation sous forme 
-
+des astreintes, les modalités d'information des salariés concernés, la compensation sous forme 
 financière ou sous forme de repos à laquelle elles donnent lieu. ** **
 
 *« Paragraphe 3 : Dispositions supplétives *
 
-**« ** *Art. L. 3121-11***.- **A défaut d?accord, le mode d?organisation des astreintes et leur compensation sont 
-
-fixés par l?employeur, après avis du comité d?entreprise ou, à défaut, des délégués du personnel, s?ils 
-
-existent. Les modalités d?information des salariés concernés et les délais de prévenance sont fixés par 
-
-décret en Conseil d?Etat. ** **
+**« Art. L. 3121-11***.- **A défaut d'accord, le mode d'organisation des astreintes et leur compensation sont 
+fixés par l'employeur, après avis du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils 
+existent. Les modalités d'information des salariés concernés et les délais de prévenance sont fixés par 
+décret en Conseil d'Etat. ** **
 
 *« Sous-section 3 : Equivalences *
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L3121-12***.- **Le régime d?équivalence constitue un mode spécifique de détermination du temps de 
-
+**« Art. L3121-12***.- **Le régime d'équivalence constitue un mode spécifique de détermination du temps de 
 travail effectif et de sa rémunération pour des professions et des emplois déterminés comportant des 
-
-périodes d?inaction. ** **
+périodes d'inaction. ** **
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L. 3121-13. ***- **Une convention ou un accord de branche étendu peut instituer cette durée du travail 
+**« Art. L. 3121-13. ***- **Une convention ou un accord de branche étendu peut instituer cette durée du travail 
+équivalente à la durée légale pour les professions et emplois mentionnés à l'article L. 3121-12. ** **
 
-équivalente à la durée légale pour les professions et emplois mentionnés à l?article L. 3121-12. ** **
-
-« Il détermine la rémunération des périodes d?inaction. 
+« Il détermine la rémunération des périodes d'inaction. 
 
 *« Section II : Durées maximales de travail *
 
@@ -919,73 +442,69 @@ périodes d?inaction. ** **
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L.3121-14. ***- **Dès que le temps de travail quotidien atteint six heures, le salarié bénéficie d'un 
-
-temps de pause d?une durée minimale de vingt minutes. ** **
-
-10 
-
-
-
-
+**« Art. L.3121-14. ***- **Dès que le temps de travail quotidien atteint
+six heures, le salarié bénéficie d'un temps de pause d'une durée minimale de
+vingt minutes. ** **
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L.3121-15. ***- **Une convention ou un accord d?entreprise ou d?établissement, ou, à défaut, un accord de branche, peut fixer un temps de pause supérieur. ** **
+**« Art. L.3121-15. ***- **Une convention ou un accord d'entreprise ou
+d'établissement, ou, à défaut, un accord de branche, peut fixer un temps de
+pause supérieur. ** **
 
 *« Sous-section 2 : Durée quotidienne maximale *
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L3121-16. ***- **La durée quotidienne du travail effectif par salarié ne peut excéder dix heures, sauf 
-
-dans les cas prévus aux articles L.3121-17 et L.3121-18, et en cas d?urgence dans des conditions 
-
-déterminées par décret. ** **
+**« Art. L3121-16. ***- **La durée quotidienne du travail effectif par
+salarié ne peut excéder dix heures, sauf dans les cas prévus aux articles
+L.3121-17 et L.3121-18, et en cas d'urgence dans des conditions déterminées par
+décret. ** **
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L. 3121-17. ***- **Une convention ou un accord d?entreprise ou d?établissement, ou, à défaut, un accord de branche peut prévoir le dépassement de la durée maximale quotidienne de travail à condition 
-
-que ce dépassement n'ait pas pour effet de porter cette durée à plus de douze heures. ** **
+**« Art. L. 3121-17. ***- **Une convention ou un accord d'entreprise ou
+d'établissement, ou, à défaut, un accord de branche peut prévoir le dépassement
+de la durée maximale quotidienne de travail à condition que ce dépassement
+n'ait pas pour effet de porter cette durée à plus de douze heures. ** **
 
 * « Paragraphe 3 : Dispositions supplétives *
 
-**« ** *Art. L.3121-18. ***- **A défaut d?accord, des dérogations à la durée maximale quotidienne définie à 
-
-l?article L.3121-16 sont accordées par l?autorité administrative dans des conditions déterminées par 
-
-décret. ** **
+**« Art. L.3121-18. ***- **A défaut d'accord, des dérogations à la durée
+maximale quotidienne définie à l'article L.3121-16 sont accordées par
+l'autorité administrative dans des conditions déterminées par décret. ** **
 
 *« Sous-section 3 : Durées hebdomadaires maximales *
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L3121-19. ***- **Au cours d?une même semaine, la durée maximale hebdomadaire de travail est de 
+**« Art. L3121-19. ***- **Au cours d'une même semaine, la durée maximale
+hebdomadaire de travail est de quarante-huit heures, sauf dans les cas prévus
+aux articles L.3121-21 et L.3121-23. ** **
 
-quarante-huit heures, sauf dans les cas prévus aux articles L.3121-21 et L.3121-23. ** **
-
-« *Art. L.3121-20. ***- **La durée hebdomadaire de travail calculée sur une période quelconque de seize 
-
-semaines consécutives ne peut dépasser quarante-quatre heures, sauf dans les cas prévus aux articles 
+« *Art. L.3121-20. ***- **La durée hebdomadaire de travail calculée sur une
+période quelconque de seize semaines consécutives ne peut dépasser
+quarante-quatre heures, sauf dans les cas prévus aux articles 
 
 L.3121-22 à L.3121-24. ** **
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L3121-21. ***- **En cas de circonstances exceptionnelles, une convention ou un accord d?entreprise 
-
-ou d?établissement, ou, à défaut, un accord de branche peut prévoir le dépassement de la durée 
-
-maximale hebdomadaire de travail de quarante-huit heures, à condition que ce dépassement n'ait pas 
-
+**« Art. L3121-21. ***- **En cas de circonstances exceptionnelles, une
+convention ou un accord d'entreprise ou d'établissement, ou, à défaut, un
+accord de branche peut prévoir le dépassement de la durée maximale hebdomadaire
+de travail de quarante-huit heures, à condition que ce dépassement n'ait pas
 pour effet de porter cette durée à plus de soixante heures. ** **
 
-**« ** *Art. L.3121-22. *** - **Une convention ou un accord d?entreprise ou d?établissement, ou, à défaut, un accord de branche peut prévoir le dépassement de la durée hebdomadaire de travail de quarante-quatre 
+**« Art. L.3121-22. *** - **Une convention ou un accord d'entreprise ou
+d'établissement, ou, à défaut, un accord de branche peut prévoir le dépassement
+de la durée hebdomadaire de travail de quarante-quatre 
 
-heures calculée sur une période de seize semaines consécutives, à condition que ce dépassement n?ait 
+heures calculée sur une période de seize semaines consécutives, à condition que
+ce dépassement n'ait 
 
-pas pour effet de porter cette durée à plus de quarante-six heures calculée sur une période de seize 
+pas pour effet de porter cette durée à plus de quarante-six heures calculée sur
+une période de seize 
 
 semaines. 
 
@@ -997,37 +516,37 @@ semaines.
 
 
 
-**« ** *Art. L. 3121-23. ***- **A défaut d?accord, les dépassements des durées maximales hebdomadaires 
+**« Art. L. 3121-23. ***- **A défaut d'accord, les dépassements des durées maximales hebdomadaires 
 
-prévues aux articles L. 3121-19 et L.3121-20 sont autorisés par l?autorité administrative dans des 
+prévues aux articles L. 3121-19 et L.3121-20 sont autorisés par l'autorité administrative dans des 
 
-conditions déterminées par décret en Conseil d?Etat. ** **
+conditions déterminées par décret en Conseil d'Etat. ** **
 
-**« ** *Art. L. 3121-24. ***- **A titre exceptionnel dans certains secteurs, dans certaines régions ou dans certaines 
+**« Art. L. 3121-24. ***- **A titre exceptionnel dans certains secteurs, dans certaines régions ou dans certaines 
 
 entreprises, des dépassements de la durée de quarante-six heures peuvent être autorisés pendant des 
 
 périodes déterminées dans des conditions déterminées par décret. ** **
 
-**« ** *Art. L3121-25.-*** **Le comité d'entreprise ou, à défaut, les délégués du personnel, s?ils existent, sont informés des autorisations de dépassement demandées à l?autorité administrative. ** **
+**« Art. L3121-25.-*** **Le comité d'entreprise ou, à défaut, les délégués du personnel, s'ils existent, sont informés des autorisations de dépassement demandées à l'autorité administrative. ** **
 
 *« Section 3 : Durée légale et heures supplémentaires *
 
 * « Sous-section 1 : Ordre public *
 
-**« ** *Art. L.3121-26. ***- **La durée légale du travail effectif des salariés à temps complet est fixée à 
+**« Art. L.3121-26. ***- **La durée légale du travail effectif des salariés à temps complet est fixée à 
 
 trente-cinq heures par semaine. ** **
 
-**« ** *Art. L.3121-27.-*** **Toute heure accomplie au-delà de la durée légale hebdomadaire ou de la 
+**« Art. L.3121-27.-*** **Toute heure accomplie au-delà de la durée légale hebdomadaire ou de la 
 
 durée équivalente est une heure supplémentaire qui ouvre droit à une majoration salariale, 
 
 ou le cas échéant, à un repos compensateur équivalent. ** **
 
-**« ** *Art. L.3121-28. ***- **Les heures supplémentaires se décomptent par semaine. ** **
+**« Art. L.3121-28. ***- **Les heures supplémentaires se décomptent par semaine. ** **
 
-**« ** *Art. L.3121-29. ***- **Des heures supplémentaires peuvent être accomplies dans la limite d?un 
+**« Art. L.3121-29. ***- **Des heures supplémentaires peuvent être accomplies dans la limite d'un 
 
 contingent annuel. Les heures effectuées au-delà de ce contingent annuel ouvrent droit à 
 
@@ -1039,11 +558,11 @@ accomplies au-delà de la durée légale.
 
 « Les heures supplémentaires donnant lieu à un repos compensateur équivalent et celles accomplies 
 
-dans les cas de travaux urgents énumérés à l?article L.3132-4 ne s?imputent pas sur le contingent 
+dans les cas de travaux urgents énumérés à l'article L.3132-4 ne s'imputent pas sur le contingent 
 
-annuel d?heures supplémentaires. 
+annuel d'heures supplémentaires. 
 
-**« ** *Art. L.3121-30. ***- **Dans les entreprises dont la durée collective hebdomadaire de travail est 
+**« Art. L.3121-30. ***- **Dans les entreprises dont la durée collective hebdomadaire de travail est 
 
 supérieure à la durée légale hebdomadaire, la rémunération mensuelle due au salarié peut 
 
@@ -1055,13 +574,13 @@ heures supplémentaires accomplies. ** **
 
 *« Sous-section 2 : Champ de la négociation collective *
 
-**« ** *Art. L.3121-31 -*** **Une convention ou un accord collectif d?entreprise ou d?établissement, ou 
+**« Art. L.3121-31 -*** **Une convention ou un accord collectif d'entreprise ou d'établissement, ou 
 
 à défaut une convention ou un accord de branche peut fixer une période de sept jours 
 
-consécutifs constituant la semaine pour l?application du présent chapitre** **
+consécutifs constituant la semaine pour l'application du présent chapitre** **
 
-**« ** *Art. L.3121-32**. *****- **I. ** **Une convention ou un accord collectif d?entreprise ou d?établissement, 
+**« Art. L.3121-32**. *****- **I. ** **Une convention ou un accord collectif d'entreprise ou d'établissement, 
 
 ou, à défaut, une convention ou un accord de branche:** **
 
@@ -1075,7 +594,7 @@ durée légale ou de la durée considérée comme équivalente. Ce taux ne peut être i
 
 « 2° 
 
-définit le contingent annuel prévu à l?article L.3121-29 ; 
+définit le contingent annuel prévu à l'article L.3121-29 ; 
 
 12 
 
@@ -1089,9 +608,9 @@ fixe l'ensemble des conditions d'accomplissement d'heures supplémentaires au-del
 
 contingent annuel ainsi que les caractéristiques et les conditions de prise de la contrepartie 
 
-obligatoire sous forme de repos prévue à l?article L.3121-29. 
+obligatoire sous forme de repos prévue à l'article L.3121-29. 
 
-«II. La convention ou l?accord collectif d?entreprise ou d?établissement, ou, à défaut, une 
+«II. La convention ou l'accord collectif d'entreprise ou d'établissement, ou, à défaut, une 
 
 convention ou un accord de branche peut également : 
 
@@ -1107,11 +626,11 @@ prévoir le remplacement de tout ou partie du paiement des heures supplémentaires
 
 que des majorations, par un repos compensateur équivalent ; 
 
-« III. La convention ou l?accord d?entreprise peut adapter les conditions et les modalités 
+« III. La convention ou l'accord d'entreprise peut adapter les conditions et les modalités 
 
-d?attribution et de prise du repos compensateur de remplacement à l?entreprise. 
+d'attribution et de prise du repos compensateur de remplacement à l'entreprise. 
 
-**« ** *Art. L.3121-33. ***- **Dans les branches d'activité à caractère saisonnier mentionnées à l'article 
+**« Art. L.3121-33. ***- **Dans les branches d'activité à caractère saisonnier mentionnées à l'article 
 
 L. 3132-7, une convention ou un accord d'entreprise ou d'établissement, conclu en 
 
@@ -1125,11 +644,11 @@ des heures supplémentaires et des repos compensateurs. ** **
 
 *« Sous-section 3 : Dispositions supplétives *
 
-**« ** *Art. L.3121-34. ***- **Sauf stipulations contraires dans l?accord collectif mentionné à l?article L. 
+**« Art. L.3121-34. ***- **Sauf stipulations contraires dans l'accord collectif mentionné à l'article L. 
 
 3121-31, la semaine débute le lundi à 0 heure et se termine le dimanche à 24 heures. ** **
 
-**« ** *Art. L.3121-35. *- A défaut d?accord, les heures supplémentaires accomplies au-delà de la 
+**« Art. L.3121-35. *- A défaut d'accord, les heures supplémentaires accomplies au-delà de la 
 
 durée légale hebdomadaire fixée à l'article L. 3121-26, ou de la durée considérée comme 
 
@@ -1139,29 +658,29 @@ premières heures supplémentaires. Les heures suivantes donnent lieu à une majora
 
 50 %. 
 
-**« ** *Art. L.3121-36. ***- **Dans les entreprises dépourvues de délégué syndical, le remplacement de 
+**« Art. L.3121-36. ***- **Dans les entreprises dépourvues de délégué syndical, le remplacement de 
 
 tout ou partie du paiement des heures supplémentaires ou de leur majoration par un repos 
 
-compensateur équivalent peut être mis en place par l?employeur à condition que le comité 
+compensateur équivalent peut être mis en place par l'employeur à condition que le comité 
 
-d?entreprise ou, à défaut, les délégués du personnel, s?ils existent, ne s?y opposent pas. ** **
+d'entreprise ou, à défaut, les délégués du personnel, s'ils existent, ne s'y opposent pas. ** **
 
-« L?employeur peut également adapter à l?entreprise les conditions et les modalités 
+« L'employeur peut également adapter à l'entreprise les conditions et les modalités 
 
-d?attribution et de prise du repos compensateur de remplacement après avis du comité 
+d'attribution et de prise du repos compensateur de remplacement après avis du comité 
 
-d?entreprise ou, à défaut, des délégués du personnel, s?ils existent. 
+d'entreprise ou, à défaut, des délégués du personnel, s'ils existent. 
 
-**« ** *Art. L. 3121-37. ***- **La contrepartie obligatoire en repos mentionnée à l?article L. 3121-36 est fixée à 
+**« Art. L. 3121-37. ***- **La contrepartie obligatoire en repos mentionnée à l'article L. 3121-36 est fixée à 
 
 50% pour les entreprises de vingt salariés au plus et à 100% pour les entreprises de plus de vingt 
 
 salariés. ** **
 
-**« ** *Art. L.3121-38. ***- **A défaut d?accord, un décret détermine le contingent annuel défini à 
+**« Art. L.3121-38. ***- **A défaut d'accord, un décret détermine le contingent annuel défini à 
 
-l?article L.3121-29 et les caractéristiques et les conditions de prise de la contrepartie 
+l'article L.3121-29 et les caractéristiques et les conditions de prise de la contrepartie 
 
 obligatoire en repos pour toute heure supplémentaire accomplie au-delà de ce contingent. ** **
 
@@ -1179,13 +698,13 @@ obligatoire en repos pour toute heure supplémentaire accomplie au-delà de ce con
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L.3121-39. ***- **Lorsqu?il est mis en place un dispositif d?aménagement du temps de travail 
+**« Art. L.3121-39. ***- **Lorsqu'il est mis en place un dispositif d'aménagement du temps de travail 
 
 sur une période de référence supérieure à la semaine, les heures supplémentaires sont 
 
-décomptées à l?issue de cette période de référence. 
+décomptées à l'issue de cette période de référence. 
 
-« Cette période de référence ne peut dépasser trois ans en cas d?accord collectif et seize 
+« Cette période de référence ne peut dépasser trois ans en cas d'accord collectif et seize 
 
 semaines en cas de décision unilatérale. 
 
@@ -1195,11 +714,11 @@ effectuées au-delà de 1607 heures.
 
 « Si la période de référence est inférieure ou supérieure à un an, constituent des heures 
 
-supplémentaires les heures effectuées au-delà d?une durée hebdomadaire moyenne de 
+supplémentaires les heures effectuées au-delà d'une durée hebdomadaire moyenne de 
 
 trente-cinq heures calculée sur la période de référence. 
 
-**« ** *Art. L.3121-40. ***- **Dans les entreprises ayant mis en place un dispositif d?aménagement du 
+**« Art. L.3121-40. ***- **Dans les entreprises ayant mis en place un dispositif d'aménagement du 
 
 temps de travail sur une période de référence supérieure à la semaine, les salariés sont 
 
@@ -1207,7 +726,7 @@ prévenus dans un délai de prévenance raisonnable de tout changement dans la répa
 
 de la durée du travail. ** **
 
-**« ** *Art. L.3121-41. ***- **La mise en place d?un aménagement du temps de travail sur une période 
+**« Art. L.3121-41. ***- **La mise en place d'un aménagement du temps de travail sur une période 
 
 supérieure à la semaine par accord collectif ne constitue pas une modification du contrat de 
 
@@ -1215,9 +734,9 @@ travail pour les salariés à temps complet. ** **
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-**« ** *Art. L.3121-42. ***- **En application de l?article L.3121-39, un accord d?entreprise ou 
+**« Art. L.3121-42. ***- **En application de l'article L.3121-39, un accord d'entreprise ou 
 
-d?établissement ou, à défaut, un accord de branche, peut définir les modalités 
+d'établissement ou, à défaut, un accord de branche, peut définir les modalités 
 
 d'aménagement du temps de travail et organiser la répartition de la durée du travail sur une 
 
@@ -1237,21 +756,21 @@ que des arrivées et départs en cours de période.
 
 communication et de modification de la répartition de la durée et des horaires de travail. 
 
-« L?accord peut prévoir une limite annuelle inférieure à 1607 heures pour le décompte des 
+« L'accord peut prévoir une limite annuelle inférieure à 1607 heures pour le décompte des 
 
 heures supplémentaires. 
 
-« L?accord peut également prévoir une limite hebdomadaire, supérieure à trente-cinq 
+« L'accord peut également prévoir une limite hebdomadaire, supérieure à trente-cinq 
 
-heures, au-delà de laquelle les heures de travail accomplies au cours d?une même semaine 
+heures, au-delà de laquelle les heures de travail accomplies au cours d'une même semaine 
 
 sont en tout état de cause des heures supplémentaires rémunérées avec le salaire du mois 
 
-considéré. Ces heures n?entrent pas dans le décompte des heures travaillées opéré à l?issue 
+considéré. Ces heures n'entrent pas dans le décompte des heures travaillées opéré à l'issue 
 
 de la période de référence mentionnée au deuxième alinéa du présent article. 
 
-« L?accord peut prévoir que la rémunération mensuelle des salariés est indépendante de 
+« L'accord peut prévoir que la rémunération mensuelle des salariés est indépendante de 
 
 l'horaire réel et détermine alors les conditions dans lesquelles elle est calculée, dans le 
 
@@ -1259,7 +778,7 @@ respect des dispositions du septième alinéa du présent article.
 
 *« Paragraphe 3 : Dispositions supplétives *
 
-« *Art. L. 3121-43*.- A défaut d?accord mentionné à l?article L. 3121-42, l?employeur peut mettre en 
+« *Art. L. 3121-43*.- A défaut d'accord mentionné à l'article L. 3121-42, l'employeur peut mettre en 
 
 place une répartition de la durée du travail sur plusieurs semaines, dans la limite de seize semaines 
 
@@ -1275,13 +794,13 @@ de cinquante salariés et plus, dans des conditions fixées par décret.
 
 
 
-« *Art. L. 3121-44.-* Dans les entreprises qui fonctionnent en continu, l?employeur peut mettre en place 
+« *Art. L. 3121-44.-* Dans les entreprises qui fonctionnent en continu, l'employeur peut mettre en place 
 
 une répartition de la durée du travail sur plusieurs semaines. 
 
 
 
-« *Art. L. 3121-45*.- A défaut de stipulations dans l?accord mentionné à l?article L. 3121-42, le délai de 
+« *Art. L. 3121-45*.- A défaut de stipulations dans l'accord mentionné à l'article L. 3121-42, le délai de 
 
 prévenance des salariés en cas de changement de durée ou d'horaires est fixé à sept jours. 
 
@@ -1289,27 +808,27 @@ prévenance des salariés en cas de changement de durée ou d'horaires est fixé à s
 
 *« Paragraphe 1 : Ordre public *
 
-**« ** *Art. L. 3121-46. ***- **L?employeur peut mettre en place un dispositif d?horaires individualisés 
+**« Art. L. 3121-46. ***- **L'employeur peut mettre en place un dispositif d'horaires individualisés 
 
-permettant un report d?heures d?une semaine à une autre, dans les limites et selon les 
+permettant un report d'heures d'une semaine à une autre, dans les limites et selon les 
 
-modalités définies aux articles L.3121-49 et L.3121-50, après avis du comité d?entreprise ou, 
+modalités définies aux articles L.3121-49 et L.3121-50, après avis du comité d'entreprise ou, 
 
-à défaut, des délégués du personnel, s?ils existent. Dans le cadre de ce dispositif, et par 
+à défaut, des délégués du personnel, s'ils existent. Dans le cadre de ce dispositif, et par 
 
-dérogation à l?article L. 3121-28, les heures de travail accomplies au cours d?une même 
+dérogation à l'article L. 3121-28, les heures de travail accomplies au cours d'une même 
 
 semaine au-delà de la durée hebdomadaire légale ou conventionnelle ne sont pas 
 
-considérées comme des heures supplémentaires, pourvu qu?elles résultent d'un libre choix 
+considérées comme des heures supplémentaires, pourvu qu'elles résultent d'un libre choix 
 
 du salarié. ** **
 
-« Dans les entreprises qui ne disposent pas de représentant du personnel, l?inspecteur du 
+« Dans les entreprises qui ne disposent pas de représentant du personnel, l'inspecteur du 
 
-travail est informé de la mise en place d?horaires individualisés. 
+travail est informé de la mise en place d'horaires individualisés. 
 
-**« ** *Art. L. 3121-47. ***- **Les salariés handicapés mentionnés aux 1°, 2°, 3°, 4°, 9°, 10° et 11° de 
+**« Art. L. 3121-47. ***- **Les salariés handicapés mentionnés aux 1°, 2°, 3°, 4°, 9°, 10° et 11° de 
 
 l'article L. 5212-13 bénéficient à leur demande, au titre des mesures appropriées prévues à 
 
@@ -1317,45 +836,45 @@ l'article L. 5213-6, d'aménagements d'horaires individualisés propres à facilite
 
 l'emploi, leur exercice professionnel ou le maintien dans leur emploi. ** **
 
-« Les aidants familiaux et les proches d?une personne handicapée bénéficient dans les 
+« Les aidants familiaux et les proches d'une personne handicapée bénéficient dans les 
 
 mêmes conditions d'aménagements d'horaires individualisés propres à faciliter 
 
 l'accompagnement de cette personne. 
 
-**« ** *Art. L. 3121-48. ***- **Seules peuvent être récupérées les heures perdues par suite 
+**« Art. L. 3121-48. ***- **Seules peuvent être récupérées les heures perdues par suite 
 
-d?interruption collective du travail résultant : 
+d'interruption collective du travail résultant : 
 
-« 1° de causes accidentelles, d?intempéries ou en cas de force majeure ; 
+« 1° de causes accidentelles, d'intempéries ou en cas de force majeure ; 
 
-« 2° d?inventaire ; 
+« 2° d'inventaire ; 
 
-« 3° du chômage d?un jour ou de deux jours ouvrables compris entre un jour férié et un jour 
+« 3° du chômage d'un jour ou de deux jours ouvrables compris entre un jour férié et un jour 
 
-de repos hebdomadaire ou d?un jour précédent les congés annuels. 
+de repos hebdomadaire ou d'un jour précédent les congés annuels. 
 
 *« Paragraphe 2 : Champ de la négociation collective *
 
-*Art L. 3121-49* - Un accord collectif d?entreprise ou d?établissement, ou, à défaut, un accord 
+*Art L. 3121-49* - Un accord collectif d'entreprise ou d'établissement, ou, à défaut, un accord 
 
 de branche peut : 
 
-1° prévoir les modalités de report d?heures d'une semaine à une autre lorsqu?est mis en 
+1° prévoir les modalités de report d'heures d'une semaine à une autre lorsqu'est mis en 
 
-place un dispositif d?horaires individualisés en application de l?article L. 3121-46 
+place un dispositif d'horaires individualisés en application de l'article L. 3121-46 
 
-2° fixer les modalités de récupération des heures perdues dans les cas prévus à l?article L. 
+2° fixer les modalités de récupération des heures perdues dans les cas prévus à l'article L. 
 
 3121-48. ** **
 
 *« Paragraphe 3 : Dispositions supplétives *
 
-*« Art- L. 3121*- *50*- A défaut d?accord collectif mentionné à l?article L. 3121-49, les modalités 
+*« Art- L. 3121*- *50*- A défaut d'accord collectif mentionné à l'article L. 3121-49, les modalités 
 
-de récupération des heures perdues et de report d?heures en cas de mise en place d?horaires 
+de récupération des heures perdues et de report d'heures en cas de mise en place d'horaires 
 
-individualisés sont déterminées par décret en Conseil d?Etat. ** **
+individualisés sont déterminées par décret en Conseil d'Etat. ** **
 
 *« Section 5 : Conventions de forfait *
 
@@ -1373,7 +892,7 @@ individualisés sont déterminées par décret en Conseil d?Etat. ** **
 
 ****
 
-**« ** *Art. L. 3121-51. ***- **La durée du travail peut être forfaitisée en heures ou en jours dans les conditions 
+**« Art. L. 3121-51. ***- **La durée du travail peut être forfaitisée en heures ou en jours dans les conditions 
 
 prévues aux sous-sections 2 et 3. 
 
@@ -1383,7 +902,7 @@ prévues aux sous-sections 2 et 3.
 
 annuel. 
 
-**« ** *Art. L. 3121-53. ***- **La forfaitisation de la durée du travail doit faire l?objet de l'accord du salarié et d?une convention individuelle de forfait établie par écrit. ** **
+**« Art. L. 3121-53. ***- **La forfaitisation de la durée du travail doit faire l'objet de l'accord du salarié et d'une convention individuelle de forfait établie par écrit. ** **
 
 * *
 
@@ -1391,13 +910,13 @@ annuel.
 
 ****
 
-**« ** *Art. L. 3121-54. ***? **Peut conclure une convention individuelle de forfait en heures sur la semaine ou 
+**« Art. L. 3121-54. ***? **Peut conclure une convention individuelle de forfait en heures sur la semaine ou 
 
 sur le mois tout salarié. ** **
 
 « Peuvent conclure une convention individuelle de forfait en heures sur l'année, dans la limite du 
 
-nombre d?heures prévu au 3° du I de l?article L.3121-62 : 
+nombre d'heures prévu au 3° du I de l'article L.3121-62 : 
 
 « 1° Les cadres dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au 
 
@@ -1407,7 +926,7 @@ sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés ;
 
 
 
-**« ** *Art. L. 3121-55. ***- **La rémunération du salarié ayant conclu une convention individuelle de forfait en 
+**« Art. L. 3121-55. ***- **La rémunération du salarié ayant conclu une convention individuelle de forfait en 
 
 heures est au moins égale à la rémunération minimale applicable dans l'entreprise pour le nombre 
 
@@ -1421,9 +940,9 @@ aux articles L. 3121-27 et L.3121-35. ** **
 
 
 
-**« ** *Art. L. 3121-56. ***- **Peuvent conclure une convention individuelle de forfait en jours sur l'année, dans 
+**« Art. L. 3121-56. ***- **Peuvent conclure une convention individuelle de forfait en jours sur l'année, dans 
 
-la limite du nombre de jours prévu au 3° du I de l?article L.3121-62 :** **
+la limite du nombre de jours prévu au 3° du I de l'article L.3121-62 :** **
 
 « 1° Les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la 
 
@@ -1439,7 +958,7 @@ leur sont confiées.
 
 
 
-**« ** *Art. L. 3121-57.-*** **Le salarié qui le souhaite peut, en accord avec son employeur, renoncer à une partie 
+**« Art. L. 3121-57.-*** **Le salarié qui le souhaite peut, en accord avec son employeur, renoncer à une partie 
 
 de ses jours de repos en contrepartie d'une majoration de son salaire. L'accord entre le salarié et 
 
@@ -1455,19 +974,19 @@ l'employeur est établi par écrit. ** **
 
 majoration applicable à la rémunération de ce temps de travail supplémentaire, sans qu'il puisse être 
 
-inférieur à 10 %. Cet avenant est valable pour l?année en cours. Il ne peut être reconduit de manière 
+inférieur à 10 %. Cet avenant est valable pour l'année en cours. Il ne peut être reconduit de manière 
 
 tacite. ** ** 
 
-**** *Art. L. 3121-58. *- Lorsque l?employeur a fixé des échéances et une charge de travail compatibles avec 
+**** *Art. L. 3121-58. *- Lorsque l'employeur a fixé des échéances et une charge de travail compatibles avec 
 
 le respect des repos quotidien et hebdomadaire et des congés du salarié, sa responsabilité ne peut être 
 
-engagée au seul motif que le salarié n?a, de sa propre initiative, pas bénéficié de ces repos ou congés. ** **
+engagée au seul motif que le salarié n'a, de sa propre initiative, pas bénéficié de ces repos ou congés. ** **
 
 ****
 
-**« ** *Art. L. 3121-59. ***- **Lorsqu'un salarié ayant conclu une convention de forfait en jours perçoit une 
+**« Art. L. 3121-59. ***- **Lorsqu'un salarié ayant conclu une convention de forfait en jours perçoit une 
 
 rémunération manifestement sans rapport avec les sujétions qui lui sont imposées, il peut, nonobstant 
 
@@ -1477,7 +996,7 @@ allouée une indemnité calculée en fonction du préjudice subi, eu égard notamment
 
 pratiqué dans l'entreprise, et correspondant à sa qualification. ** **
 
-**« ** *Art. L. 3121-60. ***- **Les salariés ayant conclu une convention de forfait en jours ne sont pas soumis aux 
+**« Art. L. 3121-60. ***- **Les salariés ayant conclu une convention de forfait en jours ne sont pas soumis aux 
 
 dispositions relatives :** **
 
@@ -1493,11 +1012,11 @@ dispositions relatives :** **
 
 * *
 
-**« ** *Art. L. 3121-61. *** **Les forfaits annuels en heures ou en jours sur l?année sont mis en place par accord 
+**« Art. L. 3121-61. *** **Les forfaits annuels en heures ou en jours sur l'année sont mis en place par accord 
 
-collectif d?entreprise ou d?établissement ou, à défaut, par une convention ou un accord de branche. 
+collectif d'entreprise ou d'établissement ou, à défaut, par une convention ou un accord de branche. 
 
-« *Art. L. 3121-62.-** *** I**. - **L?accord prévoyant la conclusion de conventions individuelles de forfait en heures ou en jours sur l?année détermine :** **
+« *Art. L. 3121-62.-** *** I**. - **L'accord prévoyant la conclusion de conventions individuelles de forfait en heures ou en jours sur l'année détermine :** **
 
 « 1° 
 
@@ -1507,15 +1026,15 @@ le respect des dispositions des articles L. 3121-54 et L. 3121-56 ;
 
 « 2° 
 
-la période de référence du forfait, qui peut être l?année civile ou toute autre période de douze 
+la période de référence du forfait, qui peut être l'année civile ou toute autre période de douze 
 
 mois consécutifs ; 
 
 « 3° 
 
-le nombre d?heures ou de jours compris dans le forfait dans la limite de deux cent dix-huit 
+le nombre d'heures ou de jours compris dans le forfait dans la limite de deux cent dix-huit 
 
-jours s?agissant du forfait en jours ;? 
+jours s'agissant du forfait en jours ;? 
 
 « 4° 
 
@@ -1527,21 +1046,21 @@ des arrivées et départs en cours de période ;
 
 les caractéristiques principales des conventions individuelles qui doivent notamment fixer le 
 
-nombre d?heures ou de jours compris dans le forfait. 
+nombre d'heures ou de jours compris dans le forfait. 
 
 
 
-**« **II. ** **L?accord autorisant la conclusion de conventions individuelles de forfait en jours détermine :** **
+**« **II. ** **L'accord autorisant la conclusion de conventions individuelles de forfait en jours détermine :** **
 
-« 1° les modalités selon lesquelles l?employeur assure l?évaluation et le suivi régulier de la charge de 
+« 1° les modalités selon lesquelles l'employeur assure l'évaluation et le suivi régulier de la charge de 
 
 travail du salarié ; 
 
-« 2° les modalités selon lesquelles l?employeur et le salarié échangent périodiquement sur la charge de 
+« 2° les modalités selon lesquelles l'employeur et le salarié échangent périodiquement sur la charge de 
 
-travail du salarié, l?articulation entre son activité professionnelle et sa vie personnelle, sa 
+travail du salarié, l'articulation entre son activité professionnelle et sa vie personnelle, sa 
 
-rémunération, ainsi que sur l?organisation du travail dans l?entreprise ;? 
+rémunération, ainsi que sur l'organisation du travail dans l'entreprise ;? 
 
 17 
 
@@ -1551,23 +1070,23 @@ rémunération, ainsi que sur l?organisation du travail dans l?entreprise ;?
 
 « 3° les modalités selon lesquelles le salarié peut exercer son droit à la déconnexion prévu au 1° de 
 
-l?article L. 2242-8. 
+l'article L. 2242-8. 
 
-« L?accord peut fixer le nombre maximal de jours travaillés dans l?année lorsque le salarié renonce à 
+« L'accord peut fixer le nombre maximal de jours travaillés dans l'année lorsque le salarié renonce à 
 
-une partie de ses jours de repos en application des dispositions de l?article L. 3121-57. Ce nombre de 
+une partie de ses jours de repos en application des dispositions de l'article L. 3121-57. Ce nombre de 
 
 jours doit être compatible avec les dispositions du titre III relatives au repos quotidien, au repos 
 
 hebdomadaire et aux jours fériés chômés dans l'entreprise, et du titre IV relatives aux congés payés. 
 
-« L?accord peut également fixer les modalités selon lesquelles le salarié peut, à sa demande et avec 
+« L'accord peut également fixer les modalités selon lesquelles le salarié peut, à sa demande et avec 
 
-l?accord de l?employeur, fractionner son repos quotidien ou hebdomadaire dès lors qu?il travaille en 
+l'accord de l'employeur, fractionner son repos quotidien ou hebdomadaire dès lors qu'il travaille en 
 
-dehors de son lieu de travail au moyen d?outils numériques. L?accord détermine notamment la durée 
+dehors de son lieu de travail au moyen d'outils numériques. L'accord détermine notamment la durée 
 
-minimale de repos quotidien et hebdomadaire ne pouvant faire l?objet d?un fractionnement. 
+minimale de repos quotidien et hebdomadaire ne pouvant faire l'objet d'un fractionnement. 
 
 
 
@@ -1575,7 +1094,7 @@ minimale de repos quotidien et hebdomadaire ne pouvant faire l?objet d?un fracti
 
 ****
 
-**« ** *Art. L. 3121-63. ***? **A défaut** **des stipulations conventionnelles prévues au 1° et 2° du II de l?article 
+**« Art. L. 3121-63. ***? **A défaut** **des stipulations conventionnelles prévues au 1° et 2° du II de l'article 
 
 L.3121-62, une convention individuelle de forfait en jours peut être valablement conclue sous réserve 
 
@@ -1583,43 +1102,43 @@ du respect des dispositions suivantes :** **
 
 « 1° 
 
-l?employeur établit un document de contrôle du nombre de jours travaillés faisant apparaître le 
+l'employeur établit un document de contrôle du nombre de jours travaillés faisant apparaître le 
 
 nombre et la date des journées ou demi-journées travaillées. Sous la responsabilité de 
 
-l?employeur, ce document peut être rempli par le salarié ; 
+l'employeur, ce document peut être rempli par le salarié ; 
 
 « 2° 
 
-l?employeur s?assure du bénéfice, par le salarié, de son repos quotidien et hebdomadaire ; 
+l'employeur s'assure du bénéfice, par le salarié, de son repos quotidien et hebdomadaire ; 
 
 « 3° 
 
-l?employeur organise une fois par an un entretien avec le salarié pour évoquer sa charge de 
+l'employeur organise une fois par an un entretien avec le salarié pour évoquer sa charge de 
 
-travail qui doit être raisonnable, l'organisation de son travail, l?articulation entre son activité 
+travail qui doit être raisonnable, l'organisation de son travail, l'articulation entre son activité 
 
 professionnelle et sa vie personnelle, ainsi que sa rémunération. 
 
 ****
 
-**« ** *Art. L. 3121-64.-*** **A défaut d?accord collectif prévu à l?article L. 3121-62, dans les entreprises de moins de cinquante salariés, des conventions individuelles de forfaits en jours et en heures sur l?année 
+**« Art. L. 3121-64.-*** **A défaut d'accord collectif prévu à l'article L. 3121-62, dans les entreprises de moins de cinquante salariés, des conventions individuelles de forfaits en jours et en heures sur l'année 
 
-peuvent être conclues sous réserve que l?employeur fixe les règles et respecte les garanties 
+peuvent être conclues sous réserve que l'employeur fixe les règles et respecte les garanties 
 
 mentionnées aux articles L.3121-62 à L.3121-63. ** **
 
-**« ** *Art. L. 3121-65. ***- **En cas de renonciation, par le salarié, à des jours de repos en application des 
+**« Art. L. 3121-65. ***- **En cas de renonciation, par le salarié, à des jours de repos en application des 
 
-dispositions de l?article L. 3121-57, et à défaut de précision dans l?accord collectif mentionné à 
+dispositions de l'article L. 3121-57, et à défaut de précision dans l'accord collectif mentionné à 
 
-l?article L. 3121-62, le nombre maximal de jours travaillés dans l?année est de deux cent trente-cinq 
+l'article L. 3121-62, le nombre maximal de jours travaillés dans l'année est de deux cent trente-cinq 
 
 jours. 
 
-* « Section 6 : Dispositions d?application *
+* « Section 6 : Dispositions d'application *
 
-**« ** *Art. L. 3121-66* - Des décrets en Conseil d?Etat déterminent les modalités d'application du 
+**« Art. L. 3121-66* - Des décrets en Conseil d'Etat déterminent les modalités d'application du 
 
 présent chapitre pour l'ensemble des branches d'activité ou des professions ou pour une 
 
@@ -1651,7 +1170,7 @@ intéressées et au vu, le cas échéant, des résultats des négociations intervenues
 
 « Art. L. 3121-67 - Il peut être dérogé par convention ou accord collectif étendu ou par convention ou 
 
-accord d'entreprise ou d'établissement à celles des dispositions des décrets prévus à l?article L. 3121-
+accord d'entreprise ou d'établissement à celles des dispositions des décrets prévus à l'article L. 3121-
 
 66 qui sont relatives à l'aménagement et à la répartition des horaires de travail à l'intérieur de la 
 
@@ -1663,7 +1182,7 @@ récupération des heures de travail perdues lorsque la loi permet cette récupérat
 
 dispositions de ces décrets auxquelles il avait été dérogé redeviennent applicables. 
 
-**« ** *Art. L. 3121-68***- **Un décret en Conseil d?Etat détermine les mesures d?application des articles L. 
+**« Art. L. 3121-68***- **Un décret en Conseil d'Etat détermine les mesures d'application des articles L. 
 
 3121-23 à L. 3121-25. ** **
 
@@ -1673,31 +1192,31 @@ dispositions de ces décrets auxquelles il avait été dérogé redeviennent applicab
 
 *« Art. L. 3122-1. ***- **Le recours au travail de nuit est exceptionnel. Il prend en compte les impératifs de 
 
-protection de la santé et de la sécurité des travailleurs et est justifié par la nécessité d?assurer la 
+protection de la santé et de la sécurité des travailleurs et est justifié par la nécessité d'assurer la 
 
-continuité de l?activité économique ou des services d'utilité sociale. ** **
+continuité de l'activité économique ou des services d'utilité sociale. ** **
 
-**« ** *Art. L. 3122-2. ***- **Tout travail effectué au cours d?une période d?au moins neuf heures consécutives 
+**« Art. L. 3122-2. ***- **Tout travail effectué au cours d'une période d'au moins neuf heures consécutives 
 
-comprenant l?intervalle entre minuit et cinq heures, est considéré comme du travail de nuit. ** **
+comprenant l'intervalle entre minuit et cinq heures, est considéré comme du travail de nuit. ** **
 
-« La période de nuit commence au plus tôt à 21 heures et s?achève au plus tard à sept heures. 
+« La période de nuit commence au plus tôt à 21 heures et s'achève au plus tard à sept heures. 
 
-« *Art. L. 3122-3. *- Par dérogation à l?article L. 3122-2, pour les activités de production rédactionnelle 
+« *Art. L. 3122-3. *- Par dérogation à l'article L. 3122-2, pour les activités de production rédactionnelle 
 
 et industrielle de presse, de radio, de télévision, de production et d'exploitation cinématographiques, de 
 
-spectacles vivants et de discothèque, la période de travail de nuit est d?au moins sept heures 
+spectacles vivants et de discothèque, la période de travail de nuit est d'au moins sept heures 
 
-consécutives comprenant l?intervalle entre minuit et cinq heures. 
+consécutives comprenant l'intervalle entre minuit et cinq heures. 
 
-**« ** *Art. L. 3122-4. ***? **Par dérogation à l?article L. 3122-2, pour les établissements de vente au détail qui 
+**« Art. L. 3122-4. ***? **Par dérogation à l'article L. 3122-2, pour les établissements de vente au détail qui 
 
 mettent à disposition des biens et des services et qui sont situés dans les zones mentionnées à l'article 
 
-L. 3132-24, si elle débute après 22 heures, la période de travail de nuit est d?au moins sept heures 
+L. 3132-24, si elle débute après 22 heures, la période de travail de nuit est d'au moins sept heures 
 
-consécutives comprenant l?intervalle entre minuit et sept heures. 
+consécutives comprenant l'intervalle entre minuit et sept heures. 
 
 « Dans les établissements mentionnés au premier alinéa, seuls les salariés volontaires ayant donné leur 
 
@@ -1737,7 +1256,7 @@ soirée en application du présent article et des heures de travail de nuit en app
 
 3122-5, les heures sont cumulées pour l'application du précédent alinéa et de l'article L. 3122-5. 
 
-**« ** *Art. L. 3122-5. ***? **Le salarié est considéré comme** **travailleur de nuit dès lors que :** **
+**« Art. L. 3122-5. ***? **Le salarié est considéré comme** **travailleur de nuit dès lors que :** **
 
 « 1° il accomplit, au moins deux fois par semaine, selon son horaire de travail habituel, au 
 
@@ -1745,51 +1264,51 @@ moins trois heures de travail de nuit quotidiennes;
 
 « 2° ou il accomplit, au cours d'une période de référence, un nombre minimal d'heures de 
 
-travail de nuit au sens de l?article L. 3122-2, l?une et l?autre déterminés dans les conditions 
+travail de nuit au sens de l'article L. 3122-2, l'une et l'autre déterminés dans les conditions 
 
 des articles L. 3122-16 et L. 3122-23. 
 
-**« ** *Art. L. 3122-6. ***- **La durée quotidienne du travail accompli par un travailleur de nuit ne peut excéder 
+**« Art. L. 3122-6. ***- **La durée quotidienne du travail accompli par un travailleur de nuit ne peut excéder 
 
-huit heures, sauf dans les cas prévus à l?article L. 3122-17 ou lorsqu?il est fait application des articles 
+huit heures, sauf dans les cas prévus à l'article L. 3122-17 ou lorsqu'il est fait application des articles 
 
 L.3132-16 et suivants relatifs aux équipes de suppléance** **
 
-« En outre, en cas de circonstances exceptionnelles, l?inspecteur du travail peut autoriser le 
+« En outre, en cas de circonstances exceptionnelles, l'inspecteur du travail peut autoriser le 
 
 dépassement de la durée quotidienne de travail après consultation des délégués syndicaux et après avis 
 
-du comité d?entreprise ou, à défaut, des délégués du personnel, s?ils existent, selon des modalités 
+du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent, selon des modalités 
 
-déterminées par décret en Conseil d?Etat. 
+déterminées par décret en Conseil d'Etat. 
 
-**« ** *Art. L. 3122-7. ***- **La durée hebdomadaire de travail du travailleur de nuit, calculée sur une 
+**« Art. L. 3122-7. ***- **La durée hebdomadaire de travail du travailleur de nuit, calculée sur une 
 
 période quelconque de seize semaines consécutives, ne peut dépasser quarante heures, sauf 
 
-dans les cas prévus à l?article L. 3122-18. 
+dans les cas prévus à l'article L. 3122-18. 
 
-**« ** *Art. L. 3122-8. ***- **Le travailleur de nuit bénéficie de contreparties au titre des périodes de nuit pendant 
+**« Art. L. 3122-8. ***- **Le travailleur de nuit bénéficie de contreparties au titre des périodes de nuit pendant 
 
 lesquelles il est employé, sous forme de repos compensateur et, le cas échéant, sous forme de 
 
 compensation salariale. ** **
 
-**« ** *Art. L. 3122-9. ***- **Pour les activités mentionnées à l?article L. 3122-3, lorsque la durée effective du travail de nuit est inférieure à la durée légale, les contreparties mentionnées à l?article L. 3122-8 ne 
+**« Art. L. 3122-9. ***- **Pour les activités mentionnées à l'article L. 3122-3, lorsque la durée effective du travail de nuit est inférieure à la durée légale, les contreparties mentionnées à l'article L. 3122-8 ne 
 
 sont pas obligatoirement données sous forme de repos compensateur. ** **
 
-**« ** *Art. L. 3122-10.-* Le médecin du travail est consulté, selon des modalités précisées par décret en 
+**« Art. L. 3122-10.-* Le médecin du travail est consulté, selon des modalités précisées par décret en 
 
-Conseil d?Etat, avant toute décision importante relative à la mise en place ou à la modification de 
+Conseil d'Etat, avant toute décision importante relative à la mise en place ou à la modification de 
 
 l'organisation du travail de nuit. ** **
 
-**« ** *Art. L. 3122-11. ***- **Tout travailleur de nuit bénéficie d'une surveillance médicale particulière dans des 
+**« Art. L. 3122-11. ***- **Tout travailleur de nuit bénéficie d'une surveillance médicale particulière dans des 
 
 conditions déterminées par décret en Conseil d'Etat. ** **
 
-**« ** *Art. L. 3122-12. ***- **Lorsque le travail de nuit est incompatible avec des obligations familiales 
+**« Art. L. 3122-12. ***- **Lorsque le travail de nuit est incompatible avec des obligations familiales 
 
 impérieuses, notamment avec la garde d'un enfant ou la prise en charge d'une personne dépendante, le 
 
@@ -1841,9 +1360,9 @@ L. 4624-3 et L. 4624-4.
 
 *« Section 2 : Champ de la négociation collective *
 
-**« ** *Art. L. 3122-15. ***- **Un accord d?entreprise ou d?établissement, ou, à défaut, une convention ou un accord collectif de branche peut mettre en place dans une entreprise ou un établissement du travail de 
+**« Art. L. 3122-15. ***- **Un accord d'entreprise ou d'établissement, ou, à défaut, une convention ou un accord collectif de branche peut mettre en place dans une entreprise ou un établissement du travail de 
 
-nuit au sens de l'article L.3122-5 ou l?étendre à de nouvelles catégories de salariés. . ** **
+nuit au sens de l'article L.3122-5 ou l'étendre à de nouvelles catégories de salariés. . ** **
 
 « Cette convention ou cet accord collectif comporte : 
 
@@ -1867,21 +1386,21 @@ des mesures destinées à améliorer les conditions de travail des salariés ;
 
 « 5° 
 
-des mesures destinées à faciliter l?articulation de leur activité professionnelle nocturne avec 
+des mesures destinées à faciliter l'articulation de leur activité professionnelle nocturne avec 
 
-leur vie personnelle et l?exercice de responsabilités familiales et sociales, concernant 
+leur vie personnelle et l'exercice de responsabilités familiales et sociales, concernant 
 
 notamment les moyens de transports ; 
 
 « 6° 
 
-des mesures destinées à assurer l?égalité professionnelle entre les femmes et les hommes, 
+des mesures destinées à assurer l'égalité professionnelle entre les femmes et les hommes, 
 
-notamment par l?accès à la formation ;? 
+notamment par l'accès à la formation ;? 
 
 « 7° 
 
-l?organisation des temps de pause. 
+l'organisation des temps de pause. 
 
 21 
 
@@ -1889,25 +1408,25 @@ l?organisation des temps de pause.
 
 
 
-**« ** *Art. L. 3122-16. ***- **En application de l?article L. 3122-5, une convention ou un accord collectif de 
+**« Art. L. 3122-16. ***- **En application de l'article L. 3122-5, une convention ou un accord collectif de 
 
 travail étendu peut fixer le nombre minimal d'heures entraînant la qualification de travailleur de nuit 
 
 sur une période de référence. ** **
 
-**« ** *Art. L. 3122-17. ***- **Un accord d?entreprise ou d?établissement ou, à défaut, une convention ou un accord collectif de travail de branche, peut prévoir le dépassement de la durée maximale quotidienne 
+**« Art. L. 3122-17. ***- **Un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord collectif de travail de branche, peut prévoir le dépassement de la durée maximale quotidienne 
 
-de travail prévue à l?article L. 3122-6, dans des conditions déterminées par décret en Conseil d?Etat. ** **
+de travail prévue à l'article L. 3122-6, dans des conditions déterminées par décret en Conseil d'Etat. ** **
 
-**« ** *Art. L. 3122-18. ***- **Un accord d?entreprise ou d?établissement ou, à défaut, une convention ou un accord de branche peut, lorsque les caractéristiques propres à l?activité d?un secteur le justifient, 
+**« Art. L. 3122-18. ***- **Un accord d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche peut, lorsque les caractéristiques propres à l'activité d'un secteur le justifient, 
 
-prévoir le dépassement de la durée maximale hebdomadaire de travail prévue à l?article L. 3122-7 à 
+prévoir le dépassement de la durée maximale hebdomadaire de travail prévue à l'article L. 3122-7 à 
 
-condition que ce dépassement n?ait pas pour effet de porter cette durée à plus de 44 heures sur seize 
+condition que ce dépassement n'ait pas pour effet de porter cette durée à plus de 44 heures sur seize 
 
 semaines consécutives. ** **
 
-**« ** *Art. L. 3122-19. ***- **Dans les zones mentionnées à l'article L. 3132-24, un accord collectif de branche, 
+**« Art. L. 3122-19. ***- **Dans les zones mentionnées à l'article L. 3132-24, un accord collectif de branche, 
 
 de groupe, d'entreprise, d'établissement ou territorial peut prévoir la faculté d'employer des salariés 
 
@@ -1935,7 +1454,7 @@ d'effet immédiat.
 
 *« Section 3 : Dispositions supplétives *
 
-**« ** *Art. L. 3122-20. ***- **A défaut de convention ou d?accord collectif de travail, tout travail entre 21 heures 
+**« Art. L. 3122-20. ***- **A défaut de convention ou d'accord collectif de travail, tout travail entre 21 heures 
 
 et 6 heures est considéré comme travail de nuit et, pour les activités de production rédactionnelle et 
 
@@ -1945,7 +1464,7 @@ spectacles vivants et de discothèque, tout travail entre minuit et sept heures e
 
 travail de nuit. ** **
 
-**« ** *Art. L. 3122-21. ***- **A défaut de convention ou d'accord collectif de travail et à condition que 
+**« Art. L. 3122-21. ***- **A défaut de convention ou d'accord collectif de travail et à condition que 
 
 l'employeur ait engagé sérieusement et loyalement des négociations tendant à la conclusion d'un tel 
 
@@ -1975,23 +1494,23 @@ cause ;
 
 « 3° Répondu aux éventuelles propositions des organisations syndicales. 
 
-**« ** *Art. L. 3122-22. ***- **A défaut de stipulations conventionnelles définissant la période de nuit, 
+**« Art. L. 3122-22. ***- **A défaut de stipulations conventionnelles définissant la période de nuit, 
 
-l?inspecteur du travail peut autoriser la définition d?une période différente de celle prévue à l?article L. 
+l'inspecteur du travail peut autoriser la définition d'une période différente de celle prévue à l'article L. 
 
-3122-20, dans le respect de l?article L. 3122-2, après consultation des délégués syndicaux et avis du 
+3122-20, dans le respect de l'article L. 3122-2, après consultation des délégués syndicaux et avis du 
 
 comité d'entreprise ou, à défaut, des délégués du personnel, s'ils existent, lorsque les caractéristiques 
 
 particulières de l'activité de l'entreprise le justifient. ** **
 
-**« ** *Art. L. 3122-23.-* A défaut de stipulation conventionnelle mentionnée au 2° de l?article L. 3122-5, le 
+**« Art. L. 3122-23.-* A défaut de stipulation conventionnelle mentionnée au 2° de l'article L. 3122-5, le 
 
-nombre minimal d?heures entraînant la qualification de travailleur de nuit est à 270 heures sur une 
+nombre minimal d'heures entraînant la qualification de travailleur de nuit est à 270 heures sur une 
 
 période de référence de douze mois consécutifs. 
 
-**« ** *Art. L. 3122-24. ***- **A défaut d?accord, un décret peut également fixer la liste des secteurs pour lesquels 
+**« Art. L. 3122-24. ***- **A défaut d'accord, un décret peut également fixer la liste des secteurs pour lesquels 
 
 la durée maximale hebdomadaire de travail est fixée entre quarante et quarante-quatre heures. ** **
 
@@ -2003,7 +1522,7 @@ la durée maximale hebdomadaire de travail est fixée entre quarante et quarante-q
 
 *« Paragraphe 1 : Définition *
 
-**« ** *Art. L3123-1. ***- **Est considéré comme salarié à temps partiel le salarié dont la durée du travail est 
+**« Art. L3123-1. ***- **Est considéré comme salarié à temps partiel le salarié dont la durée du travail est 
 
 inférieure :** **
 
@@ -2027,7 +1546,7 @@ pour la branche ou l'entreprise ou de la durée du travail applicable dans l'étab
 
 *« Paragraphe 2 : Passage à temps partiel ou à temps complet *
 
-**« ** *Art. L3123-2.-*** **Le salarié qui en fait la demande peut bénéficier d'une réduction de la durée du 
+**« Art. L3123-2.-*** **Le salarié qui en fait la demande peut bénéficier d'une réduction de la durée du 
 
 travail sous forme d'une ou plusieurs périodes d'au moins une semaine en raison des besoins de sa vie 
 
@@ -2055,7 +1574,7 @@ accomplies au-delà des limites fixées par cet accord.
 
 les modalités de calcul de la rémunération mensualisée indépendamment de l'horaire réel du mois. 
 
-**« ** *Art. L3123-3. *- Les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi d'une 
+**« Art. L3123-3. *- Les salariés à temps partiel qui souhaitent occuper ou reprendre un emploi d'une 
 
 durée au moins égale à celle mentionnée au premier alinéa de l'article L.3123-7, ou un emploi à temps 
 
@@ -2069,13 +1588,13 @@ ou un accord de branche étendu le prévoit, un emploi présentant des caractéristi
 
 « L'employeur porte à la connaissance de ces salariés la liste des emplois disponibles correspondants. 
 
-**« ** *Art. L3123-4. *- Le refus par un salarié d'accomplir un travail à temps partiel ne constitue ni une faute 
+**« Art. L3123-4. *- Le refus par un salarié d'accomplir un travail à temps partiel ne constitue ni une faute 
 
 ni un motif de licenciement. 
 
 * « Paragraphe 3 : Egalité de traitement avec les salariés à temps plein *
 
-**« ** *Art. L3123-5. *- Le salarié à temps partiel bénéficie des droits reconnus au salarié à temps complet par 
+**« Art. L3123-5. *- Le salarié à temps partiel bénéficie des droits reconnus au salarié à temps complet par 
 
 la loi, les conventions et les accords d'entreprise ou d'établissement sous réserve, en ce qui concerne 
 
@@ -2105,7 +1624,7 @@ d'emploi accomplies selon l'une et l'autre de ces deux modalités depuis leur ent
 
 *« Paragraphe 4 : Contrat de travail *
 
-**« ** *Art. L3123-6. ***- **Le contrat de travail du salarié à temps partiel est un contrat écrit. ** **
+**« Art. L3123-6. ***- **Le contrat de travail du salarié à temps partiel est un contrat écrit. ** **
 
 « Il mentionne : 
 
@@ -2143,7 +1662,7 @@ des compléments d'heures peuvent être accomplis au-delà de la durée fixée par le
 
 *« Paragraphe 5 : Durée minimale de travail et heures complémentaires *
 
-**« ** *Art. L3123-7. *- Le salarié à temps partiel bénéficie d?une durée de travail minimale hebdomadaire 
+**« Art. L3123-7. *- Le salarié à temps partiel bénéficie d'une durée de travail minimale hebdomadaire 
 
 déterminée selon les modalités fixées par les articles L. 3123-19 et L. 3123-27. 
 
@@ -2169,17 +1688,17 @@ ou au moins égale à la durée mentionnée au premier alinéa. Cette demande est écr
 
 de droit au salarié âgé de moins de vingt-six ans poursuivant ses études. 
 
-**« ** *Art. L3123-8. ***- **Chacune des heures complémentaires accomplies donne lieu à une majoration de 
+**« Art. L3123-8. ***- **Chacune des heures complémentaires accomplies donne lieu à une majoration de 
 
 salaire. ** **
 
-**« ** *Art. L3123-9.-*** **Les heures complémentaires ne peuvent avoir pour effet de porter la durée du travail 
+**« Art. L3123-9.-*** **Les heures complémentaires ne peuvent avoir pour effet de porter la durée du travail 
 
 accomplie par un salarié au niveau de la durée légale du travail ou, si elle est inférieure, à la durée du 
 
 travail fixée conventionnellement. ** **
 
-**« ** *Art. L3123-10.-*** **Le refus d'accomplir les heures complémentaires proposées par l'employeur au-delà 
+**« Art. L3123-10.-*** **Le refus d'accomplir les heures complémentaires proposées par l'employeur au-delà 
 
 des limites fixées par le contrat ne constitue pas une faute ou un motif de licenciement. Il en est de 
 
@@ -2189,11 +1708,11 @@ laquelle les heures complémentaires sont prévues. ** **
 
 *« Paragraphe 6 : Répartition de la durée du travail *
 
-**« ** *Art. L3123-11.-*** **Toute modification de la répartition de la durée de travail entre les jours de la 
+**« Art. L3123-11.-*** **Toute modification de la répartition de la durée de travail entre les jours de la 
 
 semaine ou les semaines du mois est notifiée au salarié en respectant un délai de prévenance. ** **
 
-**« ** *Art. L3123-12.-*** **Lorsque l'employeur demande au salarié de changer la répartition de sa durée du 
+**« Art. L3123-12.-*** **Lorsque l'employeur demande au salarié de changer la répartition de sa durée du 
 
 travail, alors que le contrat de travail n'a pas prévu les cas et la nature de telles modifications, le refus 
 
@@ -2221,7 +1740,7 @@ chaque journée travaillée qui figurent dans le document écrit communiqué au sala
 
 l'article L. 3123-6. 
 
-**« ** *Art. L3123-13. *- Lorsque, pendant une période de douze semaines consécutives ou pendant douze 
+**« Art. L3123-13. *- Lorsque, pendant une période de douze semaines consécutives ou pendant douze 
 
 semaines au cours d'une période de quinze semaines ou sur la période prévue par un accord collectif 
 
@@ -2239,7 +1758,7 @@ horaire et l'horaire moyen réellement accompli.
 
 *« Paragraphe 7 : Exercice d'un mandat *
 
-**« ** *Art. L3123-14. *- Le temps de travail mensuel d'un salarié à temps partiel ne peut être réduit de plus 
+**« Art. L3123-14. *- Le temps de travail mensuel d'un salarié à temps partiel ne peut être réduit de plus 
 
 d'un tiers par l'utilisation du crédit d'heures auquel il peut prétendre pour l'exercice de mandats qu'il 
 
@@ -2249,33 +1768,33 @@ dehors des heures de travail de l'intéressé.
 
 *« Paragraphe 8 : Information des représentants du personnel *
 
-**« ** *Art. L3123-15.-*** **L'employeur communique au moins une fois par an au comité d'entreprise ou, à 
+**« Art. L3123-15.-*** **L'employeur communique au moins une fois par an au comité d'entreprise ou, à 
 
-défaut, aux délégués du personnel, s?ils existent, un bilan du travail à temps partiel réalisé dans 
+défaut, aux délégués du personnel, s'ils existent, un bilan du travail à temps partiel réalisé dans 
 
 l'entreprise. ** **
 
 « Il communique également ce bilan aux délégués syndicaux de l'entreprise. 
 
-**« ** *Art. L3123-16.-*** **L'employeur informe chaque année le comité d'entreprise ou, à défaut, les délégués 
+**« Art. L3123-16.-*** **L'employeur informe chaque année le comité d'entreprise ou, à défaut, les délégués 
 
-du personnel, s?ils existent, du nombre de demandes de dérogation individuelle, telles que définies à 
+du personnel, s'ils existent, du nombre de demandes de dérogation individuelle, telles que définies à 
 
-l?article L. 3123-7, à la durée du temps de travail prévue au premier alinéa du même article. ** **
+l'article L. 3123-7, à la durée du temps de travail prévue au premier alinéa du même article. ** **
 
 *« Sous-section 2 : Champ de la négociation collective *
 
-*« Paragraphe 1 : Mise en place d?horaires à temps partiel *
+*« Paragraphe 1 : Mise en place d'horaires à temps partiel *
 
-**« ** *Art. L3123-17. *- Une convention ou un accord d?entreprise ou d?établissement ou, à défaut, une 
+**« Art. L3123-17. *- Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
 
-convention ou un accord de branche étendu peut prévoir la mise en ?uvre d?horaires de travail à temps 
+convention ou un accord de branche étendu peut prévoir la mise en ?uvre d'horaires de travail à temps 
 
-partiel à l?initiative de l?employeur. 
+partiel à l'initiative de l'employeur. 
 
 « Cet accord ou cette convention peut également fixer les conditions de mise en place d'horaires à 
 
-temps partiel à la demande des salariés. Dans ce cas, l?accord ou la convention prévoit : 
+temps partiel à la demande des salariés. Dans ce cas, l'accord ou la convention prévoit : 
 
 « 1°Les modalités selon lesquelles les salariés à temps complet peuvent occuper un emploi à temps 
 
@@ -2295,15 +1814,15 @@ ou, à défaut, dans la même entreprise ;
 
 celui-ci explique les raisons objectives qui le conduisent à ne pas donner suite à la demande. 
 
-**« ** *Art. L3123-18.-* Une convention ou un accord de branche étendu peuvent prévoir la possibilité pour 
+**« Art. L3123-18.-* Une convention ou un accord de branche étendu peuvent prévoir la possibilité pour 
 
 l'employeur de : 
 
-«1° proposer au salarié à temps partiel un emploi à temps complet ou d?une durée au moins égale à 
+«1° proposer au salarié à temps partiel un emploi à temps complet ou d'une durée au moins égale à 
 
 celle \[déterminée selon les modalités fixées par les articles L. 3123-19 et L. 3123-29 mentionnée au 
 
-premier alinéa de l?article L. 3123-7 ne ressortissant pas à sa catégorie professionnelle ou un emploi à 
+premier alinéa de l'article L. 3123-7 ne ressortissant pas à sa catégorie professionnelle ou un emploi à 
 
 temps complet non équivalent ; 
 
@@ -2313,25 +1832,25 @@ professionnelle ou un emploi à temps partiel non équivalent.
 
 *« Paragraphe 2 : Durée minimale de travail et heures complémentaires *
 
-**« ** *Art. L3123-19.-* Une convention ou un accord de branche étendu fixe la durée minimale de travail 
+**« Art. L3123-19.-* Une convention ou un accord de branche étendu fixe la durée minimale de travail 
 
-mentionnée à l?article L.3123-7. Lorsqu?elle est inférieure à celle prévue à l?article L.3123-27, il 
+mentionnée à l'article L.3123-7. Lorsqu'elle est inférieure à celle prévue à l'article L.3123-27, il 
 
 détermine les garanties quant à la mise en ?uvre d'horaires réguliers ou permettant au salarié de 
 
 cumuler plusieurs activités afin d'atteindre une durée globale d'activité correspondant à un temps plein 
 
-ou au moins égale à la durée mentionnée à l?article L. 3123-27. 
+ou au moins égale à la durée mentionnée à l'article L. 3123-27. 
 
-Une convention ou un accord de branche étendu ou un accord d?entreprise ou d?établissement 
+Une convention ou un accord de branche étendu ou un accord d'entreprise ou d'établissement 
 
 détermine les modalités selon lesquelles les horaires de travail des salariés effectuant une durée de 
 
-travail inférieure à la durée prévue à l?article L.3123-27 sont regroupés sur des journées ou des demi-
+travail inférieure à la durée prévue à l'article L.3123-27 sont regroupés sur des journées ou des demi-
 
 journées régulières ou complètes. 
 
-**« ** *Art. L3123-20.-* Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
+**« Art. L3123-20.-* Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
 
 convention ou un accord de branche étendu peut porter jusqu'au tiers de la durée hebdomadaire ou 
 
@@ -2341,15 +1860,15 @@ accord collectif conclu sur le fondement de l'article L. 3121-42, la limite dans
 
 accomplies des heures complémentaires. 
 
-**« ** *Art. L3123-21.- * Une convention ou un accord de branche étendu peut prévoir le taux de majoration 
+**« Art. L3123-21.- * Une convention ou un accord de branche étendu peut prévoir le taux de majoration 
 
-de chacune des heures complémentaires accomplies dans la limite fixée à l?article L 3123-20. Ce taux 
+de chacune des heures complémentaires accomplies dans la limite fixée à l'article L 3123-20. Ce taux 
 
 ne peut être inférieur à 10%. 
 
-*« Paragraphe 3 : Compléments d?heures par avenant *
+*« Paragraphe 3 : Compléments d'heures par avenant *
 
-**« ** *Art. L3123-22.-* Une convention ou un accord de branche étendu peut prévoir la possibilité, par un 
+**« Art. L3123-22.-* Une convention ou un accord de branche étendu peut prévoir la possibilité, par un 
 
 avenant au contrat de travail, d'augmenter temporairement la durée du travail prévue par le contrat. 
 
@@ -2383,7 +1902,7 @@ une majoration de salaire qui ne peut être inférieure à 25 %.
 
 *« Paragraphe 4 : Répartition de la durée du travail *
 
-**« ** *Art. L3123-23-*** **Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
+**« Art. L3123-23-*** **Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
 
 convention ou un accord de branche étendu, ou agréé en application de l'article L 314-6 du code de 
 
@@ -2391,15 +1910,15 @@ l'action sociale et des familles, peut définir la répartition des horaires de tr
 
 partiel dans la journée de travail. ** **
 
-« Si cette répartition comporte plus d?une interruption d?activité ou une interruption supérieure à deux 
+« Si cette répartition comporte plus d'une interruption d'activité ou une interruption supérieure à deux 
 
-heures, la convention ou l?accord définit les amplitudes horaires pendant lesquelles les salariés doivent 
+heures, la convention ou l'accord définit les amplitudes horaires pendant lesquelles les salariés doivent 
 
 exercer leur activité et prévoit des contreparties spécifiques en tenant compte des exigences propres à 
 
 l'activité exercée. 
 
-**« ** *Art. L3123-24.-* Une convention ou un accord d'entreprise ou d'établissement, ou à défaut, une 
+**« Art. L3123-24.-* Une convention ou un accord d'entreprise ou d'établissement, ou à défaut, une 
 
 convention ou un accord de branche étendu peut déterminer le délai dans lequel la modification de la 
 
@@ -2417,7 +1936,7 @@ branche étendu prévoit des contreparties apportées au salarié lorsque le délai d
 
 inférieur à sept jours ouvrés. 
 
-**« ** *Art. L3123-25.-* L'accord collectif permettant les dérogations prévues aux articles L. 3123-20, relatif 
+**« Art. L3123-25.-* L'accord collectif permettant les dérogations prévues aux articles L. 3123-20, relatif 
 
 au nombre d'heures complémentaires, et L. 3123-24, relatif au délai de prévenance en cas de 
 
@@ -2433,11 +1952,11 @@ même journée.
 
 *« Sous-section 3 : Dispositions supplétives *
 
-*« Paragraphe 1 : Mise en place d?horaires à temps partiel *
+*« Paragraphe 1 : Mise en place d'horaires à temps partiel *
 
-**« ** *Art. L3123-26.-* En l'absence de convention ou d'accord collectif, des horaires à temps partiel 
+**« Art. L3123-26.-* En l'absence de convention ou d'accord collectif, des horaires à temps partiel 
 
-peuvent être pratiqués à l?initiative de l?employeur après avis du comité d'entreprise ou, à défaut, des 
+peuvent être pratiqués à l'initiative de l'employeur après avis du comité d'entreprise ou, à défaut, des 
 
 délégués du personnel. 
 
@@ -2455,7 +1974,7 @@ temps partiel dans des conditions fixées par voie réglementaire.
 
 
 
-« Cette demande d?un salarié de bénéficier d?un horaire à temps partiel ne peut être refusée que si 
+« Cette demande d'un salarié de bénéficier d'un horaire à temps partiel ne peut être refusée que si 
 
 l'employeur justifie de l'absence d'emploi disponible relevant de la catégorie professionnelle du salarié 
 
@@ -2465,15 +1984,15 @@ des conséquences préjudiciables à la bonne marche de l'entreprise.
 
 *« Paragraphe 2 : Durée minimale de travail et heures complémentaires *
 
-**« ** *Art. L3123-27.-* A défaut d?accord prévu à l?article L. 3123-19, la durée minimale de travail du 
+**« Art. L3123-27.-* A défaut d'accord prévu à l'article L. 3123-19, la durée minimale de travail du 
 
-salarié à temps partiel est fixée à vingt-quatre heures par semaine ou, le cas échéant, à l?équivalent 
+salarié à temps partiel est fixée à vingt-quatre heures par semaine ou, le cas échéant, à l'équivalent 
 
-mensuel de cette durée ou à l?équivalent calculé sur la période prévue par un accord collectif conclu en 
+mensuel de cette durée ou à l'équivalent calculé sur la période prévue par un accord collectif conclu en 
 
-application de l?article L. 3121-42. 
+application de l'article L. 3121-42. 
 
-**« ** *Art. L3123-28.-* A défaut d?accord prévu à l?article L. 3123-20, le nombre d'heures complémentaires 
+**« Art. L3123-28.-* A défaut d'accord prévu à l'article L. 3123-20, le nombre d'heures complémentaires 
 
 accomplies par un salarié à temps partiel au cours d'une même semaine ou d'un même mois ou sur la 
 
@@ -2485,7 +2004,7 @@ calculée, le cas échéant, sur la période prévue par un accord collectif conclu s
 
 l'article L. 3121-42. 
 
-**« ** *Art. L3123-29.-*** **A défaut de stipulations conventionnelles prévues à l?article L. 3123-21, le taux de 
+**« Art. L3123-29.-*** **A défaut de stipulations conventionnelles prévues à l'article L. 3123-21, le taux de 
 
 majoration des heures complémentaires est de 10% pour chacune des heures complémentaires 
 
@@ -2495,31 +2014,31 @@ des heures accomplies entre le dixième et le tiers des heures prévues au contrat
 
 *« Paragraphe 3 : Répartition de la durée du travail *
 
-**« ** *Art. L3123-30.-*** **A défaut d?accord prévu à l?article L. 3123-23, l?horaire de travail du salarié à temps 
+**« Art. L3123-30.-*** **A défaut d'accord prévu à l'article L. 3123-23, l'horaire de travail du salarié à temps 
 
 partiel ne peut comporter, au cours d'une même journée, plus d'une interruption d'activité ou une 
 
 interruption supérieure à deux heures. ** **
 
-**« ** *Art. L3123-31.-*** **A défaut d?accord prévu à l?article L. 3123-24, toute modification de la répartition 
+**« Art. L3123-31.-*** **A défaut d'accord prévu à l'article L. 3123-24, toute modification de la répartition 
 
 de la durée du travail entre les jours de la semaine ou les semaines du mois est notifiée au salarié sept 
 
 jours ouvrés au moins avant la date à laquelle elle doit avoir lieu. 
 
-*« Sous-section 4 : Dispositions d?application *
+*« Sous-section 4 : Dispositions d'application *
 
-« *Art. L.3123-32.-* Des décrets déterminent les modalités d?application de la présente section soit pour 
+« *Art. L.3123-32.-* Des décrets déterminent les modalités d'application de la présente section soit pour 
 
-l?ensemble des professions ou des branches d?activité, soit pour une profession ou une branche 
+l'ensemble des professions ou des branches d'activité, soit pour une profession ou une branche 
 
 particulière. 
 
 « Si, dans une profession ou une branche, la pratique du travail à temps partiel a provoqué un 
 
-déséquilibre grave et durable des conditions d?emploi, des décrets pris après consultation des 
+déséquilibre grave et durable des conditions d'emploi, des décrets pris après consultation des 
 
-organisations d?employeurs et de salariés intéressés, peuvent instituer des limitations du recours au 
+organisations d'employeurs et de salariés intéressés, peuvent instituer des limitations du recours au 
 
 travail à temps partiel dans la branche ou la profession concernée. 
 
@@ -2527,11 +2046,11 @@ travail à temps partiel dans la branche ou la profession concernée.
 
 *« Sous-section 1 : Ordre public *
 
-**« ** *Art. L. 3123-33. ***? **Des contrats de travail intermittents peuvent être prévus par une convention ou un 
+**« Art. L. 3123-33. ***? **Des contrats de travail intermittents peuvent être prévus par une convention ou un 
 
-accord d?entreprise ou d?établissement ou, à défaut, un accord de branche étendu. ** **
+accord d'entreprise ou d'établissement ou, à défaut, un accord de branche étendu. ** **
 
-**« ** *Art. L.3123-34. ***- **Le contrat de travail intermittent est un contrat à durée indéterminée. ** **
+**« Art. L.3123-34. ***- **Le contrat de travail intermittent est un contrat à durée indéterminée. ** **
 
 29 
 
@@ -2557,19 +2076,19 @@ périodes travaillées et de périodes non travaillées.
 
 « 5° La répartition des heures de travail à l'intérieur de ces périodes. 
 
-**« ** *Art. L.3123-35. ***- **Les heures dépassant la durée annuelle minimale fixée au contrat de travail 
+**« Art. L.3123-35. ***- **Les heures dépassant la durée annuelle minimale fixée au contrat de travail 
 
 intermittent ne peuvent excéder le tiers de cette durée sauf accord du salarié. ** **
 
-**« ** *Art. L.3123-36. ***- **Le salarié titulaire d'un contrat de travail intermittent bénéficie des droits reconnus 
+**« Art. L.3123-36. ***- **Le salarié titulaire d'un contrat de travail intermittent bénéficie des droits reconnus 
 
 aux salariés à temps complet sous réserve, en ce qui concerne les droits conventionnels mentionnés à 
 
-l?article L.3123-37, de modalités spécifiques prévues par la convention ou l?accord collectif de travail 
+l'article L.3123-37, de modalités spécifiques prévues par la convention ou l'accord collectif de travail 
 
-étendu ou une convention ou un accord d?entreprise ou d?établissement. ** **
+étendu ou une convention ou un accord d'entreprise ou d'établissement. ** **
 
-« Pour la détermination des droits liés à l?ancienneté, les périodes non travaillées sont prises en 
+« Pour la détermination des droits liés à l'ancienneté, les périodes non travaillées sont prises en 
 
 compte en totalité. 
 
@@ -2577,17 +2096,17 @@ compte en totalité.
 
 *« Sous-section 2 : Champ de la négociation collective *
 
-**« ** *Art. L.3123-37. ***- **une convention ou un accord d?entreprise ou d?établissement ou, à défaut, un accord 
+**« Art. L.3123-37. ***- **une convention ou un accord d'entreprise ou d'établissement ou, à défaut, un accord 
 
-de branche étendu définit les emplois permanents pouvant être pourvus par des salariés titulaires d?un 
+de branche étendu définit les emplois permanents pouvant être pourvus par des salariés titulaires d'un 
 
 contrat de travail intermittent. ** **
 
-« Il détermine, le cas échéant, les droits conventionnels spécifiques aux salariés titulaires d?un contrat 
+« Il détermine, le cas échéant, les droits conventionnels spécifiques aux salariés titulaires d'un contrat 
 
 de travail intermittent. 
 
-« Il peut prévoir que la rémunération versée mensuellement aux salariés titulaires d?un contrat de 
+« Il peut prévoir que la rémunération versée mensuellement aux salariés titulaires d'un contrat de 
 
 travail intermittent est indépendante de l'horaire réel et détermine dans ce cas les modalités de calcul 
 
@@ -2605,7 +2124,7 @@ proposés.
 
 *« Sous-section 3 : Dispositions supplétives *
 
-**« ** *Art. L.3123-38*** - **Les entreprises adaptées mentionnées à l'article L. 5213-13 peuvent conclure un 
+**« Art. L.3123-38*** - **Les entreprises adaptées mentionnées à l'article L. 5213-13 peuvent conclure un 
 
 contrat de travail intermittent même en l'absence de convention ou d'accord collectif de travail, dès 
 
@@ -2631,17 +2150,17 @@ I- Le chapitre premier est ainsi rédigé :
 
 
 
-**« ** *Art. L3131-1.- * Tout salarié bénéficie d'un repos quotidien d'une durée minimale de onze heures 
+**« Art. L3131-1.- * Tout salarié bénéficie d'un repos quotidien d'une durée minimale de onze heures 
 
-consécutives sauf dans les cas prévus aux articles L.3131-2 et L.3131-3 et en cas d?urgence dans des 
+consécutives sauf dans les cas prévus aux articles L.3131-2 et L.3131-3 et en cas d'urgence dans des 
 
 conditions déterminées par décret. ** **
 
 *« Section 2 : Champ de la négociation collective *
 
-**« ** *Art. L3131-2. ***- **Une convention ou un accord d'entreprise ou d'établissement, ou, à défaut, un accord 
+**« Art. L3131-2. ***- **Une convention ou un accord d'entreprise ou d'établissement, ou, à défaut, un accord 
 
-de branche peut déroger à la durée minimale de repos quotidien prévue à l?article L.3131-1, dans des 
+de branche peut déroger à la durée minimale de repos quotidien prévue à l'article L.3131-1, dans des 
 
 conditions déterminées par décret, notamment pour des activités caractérisées par la nécessité d'assurer 
 
@@ -2649,7 +2168,7 @@ une continuité du service ou par des périodes d'intervention fractionnées. ** **
 
 *« Section 3 : Dispositions supplétives *
 
-**« ** *Art. L.3131-3. ***- **A défaut d?accord, en cas de surcroît exceptionnel d'activité, il peut être dérogé à la 
+**« Art. L.3131-3. ***- **A défaut d'accord, en cas de surcroît exceptionnel d'activité, il peut être dérogé à la 
 
 durée minimale de repos quotidien dans des conditions définies par décret. » 
 
@@ -2705,13 +2224,13 @@ salariés intermittents et aux salariés temporaires.
 
 *« Sous-section 2 : Champ de la négociation collective *
 
-*« Art. L. 3133-3-1.-* Un accord d?entreprise ou d?établissement ou, à défaut, un accord de branche 
+*« Art. L. 3133-3-1.-* Un accord d'entreprise ou d'établissement ou, à défaut, un accord de branche 
 
 définit les jours fériés chômés. 
 
 *« Sous ?section 3 : Dispositions supplétives *
 
-*« Art. L. 3133-3-2.- * A défaut d?accord, l?employeur fixe les jours fériés chômés. 
+*« Art. L. 3133-3-2.- * A défaut d'accord, l'employeur fixe les jours fériés chômés. 
 
 *« Section 2 : Journée du 1er mai *
 
@@ -2793,7 +2312,7 @@ refus constitue une faute ou un motif de licenciement.
 
 *« Sous-section 2 : Champ de la négociation collective *
 
-*« Art. L. 3133-11.-* Un accord d?entreprise ou d?établissement ou, à défaut, un accord de branche fixe 
+*« Art. L. 3133-11.-* Un accord d'entreprise ou d'établissement ou, à défaut, un accord de branche fixe 
 
 les modalités d'accomplissement de la journée de solidarité. 
 
@@ -2811,7 +2330,7 @@ application de dispositions conventionnelles ou des modalités d'organisation des
 
 *« Sous-section 3 : Dispositions supplétives *
 
-*« Art. L. 3133-12**.-***** **A défaut de stipulation dans la convention ou l?accord pris en application de l?article L. 3133-11, les modalités d'accomplissement de la journée de solidarité sont définies par 
+*« Art. L. 3133-12**.-***** **A défaut de stipulation dans la convention ou l'accord pris en application de l'article L. 3133-11, les modalités d'accomplissement de la journée de solidarité sont définies par 
 
 l'employeur, après consultation du comité d'entreprise ou, à défaut, des délégués du personnel, s'ils 
 
@@ -2819,9 +2338,9 @@ existent. »
 
 III.- Le chapitre IV est complété par un article L. 3134-16 ainsi rédigé : 
 
-*« Art. L. 3134-16.-* L?accord mentionné à l?article L. 3133-11 ou la décision de l?employeur 
+*« Art. L. 3134-16.-* L'accord mentionné à l'article L. 3133-11 ou la décision de l'employeur 
 
-mentionnée à l?article L. 3133-12 ne peut déterminer ni le premier et le second jour de Noël ni, 
+mentionnée à l'article L. 3133-12 ne peut déterminer ni le premier et le second jour de Noël ni, 
 
 indépendamment de la présence d'un temple protestant ou d'une église mixte dans les communes, le 
 
@@ -2839,7 +2358,7 @@ IV. Le chapitre I du titre IV du livre premier de la troisième partie du code du
 
 congé d'adoption prévu à l'article L. 1225-37 ont droit à leur congé payé annuel, quelle que soit la 
 
-période de congé payé retenue pour le personnel de l?entreprise. 
+période de congé payé retenue pour le personnel de l'entreprise. 
 
 *« Section 2 : Durée du congé *
 
@@ -2927,19 +2446,19 @@ congés payés de plus longue durée.
 
 
 
-*« Art. L. 3141-10.-* Un accord d?entreprise ou d?établissement ou, à défaut, un accord de branche peut : 
+*« Art. L. 3141-10.-* Un accord d'entreprise ou d'établissement ou, à défaut, un accord de branche peut : 
 
-« 1° fixer le début de la période de référence pour l?acquisition des congés ; 
+« 1° fixer le début de la période de référence pour l'acquisition des congés ; 
 
 « 2° majorer la durée du congé en raison de l'âge ou de l'ancienneté. 
 
 *« Sous ?section 3 : Dispositions supplétives *
 
-*« Art. L. 3141-11.-* A défaut de stipulations dans la convention ou l?accord pris en application de 
+*« Art. L. 3141-11.-* A défaut de stipulations dans la convention ou l'accord pris en application de 
 
-l?article L. 3141-10, le début de la période de référence pour l?acquisition des congés est fixé par un 
+l'article L. 3141-10, le début de la période de référence pour l'acquisition des congés est fixé par un 
 
-décret en Conseil d?Etat. 
+décret en Conseil d'Etat. 
 
 * « Section 3 : Prise des congés *
 
@@ -2947,7 +2466,7 @@ décret en Conseil d?Etat.
 
 *« Paragraphe 1 : Ordre public *
 
-*« Art. L. 3141- 12.- * Les congés peuvent être pris dès l?ouverture des droits, sans préjudice des règles 
+*« Art. L. 3141- 12.- * Les congés peuvent être pris dès l'ouverture des droits, sans préjudice des règles 
 
 de détermination de la période de prise des congés et de l'ordre des départs et des règles de 
 
@@ -2967,21 +2486,21 @@ une même entreprise ont droit à un congé simultané. *** ***
 
 « 1° la période de prise de congé ; 
 
-« 2° l?ordre des départs pendant cette période ; 
+« 2° l'ordre des départs pendant cette période ; 
 
-« 3° les délais que doit respecter l?employeur s?il entend modifier l?ordre et les dates de départs 
+« 3° les délais que doit respecter l'employeur s'il entend modifier l'ordre et les dates de départs 
 
 *« Paragraphe 3 : Dispositions supplétives *
 
-*« Art. L. 3141-16.-* A défaut de stipulation dans la convention ou l?accord conclus en application de 
+*« Art. L. 3141-16.-* A défaut de stipulation dans la convention ou l'accord conclus en application de 
 
-l?article L. 3141-15, l?employeur : 
+l'article L. 3141-15, l'employeur : 
 
-« 1° définit après avis, le cas échéant, du comité d?entreprise ou, à défaut, des délégués du personnel : 
+« 1° définit après avis, le cas échéant, du comité d'entreprise ou, à défaut, des délégués du personnel : 
 
 « a\) la période de prise de congés; 
 
-« b\) L?ordre des départs, en tenant compte des critères suivants : 
+« b\) L'ordre des départs, en tenant compte des critères suivants : 
 
 « - la situation de famille des bénéficiaires, notamment des possibilités de congé, dans le secteur privé 
 
@@ -2997,9 +2516,9 @@ ou la fonction publique, du conjoint ou du partenaire lié par un pacte civil de 
 
 
 
-« 2° ne peut, sauf en cas de circonstances exceptionnelles, modifier l?ordre et les dates de départ moins 
+« 2° ne peut, sauf en cas de circonstances exceptionnelles, modifier l'ordre et les dates de départ moins 
 
-d?un mois avant la date du départ prévue. 
+d'un mois avant la date du départ prévue. 
 
 *« Sous-section 2 : Règles de fractionnement et de report *
 
@@ -3015,9 +2534,9 @@ justifient de contraintes géographiques particulières.
 
 *« Art. L. 3141-19.-* Lorsque le congé principal est d'une durée supérieure à douze jours ouvrables, il 
 
-peut être fractionné avec l?accord du salarié. Cet accord n?est pas nécessaire lorsque le congé a lieu 
+peut être fractionné avec l'accord du salarié. Cet accord n'est pas nécessaire lorsque le congé a lieu 
 
-pendant la fermeture de l?établissement. 
+pendant la fermeture de l'établissement. 
 
 « Une des fractions est au moins égale à douze jours ouvrables continus compris entre deux jours de 
 
@@ -3031,7 +2550,7 @@ présente sous-section selon les modalités définies aux paragraphes 2 et 3.
 
 *« Art. L. 3141-21.-* Un accord d'entreprise ou d'établissement, ou, à défaut, un accord de branche 
 
-fixe la période pendant laquelle la fraction d?au moins douze jours ouvrables continue est attribuée 
+fixe la période pendant laquelle la fraction d'au moins douze jours ouvrables continue est attribuée 
 
 ainsi que les règles de fractionnement du congé au-delà du douzième jour. 
 
@@ -3055,9 +2574,9 @@ celle pendant laquelle la période de prise de ces congés a débuté.
 
 accord de l'employeur ; 
 
-« 4° Les conséquences de ces reports sur le respect des seuils annuels fixés à l?article L. 3122-12, à 
+« 4° Les conséquences de ces reports sur le respect des seuils annuels fixés à l'article L. 3122-12, à 
 
-l?article L. 3121-42 et à l?article L. 3123-1. Ce report ne doit pas avoir pour effet de majorer ces seuils 
+l'article L. 3121-42 et à l'article L. 3123-1. Ce report ne doit pas avoir pour effet de majorer ces seuils 
 
 dans une proportion plus importante que celle correspondant à la durée ainsi reportée. 
 
@@ -3075,11 +2594,11 @@ relatifs au compte épargne-temps.
 
 *« Paragraphe 3 : Dispositions supplétives *
 
-*« Art. L. 3141-23.-* A défaut de stipulation dans la convention ou l?accord conclus en application de 
+*« Art. L. 3141-23.-* A défaut de stipulation dans la convention ou l'accord conclus en application de 
 
-l?article L. 3141-22 : 
+l'article L. 3141-22 : 
 
-« 1° La fraction d?au moins douze jours ouvrables continue est attribuée pendant la période du 1er mai 
+« 1° La fraction d'au moins douze jours ouvrables continue est attribuée pendant la période du 1er mai 
 
 au 31 octobre de chaque année ; 
 
@@ -3087,7 +2606,7 @@ au 31 octobre de chaque année ;
 
 suivantes : 
 
-« a\) Les jours restant dus en application du deuxième alinéa de l?article L.3141-19 peuvent être 
+« a\) Les jours restant dus en application du deuxième alinéa de l'article L.3141-19 peuvent être 
 
 accordés en une ou plusieurs fois en dehors de la période du 1er mai au 31 octobre de chaque année ; 
 
@@ -3287,27 +2806,27 @@ première et les sous-sections 1 à 8 de la section II sont remplacées par les dis
 
 
 
-« 2° Pour le mariage d?un enfant ;? 
+« 2° Pour le mariage d'un enfant ;? 
 
 
 
-« 3° Pour chaque naissance survenue à son foyer ou pour l?arrivée d?un enfant placé en vue de son 
+« 3° Pour chaque naissance survenue à son foyer ou pour l'arrivée d'un enfant placé en vue de son 
 
-adoption. Ces jours d?absence ne se cumulent pas avec les congés accordés pour ce même enfant dans 
+adoption. Ces jours d'absence ne se cumulent pas avec les congés accordés pour ce même enfant dans 
 
 le cadre du congé de maternité ; 
 
 
 
-« 4° Pour le décès d?un enfant, du conjoint ou du partenaire lié par un pacte civil de solidarité, du père, 
+« 4° Pour le décès d'un enfant, du conjoint ou du partenaire lié par un pacte civil de solidarité, du père, 
 
-de la mère, du beau-père, de la belle-mère, d?un frère ou d?une s?ur. 
-
-
+de la mère, du beau-père, de la belle-mère, d'un frère ou d'une s'ur. 
 
 
 
-« Art. L. 3142-2. - Les congés mentionnés à l?article L. 3142-1 n?entraînent pas de réduction de la 
+
+
+« Art. L. 3142-2. - Les congés mentionnés à l'article L. 3142-1 n'entraînent pas de réduction de la 
 
 rémunération et sont assimilés à du temps de travail effectif pour la détermination de la durée du congé 
 
@@ -3343,9 +2862,9 @@ d'Etat.
 
 
 
-« *Art. L. 3142-4. * - Une convention ou un accord collectif d?entreprise ou, à défaut, un accord de 
+« *Art. L. 3142-4. * - Une convention ou un accord collectif d'entreprise ou, à défaut, un accord de 
 
-branche détermine la durée de chacun des congés mentionnés à l?article L. 3142-1. 
+branche détermine la durée de chacun des congés mentionnés à l'article L. 3142-1. 
 
 
 
@@ -3355,7 +2874,7 @@ branche détermine la durée de chacun des congés mentionnés à l?article L. 3142-1
 
 * *
 
-« *Art. L. 3142-5. -* A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-5. -* A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-4, le salarié a droit à un congé de : 
 
@@ -3379,7 +2898,7 @@ de son adoption ;
 
 par un pacte civil de solidarité, ou pour le décès du père, ou de la mère, ou du beau-père, ou de la 
 
-belle-mère, ou d'un frère ou d'une s?ur. 
+belle-mère, ou d'un frère ou d'une s'ur. 
 
 
 
@@ -3391,7 +2910,7 @@ belle-mère, ou d'un frère ou d'une s?ur.
 
 
 
-« *Art. L. 3142-6. -* Le salarié dont un ascendant, un descendant, un frère, une s?ur ou une personne 
+« *Art. L. 3142-6. -* Le salarié dont un ascendant, un descendant, un frère, une s'ur ou une personne 
 
 partageant le même domicile souffre d'une pathologie mettant en jeu le pronostic vital ou est en phase 
 
@@ -3405,7 +2924,7 @@ avancée ou terminale d'une affection grave et incurable a droit à un congé de so
 
 confiance au sens de l'article L. 1111-6 du code de la santé publique. 
 
-« *Art. L. 3142-7. * - Le congé débute ou est renouvelé à l?initiative du salarié. 
+« *Art. L. 3142-7. * - Le congé débute ou est renouvelé à l'initiative du salarié. 
 
 « En cas d'urgence 
 
@@ -3427,9 +2946,9 @@ antérieure choisie par le salarié.
 
 
 
-« *Art. L. 3142-8. * - Le salarié peut, avec l?accord de son employeur, transformer ce congé en période 
+« *Art. L. 3142-8. * - Le salarié peut, avec l'accord de son employeur, transformer ce congé en période 
 
-d?activité à temps partiel ou le fractionner. 
+d'activité à temps partiel ou le fractionner. 
 
 
 
@@ -3475,7 +2994,7 @@ emploi ou un emploi similaire assorti d'une rémunération au moins équivalente.
 
 
 
-« *Art. L. 3142-12. * - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L. 3142-12. * - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -3491,13 +3010,13 @@ branche détermine notamment :
 
 
 
-« 3° Les conditions de fractionnement du congé ou de sa transformation en période d?activité à temps 
+« 3° Les conditions de fractionnement du congé ou de sa transformation en période d'activité à temps 
 
 partiel ; 
 
 
 
-« 4° Les délais d?information de l?employeur par le salarié concernant la prise du congé, sa durée 
+« 4° Les délais d'information de l'employeur par le salarié concernant la prise du congé, sa durée 
 
 prévisible, son renouvellement et la durée du préavis en cas de retour du salarié avant la fin prévisible 
 
@@ -3505,9 +3024,9 @@ du congé ;
 
 
 
-« 5° Les mesures permettant le maintien d?un lien entre l?entreprise et le salarié pendant la durée du 
+« 5° Les mesures permettant le maintien d'un lien entre l'entreprise et le salarié pendant la durée du 
 
-congé et les modalités d?accompagnement à son retour. 
+congé et les modalités d'accompagnement à son retour. 
 
 
 
@@ -3517,7 +3036,7 @@ congé et les modalités d?accompagnement à son retour.
 
 
 
-« *Art L. 3142-13. * - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art L. 3142-13. * - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-12, les dispositions suivantes sont applicables : 
 
@@ -3529,13 +3048,13 @@ congé et les modalités d?accompagnement à son retour.
 
 
 
-« 2° Les modalités de fractionnement et de transformation en période d?activité à temps partiel du 
+« 2° Les modalités de fractionnement et de transformation en période d'activité à temps partiel du 
 
 congé sont définies par décret ; 
 
 
 
-« 3° Les délais d?information de l?employeur par le salarié concernant la prise du congé, la durée 
+« 3° Les délais d'information de l'employeur par le salarié concernant la prise du congé, la durée 
 
 prévisible du congé, son renouvellement ainsi que les conditions du retour du salarié avant le terme 
 
@@ -3553,9 +3072,9 @@ prévu sont fixés par décret.
 
 
 
-« *Art. L. 3142-14. * - Le salarié a droit à un congé de proche aidant lorsque l?une des personnes 
+« *Art. L. 3142-14. * - Le salarié a droit à un congé de proche aidant lorsque l'une des personnes 
 
-suivantes présente un handicap ou une perte d?autonomie d?une particulière gravité : 
+suivantes présente un handicap ou une perte d'autonomie d'une particulière gravité : 
 
 
 
@@ -3633,7 +3152,7 @@ familles.
 
 
 
-« *Art. L. 3142-17. * - Le congé débute ou est renouvelé à l?initiative du salarié. 
+« *Art. L. 3142-17. * - Le congé débute ou est renouvelé à l'initiative du salarié. 
 
 
 
@@ -3645,7 +3164,7 @@ familles.
 
 
 
-« En cas de dégradation soudaine de l?état de santé de la personne aidée, d?une situation de crise 
+« En cas de dégradation soudaine de l'état de santé de la personne aidée, d'une situation de crise 
 
 nécessitant une action urgente du proche aidant, ou de cessation brutale de l'hébergement en 
 
@@ -3677,15 +3196,15 @@ nécessitant une action urgente du proche aidant, ou de cessation brutale de l'hé
 
 
 
-« *Art. L. 3142-18. * - Le salarié peut, avec l?accord de son employeur, transformer ce congé en période 
+« *Art. L. 3142-18. * - Le salarié peut, avec l'accord de son employeur, transformer ce congé en période 
 
-d?activité à temps partiel ou le fractionner. Dans cette hypothèse, le salarié doit avertir son employeur 
+d'activité à temps partiel ou le fractionner. Dans cette hypothèse, le salarié doit avertir son employeur 
 
 au moins quarante-huit heures avant la date à laquelle il entend prendre chaque période de congé. 
 
 Cette transformation ou ce fractionnement est accordé sans délai dans les conditions mentionnées au 
 
-troisième alinéa de l?article L. 3142-17. 
+troisième alinéa de l'article L. 3142-17. 
 
 
 
@@ -3701,7 +3220,7 @@ bénéfice de tous les avantages qu'il avait acquis avant le début du congé.
 
 
 
-« *Art. L. 3142-20*. - A l'issue du congé ou de la période d?activité à temps partiel, le salarié retrouve 
+« *Art. L. 3142-20*. - A l'issue du congé ou de la période d'activité à temps partiel, le salarié retrouve 
 
 son emploi ou un emploi similaire assorti d'une rémunération au moins équivalente. 
 
@@ -3749,7 +3268,7 @@ d'Etat.
 
 
 
-« *Art. L. 3142-24*. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L. 3142-24*. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -3763,19 +3282,19 @@ branche détermine notamment :
 
 
 
-« 3° La condition d?ancienneté requise pour ouvrir droit au congé ;? 
+« 3° La condition d'ancienneté requise pour ouvrir droit au congé ;? 
 
 
 
 
 
-« 4° Les délais d?information de l?employeur par le salarié concernant la prise du congé et son 
+« 4° Les délais d'information de l'employeur par le salarié concernant la prise du congé et son 
 
 renouvellement, et la durée du préavis en cas de retour du salarié avant la fin du congé ; 
 
 
 
-« 5° Les délais de demande du salarié et de réponse de l?employeur concernant le fractionnement du 
+« 5° Les délais de demande du salarié et de réponse de l'employeur concernant le fractionnement du 
 
 congé. 
 
@@ -3787,7 +3306,7 @@ congé.
 
 
 
-« *Art. L. 3142-25. * - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-25. * - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-24, les dispositions suivantes sont applicables : 
 
@@ -3795,21 +3314,21 @@ congé.
 
 
 
-« 1° La durée maximale du congé est de trois mois, renouvelable dans la limite mentionnée à l?article 
+« 1° La durée maximale du congé est de trois mois, renouvelable dans la limite mentionnée à l'article 
 
 L. 3142-17 ; 
 
 
 
-« 2° L?ancienneté requise pour ouvrir droit au congé est de deux ans ;? 
+« 2° L'ancienneté requise pour ouvrir droit au congé est de deux ans ;? 
 
 
 
-« 3° Les délais d?information de l?employeur par le salarié concernant la prise du congé et son 
+« 3° Les délais d'information de l'employeur par le salarié concernant la prise du congé et son 
 
 renouvellement, la durée du préavis en cas de retour du salarié avant la fin du congé, les délais de 
 
-demande du salarié et de réponse de l?employeur concernant le fractionnement du congé sont fixés par 
+demande du salarié et de réponse de l'employeur concernant le fractionnement du congé sont fixés par 
 
 décret. 
 
@@ -3833,19 +3352,19 @@ décret.
 
 économique, sociale et syndicale organisés soit par des centres rattachés aux organisations syndicales 
 
-mentionnées au 3° de l?article L. 2135-12, soit par des instituts spécialisés, a droit, sur sa demande, à 
+mentionnées au 3° de l'article L. 2135-12, soit par des instituts spécialisés, a droit, sur sa demande, à 
 
 un ou plusieurs congés. 
 
 
 
-« *Art. L. 3142-27. * - Le salarié bénéficiant du congé a droit au maintien total ou partiel par l?employeur 
+« *Art. L. 3142-27. * - Le salarié bénéficiant du congé a droit au maintien total ou partiel par l'employeur 
 
-de sa rémunération, sur demande d?une organisation syndicale satisfaisant aux critères de respect des 
+de sa rémunération, sur demande d'une organisation syndicale satisfaisant aux critères de respect des 
 
-valeurs républicaines et d?indépendance, légalement constituée depuis au moins deux ans et dont le 
+valeurs républicaines et d'indépendance, légalement constituée depuis au moins deux ans et dont le 
 
-champ professionnel et géographique couvre celui de l?entreprise ou de l?établissement. 
+champ professionnel et géographique couvre celui de l'entreprise ou de l'établissement. 
 
 
 
@@ -3857,13 +3376,13 @@ champ professionnel et géographique couvre celui de l?entreprise ou de l?établis
 
 « La demande de l'organisation syndicale doit être expresse et écrite. Elle précise le niveau demandé 
 
-du maintien de rémunération. L?accord écrit du salarié pour bénéficier du maintien de son salaire dans 
+du maintien de rémunération. L'accord écrit du salarié pour bénéficier du maintien de son salaire dans 
 
 les conditions prévues au présent article lui est annexé. 
 
 
 
-« L?employeur maintient les cotisations et contributions sociales afférentes à la rémunération 
+« L'employeur maintient les cotisations et contributions sociales afférentes à la rémunération 
 
 maintenue. 
 
@@ -3873,7 +3392,7 @@ maintenue.
 
 
 
-« En cas de non-remboursement, l?employeur peut procéder à une retenue sur le salaire du 
+« En cas de non-remboursement, l'employeur peut procéder à une retenue sur le salaire du 
 
 bénéficiaire, dans les conditions et limites prévues par décret en Conseil d'Etat. 
 
@@ -3929,7 +3448,7 @@ auquel ils ont droit pendant la durée des stages considérés.
 
 « *Art. L. 3142-31. * - Les conditions d'application des dispositions de la présente sous-section sont 
 
-déterminées par décret en Conseil d'Etat. Ce décret détermine également les conditions d?application 
+déterminées par décret en Conseil d'Etat. Ce décret détermine également les conditions d'application 
 
 de ces dispositions au personnel des entreprises publiques énumérées par le décret prévu par l'article L. 
 
@@ -3943,7 +3462,7 @@ de ces dispositions au personnel des entreprises publiques énumérées par le décr
 
 
 
-« Art. L. 3142-32. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« Art. L. 3142-32. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -3953,9 +3472,9 @@ branche détermine notamment :
 
 
 
-« 2° La durée totale maximale des congés pouvant être pris par tous les salariés de l?entreprise au 
+« 2° La durée totale maximale des congés pouvant être pris par tous les salariés de l'entreprise au 
 
-cours d?une année, le cas échéant en prévoyant une répartition par service ou par catégorie socio-
+cours d'une année, le cas échéant en prévoyant une répartition par service ou par catégorie socio-
 
 professionnelle ; 
 
@@ -3993,9 +3512,9 @@ l'application des dispositions qui précèdent.
 
 « Cette convention ou cet accord peut prévoir la prise en charge de tout ou partie de la rémunération 
 
-par l?employeur. Dans ce cas la demande de l?organisation syndicale mentionnée à l?article L. 3142-27 
+par l'employeur. Dans ce cas la demande de l'organisation syndicale mentionnée à l'article L. 3142-27 
 
-porte sur la différence entre le montant dont la prise en charge est prévue par l?accord et le montant 
+porte sur la différence entre le montant dont la prise en charge est prévue par l'accord et le montant 
 
 total de la rémunération du salarié. 
 
@@ -4007,11 +3526,11 @@ d'assurer la rémunération des congés et le financement de la formation.
 
 
 
-« *Art. L. 3142-33. -* Une convention conclue entre l?organisation syndicale et l?employeur fixe le 
+« *Art. L. 3142-33. -* Une convention conclue entre l'organisation syndicale et l'employeur fixe le 
 
-montant que l?organisation syndicale rembourse à l?employeur et le délai dans lequel ce 
+montant que l'organisation syndicale rembourse à l'employeur et le délai dans lequel ce 
 
-remboursement est effectué en application de l?article L. 3142-27. 
+remboursement est effectué en application de l'article L. 3142-27. 
 
 
 
@@ -4019,13 +3538,13 @@ remboursement est effectué en application de l?article L. 3142-27.
 
 
 
-« *Art. L. 3142-34. * - A défaut de stipulations dans la convention ou l?accord prise en application de 
+« *Art. L. 3142-34. * - A défaut de stipulations dans la convention ou l'accord prise en application de 
 
-l?article L. 3142-32, les dispositions suivantes sont applicables : 
+l'article L. 3142-32, les dispositions suivantes sont applicables : 
 
 
 
-« 1° La durée totale des congés de formation économique, sociale et syndicale pris au cours de l?année 
+« 1° La durée totale des congés de formation économique, sociale et syndicale pris au cours de l'année 
 
 par un salarié ne peut excéder douze jours. Elle ne peut excéder dix-huit jours pour les animateurs des 
 
@@ -4033,13 +3552,13 @@ stages et sessions ;
 
 
 
-« 2° Le nombre maximal total de jours de congés pris par l?ensemble des salariés au titre de ce congé 
+« 2° Le nombre maximal total de jours de congés pris par l'ensemble des salariés au titre de ce congé 
 
-et au titre des formations prévues aux articles L. 2325-44 et L. 4614-14, tenant compte de l?effectif de 
+et au titre des formations prévues aux articles L. 2325-44 et L. 4614-14, tenant compte de l'effectif de 
 
-l?établissement, est fixé par arrêté du ministre chargé du travail. Cet arrêté détermine également leurs 
+l'établissement, est fixé par arrêté du ministre chargé du travail. Cet arrêté détermine également leurs 
 
-conditions d?utilisation ; 
+conditions d'utilisation ; 
 
 
 
@@ -4047,17 +3566,17 @@ conditions d?utilisation ;
 
 
 
-« 4° Le délai dans lequel le salarié informe l?employeur de sa prise de congé est fixé par décret. 
+« 4° Le délai dans lequel le salarié informe l'employeur de sa prise de congé est fixé par décret. 
 
 
 
-« *Art. L. 3142-35. * - A défaut de convention mentionnée à l?article L. 3142-33 et sauf si l?accord 
+« *Art. L. 3142-35. * - A défaut de convention mentionnée à l'article L. 3142-33 et sauf si l'accord 
 
-collectif mentionné à l?article L. 3142-32 en dispose autrement, la demande de l?organisation 
+collectif mentionné à l'article L. 3142-32 en dispose autrement, la demande de l'organisation 
 
-syndicale l?engage à rembourser la totalité du montant maintenu au titre de sa demande ou d'un accord 
+syndicale l'engage à rembourser la totalité du montant maintenu au titre de sa demande ou d'un accord 
 
-collectif prévoyant un maintien de la rémunération par l?employeur, y compris le montant des 
+collectif prévoyant un maintien de la rémunération par l'employeur, y compris le montant des 
 
 cotisations et contributions sociales afférentes à la rémunération, dans un délai défini par décret en 
 
@@ -4099,7 +3618,7 @@ sous-section, notamment :
 
 
 
-« 1° Les conditions dans lesquelles l?employeur peut différer le congé en raison des nécessités propres 
+« 1° Les conditions dans lesquelles l'employeur peut différer le congé en raison des nécessités propres 
 
 de son entreprise ou de son exploitation ; 
 
@@ -4117,7 +3636,7 @@ entreprises publiques ;
 
 
 
-« 4° Les conditions dans lesquelles le congé est attribué au salarié bénéficiant d?un régime de congé 
+« 4° Les conditions dans lesquelles le congé est attribué au salarié bénéficiant d'un régime de congé 
 
 plus avantageux que celui qui résulte du chapitre Ier. 
 
@@ -4137,7 +3656,7 @@ d'Etat.
 
 
 
-« Art. L. 3142-40. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« Art. L. 3142-40. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -4147,7 +3666,7 @@ branche détermine notamment :
 
 
 
-« 2° Le délai dans lequel le salarié informe l?employeur de sa demande de congé. 
+« 2° Le délai dans lequel le salarié informe l'employeur de sa demande de congé. 
 
 
 
@@ -4155,7 +3674,7 @@ branche détermine notamment :
 
 
 
-« *Art. L. 3142-41. * - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-41. * - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-40, les dispositions suivantes sont applicables : 
 
@@ -4165,15 +3684,15 @@ branche détermine notamment :
 
 
 
-« 2° Le délai dans lequel le salarié informe l?employeur de sa demande de prendre ce congé sont 
+« 2° Le délai dans lequel le salarié informe l'employeur de sa demande de prendre ce congé sont 
 
 fixées par décret. 
 
 
 
-*« Sous-section 3 : Congé de participation aux instances d?emploi et de formation professionnelle ou à *
+*« Sous-section 3 : Congé de participation aux instances d'emploi et de formation professionnelle ou à *
 
-*un jury d?examen *
+*un jury d'examen *
 
 
 
@@ -4181,9 +3700,9 @@ fixées par décret.
 
 
 
-« *Art. L. 3142-42. * ? Lorsqu?un salarié est désigné pour siéger dans une commission, un conseil ou un 
+« *Art. L. 3142-42. * ? Lorsqu'un salarié est désigné pour siéger dans une commission, un conseil ou un 
 
-comité administratif ou paritaire appelé à traiter des problèmes d'emploi et de formation, l?employeur 
+comité administratif ou paritaire appelé à traiter des problèmes d'emploi et de formation, l'employeur 
 
 lui accorde le temps nécessaire pour participer aux réunions des instances précitées. 
 
@@ -4225,27 +3744,27 @@ rémunération.
 
 maintien du salaire et au remboursement des frais de déplacement sont supportées par les instances 
 
-mentionnées à l?article L. 3142-42 ou par l?entreprise. 
+mentionnées à l'article L. 3142-42 ou par l'entreprise. 
 
 
 
 
 
-« Dans ce cas, le salaire ainsi que les cotisations sociales obligatoires et, s?il y a lieu, la taxe sur les 
+« Dans ce cas, le salaire ainsi que les cotisations sociales obligatoires et, s'il y a lieu, la taxe sur les 
 
-salaires qui s?y rattachent sont pris en compte au titre de la participation des employeurs au 
+salaires qui s'y rattachent sont pris en compte au titre de la participation des employeurs au 
 
-financement de la formation professionnelle prévue à l?article L. 6331-1. 
-
-
+financement de la formation professionnelle prévue à l'article L. 6331-1. 
 
 
 
-« Art. L. 3142-45. ? L?autorisation d?absence au titre de l?article L. 3142-42 ne peut être refusée par 
 
-l'employeur que s?il estime, après avis du comité d?entreprise ou, à défaut, des délégués du personnel, 
 
-que cette absence pourrait avoir des conséquences préjudiciables à la bonne marche de l?entreprise. 
+« Art. L. 3142-45. ? L'autorisation d'absence au titre de l'article L. 3142-42 ne peut être refusée par 
+
+l'employeur que s'il estime, après avis du comité d'entreprise ou, à défaut, des délégués du personnel, 
+
+que cette absence pourrait avoir des conséquences préjudiciables à la bonne marche de l'entreprise. 
 
 
 
@@ -4257,9 +3776,9 @@ que cette absence pourrait avoir des conséquences préjudiciables à la bonne marc
 
 
 
-« En cas de différend, le refus de l?employeur peut être directement contesté devant le bureau de 
+« En cas de différend, le refus de l'employeur peut être directement contesté devant le bureau de 
 
-jugement du conseil de prud?hommes dans des conditions fixées par décret en Conseil d?Etat. 
+jugement du conseil de prud'hommes dans des conditions fixées par décret en Conseil d'Etat. 
 
 
 
@@ -4269,7 +3788,7 @@ jugement du conseil de prud?hommes dans des conditions fixées par décret en Cons
 
 
 
-*« Art. L. 3142-46. * - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+*« Art. L. 3142-46. * - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment les délais dans lequel le salarié adresse sa demande de congé. 
 
@@ -4281,7 +3800,7 @@ branche détermine notamment les délais dans lequel le salarié adresse sa demande
 
 
 
-*« Art. L. 3142-47. * - A défaut de convention ou d?accord mentionné à l?article L. 3142-46, un décret 
+*« Art. L. 3142-47. * - A défaut de convention ou d'accord mentionné à l'article L. 3142-46, un décret 
 
 fixe les délais dans lesquels le salarié adresse sa demande de congé. 
 
@@ -4303,7 +3822,7 @@ d'organismes apportant une aide aux victimes de catastrophes naturelles.
 
 
 
-« Art. L 3142-49. - En cas d?urgence, ce congé peut être pris sous préavis de vingt-quatre heures. 
+« Art. L 3142-49. - En cas d'urgence, ce congé peut être pris sous préavis de vingt-quatre heures. 
 
 
 
@@ -4313,19 +3832,19 @@ d'organismes apportant une aide aux victimes de catastrophes naturelles.
 
 
 
-« Art. L. 3142-51. - Le bénéfice du congé peut être refusé par l?employeur s?il estime que cette 
+« Art. L. 3142-51. - Le bénéfice du congé peut être refusé par l'employeur s'il estime que cette 
 
-absence est susceptible d?avoir des conséquences préjudiciables à la bonne marche de l'entreprise. 
-
-
+absence est susceptible d'avoir des conséquences préjudiciables à la bonne marche de l'entreprise. 
 
 
 
-« Le refus de l?employeur intervient après avis du comité d?entreprise ou, à défaut, des délégués du 
+
+
+« Le refus de l'employeur intervient après avis du comité d'entreprise ou, à défaut, des délégués du 
 
 personnel. Il est motivé. En cas de différend, il peut être directement contesté devant le bureau de 
 
-jugement du conseil de prud?hommes dans des conditions fixées par décret en Conseil d?Etat. 
+jugement du conseil de prud'hommes dans des conditions fixées par décret en Conseil d'Etat. 
 
 
 
@@ -4337,7 +3856,7 @@ jugement du conseil de prud?hommes dans des conditions fixées par décret en Cons
 
 
 
-« Art. L. 3142-52. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« Art. L. 3142-52. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -4361,7 +3880,7 @@ branche détermine notamment :
 
 
 
-« Art. L. 3142-53. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« Art. L. 3142-53. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-52 
 
@@ -4377,7 +3896,7 @@ branche détermine notamment :
 
 
 
-*« Sous-section 5 : Congés de formation de cadres et d?animateurs pour la jeunesse *
+*« Sous-section 5 : Congés de formation de cadres et d'animateurs pour la jeunesse *
 
 
 
@@ -4393,7 +3912,7 @@ agréées par l'autorité administrative, destinées à favoriser la préparation et l
 
 perfectionnement de cadres et animateurs a droit chaque année, à un congé de formation de cadres et 
 
-d?animateurs pour la jeunesse, pouvant être pris en une ou deux fois à la demande du bénéficiaire. 
+d'animateurs pour la jeunesse, pouvant être pris en une ou deux fois à la demande du bénéficiaire. 
 
 
 
@@ -4401,13 +3920,13 @@ d?animateurs pour la jeunesse, pouvant être pris en une ou deux fois à la demand
 
 assimilée à une période de travail effectif pour la détermination des droits à congés payés ainsi que 
 
-pour l?ensemble des autres droits résultant pour l?intéressé de son contrat de travail. 
+pour l'ensemble des autres droits résultant pour l'intéressé de son contrat de travail. 
 
 
 
 
 
-« *Art. L. 3142-56. * - Un décret en Conseil d'Etat détermine, pour l?application de la présente sous-
+« *Art. L. 3142-56. * - Un décret en Conseil d'Etat détermine, pour l'application de la présente sous-
 
 section : 
 
@@ -4417,13 +3936,13 @@ section :
 
 « 1° Les règles selon lesquelles est déterminé, par établissement, le nombre maximum de salariés 
 
-susceptibles de bénéficier du congé de formation de cadres et d?animateurs pour la jeunesse au cours 
+susceptibles de bénéficier du congé de formation de cadres et d'animateurs pour la jeunesse au cours 
 
-d?une année ;? 
+d'une année ;? 
 
 
 
-« 2° Les conditions dans lesquelles l?employeur peut différer le congé en raison des nécessités propres 
+« 2° Les conditions dans lesquelles l'employeur peut différer le congé en raison des nécessités propres 
 
 de son entreprise ou de son exploitation ; 
 
@@ -4441,7 +3960,7 @@ entreprises publiques ;
 
 
 
-« 5° Les conditions dans lesquelles le congé est attribué au salarié bénéficiant d?un régime de congé 
+« 5° Les conditions dans lesquelles le congé est attribué au salarié bénéficiant d'un régime de congé 
 
 plus avantageux que celui qui résulte du chapitre Ier. 
 
@@ -4449,7 +3968,7 @@ plus avantageux que celui qui résulte du chapitre Ier.
 
 
 
-« *Art. L. 3142-57. - * En cas de différend, le refus de l?employeur peut être directement contesté devant 
+« *Art. L. 3142-57. - * En cas de différend, le refus de l'employeur peut être directement contesté devant 
 
 le bureau de jugement du conseil de prud'hommes dans des conditions fixées par décret en Conseil 
 
@@ -4461,7 +3980,7 @@ d'Etat.
 
 
 
-« Art. L. 3142-58. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« Art. L. 3142-58. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment: 
 
@@ -4475,7 +3994,7 @@ branche détermine notamment:
 
 
 
-« 2° Le délai dans lequel le salarié adresse sa demande de congé à l?employeur ;? 
+« 2° Le délai dans lequel le salarié adresse sa demande de congé à l'employeur ;? 
 
 
 
@@ -4489,9 +4008,9 @@ branche détermine notamment:
 
 
 
-« Art. L. 3142-59. - A défaut de stipulations dans la convention ou l?accord mentionné article à 
+« Art. L. 3142-59. - A défaut de stipulations dans la convention ou l'accord mentionné article à 
 
-l?article L. 3142-58, les dispositions suivantes sont applicables : 
+l'article L. 3142-58, les dispositions suivantes sont applicables : 
 
 
 
@@ -4499,13 +4018,13 @@ l?article L. 3142-58, les dispositions suivantes sont applicables :
 
 
 
-« 2° Le congé ne peut se cumuler avec le congé de formation économique, sociale et syndicale qu?à 
+« 2° Le congé ne peut se cumuler avec le congé de formation économique, sociale et syndicale qu'à 
 
 concurrence de douze jours ouvrables pour une même année ; 
 
 
 
-« 3° Le délai dans lequel le salarié adresse sa demande de congé à l?employeur est fixé par décret. 
+« 3° Le délai dans lequel le salarié adresse sa demande de congé à l'employeur est fixé par décret. 
 
 
 
@@ -4523,11 +4042,11 @@ contrat d'association ou inscrite au registre des associations en application de
 
 applicable au contrat d'association dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin 
 
-ou d?une mutuelle au sens du code de la mutualité, et désigné comme représentant de cette association 
+ou d'une mutuelle au sens du code de la mutualité, et désigné comme représentant de cette association 
 
 ou de cette mutuelle pour siéger dans une instance, consultative ou non, instituée par une disposition 
 
-législative ou réglementaire auprès d'une autorité de l'Etat ou d?une collectivité territoriale, a droit au 
+législative ou réglementaire auprès d'une autorité de l'Etat ou d'une collectivité territoriale, a droit au 
 
 temps nécessaire pour participer aux réunions de cette instance. 
 
@@ -4535,7 +4054,7 @@ temps nécessaire pour participer aux réunions de cette instance.
 
 « *Art. L. 3142-61*. - Le salarié bénéficiant du congé de représentation qui subit, à cette occasion, une 
 
-diminution de rémunération reçoit de l?Etat ou de la collectivité territoriale une indemnité compensant, 
+diminution de rémunération reçoit de l'Etat ou de la collectivité territoriale une indemnité compensant, 
 
 en totalité ou partiellement, le cas échéant, sous forme forfaitaire, la diminution de rémunération. 
 
@@ -4543,9 +4062,9 @@ en totalité ou partiellement, le cas échéant, sous forme forfaitaire, la diminut
 
 
 
-« L?employeur peut décider de maintenir celle-ci en totalité ou partie, au-delà de l?indemnité 
+« L'employeur peut décider de maintenir celle-ci en totalité ou partie, au-delà de l'indemnité 
 
-compensatrice. En ce cas, les sommes versées peuvent faire l?objet d'une déduction fiscale, dans les 
+compensatrice. En ce cas, les sommes versées peuvent faire l'objet d'une déduction fiscale, dans les 
 
 conditions fixées à l'article 238 bis du code général des impôts. 
 
@@ -4569,11 +4088,11 @@ droits résultant pour l'intéressé de son contrat.
 
 
 
-*« Art. L. 3142-63. * - Le bénéfice du congé ne peut être refusé par l?employeur que s'il estime, après 
+*« Art. L. 3142-63. * - Le bénéfice du congé ne peut être refusé par l'employeur que s'il estime, après 
 
-avis du comité d?entreprise ou, à défaut, des délégués du personnel, que cette absence pourrait avoir 
+avis du comité d'entreprise ou, à défaut, des délégués du personnel, que cette absence pourrait avoir 
 
-des conséquences préjudiciables à la bonne marche de l?entreprise. 
+des conséquences préjudiciables à la bonne marche de l'entreprise. 
 
 
 
@@ -4585,9 +4104,9 @@ jugement du conseil de prud'hommes dans des conditions fixées par décret en Cons
 
 
 
-« *Art. L. 3142-64*. - Un décret en Conseil d?Etat détermine les modalités d?application de la présente 
+« *Art. L. 3142-64*. - Un décret en Conseil d'Etat détermine les modalités d'application de la présente 
 
-sous-section, notamment les conditions d?indemnisation du salarié par l?Etat. 
+sous-section, notamment les conditions d'indemnisation du salarié par l'Etat. 
 
 
 
@@ -4597,7 +4116,7 @@ sous-section, notamment les conditions d?indemnisation du salarié par l?Etat.
 
 
 
-« Art. L. 3142-65. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« Art. L. 3142-65. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment: 
 
@@ -4619,7 +4138,7 @@ branche détermine notamment:
 
 « 3° Le nombre maximum par établissement de salariés susceptibles de bénéficier des dispositions du 
 
-congé au cours d?une année. 
+congé au cours d'une année. 
 
 
 
@@ -4627,9 +4146,9 @@ congé au cours d?une année.
 
 
 
-« *Art. L. 3142-66*. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article prise 
+« *Art. L. 3142-66*. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article prise 
 
-en application de l?article L. 3142-65, les dispositions suivantes sont applicables : 
+en application de l'article L. 3142-65, les dispositions suivantes sont applicables : 
 
 
 
@@ -4641,7 +4160,7 @@ en application de l?article L. 3142-65, les dispositions suivantes sont applicab
 
 lesquelles est déterminé, par établissement, le nombre de salariés susceptibles de bénéficier de ce 
 
-congé au cours d?une année sont fixés par décret. 
+congé au cours d'une année sont fixés par décret. 
 
 
 
@@ -4653,15 +4172,15 @@ congé au cours d?une année sont fixés par décret.
 
 * *
 
-*« Art. L. 3142-67. -* Le salarié participant à une mission hors de France pour le compte d?une 
+*« Art. L. 3142-67. -* Le salarié participant à une mission hors de France pour le compte d'une 
 
 association à objet humanitaire régie par la loi du 1er juillet 1901 relative au contrat d'association ou 
 
 inscrite au registre des associations en application de la loi du 19 avril 1908 applicable au contrat 
 
-d?association dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, ou pour le compte 
+d'association dans les départements de la Moselle, du Bas-Rhin et du Haut-Rhin, ou pour le compte 
 
-d?une organisation internationale dont la France est membre, a droit à un congé de solidarité 
+d'une organisation internationale dont la France est membre, a droit à un congé de solidarité 
 
 internationale. 
 
@@ -4687,11 +4206,11 @@ conventionnels liés à l'ancienneté.
 
 « Elle ne peut être imputée sur celle du congé annuel. 
 
-« *Art. L. 3142-69*. - Le bénéfice du congé peut être refusé par l?employeur, après avis du comité 
+« *Art. L. 3142-69*. - Le bénéfice du congé peut être refusé par l'employeur, après avis du comité 
 
-d?entreprise ou à défaut, des délégués du personnel, s?il estime que cette absence pourrait avoir des 
+d'entreprise ou à défaut, des délégués du personnel, s'il estime que cette absence pourrait avoir des 
 
-conséquences préjudiciables à la bonne marche de l?entreprise. 
+conséquences préjudiciables à la bonne marche de l'entreprise. 
 
 
 
@@ -4699,7 +4218,7 @@ conséquences préjudiciables à la bonne marche de l?entreprise.
 
 « Le refus du congé est motivé. En cas de différend, il peut être directement contesté devant le bureau 
 
-de jugement du conseil de prud?hommes dans des conditions fixées par décret en Conseil d?Etat. 
+de jugement du conseil de prud'hommes dans des conditions fixées par décret en Conseil d'Etat. 
 
 
 
@@ -4711,7 +4230,7 @@ de jugement du conseil de prud?hommes dans des conditions fixées par décret en C
 
 
 
-« *Art.- L. 3142-70. -* En cas d?urgence, l?employeur n?est pas tenu de motiver son refus et son silence 
+« *Art.- L. 3142-70. -* En cas d'urgence, l'employeur n'est pas tenu de motiver son refus et son silence 
 
 ne vaut pas accord. 
 
@@ -4719,7 +4238,7 @@ ne vaut pas accord.
 
 
 
-« *Art. L. 3142-71*. - A l?issue du congé de solidarité internationale, ou à l?occasion de son interruption 
+« *Art. L. 3142-71*. - A l'issue du congé de solidarité internationale, ou à l'occasion de son interruption 
 
 pour cas de force majeure, le salarié retrouve son précédent emploi ou un emploi similaire assorti 
 
@@ -4729,7 +4248,7 @@ d'une rémunération au moins équivalente.
 
 
 
-« *Art. L3142-72. * ? A l?issue du congé, le salarié remet à l'employeur une attestation constatant 
+« *Art. L3142-72. * ? A l'issue du congé, le salarié remet à l'employeur une attestation constatant 
 
 l'accomplissement de la mission, délivrée par l'association ou l'organisation concernée. 
 
@@ -4745,7 +4264,7 @@ l'accomplissement de la mission, délivrée par l'association ou l'organisation co
 
 
 
-« *Art. L. 3142-73. * - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L. 3142-73. * - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment : 
 
@@ -4755,7 +4274,7 @@ branche détermine notamment :
 
 
 
-« 2° L?ancienneté requise pour bénéficier de ce congé ;? 
+« 2° L'ancienneté requise pour bénéficier de ce congé ;? 
 
 
 
@@ -4771,9 +4290,9 @@ bénéficier simultanément du congé de solidarité internationale ;
 
 
 
-« 5° Les mesures permettant le maintien d?un lien entre l?entreprise et le salarié pendant la durée du 
+« 5° Les mesures permettant le maintien d'un lien entre l'entreprise et le salarié pendant la durée du 
 
-congé et, le cas échéant, les modalités d?accompagnement à son retour. 
+congé et, le cas échéant, les modalités d'accompagnement à son retour. 
 
 
 
@@ -4781,25 +4300,25 @@ congé et, le cas échéant, les modalités d?accompagnement à son retour.
 
 
 
-« Art. L. 3142-74. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« Art. L. 3142-74. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-73, les dispositions suivantes sont applicables : 
 
 
 
-« 1° La durée maximale du congé est de six mois. Elle est de six semaines en cas d?urgence ;? 
+« 1° La durée maximale du congé est de six mois. Elle est de six semaines en cas d'urgence ;? 
 
 
 
-« 2° L?ancienneté dans l'entreprise requise pour ouvrir droit au congé est de douze mois consécutifs 
+« 2° L'ancienneté dans l'entreprise requise pour ouvrir droit au congé est de douze mois consécutifs 
 
 ou non ; 
 
 
 
-« 3° Les règles selon lesquelles est déterminée en fonction de l?effectif de l?établissement le nombre 
+« 3° Les règles selon lesquelles est déterminée en fonction de l'effectif de l'établissement le nombre 
 
-maximum de salariés susceptibles de bénéficier du congé et les délais mentionnés au 4° de l?article L. 
+maximum de salariés susceptibles de bénéficier du congé et les délais mentionnés au 4° de l'article L. 
 
 3142-73 dans lequel le salarié adresse sa demande de congé à son employeur sont fixés par décret. 
 
@@ -4813,7 +4332,7 @@ maximum de salariés susceptibles de bénéficier du congé et les délais mentionnés
 
 
 
-« *Art. L. 3142-73. -* Le salarié a le droit de bénéficier, sur justification, d?un congé pour assister à sa 
+« *Art. L. 3142-73. -* Le salarié a le droit de bénéficier, sur justification, d'un congé pour assister à sa 
 
 cérémonie d'accueil dans la citoyenneté française. 
 
@@ -4843,7 +4362,7 @@ d'Etat.
 
 
 
-« *Art. L3142-75. -* Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L3142-75. -* Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment la durée de ce congé. 
 
@@ -4857,9 +4376,9 @@ branche détermine notamment la durée de ce congé.
 
 
 
-« *Art. L. 3142-76. * - A défaut de stipulation dans la convention ou l?accord mentionné à article l?article 
+« *Art. L. 3142-76. * - A défaut de stipulation dans la convention ou l'accord mentionné à article l'article 
 
-L. 3142-75, la durée du congé est d?une demi-journée. 
+L. 3142-75, la durée du congé est d'une demi-journée. 
 
 
 
@@ -4897,15 +4416,15 @@ de la section II est ainsi modifiée :
 
 
 
-1° L?article L. 3142-108 devient l?article L. 3142-99 ; 
+1° L'article L. 3142-108 devient l'article L. 3142-99 ; 
 
 
 
-2° L?article L. 3142-112 devient l?article L. 3142-100 ; 
+2° L'article L. 3142-112 devient l'article L. 3142-100 ; 
 
 
 
-3° L?article L. 3142-115 devient l?article L. 3142-102. 
+3° L'article L. 3142-115 devient l'article L. 3142-102. 
 
 
 
@@ -4913,13 +4432,13 @@ V. - Le chapitre II est complété par une section III ainsi rédigée :
 
 
 
-*« Section III : Congés d?évolution des parcours professionnels *
+*« Section III : Congés d'évolution des parcours professionnels *
 
 * *
 
 *« Sous-section 1 : Congé et période de travail à temps partiel pour la création ou la reprise *
 
-*d?entreprise *
+*d'entreprise *
 
 * *
 
@@ -4941,11 +4460,11 @@ la présente sous-section:
 
 
 
-« *Art. L. 3142-104. * - Les dispositions de l'article L. 3142-103 s?appliquent également au salarié qui 
+« *Art. L. 3142-104. * - Les dispositions de l'article L. 3142-103 s'appliquent également au salarié qui 
 
-exerce des responsabilités de direction au sein d?une entreprise répondant, au moment où il sollicite 
+exerce des responsabilités de direction au sein d'une entreprise répondant, au moment où il sollicite 
 
-son congé, aux critères de jeune entreprise innovante définie par l?article 44 sexies-0 A du code 
+son congé, aux critères de jeune entreprise innovante définie par l'article 44 sexies-0 A du code 
 
 général des impôts. 
 
@@ -4953,9 +4472,9 @@ général des impôts.
 
 
 
-« *Art. L 3142-105. * ? L?employeur peut différer le départ en congé ou le début de la période de travail à 
+« *Art. L 3142-105. * ? L'employeur peut différer le départ en congé ou le début de la période de travail à 
 
-temps partiel dans la limite de six mois à compter de la demande, sans préjudice de l?application des 
+temps partiel dans la limite de six mois à compter de la demande, sans préjudice de l'application des 
 
 articles L. 3142-110 et L. 3142-111. 
 
@@ -4963,9 +4482,9 @@ articles L. 3142-110 et L. 3142-111.
 
 
 
-« *Art. L3142-106. * - A l?issue du congé ou de la période de travail à temps partiel, le salarié retrouve 
+« *Art. L3142-106. * - A l'issue du congé ou de la période de travail à temps partiel, le salarié retrouve 
 
-son précédent emploi ou un emploi similaire assorti d?une rémunération au moins équivalente. 
+son précédent emploi ou un emploi similaire assorti d'une rémunération au moins équivalente. 
 
 
 
@@ -4973,7 +4492,7 @@ son précédent emploi ou un emploi similaire assorti d?une rémunération au moins 
 
 « Si le salarié souhaite mettre fin à la relation de travail, les conditions de la rupture sont celles 
 
-prévues par son contrat de travail, à l?exception de celles relatives au préavis. Le salarié est, de ce fait, 
+prévues par son contrat de travail, à l'exception de celles relatives au préavis. Le salarié est, de ce fait, 
 
 dispensé de payer une indemnité de rupture. 
 
@@ -4983,13 +4502,13 @@ dispensé de payer une indemnité de rupture.
 
 « Le salarié ne peut invoquer aucun droit à être réemployé avant l'expiration du congé, ni à être 
 
-réemployé à temps plein avant le terme fixé par l?avenant prévoyant le passage à temps partiel. 
+réemployé à temps plein avant le terme fixé par l'avenant prévoyant le passage à temps partiel. 
 
 
 
 
 
-« *Art. L3142-107. * - Le salarié qui reprend son activité dans l'entreprise à l?issue de son congé 
+« *Art. L3142-107. * - Le salarié qui reprend son activité dans l'entreprise à l'issue de son congé 
 
 bénéficie en tant que de besoin d'une réadaptation professionnelle, notamment en cas de changement 
 
@@ -5003,7 +4522,7 @@ bénéficier simultanément d'un congé individuel de formation prévu à l'article L.
 
 
 
-« *Art. L. 3142-108. * ? Lorsqu?il est envisagé une période de travail à temps partiel, celle-ci donne lieu à 
+« *Art. L. 3142-108. * ? Lorsqu'il est envisagé une période de travail à temps partiel, celle-ci donne lieu à 
 
 un avenant au contrat de travail fixant la durée de cette période et conforme aux dispositions de 
 
@@ -5031,7 +4550,7 @@ partiel ne peut invoquer aucun droit à être réemployé à temps plein avant le ter
 
 « A l'issue du congé ou de la période de travail à temps partiel, le salarié retrouve une activité à temps 
 
-plein assortie d?une rémunération au moins équivalente à celle qui lui était précédemment servie. 
+plein assortie d'une rémunération au moins équivalente à celle qui lui était précédemment servie. 
 
 
 
@@ -5039,13 +4558,13 @@ plein assortie d?une rémunération au moins équivalente à celle qui lui était pré
 
 « *Art. L. 3142-110. * - Dans les entreprises de moins de trois cents salariés, l'employeur peut refuser le 
 
-congé ou la transformation du congé en période d?activité à temps partiel : 
+congé ou la transformation du congé en période d'activité à temps partiel : 
 
 
 
 
 
-« 1° S?il estime après avis du comité d?entreprise ou, à défaut, des délégués du personnel que ce congé 
+« 1° S?il estime après avis du comité d'entreprise ou, à défaut, des délégués du personnel que ce congé 
 
 ou cette activité à temps partiel aura des conséquences préjudiciables à la bonne marche de 
 
@@ -5055,7 +4574,7 @@ l'entreprise;
 
 
 
-« 2° Ou si le salarié demande ce congé ou cette période d?activité à temps partiel moins de trois ans 
+« 2° Ou si le salarié demande ce congé ou cette période d'activité à temps partiel moins de trois ans 
 
 après la précédente création ou reprise d'entreprise ou après le début de l'exercice de précédentes 
 
@@ -5067,47 +4586,47 @@ innovante.
 
 
 
-« L?employeur précise le motif de son refus et le porte à la connaissance du salarié. 
+« L'employeur précise le motif de son refus et le porte à la connaissance du salarié. 
 
 
 
 
 
-« Ce refus peut être contesté directement devant le bureau de jugement du conseil de prud?hommes 
+« Ce refus peut être contesté directement devant le bureau de jugement du conseil de prud'hommes 
 
-dans des conditions déterminées par décret en Conseil d?Etat. 
-
-
+dans des conditions déterminées par décret en Conseil d'Etat. 
 
 
 
-« *Art. L. 3142-111*. - L?employeur peut différer le départ en congé du salarié lorsque ce départ aurait 
 
-pour effet de porter l?effectif de salariés simultanément absents ou le nombre de jours d?absences au 
+
+« *Art. L. 3142-111*. - L'employeur peut différer le départ en congé du salarié lorsque ce départ aurait 
+
+pour effet de porter l'effectif de salariés simultanément absents ou le nombre de jours d'absences au 
 
 titre de ce congé et au titre du congé sabbatique à un niveau excessif au regard respectivement de 
 
-l?effectif total et du nombre de jours travaillés dans l?entreprise. 
+l'effectif total et du nombre de jours travaillés dans l'entreprise. 
 
 
 
 
 
-« *Art. L. 3142-112*. - Dans les entreprises d?au moins trois cents salariés, l?employeur peut différer la 
+« *Art. L. 3142-112*. - Dans les entreprises d'au moins trois cents salariés, l'employeur peut différer la 
 
 signature du ou des avenants aux contrats de travail lorsque celle-ci aurait pour effet de porter 
 
-l?effectif de salariés employés simultanément à temps partiel au titre de la présente sous-section à un 
+l'effectif de salariés employés simultanément à temps partiel au titre de la présente sous-section à un 
 
-niveau excessif au regard de l?effectif total de l?entreprise. 
-
-
+niveau excessif au regard de l'effectif total de l'entreprise. 
 
 
 
-« *Art. L. 3142-113*. - L?employeur informe le salarié soit de son accord sur la date de départ choisie 
 
-par l?intéressé, soit du report ou de son refus. 
+
+« *Art. L. 3142-113*. - L'employeur informe le salarié soit de son accord sur la date de départ choisie 
+
+par l'intéressé, soit du report ou de son refus. 
 
 
 
@@ -5123,7 +4642,7 @@ par l?intéressé, soit du report ou de son refus.
 
 
 
-« *Art. L. 3142-114. *- Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L. 3142-114. *- Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment: 
 
@@ -5143,15 +4662,15 @@ branche détermine notamment:
 
 
 
-« 3° La condition d?ancienneté requise pour avoir droit à ce congé ou à cette période ;? 
+« 3° La condition d'ancienneté requise pour avoir droit à ce congé ou à cette période ;? 
 
 
 
 
 
-« 4° Les délais d?information de l?employeur par le salarié de la date à laquelle il souhaite partir en 
+« 4° Les délais d'information de l'employeur par le salarié de la date à laquelle il souhaite partir en 
 
-congé, ou, en cas de passage à temps partiel, de la date de début et de l?amplitude de la réduction 
+congé, ou, en cas de passage à temps partiel, de la date de début et de l'amplitude de la réduction 
 
 souhaitée de son temps de travail, ainsi que de la durée envisagée de ce congé, ou de cette réduction ; 
 
@@ -5163,21 +4682,21 @@ souhaitée de son temps de travail, ainsi que de la durée envisagée de ce congé, 
 
 
 
-« 6° Les conditions dans lesquelles le salarié informe l?employeur de son intention de poursuivre ou 
+« 6° Les conditions dans lesquelles le salarié informe l'employeur de son intention de poursuivre ou 
 
-de rompre son contrat de travail à l?issue de son congé ou de sa période de travail à temps partiel ;? 
-
-
-
-« 7° Les plafonds ou niveaux mentionnés à l?article L. 3142-111 et, pour les entreprises d?au moins 
-
-trois-cent salariés, celui mentionné à l?article L. 3142-112 ; 
+de rompre son contrat de travail à l'issue de son congé ou de sa période de travail à temps partiel ;? 
 
 
 
-« 8° Les conditions permettant le maintien d?un lien entre l?entreprise et le salarié pendant la durée du 
+« 7° Les plafonds ou niveaux mentionnés à l'article L. 3142-111 et, pour les entreprises d'au moins 
 
-congé et, le cas échéant, les modalités d?accompagnement et de réadaptation professionnelle à son 
+trois-cent salariés, celui mentionné à l'article L. 3142-112 ; 
+
+
+
+« 8° Les conditions permettant le maintien d'un lien entre l'entreprise et le salarié pendant la durée du 
+
+congé et, le cas échéant, les modalités d'accompagnement et de réadaptation professionnelle à son 
 
 retour. 
 
@@ -5199,35 +4718,35 @@ congés payés dus au salarié qui bénéficie du congé.
 
 
 
-« *Art. L. 3142-116. * - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-116. * - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-114, les dispositions suivantes sont applicables : 
 
 
 
-« 1° La durée maximale du congé ou de la période de travail à temps partiel est d?un an. Elle peut être 
+« 1° La durée maximale du congé ou de la période de travail à temps partiel est d'un an. Elle peut être 
 
-prolongée au plus d?un an ; 
+prolongée au plus d'un an ; 
 
 
 
-« 2° L?ancienneté requise pour ouvrir droit au congé est de vingt-quatre mois, consécutifs ou non, dans 
+« 2° L'ancienneté requise pour ouvrir droit au congé est de vingt-quatre mois, consécutifs ou non, dans 
 
-l?entreprise. L'ancienneté acquise dans toute autre entreprise du même groupe, au sens de l'article L. 
+l'entreprise. L'ancienneté acquise dans toute autre entreprise du même groupe, au sens de l'article L. 
 
 2331-1, est prise en compte au titre de l'ancienneté dans l'entreprise ; 
 
 
 
-« 3° Les conditions et délais d?information mentionnés aux 5° et 6° de l?article L. 3142-114 sont fixés 
+« 3° Les conditions et délais d'information mentionnés aux 5° et 6° de l'article L. 3142-114 sont fixés 
 
 par décret ; 
 
 
 
-« 4° Le niveau de salariés absents au titre du congé dans l?entreprise ou de jours d?absence prévus au 
+« 4° Le niveau de salariés absents au titre du congé dans l'entreprise ou de jours d'absence prévus au 
 
-titre de ce congé au titre duquel l?employeur peut différer le départ en congé ou le début de la période 
+titre de ce congé au titre duquel l'employeur peut différer le départ en congé ou le début de la période 
 
 de travail à temps partiel sont fixés par décret. 
 
@@ -5239,7 +4758,7 @@ de travail à temps partiel sont fixés par décret.
 
 
 
-« *Art. L. 3142-117*. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-117*. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-114, les congés payés annuels dus au salarié en plus de vingt-quatre jours ouvrables peuvent être 
 
@@ -5279,7 +4798,7 @@ payés.
 
 « *Art. L. 3142-119. -* En cas de renonciation au congé, les congés payés du salarié reportés 
 
-conformément aux dispositions de l?article L. 3142-118 sont ajoutés aux congés payés annuels. 
+conformément aux dispositions de l'article L. 3142-118 sont ajoutés aux congés payés annuels. 
 
 
 
@@ -5335,27 +4854,27 @@ suspendu.
 
 
 
-*« Art. L. 3142-123. * - L?employeur peut différer le départ en congé dans la limite de six mois à compter 
+*« Art. L. 3142-123. * - L'employeur peut différer le départ en congé dans la limite de six mois à compter 
 
-de la demande en fonction du niveau de salarié absents au titre du congé dans l?entreprise ou de jours 
+de la demande en fonction du niveau de salarié absents au titre du congé dans l'entreprise ou de jours 
 
-d?absence prévus au titre de ce congé. Dans les entreprises de moins de trois cents salariés cette limite 
+d'absence prévus au titre de ce congé. Dans les entreprises de moins de trois cents salariés cette limite 
 
 est portée à neuf mois. 
 
-« Il peut également différer ce congé dans les conditions prévues à l?article L. 3142-111 et, pour les 
+« Il peut également différer ce congé dans les conditions prévues à l'article L. 3142-111 et, pour les 
 
 entreprises de moins de trois cents salariés, le refuser dans les conditions prévues au deuxième alinéa 
 
-de l?article L. 3142-110. 
+de l'article L. 3142-110. 
 
 
 
 
 
-« *Art. L. 3142-124*. - L?employeur informe le salarié soit de son accord sur la date de départ choisie 
+« *Art. L. 3142-124*. - L'employeur informe le salarié soit de son accord sur la date de départ choisie 
 
-par l?intéressé, soit du report. 
+par l'intéressé, soit du report. 
 
 
 
@@ -5363,9 +4882,9 @@ par l?intéressé, soit du report.
 
 « *Art. L3142-125*. - A l'issue du congé, le salarié retrouve son précédent emploi ou un emploi similaire 
 
-assorti d'une rémunération au moins équivalente et bénéficie de l?entretien professionnel mentionné au 
+assorti d'une rémunération au moins équivalente et bénéficie de l'entretien professionnel mentionné au 
 
-I de l?article L. 6315-1. 
+I de l'article L. 6315-1. 
 
 
 
@@ -5381,7 +4900,7 @@ I de l?article L. 6315-1.
 
 
 
-« *Art. L. 3142-126*. - Une convention ou un accord collectif d?entreprise ou à défaut un accord de 
+« *Art. L. 3142-126*. - Une convention ou un accord collectif d'entreprise ou à défaut un accord de 
 
 branche détermine notamment: 
 
@@ -5391,7 +4910,7 @@ branche détermine notamment:
 
 
 
-« 2° La condition d?ancienneté requise pour ouvrir droit à ce congé ;? \[. 
+« 2° La condition d'ancienneté requise pour ouvrir droit à ce congé ;? \[. 
 
 
 
@@ -5405,11 +4924,11 @@ branche détermine notamment:
 
 
 
-« 4° Les plafonds mentionnés à l?article L. 3142-123, L. 3142-110 et L. 3142-111 ; 
+« 4° Les plafonds mentionnés à l'article L. 3142-123, L. 3142-110 et L. 3142-111 ; 
 
 
 
-« 5° Les conditions et délais d?information de l?employeur par le salarié de sa demande de congé ainsi 
+« 5° Les conditions et délais d'information de l'employeur par le salarié de sa demande de congé ainsi 
 
 que de la date de son départ et la durée envisagée de ce congé ; 
 
@@ -5429,7 +4948,7 @@ congés payés dus au salarié qui bénéficie du congé.
 
 
 
-« Art. L. 3142-128. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« Art. L. 3142-128. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
 3142-126, les dispositions suivantes sont applicables : 
 
@@ -5463,13 +4982,13 @@ prise en compte au titre de l'ancienneté dans l'entreprise ;
 
 
 
-« 3° Les conditions mentionnés au 4° de l?article L. 3142-126 sont fixées par décret ; 
+« 3° Les conditions mentionnés au 4° de l'article L. 3142-126 sont fixées par décret ; 
 
 
 
 
 
-« 4° Les plafonds mentionnés à l?article L. 3142-123, L. 3142-57-7 et L. 3142 57 8 sont fixés par 
+« 4° Les plafonds mentionnés à l'article L. 3142-123, L. 3142-57-7 et L. 3142 57 8 sont fixés par 
 
 décret. 
 
@@ -5479,9 +4998,9 @@ décret.
 
 
 
-« *Art. L. 3142-129*. - A défaut de stipulations dans la convention ou l?accord mentionné à l?article L. 
+« *Art. L. 3142-129*. - A défaut de stipulations dans la convention ou l'accord mentionné à l'article L. 
 
-3151-62-1, les dispositions des articles L. 3142-117 à L. 3142-121 s?appliquent. » 
+3151-62-1, les dispositions des articles L. 3142-117 à L. 3142-121 s'appliquent. » 
 
 
 
@@ -5489,7 +5008,7 @@ V. - Le code du travail est ainsi modifié :
 
 
 
-1° Au deuxième alinéa de l?article L. 1222-5, les mots : « à l?article L. 3142-82 », sont remplacés par 
+1° Au deuxième alinéa de l'article L. 1222-5, les mots : « à l'article L. 3142-82 », sont remplacés par 
 
 les mots : « par les dispositions relatives au congé et période de travail à temps partiel pour la création 
 
@@ -5497,7 +5016,7 @@ ou la reprise d'entreprise du chapitre II du titre IV du livre Ier de la troisiè
 
 
 
-2° Au deuxième alinéa de l?article L. 1232-12, les mots : « des articles L. 3142-7 à L. 3142-12, L. 
+2° Au deuxième alinéa de l'article L. 1232-12, les mots : « des articles L. 3142-7 à L. 3142-12, L. 
 
 3142-14 et L. 3142-15, » sont remplacés par les mots : « du chapitre II du titre IV du livre Ier de la 
 
@@ -5505,19 +5024,19 @@ troisième partie » ;
 
 
 
-3° Au quatrième alinéa de l?article L. 1442-2, les mots : « de l?article L. 3142-12 » sont remplacés par 
+3° Au quatrième alinéa de l'article L. 1442-2, les mots : « de l'article L. 3142-12 » sont remplacés par 
 
 la référence : « L. 3142-28 » ; 
 
 
 
-4° Au premier alinéa de l?article L. 2145-1, les mots : « à l?article L. 3142-7 », sont remplacés par les 
+4° Au premier alinéa de l'article L. 2145-1, les mots : « à l'article L. 3142-7 », sont remplacés par les 
 
 mots : « par le chapitre II du titre IV du livre Ier de la troisième partie » ; 
 
 
 
-5° Au premier alinéa de l?article L. 2325-44, les mots : « à l'article L. 3142-13 » sont remplacés par la 
+5° Au premier alinéa de l'article L. 2325-44, les mots : « à l'article L. 3142-13 » sont remplacés par la 
 
 référence : « L. 3142-29 » et la référence : « L. 3142-7 » est remplacée par la référence : « L. 3142-26 
 
@@ -5529,13 +5048,13 @@ référence : « L. 3142-29 » et la référence : « L. 3142-7 » est remplacée par la 
 
 
 
-6° A l?article L. 3341-2, les mots : « à l'article L. 3142-13 » sont remplacés par la référence : « L. 
+6° A l'article L. 3341-2, les mots : « à l'article L. 3142-13 » sont remplacés par la référence : « L. 
 
 3142-29 » ; 
 
 
 
-7° A l?article L. 3341-3, les mots : « aux article articles L. 3142-7 et suivants » sont remplacés par les 
+7° A l'article L. 3341-3, les mots : « aux article articles L. 3142-7 et suivants » sont remplacés par les 
 
 mots : « par les dispositions relatives aux congés de formation économique, sociale et syndicale du 
 
@@ -5543,19 +5062,19 @@ chapitre II du titre IV du livre Ier de la troisième partie du présent code » ;
 
 
 
-8° Au dernier alinéa de l?article L. 6313-1, les mots : « à l?article L. 3142-3-1 » sont remplacés par les 
+8° Au dernier alinéa de l'article L. 6313-1, les mots : « à l'article L. 3142-3-1 » sont remplacés par les 
 
-mots : « au dernier alinéa de l?article L. 3142-42 » ; 
+mots : « au dernier alinéa de l'article L. 3142-42 » ; 
 
 
 
-9° A l?article L. 6315-1 du code du travail, les mots : « congé de soutien familial » sont remplacés par 
+9° A l'article L. 6315-1 du code du travail, les mots : « congé de soutien familial » sont remplacés par 
 
 les mots : « congé de proche aidant » ; 
 
 
 
-10° Au 5° de l?article L. 7211-3 et au 4° de l?article L. 7221-2, les mots : « L. 3142-1 et suivants » 
+10° Au 5° de l'article L. 7211-3 et au 4° de l'article L. 7221-2, les mots : « L. 3142-1 et suivants » 
 
 sont remplacés par les mots : « par les dispositions relatives aux congés pour événements familiaux du 
 
@@ -5567,13 +5086,13 @@ VI. - Le code de la santé publique est ainsi modifié :
 
 
 
-1° Au premier alinéa de l?article L. 1114-3, la référence : « L. 3142-51 » est remplacée par les mots : 
+1° Au premier alinéa de l'article L. 1114-3, la référence : « L. 3142-51 » est remplacée par les mots : 
 
 « le chapitre II du titre IV du livre Ier de la troisième partie » ; 
 
 
 
-2° Au dernier alinéa de l?article L. 1114-3, les mots : « à l?article L. 3142-52 » sont remplacés par les 
+2° Au dernier alinéa de l'article L. 1114-3, les mots : « à l'article L. 3142-52 » sont remplacés par les 
 
 mots : « par les dispositions relatives au congé de représentation du chapitre II du titre IV du livre Ier 
 
@@ -5581,9 +5100,9 @@ de la troisième partie » ;
 
 
 
-3° A l?article L. 1432-7-1, les mots: « à l?article L. 3142-51 » sont remplacés par les mots : « par le 
+3° A l'article L. 1432-7-1, les mots: « à l'article L. 3142-51 » sont remplacés par les mots : « par le 
 
-chapitre II du titre IV du livre Ier de la troisième partie » et les mots : « l?article L.3142-52 » sont 
+chapitre II du titre IV du livre Ier de la troisième partie » et les mots : « l'article L.3142-52 » sont 
 
 remplacés par les mots : « au même chapitre ». 
 
@@ -5593,7 +5112,7 @@ VII. - Le code de la sécurité sociale est ainsi modifié :
 
 
 
-1° Au 1° de l?article L. 168-1, les mots : « aux articles L. 3142-16 à L. 3142-21 » sont remplacés par 
+1° Au 1° de l'article L. 168-1, les mots : « aux articles L. 3142-16 à L. 3142-21 » sont remplacés par 
 
 les mots : « par les dispositions relatives au congé de solidarité familiale du chapitre II du titre IV du 
 
@@ -5601,7 +5120,7 @@ livre Ier de la troisième partie » ;
 
 
 
-2° Au premier alinéa de l?article L. 161-9-3, les mots : « congé prévu à l?article L. 3142-16 » sont 
+2° Au premier alinéa de l'article L. 161-9-3, les mots : « congé prévu à l'article L. 3142-16 » sont 
 
 remplacés par les mots : « congé de solidarité familiale du chapitre II du titre IV du livre Ier de la 
 
@@ -5609,11 +5128,11 @@ troisième partie » ;
 
 
 
-3° A l?article L. 241-3-2, les mots : « visé à l?article L. 3142-16 » sont remplacés par les mots : « du 
+3° A l'article L. 241-3-2, les mots : « visé à l'article L. 3142-16 » sont remplacés par les mots : « du 
 
 chapitre II du titre IV du livre Ier de la troisième partie» et les mots: « soutien familial » sont 
 
-remplacés par les mots : « proche aidant » et les mots : « visés à l?article L. 3142-22 » sont remplacés 
+remplacés par les mots : « proche aidant » et les mots : « visés à l'article L. 3142-22 » sont remplacés 
 
 par les mots : « du chapitre II du titre IV du livre Ier de la troisième partie ». 
 
@@ -5623,7 +5142,7 @@ IX. - Le code général des collectivités territoriales est ainsi modifié :
 
 
 
-1° L?article L. 2123-9 est ainsi modifié : 
+1° L'article L. 2123-9 est ainsi modifié : 
 
 
 
@@ -5647,7 +5166,7 @@ c\) Au troisième alinéa, la référence : « L. 3142-62 » est remplacée par la réfé
 
 
 
-2° L?article L. 3123-7 est ainsi modifié : 
+2° L'article L. 3123-7 est ainsi modifié : 
 
 
 
@@ -5665,7 +5184,7 @@ c\) Au troisième alinéa, la référence: « L. 3142-62 » est remplacée par la référ
 
 
 
-3° L?article L. 4135-7 est ainsi modifié : 
+3° L'article L. 4135-7 est ainsi modifié : 
 
 
 
@@ -5689,7 +5208,7 @@ remplacés par les mots : « du chapitre II du titre IV du livre Ier de la troisiè
 
 
 
-X. - Au quatrième alinéa de l?article L.114-24 du code de la mutualité, les mots : « des articles L. 
+X. - Au quatrième alinéa de l'article L.114-24 du code de la mutualité, les mots : « des articles L. 
 
 3142-60 à L. 3142-63 » sont remplacés par les mots : « des dispositions du chapitre II du titre IV du 
 
@@ -5699,7 +5218,7 @@ local ».
 
 
 
-XI. - A l?article L. 423-14 du code de l?action sociale et des familles, les mots : « des articles L. 3142-
+XI. - A l'article L. 423-14 du code de l'action sociale et des familles, les mots : « des articles L. 3142-
 
 68 à L. 3142-97 » sont remplacés par les mots : « du chapitre II du titre IV du livre premier de la 
 
@@ -5711,7 +5230,7 @@ XII. - Le code des transports est ainsi modifié :
 
 
 
-1° A l?article L. 5544-25, les mots: « des articles L. 3142-78 à L. 3142-98 et L. 3142-100 à L. 3142-
+1° A l'article L. 5544-25, les mots: « des articles L. 3142-78 à L. 3142-98 et L. 3142-100 à L. 3142-
 
 107 » sont remplacés par les mots : « du chapitre II du titre IV du livre premier de la troisième partie » 
 
@@ -5719,7 +5238,7 @@ XII. - Le code des transports est ainsi modifié :
 
 
 
-2° A l?article L. 6525-5, les mots : « et L. 3142-78 à L. 3142-99 » sont remplacés par les mots : « et 
+2° A l'article L. 6525-5, les mots : « et L. 3142-78 à L. 3142-99 » sont remplacés par les mots : « et 
 
 du chapitre II du titre IV du livre premier de la troisième partie ». 
 
@@ -5743,7 +5262,7 @@ Le titre V du livre premier de la troisième partie du code du travail est ainsi 
 
 *« Chapitre Ier : Ordre public *
 
-**« ** *Art. L.3151-1. ***- **Le compte épargne-temps peut être mis en place par une convention ou un accord 
+**« Art. L.3151-1. ***- **Le compte épargne-temps peut être mis en place par une convention ou un accord 
 
 d'entreprise ou d'établissement ou, à défaut, une convention ou un accord de branche. ** **
 
@@ -5757,7 +5276,7 @@ de repos non prises ou des sommes qu'il y a affectées.
 
 quatre jours ouvrables. 
 
-**« ** *Art. L.3151-3. ***- **Nonobstant les stipulations de la convention ou de l'accord collectif, tout salarié peut, 
+**« Art. L.3151-3. ***- **Nonobstant les stipulations de la convention ou de l'accord collectif, tout salarié peut, 
 
 sur sa demande et en accord avec son employeur, utiliser les droits affectés sur le compte épargne-
 
@@ -5769,31 +5288,31 @@ temps au titre du congé annuel n'est autorisée que pour ceux de ces droits corre
 
 excédant la durée de trente jours fixée par l'article L. 3141-3. 
 
-**« ** *Art. L.3151-4. ***- **Les droits acquis dans le cadre du compte épargne-temps sont garantis dans les 
+**« Art. L.3151-4. ***- **Les droits acquis dans le cadre du compte épargne-temps sont garantis dans les 
 
-conditions de l?article L.3253-8. ** **
+conditions de l'article L.3253-8. ** **
 
 *« Chapitre II : Champ de la négociation collective *
 
-**« ** *Art. L.3152-1. ***-**Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
+**« Art. L.3152-1. ***-**Une convention ou un accord d'entreprise ou d'établissement ou, à défaut, une 
 
 convention ou un accord de branche peut instituer un compte épargne-temps. ** **
 
-**« ** *Art. L.3152-2. ***- **La convention ou l'accord collectif détermine dans quelles conditions et limites le 
+**« Art. L.3152-2. ***- **La convention ou l'accord collectif détermine dans quelles conditions et limites le 
 
 compte épargne-temps peut être alimenté en temps ou en argent à l'initiative du salarié ou, pour les 
 
 heures accomplies au-delà de la durée collective, à l'initiative de l'employeur. ** **
 
-**« ** *Art. L.3152-3. ***- **La convention ou l'accord collectif définit les modalités de gestion du compte 
+**« Art. L.3152-3. ***- **La convention ou l'accord collectif définit les modalités de gestion du compte 
 
 épargne-temps et détermine les conditions d'utilisation, de liquidation et de transfert des droits d'un 
 
 employeur à un autre. ** **
 
-**« ** *Art. L.3152-4.-*** **Pour les droits acquis, convertis en unités monétaires, qui excèdent le plus élevé des 
+**« Art. L.3152-4.-*** **Pour les droits acquis, convertis en unités monétaires, qui excèdent le plus élevé des 
 
-montants fixés par décret en application de l?article L.3253-17, la convention ou l'accord d'entreprise 
+montants fixés par décret en application de l'article L.3253-17, la convention ou l'accord d'entreprise 
 
 ou d'établissement ou, à défaut, la convention ou l'accord de branche établit un dispositif d'assurance 
 
@@ -5845,17 +5364,17 @@ prévues au deuxième alinéa.
 
 *« Chapitre III : Dispositions supplétives *
 
-**« ** *Art. L.3153-1. ***- **A défaut d'accord collectif le prévoyant, un dispositif de garantie est mis en place par 
+**« Art. L.3153-1. ***- **A défaut d'accord collectif le prévoyant, un dispositif de garantie est mis en place par 
 
 décret. ** **
 
-« Dans l?attente de la mise en place d?un dispositif de garantie, lorsque les droits acquis, convertis en 
+« Dans l'attente de la mise en place d'un dispositif de garantie, lorsque les droits acquis, convertis en 
 
 unités monétaires, excèdent le plafond précité, une indemnité correspondant à la conversion monétaire 
 
-de l?ensemble des droits est versée au salarié. 
+de l'ensemble des droits est versée au salarié. 
 
-**« ** *Art. L.3153-2. ***- **A défaut de dispositions conventionnelles prévoyant les conditions de transfert des 
+**« Art. L.3153-2. ***- **A défaut de dispositions conventionnelles prévoyant les conditions de transfert des 
 
 droits d'un employeur à un autre, le salarié peut : ** **
 
@@ -5871,11 +5390,11 @@ profit du salarié bénéficiaire ou de ses ayants droit dans les conditions fixées
 
 **Article 6 \(jeunes travailleurs\)** 
 
-Le deuxième alinéa de l?article L. 6222-25 du code du travail est remplacé par trois alinéas ainsi 
+Le deuxième alinéa de l'article L. 6222-25 du code du travail est remplacé par trois alinéas ainsi 
 
 rédigés : 
 
-« A titre exceptionnel ou lorsque des raisons objectives le justifient, l?apprenti de moins de dix-huit 
+« A titre exceptionnel ou lorsque des raisons objectives le justifient, l'apprenti de moins de dix-huit 
 
 ans peut effectuer une durée de travail quotidienne supérieure à huit heures, sans que cette durée 
 
@@ -5891,55 +5410,55 @@ que cette durée puisse excéder quarante heures.
 
 
 
-« Dans les cas mentionnées aux deuxième et troisième alinéas, l?employeur informe l?inspecteur du 
+« Dans les cas mentionnées aux deuxième et troisième alinéas, l'employeur informe l'inspecteur du 
 
 travail et le médecin du travail. » 
 
 **Article 7 \(dispositions non codifiées forfaits \+ accords de modulation\)** 
 
-I - Lorsqu?une convention ou un accord de branche ou un accord d?entreprise ou d?établissement 
+I - Lorsqu'une convention ou un accord de branche ou un accord d'entreprise ou d'établissement 
 
 conclu antérieurement à la publication de la présente loi et autorisant la conclusion de forfaits annuels 
 
-en heures ou en jours est révisé pour être mis en conformité avec l?article L.3121-62 du code du travail 
+en heures ou en jours est révisé pour être mis en conformité avec l'article L.3121-62 du code du travail 
 
 dans sa rédaction issue de la présente loi, l'exécution de la convention individuelle de forfait annuel en 
 
 heures ou en jours se poursuit sans qu'il y ait lieu de requérir l'accord du salarié. 
 
-II ? L'exécution d'une convention individuelle de forfait en jours conclue sur le fondement d?une 
+II ? L'exécution d'une convention individuelle de forfait en jours conclue sur le fondement d'une 
 
-convention ou d?un accord de branche ou d?un accord d?entreprise ou d?établissement qui, à la date 
+convention ou d'un accord de branche ou d'un accord d'entreprise ou d'établissement qui, à la date 
 
-d?entrée en vigueur de la présente loi, n?est pas conforme aux dispositions prévues aux 1° et 2° du II 
+d'entrée en vigueur de la présente loi, n'est pas conforme aux dispositions prévues aux 1° et 2° du II 
 
-de l?article L.3121-62 dans sa rédaction issue de la présente loi peut être poursuivie sous réserve que 
+de l'article L.3121-62 dans sa rédaction issue de la présente loi peut être poursuivie sous réserve que 
 
-l?employeur respecte les dispositions des 1° à 4° de l?article L.3121-63. 
+l'employeur respecte les dispositions des 1° à 4° de l'article L.3121-63. 
 
-III. ** **Cessent d?être applicables aux accords collectifs conclus antérieurement à la publication de la 
+III. ** **Cessent d'être applicables aux accords collectifs conclus antérieurement à la publication de la 
 
-présente loi, les dispositions relatives à la détermination d?un programme indicatif prévues par : 
+présente loi, les dispositions relatives à la détermination d'un programme indicatif prévues par : 
 
-1° le 4° de l?article L. 212-8-4 dans sa version applicable entre le 20 juin 1987 et 19 janvier 2000 ; 
+1° le 4° de l'article L. 212-8-4 dans sa version applicable entre le 20 juin 1987 et 19 janvier 2000 ; 
 
-2° le 1° de l?article L. 212-2-1 dans sa version applicable entre le 21 décembre 1993 et le 19 janvier 
+2° le 1° de l'article L. 212-2-1 dans sa version applicable entre le 21 décembre 1993 et le 19 janvier 
 
 2000 ; 
 
-3° le 1° de l?article L. 212-8 dans sa version applicable entre le 20 janvier 2000 et le 30 avril 2008 ; 
+3° le 1° de l'article L. 212-8 dans sa version applicable entre le 20 janvier 2000 et le 30 avril 2008 ; 
 
-4° le 1° de l?article L. 3122-11 dans sa version applicable entre le 1er mai 2008 et le 20 août 2008. 
-
-****
+4° le 1° de l'article L. 3122-11 dans sa version applicable entre le 1er mai 2008 et le 20 août 2008. 
 
 ****
 
-**Titre II Favoriser une culture du dialogue et de la négociation ** 
+****
+
+# Titre II Favoriser une culture du dialogue et de la négociation ** 
 
 
 
-**Chapitre 1 : Des règles de négociation plus souples et le renforcement de la **
+## Chapitre 1 : Des règles de négociation plus souples et le renforcement de la **
 
 **loyauté de la négociation **
 
@@ -5963,7 +5482,7 @@ manière succincte leurs objectifs et leur contenu.
 
 
 
-« L?absence de préambule n?est pas de nature à entraîner la nullité de ces accords et conventions. 
+« L'absence de préambule n'est pas de nature à entraîner la nullité de ces accords et conventions. 
 
 
 
@@ -5971,7 +5490,7 @@ II. Ce même chapitre est ainsi modifié :
 
 
 
-1° Les deux derniers alinéas de l?article L.2222-4 sont remplacés par deux alinéas ainsi rédigés : 
+1° Les deux derniers alinéas de l'article L.2222-4 sont remplacés par deux alinéas ainsi rédigés : 
 
 61 
 
@@ -5979,13 +5498,13 @@ II. Ce même chapitre est ainsi modifié :
 
 
 
-**« **A défaut de stipulation de la convention ou de l?accord sur sa durée, celle-ci est fixée à cinq ans. 
+**« **A défaut de stipulation de la convention ou de l'accord sur sa durée, celle-ci est fixée à cinq ans. 
 
 
 
-« Lorsque la convention ou l?accord d?entreprise ou d?établissement arrive à expiration, la convention 
+« Lorsque la convention ou l'accord d'entreprise ou d'établissement arrive à expiration, la convention 
 
-ou l?accord cesse de produire ses effets. 
+ou l'accord cesse de produire ses effets. 
 
 
 
@@ -5993,13 +5512,13 @@ ou l?accord cesse de produire ses effets.
 
 
 
-a\) Dans l?intitulé de cette section, après les mots : « détermination des modalités » sont insérés les 
+a\) Dans l'intitulé de cette section, après les mots : « détermination des modalités » sont insérés les 
 
 mots : « de suivi, » ; 
 
 
 
-b\) Après l?article L. 2222-5, il est inséré un article L. 2222-5-1 ainsi rédigé : 
+b\) Après l'article L. 2222-5, il est inséré un article L. 2222-5-1 ainsi rédigé : 
 
 
 
@@ -6009,7 +5528,7 @@ comportent des clauses de rendez-vous.
 
 
 
-« L?absence ou la méconnaissance de ces éléments n?est pas de nature à entraîner la nullité de de ces 
+« L'absence ou la méconnaissance de ces éléments n'est pas de nature à entraîner la nullité de de ces 
 
 accords et conventions ». 
 
@@ -6027,7 +5546,7 @@ périodicité et de la méthode » ;
 
 
 
-2° L?article L. 2222-3 est ainsi modifié : 
+2° L'article L. 2222-3 est ainsi modifié : 
 
 
 
@@ -6035,7 +5554,7 @@ a\) Après les mots : « représentatives », le premier alinéa est complété par le 
 
 
 
-b\) L?article est complété par deux alinéas ainsi rédigés : 
+b\) L'article est complété par deux alinéas ainsi rédigés : 
 
 
 
@@ -6049,9 +5568,9 @@ de cinq ans pour les négociations triennales et de sept ans pour les négociation
 
 
 
-« Une organisation signataire peut, pendant la durée de l?accord, formuler la demande que la 
+« Une organisation signataire peut, pendant la durée de l'accord, formuler la demande que la 
 
-négociation sur les salaires soit engagée. Le thème est alors sans délai mis à l?ordre du jour de la 
+négociation sur les salaires soit engagée. Le thème est alors sans délai mis à l'ordre du jour de la 
 
 négociation. ». 
 
@@ -6063,7 +5582,7 @@ négociation. ».
 
 *« Art. L. 2232-4-1.-* Une convention ou un accord professionnel ou interprofessionnel peut définir la 
 
-méthode permettant à la négociation de s?accomplir dans des conditions de loyauté et de confiance 
+méthode permettant à la négociation de s'accomplir dans des conditions de loyauté et de confiance 
 
 mutuelle entre les parties. 
 
@@ -6071,15 +5590,15 @@ mutuelle entre les parties.
 
 « Cet accord précise notamment la nature des informations partagées entre les négociateurs, 
 
-notamment, au niveau de l?entreprise, en s?appuyant sur la base de données définie à l?article L. 2323-
+notamment, au niveau de l'entreprise, en s'appuyant sur la base de données définie à l'article L. 2323-
 
 8. 
 
 
 
-« La méconnaissance des stipulations de cet accord n?est pas de nature à entraîner la nullité des 
+« La méconnaissance des stipulations de cet accord n'est pas de nature à entraîner la nullité des 
 
-accords conclus, dès lors qu?est respecté le principe de loyauté entre les parties». 
+accords conclus, dès lors qu'est respecté le principe de loyauté entre les parties». 
 
 
 
@@ -6101,13 +5620,13 @@ III est ainsi modifiée :
 
 nationale. 
 
-« Toutefois, l?employeur peut s?opposer à la publication d?un accord s?il estime que sa diffusion serait 
+« Toutefois, l'employeur peut s'opposer à la publication d'un accord s'il estime que sa diffusion serait 
 
-préjudiciable à l?entreprise. Cette opposition est notifiée aux signataires et à l?autorité administrative 
+préjudiciable à l'entreprise. Cette opposition est notifiée aux signataires et à l'autorité administrative 
 
-compétente pour le dépôt de l?accord conformément aux dispositions de l?article L. 2231-6. 
+compétente pour le dépôt de l'accord conformément aux dispositions de l'article L. 2231-6. 
 
-« Les conditions d?application du présent article sont définies par un décret en Conseil d?Etat. 
+« Les conditions d'application du présent article sont définies par un décret en Conseil d'Etat. 
 
 **Article 9 \[règles révision et dénonciation\] **
 
@@ -6121,33 +5640,33 @@ I. Le livre deuxième de la deuxième partie du code du travail est ainsi modifié 
 
 
 
-a\) L?article L. 2261-7 est ainsi rédigé : 
+a\) L'article L. 2261-7 est ainsi rédigé : 
 
 * *
 
-*« Art. L. 2261-7.-* I. Sont habilitées à engager la procédure de révision d?un accord interprofessionnel, 
+*« Art. L. 2261-7.-* I. Sont habilitées à engager la procédure de révision d'un accord interprofessionnel, 
 
-d?une convention ou d?un accord de branche : 
+d'une convention ou d'un accord de branche : 
 
 
 
-« 1° Jusqu?à la fin du cycle pendant lequel la convention ou l?accord est conclu : 
+« 1° Jusqu'à la fin du cycle pendant lequel la convention ou l'accord est conclu : 
 
 a\) une ou plusieurs organisations syndicales de salariés représentatives et signataires ou adhérentes de 
 
-l?accord ; 
+l'accord ; 
 
-b\) une ou plusieurs organisations professionnelles d?employeurs signataires ou adhérentes de l?accord 
+b\) une ou plusieurs organisations professionnelles d'employeurs signataires ou adhérentes de l'accord 
 
 qui, si cet accord est étendu, doivent être en outre représentatives ; 
 
 
 
-« 2° A l?issue de ce cycle : 
+« 2° A l'issue de ce cycle : 
 
 a\) une ou plusieurs organisations syndicales de salariés représentatives ; 
 
-b\) une ou plusieurs organisations professionnelles qui doivent être représentatives si l?accord est 
+b\) une ou plusieurs organisations professionnelles qui doivent être représentatives si l'accord est 
 
 étendu. 
 
@@ -6161,13 +5680,13 @@ présent code.
 
 
 
-« Lorsque l?avenant de révision a vocation à être étendu, sa validité est subordonnée à sa signature par 
+« Lorsque l'avenant de révision a vocation à être étendu, sa validité est subordonnée à sa signature par 
 
-une ou plusieurs organisations syndicales de salariés représentatives dans son champ d?application et 
+une ou plusieurs organisations syndicales de salariés représentatives dans son champ d'application et 
 
-par une ou plusieurs organisations professionnelles d?employeurs représentatives dans son champ 
+par une ou plusieurs organisations professionnelles d'employeurs représentatives dans son champ 
 
-d?application dans les conditions prévues au chapitre II du titre III du livre deuxième et au chapitre Ier 
+d'application dans les conditions prévues au chapitre II du titre III du livre deuxième et au chapitre Ier 
 
 du titre V du livre premier de la deuxième partie du présent code. 
 
@@ -6177,21 +5696,21 @@ b\) Cette section est complétée par un article L. 2261-7-1 ainsi rédigé :
 
 
 
-« *« Art. L. 2261-7-1.-* I. Sont habilitées à engager la procédure de révision d?une convention ou d?un 
+« *« Art. L. 2261-7-1.-* I. Sont habilitées à engager la procédure de révision d'une convention ou d'un 
 
-accord d?entreprise ou d?établissement : 
+accord d'entreprise ou d'établissement : 
 
 
 
-« 1° Jusqu?à la fin du cycle électoral au cours duquel cette convention ou cet accord a été conclu, une 
+« 1° Jusqu'à la fin du cycle électoral au cours duquel cette convention ou cet accord a été conclu, une 
 
 ou plusieurs organisations syndicales de salariés représentatives qui en sont signataires ou qui y ont 
 
-adhéré conformément aux dispositions de l?article L. 2261-3 
+adhéré conformément aux dispositions de l'article L. 2261-3 
 
 
 
-« 2° A l?issue de cette période, une ou plusieurs organisations syndicales de salariés représentatives. 
+« 2° A l'issue de cette période, une ou plusieurs organisations syndicales de salariés représentatives. 
 
 
 
@@ -6201,17 +5720,17 @@ adhéré conformément aux dispositions de l?article L. 2261-3
 
 
 
-« II. La validité d?un avenant de révision s?apprécie conformément aux dispositions de la section III 
+« II. La validité d'un avenant de révision s'apprécie conformément aux dispositions de la section III 
 
 du chapitre II du titre III du livre deuxième de la deuxième partie du présent code. 
 
 
 
-2° Au premier alinéa de l?article L. 2232-21 du code du travail, les mots « et conclure » sont 
+2° Au premier alinéa de l'article L. 2232-21 du code du travail, les mots « et conclure » sont 
 
 remplacés par les mots : «, conclure et réviser ». 
 
-3° L?article L. 2232-22 du même code est ainsi modifié : 
+3° L'article L. 2232-22 du même code est ainsi modifié : 
 
 a\) Au premier alinéa, les mots : « et conclure » sont remplacés par les mots : «, conclure et réviser ». 
 
@@ -6219,19 +5738,19 @@ b\) A la première phrase du troisième alinéa, après les mots : « La validité des
 
 les mots : « et des avenants de révision ». 
 
-c\) A la deuxième phrase du troisième alinéa, après les mots : « l?accord » sont insérés les mots : « et 
+c\) A la deuxième phrase du troisième alinéa, après les mots : « l'accord » sont insérés les mots : « et 
 
-l?avenant de révision ». 
+l'avenant de révision ». 
 
 d\) A la troisième phrase du troisième alinéa, le mot : « collectif » est remplacé par les mots : « et 
 
-l?avenant de révision ». 
+l'avenant de révision ». 
 
-4° L?article L. 2232-24 du même code est ainsi modifié : 
+4° L'article L. 2232-24 du même code est ainsi modifié : 
 
 a\) Au premier alinéa, les mots : « et conclus » sont remplacés par les mots : «, conclus et révisés » ; 
 
-b\) L?avant-dernière phrase du premier alinéa est supprimée. 
+b\) L'avant-dernière phrase du premier alinéa est supprimée. 
 
 
 
@@ -6241,11 +5760,11 @@ modifié :
 
 
 
-1° Au deuxième alinéa de l?article L. 2261-10, les mots : « un an » sont remplacés par les mots : 
+1° Au deuxième alinéa de l'article L. 2261-10, les mots : « un an » sont remplacés par les mots : 
 
 « quinze mois » et les mots : « la date de la dénonciation » sont remplacés par les mots : « le début du 
 
-préavis mentionné à l?article L. 2261-9 ». 
+préavis mentionné à l'article L. 2261-9 ». 
 
 
 
@@ -6265,9 +5784,9 @@ les salariés des entreprises concernées conservent une rémunération dont le mont
 
 durée de travail équivalente à celle prévue par leur contrat, ne peut être inférieure à la rémunération 
 
-versée lors des douze derniers mois. Cette rémunération s?entend au sens des dispositions de l?article 
+versée lors des douze derniers mois. Cette rémunération s'entend au sens des dispositions de l'article 
 
-L. 242-1 du code de la sécurité sociale, à l?exception de son deuxième alinéa. 
+L. 242-1 du code de la sécurité sociale, à l'exception de son deuxième alinéa. 
 
 
 
@@ -6275,7 +5794,7 @@ L. 242-1 du code de la sécurité sociale, à l?exception de son deuxième alinéa.
 
 pendant un délai supérieur à un an, les dispositions du premier alinéa s'appliquent à compter de 
 
-l'expiration de ce délai si un nouvel accord n?a pas été conclu. 
+l'expiration de ce délai si un nouvel accord n'a pas été conclu. 
 
 
 
@@ -6285,7 +5804,7 @@ est ainsi modifiée :
 
 
 
-1° Le deuxième alinéa de l?article L. 2261-14 est ainsi rédigé : 
+1° Le deuxième alinéa de l'article L. 2261-14 est ainsi rédigé : 
 
 
 
@@ -6303,9 +5822,9 @@ concernées conservent une rémunération dont le montant annuel pour une durée de 
 
 
 
-mois. Cette rémunération s?entend au sens des dispositions de l?article L. 242-1 du code de la sécurité 
+mois. Cette rémunération s'entend au sens des dispositions de l'article L. 242-1 du code de la sécurité 
 
-sociale, à l?exception du deuxième alinéa. 
+sociale, à l'exception du deuxième alinéa. 
 
 
 
@@ -6313,49 +5832,49 @@ sociale, à l?exception du deuxième alinéa.
 
 
 
-*« Art.- L. 2261-14-1-1*.- Dès lors qu?une opération de fusion, de cession ou de scission est envisagée, 
+*« Art.- L. 2261-14-1-1*.- Dès lors qu'une opération de fusion, de cession ou de scission est envisagée, 
 
 les employeurs des entreprises concernées et les organisations syndicales de salariés représentatives 
 
-dans l?entreprise qui emploie les salariés dont les contrats de travail sont transférés peuvent négocier et 
+dans l'entreprise qui emploie les salariés dont les contrats de travail sont transférés peuvent négocier et 
 
-conclure l?accord de substitution prévu au premier alinéa de l?article L. 2261-14. 
+conclure l'accord de substitution prévu au premier alinéa de l'article L. 2261-14. 
 
 
 
 « La durée de cet accord ne peut excéder trois ans. Il entre en vigueur à la date de réalisation de 
 
-l?évènement ayant entrainé la mise en cause. 
+l'évènement ayant entrainé la mise en cause. 
 
 
 
-*« Art.- L. 2261-14-1-2*.- Dès lors qu?une opération de fusion, de cession ou de scission est envisagée, 
+*« Art.- L. 2261-14-1-2*.- Dès lors qu'une opération de fusion, de cession ou de scission est envisagée, 
 
-par dérogation aux dispositions de l?article L. 2261-7 du présent code, les employeurs des entreprises 
+par dérogation aux dispositions de l'article L. 2261-7 du présent code, les employeurs des entreprises 
 
-concernées et les organisations syndicales de salariés représentatives dans l?entreprise qui emploie les 
+concernées et les organisations syndicales de salariés représentatives dans l'entreprise qui emploie les 
 
 salariés dont les contrats de travail sont transférés peuvent négocier et conclure un accord se 
 
 substituant aux conventions et accords mis en cause et révisant les conventions et accords applicables 
 
-dans l?entreprise où l?établissement dans lesquels les contrats de travail sont transférés. 
+dans l'entreprise où l'établissement dans lesquels les contrats de travail sont transférés. 
 
 
 
 *« Art.- L. 2261-14-1-3*.- La validité des accords mentionnés aux articles L. 2261-14-1-1- et L. 2261-
 
-14-1-2 s?apprécie conformément aux dispositions des articles L. 2232-12 et L. 2232-13. Les 
+14-1-2 s'apprécie conformément aux dispositions des articles L. 2232-12 et L. 2232-13. Les 
 
-pourcentages de 30% et de 50% mentionnés dans cet article sont appréciés à l?échelle des entreprises 
+pourcentages de 30% et de 50% mentionnés dans cet article sont appréciés à l'échelle des entreprises 
 
 concernées. La consultation des salariés, le cas échéant, est également effectuée sur ce périmètre ». 
 
 
 
-IV. Les dispositions du II du présent article s?appliquent aux conventions et accords collectifs conclus 
+IV. Les dispositions du II du présent article s'appliquent aux conventions et accords collectifs conclus 
 
-postérieurement à l?entrée en vigueur de la loi. 
+postérieurement à l'entrée en vigueur de la loi. 
 
 
 
@@ -6367,7 +5886,7 @@ postérieurement à l?entrée en vigueur de la loi.
 
 ****I. A la section première du chapitre II du titre II du livre III de la deuxième partie du code du travail, 
 
-l?article L. 2322-5 est complété par un alinéa ainsi rédigé : 
+l'article L. 2322-5 est complété par un alinéa ainsi rédigé : 
 
 
 
@@ -6379,7 +5898,7 @@ compétence du juge judiciaire. »
 
 II. A la section 3 du chapitre II du titre III du livre II de la deuxième partie du code du travail, après le 
 
-troisième alinéa de l?article L.2232-22, il est inséré un alinéa ainsi rédigé : 
+troisième alinéa de l'article L.2232-22, il est inséré un alinéa ainsi rédigé : 
 
 
 
@@ -6389,21 +5908,21 @@ transmission ; à défaut, l'accord est réputé avoir été validé ».
 
 
 
-III. L?article L.2326-5 est complété par un alinéa ainsi rédigé : 
+III. L'article L.2326-5 est complété par un alinéa ainsi rédigé : 
 
 
 
 « 8° Les réunions de la délégation peuvent se dérouler en visioconférence dans les conditions prévues 
 
-à l?article L.2325-5-1, y compris lorsque l?ordre du jour comporte des points relevant uniquement des 
+à l'article L.2325-5-1, y compris lorsque l'ordre du jour comporte des points relevant uniquement des 
 
 attributions des délégués du personnel. 
 
 
 
-IV. Les dispositions du présent article sont applicables aux entreprises mentionnées au VI de l?article 
+IV. Les dispositions du présent article sont applicables aux entreprises mentionnées au VI de l'article 
 
-13 de la loi n° 2015-994 du 17 août 2015 dans lesquelles l?employeur a décidé le maintien de la 
+13 de la loi n° 2015-994 du 17 août 2015 dans lesquelles l'employeur a décidé le maintien de la 
 
 délégation unique du personnel. 
 
@@ -6415,9 +5934,9 @@ délégation unique du personnel.
 
 
 
-V. Au premier alinéa de l?article L.2323-9, après les mots : « vaut communication des rapports et 
+V. Au premier alinéa de l'article L.2323-9, après les mots : « vaut communication des rapports et 
 
-informations au comité d?entreprise », sont insérés les mots : « et au comité d?hygiène, de sécurité et 
+informations au comité d'entreprise », sont insérés les mots : « et au comité d'hygiène, de sécurité et 
 
 des conditions de travail ». 
 
@@ -6427,7 +5946,7 @@ VI. Le livre III de la deuxième partie du code du travail est ainsi modifié :
 
 
 
-1° Après l?article L. 2323-26 il est inséré un article L. 2323-26-1 ainsi rédigé : 
+1° Après l'article L. 2323-26 il est inséré un article L. 2323-26-1 ainsi rédigé : 
 
 
 
@@ -6445,15 +5964,15 @@ complètement aux obligations d'information du comité d'entreprise qui en découle
 
 
 
-2° A l?article L. 2325-14-1, les mots : « à la présente sous-section » sont remplacés par les mots : « au 
+2° A l'article L. 2325-14-1, les mots : « à la présente sous-section » sont remplacés par les mots : « au 
 
 présent chapitre ». 
 
 
 
-VII. A l?article L. 2323-60 les mots : « communique au comité d?entreprise » sont remplacés par les 
+VII. A l'article L. 2323-60 les mots : « communique au comité d'entreprise » sont remplacés par les 
 
-mots : « met à la disposition du comité d?entreprise, dans les conditions prévues à l?article L.2323-
+mots : « met à la disposition du comité d'entreprise, dans les conditions prévues à l'article L.2323-
 
 9, ». 
 
@@ -6469,23 +5988,23 @@ article L. 2392-4 ainsi rédigé :
 
 « Art. L. 2392-4. ? Par dérogation aux dispositions prévoyant la répartition en établissements distincts 
 
-prévues aux articles L. 2314-31, L. 2322-5 et L. 2327-7, l?accord mentionné à l?article L. 2391-1 peut 
+prévues aux articles L. 2314-31, L. 2322-5 et L. 2327-7, l'accord mentionné à l'article L. 2391-1 peut 
 
 déterminer le nombre et le périmètre des établissements distincts pour les élections de la ou des 
 
-instances regroupées conformément à cet accord dans l?entreprise. Par dérogation aux dispositions 
+instances regroupées conformément à cet accord dans l'entreprise. Par dérogation aux dispositions 
 
 prévoyant la répartition en établissements distincts prévues aux articles L. 2314-31 et L. 2322-5, 
 
-l?accord mentionné à l?article L. 2391-3 peut déterminer le périmètre de l?établissement distinct pour 
+l'accord mentionné à l'article L. 2391-3 peut déterminer le périmètre de l'établissement distinct pour 
 
-l?élection de la ou des instances regroupées conformément à cet accord dans l?établissement. » 
-
-
+l'élection de la ou des instances regroupées conformément à cet accord dans l'établissement. » 
 
 
 
-**Chapitre 2 Renforcement de la légitimité des accords collectifs **
+
+
+## Chapitre 2 Renforcement de la légitimité des accords collectifs **
 
 
 
@@ -6497,7 +6016,7 @@ I. ? Le chapitre II du titre III du livre II de la deuxième partie du code du tr
 
 
 
-1° Le premier alinéa de l?article L. 2232-12 est ainsi modifié : 
+1° Le premier alinéa de l'article L. 2232-12 est ainsi modifié : 
 
 
 
@@ -6507,7 +6026,7 @@ a\) Le pourcentage « 30% » est remplacé par le pourcentage « 50 % » ;
 
 b\) Après les mots les mots « des suffrages exprimés » sont insérés les mots « en faveur 
 
-d?organisations représentatives » ; 
+d'organisations représentatives » ; 
 
 
 
@@ -6529,21 +6048,21 @@ le nombre de votants » sont supprimés ;
 
 
 
-« Si cette condition n'est pas satisfaite et que l?accord a été signé par des organisations syndicales 
+« Si cette condition n'est pas satisfaite et que l'accord a été signé par des organisations syndicales 
 
-représentatives ayant recueilli au moins 30% des suffrages exprimés en faveur d?organisations 
+représentatives ayant recueilli au moins 30% des suffrages exprimés en faveur d'organisations 
 
 représentatives au premier tour des élections mentionnées au premier alinéa, quel que soit le nombre 
 
 de votants, une ou plusieurs de ces organisations totalisant au moins 30% des suffrages peuvent 
 
-indiquer qu?elles souhaitent une consultation des salariés. 
+indiquer qu'elles souhaitent une consultation des salariés. 
 
 
 
-« Si à l?issue d?un délai de huit jours à compter de cette demande, les éventuelles signatures d?autres 
+« Si à l'issue d'un délai de huit jours à compter de cette demande, les éventuelles signatures d'autres 
 
-organisations syndicales représentatives n?ont pas permis d?atteindre le score de 50% mentionné au 
+organisations syndicales représentatives n'ont pas permis d'atteindre le score de 50% mentionné au 
 
 premier alinéa, cette consultation est organisée. 
 
@@ -6551,33 +6070,33 @@ premier alinéa, cette consultation est organisée.
 
 « La consultation des salariés se déroule dans le respect des principes généraux du droit électoral. Si 
 
-l?employeur le souhaite, elle peut être organisée par voie électronique dans les conditions définies par 
+l'employeur le souhaite, elle peut être organisée par voie électronique dans les conditions définies par 
 
-un accord ou à défaut, par un décret en Conseil d?Etat. 
+un accord ou à défaut, par un décret en Conseil d'Etat. 
 
 
 
-« Participent à la consultation les salariés de ou des établissements couverts par l?accord électeurs aux 
+« Participent à la consultation les salariés de ou des établissements couverts par l'accord électeurs aux 
 
 élections prévues aux articles L. 2314-2 et suivants du code du travail. 
 
 
 
-« L?accord est valide s?il est approuvé par les salariés à la majorité des suffrages exprimés. 
+« L'accord est valide s'il est approuvé par les salariés à la majorité des suffrages exprimés. 
 
 
 
-« Faute d?approbation, l?accord est réputé non écrit. 
+« Faute d'approbation, l'accord est réputé non écrit. 
 
 
 
-« Un décret en Conseil d?Etat prévoit les conditions d?application du présent article. 
+« Un décret en Conseil d'Etat prévoit les conditions d'application du présent article. 
 
 
 
 
 
-3° Le deuxième alinéa de l?article L. 2232-13 est ainsi modifié : 
+3° Le deuxième alinéa de l'article L. 2232-13 est ainsi modifié : 
 
 
 
@@ -6587,7 +6106,7 @@ a\) le pourcentage : « 30% » est remplacé par le pourcentage : « 50 % » ;
 
 
 
-b\) après les mots : « des suffrages exprimés » sont insérés les mots : « en faveur d?organisations 
+b\) après les mots : « des suffrages exprimés » sont insérés les mots : « en faveur d'organisations 
 
 représentatives » ; 
 
@@ -6601,17 +6120,17 @@ le nombre de votants » sont supprimés ;
 
 
 
-4° L?article est complété par un alinéa ainsi rédigé : 
+4° L'article est complété par un alinéa ainsi rédigé : 
 
 
 
-« Les règles de sa validité sont celles prévues à l?article L. 2232-12. Les poids de 30% et de 50% 
+« Les règles de sa validité sont celles prévues à l'article L. 2232-12. Les poids de 30% et de 50% 
 
-mentionnés dans cet article sont appréciés à l?échelle du collège ». 
+mentionnés dans cet article sont appréciés à l'échelle du collège ». 
 
 
 
-**** II.- L?article L. 2231-7 est supprimé. 
+**** II.- L'article L. 2231-7 est supprimé. 
 
 
 
@@ -6619,11 +6138,11 @@ III.- La section IV qui comprend les articles L. 2231-8 et L. 2231-9 est supprim
 
 
 
-IV. Au premier alinéa de l?article L. 2242-20, les mots : « signé par une ou plusieurs organisations 
+IV. Au premier alinéa de l'article L. 2242-20, les mots : « signé par une ou plusieurs organisations 
 
 syndicales de salariés représentatives ayant recueilli au moins 50% des suffrages exprimés en faveur 
 
-d?organisations représentatives au premier tour des élections des titulaires au comité d?entreprise ou, à 
+d'organisations représentatives au premier tour des élections des titulaires au comité d'entreprise ou, à 
 
 défaut, des délégués du personnel, quel que soit le nombre de votants, » sont supprimés. 
 
@@ -6641,7 +6160,7 @@ ainsi modifié :
 
 
 
-1° Le premier alinéa de l?article L. 7111-9 est ainsi modifié : 
+1° Le premier alinéa de l'article L. 7111-9 est ainsi modifié : 
 
 
 
@@ -6651,7 +6170,7 @@ ainsi modifié :
 
 « b\) Après les mots les mots « des suffrages exprimés » sont insérés les mots « en faveur 
 
-d?organisations représentatives » ; 
+d'organisations représentatives » ; 
 
 
 
@@ -6667,21 +6186,21 @@ représentatives ayant recueilli la majorité des suffrages exprimés dans ce collè
 
 
 
-« Les règles de sa validité sont celles prévues à l?article L. 2232-12. Les poids de 30% et de 50% 
+« Les règles de sa validité sont celles prévues à l'article L. 2232-12. Les poids de 30% et de 50% 
 
-mentionnés dans cet article sont appréciés à l?échelle du collège des journalistes ». 
+mentionnés dans cet article sont appréciés à l'échelle du collège des journalistes ». 
 
 
 
-****VI. A l?article L. 6524-4 du code des transports, après les mots : « dans les conditions définies à 
+****VI. A l'article L. 6524-4 du code des transports, après les mots : « dans les conditions définies à 
 
-l?article L. 2232-12 », sont insérés les mots : «. Les poids de 30% et de 50% mentionnés dans cet 
+l'article L. 2232-12 », sont insérés les mots : «. Les poids de 30% et de 50% mentionnés dans cet 
 
-article sont appréciés à l?échelle de ce collège » ; 
+article sont appréciés à l'échelle de ce collège » ; 
 
 * *
 
-Article 12 \[Accord majoritaire en faveur de l?emploi\] 
+Article 12 \[Accord majoritaire en faveur de l'emploi\] 
 
 ****
 
@@ -6691,19 +6210,19 @@ par un article ainsi rédigé:
 
 
 
-« Art. L. 2254-2. ? Lorsqu?un accord d?entreprise est conclu en vue de la préservation ou du 
+« Art. L. 2254-2. ? Lorsqu'un accord d'entreprise est conclu en vue de la préservation ou du 
 
-développement de l?emploi, ses stipulations se substituent de plein droit aux clauses contraires et 
+développement de l'emploi, ses stipulations se substituent de plein droit aux clauses contraires et 
 
 incompatibles du contrat de travail, y compris en matière de rémunération et de durée du travail, sauf 
 
-refus du salarié, dès lors que cet accord n?a pas pour effet de diminuer sa rémunération mensuelle. 
+refus du salarié, dès lors que cet accord n'a pas pour effet de diminuer sa rémunération mensuelle. 
 
 
 
-« Lorsqu?un ou plusieurs salariés refusent une modification de leur contrat de travail résultant de 
+« Lorsqu'un ou plusieurs salariés refusent une modification de leur contrat de travail résultant de 
 
-l?application de l?accord, l?employeur peut engager une procédure de licenciement. 
+l'application de l'accord, l'employeur peut engager une procédure de licenciement. 
 
 
 
@@ -6715,13 +6234,13 @@ travail pour motif personnel.
 
 
 
-« L?accord prévoit les modalités selon lesquelles les organisations syndicales représentatives 
+« L'accord prévoit les modalités selon lesquelles les organisations syndicales représentatives 
 
 signataires et les institutions représentatives du personnel sont consultées sur les conséquences pour 
 
 les salariés, notamment ceux qui font face à des contraintes familiales ou personnelles impérieuses, de 
 
-leur refus de l?accord 
+leur refus de l'accord 
 
 
 
@@ -6729,7 +6248,7 @@ leur refus de l?accord
 
 lesquelles les salariés sont informés et font connaître leur refus, le cas échéant, de voir appliquer 
 
-l?accord à leur contrat de travail. 
+l'accord à leur contrat de travail. 
 
 * *
 
@@ -6749,17 +6268,17 @@ I. La deuxième partie du code du travail est ainsi modifiée :
 
 
 
-1° Au chapitre II du titre II du livre premier, l?article. 2122-4 du code du travail est complété par deux 
+1° Au chapitre II du titre II du livre premier, l'article. 2122-4 du code du travail est complété par deux 
 
 alinéas ainsi rédigés : 
 
 
 
-« Lorsque le périmètre des entreprises ou établissements compris dans le champ de l?accord est 
+« Lorsque le périmètre des entreprises ou établissements compris dans le champ de l'accord est 
 
-identique à celui d?un accord conclu au cours du cycle électoral précédant l?engagement des 
+identique à celui d'un accord conclu au cours du cycle électoral précédant l'engagement des 
 
-négociations, la représentativité des organisations syndicales est appréciée par addition de l?ensemble 
+négociations, la représentativité des organisations syndicales est appréciée par addition de l'ensemble 
 
 des suffrages obtenus dans ces entreprises ou établissements au cours du cycle précédant le cycle en 
 
@@ -6767,11 +6286,11 @@ cours.
 
 
 
-« Dans le cas contraire, la représentativité est appréciée par addition de l?ensemble des suffrages 
+« Dans le cas contraire, la représentativité est appréciée par addition de l'ensemble des suffrages 
 
 obtenus lors des dernières élections ayant eu lieu dans les entreprises ou établissements compris dans 
 
-le périmètre de l?accord. 
+le périmètre de l'accord. 
 
 
 
@@ -6779,27 +6298,27 @@ le périmètre de l?accord.
 
 
 
-a\) L?article L. 2232-33 est ainsi rédigé : 
+a\) L'article L. 2232-33 est ainsi rédigé : 
 
 
 
-*« Art. L. 2232-33. -* L?ensemble des négociations prévues par les dispositions du présent code au 
+*« Art. L. 2232-33. -* L'ensemble des négociations prévues par les dispositions du présent code au 
 
-niveau de l?entreprise peuvent être engagées et conclues au niveau du groupe dans les mêmes 
+niveau de l'entreprise peuvent être engagées et conclues au niveau du groupe dans les mêmes 
 
 conditions, sous réserve des adaptations prévues par la présente section. 
 
 
 
-b\) L?article L.2232-34 est ainsi rédigé : 
+b\) L'article L.2232-34 est ainsi rédigé : 
 
 
 
-« *Art. L. 2232-34.-* La validité d?un accord conclu au sein de tout ou partie d?un groupe est appréciée 
+« *Art. L. 2232-34.-* La validité d'un accord conclu au sein de tout ou partie d'un groupe est appréciée 
 
 conformément aux dispositions des articles L. 2232-12 et L. 2232-13. Les pourcentages de 30% et de 
 
-50% mentionnés à ces articles sont appréciés à l?échelle de l?ensemble des entreprises ou 
+50% mentionnés à ces articles sont appréciés à l'échelle de l'ensemble des entreprises ou 
 
 établissements comprises dans le périmètre de cet accord. La consultation des salariés, le cas échéant, 
 
@@ -6813,11 +6332,11 @@ rédigé :
 
 * *
 
-*« Chapitre III bis Rapports entre accords de groupe, accords d?entreprise et accords d?établissement *
+*« Chapitre III bis Rapports entre accords de groupe, accords d'entreprise et accords d'établissement *
 
 * *
 
-* « Art. L. 2253-5.-* Les stipulations d?un accord conclu dans tout ou partie d?un groupe se substituent 
+* « Art. L. 2253-5.-* Les stipulations d'un accord conclu dans tout ou partie d'un groupe se substituent 
 
 aux stipulations ayant le même objet des conventions ou accords conclus antérieurement ou 
 
@@ -6827,7 +6346,7 @@ sauf disposition expresse de cet accord.
 
 
 
-*« Art. L. 2253-6*.- Les stipulations d?un accord conclu au niveau de l?entreprise se substituent aux 
+*« Art. L. 2253-6*.- Les stipulations d'un accord conclu au niveau de l'entreprise se substituent aux 
 
 stipulations ayant le même objet des conventions ou accords conclus antérieurement ou 
 
@@ -6853,9 +6372,9 @@ inséré une section V ainsi rédigée :
 
 « *Art. L. 2232-36. * - Un accord peut être négocié et conclu au niveau de plusieurs entreprises entre, 
 
-d?une part, les employeurs et, d?autre part, les organisations syndicales représentatives à l?échelle de 
+d'une part, les employeurs et, d'autre part, les organisations syndicales représentatives à l'échelle de 
 
-l?ensemble des entreprises concernées. 
+l'ensemble des entreprises concernées. 
 
 
 
@@ -6871,17 +6390,17 @@ appréciée conformément aux règles définies aux articles L. 2122-1 à L. 2122-3 re
 
 représentativité syndicale au niveau de l'entreprise, par addition de l'ensemble des suffrages obtenus 
 
-dans les entreprises ou établissements concernés lors des dernières élections préalables à l?ouverture 
+dans les entreprises ou établissements concernés lors des dernières élections préalables à l'ouverture 
 
 de la première réunion de négociation. 
 
 
 
-*« Art. L. 2232-38.-* La validité d?un accord interentreprises est appréciée conformément aux 
+*« Art. L. 2232-38.-* La validité d'un accord interentreprises est appréciée conformément aux 
 
 dispositions des articles L. 2232-12 et L. 2232-13. Les pourcentages de 30% et de 50% mentionnés à 
 
-ces articles sont appréciés à l?échelle de l?ensemble des entreprises comprises dans le périmètre de cet 
+ces articles sont appréciés à l'échelle de l'ensemble des entreprises comprises dans le périmètre de cet 
 
 accord. La consultation des salariés, le cas échéant, est également effectuée dans ce périmètre ».». 
 
@@ -6891,7 +6410,7 @@ accord. La consultation des salariés, le cas échéant, est également effectuée da
 
 Article 14 Restructuration des branches 
 
-****I ? L?article L. 2261-32 du code du travail est ainsi rédigé : 
+****I ? L'article L. 2261-32 du code du travail est ainsi rédigé : 
 
 
 
@@ -6899,15 +6418,15 @@ Article 14 Restructuration des branches
 
 conventionnelle est caractérisée par la faiblesse du nombre des accords ou avenants signés et du 
 
-nombre des thèmes de négociation couverts par ces accords, ou dont le champ d?application 
+nombre des thèmes de négociation couverts par ces accords, ou dont le champ d'application 
 
 géographique est uniquement régional ou local, ou dans une branche où moins de 5% des entreprises 
 
 adhèrent à une organisation professionnelle représentative des employeurs, le ministre chargé du 
 
-travail peut, eu égard à l?intérêt général attaché à la restructuration des branches professionnelles, 
+travail peut, eu égard à l'intérêt général attaché à la restructuration des branches professionnelles, 
 
-engager une procédure de fusion de son champ conventionnel avec celui d?une branche de 
+engager une procédure de fusion de son champ conventionnel avec celui d'une branche de 
 
 rattachement, présentant des conditions sociales et économiques analogues. 
 
@@ -6929,7 +6448,7 @@ négociation collective.
 
 « En cas de proposition écrite et motivée de branche de rattachement alternative émanant soit de deux 
 
-organisations professionnelles d?employeurs soit de deux organisations syndicales de salariés 
+organisations professionnelles d'employeurs soit de deux organisations syndicales de salariés 
 
 représentées à cette commission, le ministre la consulte à nouveau dans un délai et selon des modalités 
 
@@ -6939,9 +6458,9 @@ fixés par décret.
 
 « II - Le ministre chargé du travail peut, après avis motivé de la commission nationale de la 
 
-négociation collective, prononcer l?élargissement du champ d?application géographique ou 
+négociation collective, prononcer l'élargissement du champ d'application géographique ou 
 
-professionnel d?une convention collective afin qu?il intègre un secteur territorial ou professionnel non 
+professionnel d'une convention collective afin qu'il intègre un secteur territorial ou professionnel non 
 
 couvert par une convention collective. 
 
@@ -6949,11 +6468,11 @@ couvert par une convention collective.
 
 intéressées à faire connaître dans un délai déterminé par décret leurs observations concernant ce projet 
 
-d?élargissement du champ. 
+d'élargissement du champ. 
 
-« En cas de proposition écrite et motivée de projet d?élargissement de champ alternatif émanant soit de 
+« En cas de proposition écrite et motivée de projet d'élargissement de champ alternatif émanant soit de 
 
-deux organisations professionnelles d?employeurs soit de deux organisations syndicales de salariés 
+deux organisations professionnelles d'employeurs soit de deux organisations syndicales de salariés 
 
 70 
 
@@ -6965,65 +6484,65 @@ représentées à cette commission, le ministre la consulte à nouveau dans un délai
 
 fixés par décret. 
 
-« Au vu du nouvel avis émis par la commission, le ministre peut prononcer l?élargissement du champ 
+« Au vu du nouvel avis émis par la commission, le ministre peut prononcer l'élargissement du champ 
 
 de la convention collective concernée. 
 
-« III - Pour les branches mentionnées au I, le ministre chargé du travail peut, eu égard à l?intérêt 
+« III - Pour les branches mentionnées au I, le ministre chargé du travail peut, eu égard à l'intérêt 
 
-général attaché à la restructuration des branches professionnelles, refuser d?étendre la convention 
+général attaché à la restructuration des branches professionnelles, refuser d'étendre la convention 
 
 collective, ses avenants ou annexes, après avis de la commission nationale de la négociation collective. 
 
 
 
-« IV - Pour les branches mentionnées au I, le ministre chargé du travail peut, eu égard à l?intérêt 
+« IV - Pour les branches mentionnées au I, le ministre chargé du travail peut, eu égard à l'intérêt 
 
 général attaché à la restructuration des branches professionnelles, après avis de la commission 
 
 nationale de la négociation collective et du haut conseil du dialogue social, décider de ne pas arrêter la 
 
-liste des organisations professionnelles mentionnée à l?article L. 2152-6, ainsi que la liste des 
+liste des organisations professionnelles mentionnée à l'article L. 2152-6, ainsi que la liste des 
 
 organisations syndicales reconnues représentatives pour une branche professionnelle mentionnée à 
 
-l?article L. 2122-11 du code du travail. 
+l'article L. 2122-11 du code du travail. 
 
 
 
-« V ? Sauf dispositions contraires, un décret en Conseil d?Etat détermine les conditions d?application 
+« V ? Sauf dispositions contraires, un décret en Conseil d'Etat détermine les conditions d'application 
 
 du présent article ». 
 
 
 
-II ? Après l?article L.2261-32 du code du travail, il est inséré un article L. 2261-33 ainsi rédigé : 
+II ? Après l'article L.2261-32 du code du travail, il est inséré un article L. 2261-33 ainsi rédigé : 
 
 
 
-« En cas de fusion de champs de conventions collectives en application du I de l?article L. 2261-32 ou 
+« En cas de fusion de champs de conventions collectives en application du I de l'article L. 2261-32 ou 
 
-en cas de conclusion d?un accord collectif regroupant le champ de plusieurs conventions existantes, les 
+en cas de conclusion d'un accord collectif regroupant le champ de plusieurs conventions existantes, les 
 
-stipulations conventionnelles applicables antérieurement à la fusion ou au regroupement, lorsqu?elles 
+stipulations conventionnelles applicables antérieurement à la fusion ou au regroupement, lorsqu'elles 
 
 régissent des situations équivalentes, sont remplacées par des dispositions communes, dans un délai 
 
-d?au plus cinq ans à compter de la date d?effet de la fusion ou du regroupement. 
+d'au plus cinq ans à compter de la date d'effet de la fusion ou du regroupement. 
 
 
 
-« Eu égard à l?intérêt général attaché à la restructuration des branches professionnelles, le principe 
+« Eu égard à l'intérêt général attaché à la restructuration des branches professionnelles, le principe 
 
-d?égalité ne peut être invoqué pendant ce délai à l?encontre de stipulations conventionnelles différentes 
+d'égalité ne peut être invoqué pendant ce délai à l'encontre de stipulations conventionnelles différentes 
 
 régissant des situations équivalentes. 
 
 
 
-« A défaut d?accord conclu dans ce délai, les stipulations de la convention collective de rattachement 
+« A défaut d'accord conclu dans ce délai, les stipulations de la convention collective de rattachement 
 
-s?appliquent. » 
+s'appliquent. » 
 
 
 
@@ -7031,17 +6550,17 @@ III. La section VIII du chapitre Ier du titre sixième du livre premier de la deu
 
 travail est complétée par un article L2261-34 ainsi rédigé : 
 
-« *Art. L. 2261-34*. ? Jusqu?à la mesure de la représentativité des organisations professionnelles 
+« *Art. L. 2261-34*. ? Jusqu'à la mesure de la représentativité des organisations professionnelles 
 
-d?employeurs qui suit la fusion de champs conventionnels prononcée en application de l?article L. 
+d'employeurs qui suit la fusion de champs conventionnels prononcée en application de l'article L. 
 
-2261-32 ou de la conclusion d?un accord collectif regroupant le champ de plusieurs conventions 
+2261-32 ou de la conclusion d'un accord collectif regroupant le champ de plusieurs conventions 
 
-préexistantes, sont admises à négocier les organisations professionnelles d?employeurs représentatives 
+préexistantes, sont admises à négocier les organisations professionnelles d'employeurs représentatives 
 
-dans le champ d?au moins une branche préexistant à la fusion ou au regroupement. 
+dans le champ d'au moins une branche préexistant à la fusion ou au regroupement. 
 
-« Le pourcentage mentionné au troisième alinéa de l?article L. 2261-19 est apprécié au niveau de la 
+« Le pourcentage mentionné au troisième alinéa de l'article L. 2261-19 est apprécié au niveau de la 
 
 branche issue de la fusion ou du regroupement ». 
 
@@ -7053,11 +6572,11 @@ IV ?Dans les trois mois suivant la publication de la présente loi :
 
 1° les organisations syndicales d'employeurs et de salariés représentatives au niveau national et 
 
-interprofessionnel engagent une négociation sur la méthode permettant d?aboutir dans un délai de trois 
+interprofessionnel engagent une négociation sur la méthode permettant d'aboutir dans un délai de trois 
 
 ans à compter de la publication de la présente loi à un paysage conventionnel restructuré autour 
 
-d?environ deux-cent branches professionnelles ; 
+d'environ deux-cent branches professionnelles ; 
 
 71 
 
@@ -7065,31 +6584,31 @@ d?environ deux-cent branches professionnelles ;
 
 
 
-2° les organisations liées par une convention de branche engagent des négociations en vue d?opérer les 
+2° les organisations liées par une convention de branche engagent des négociations en vue d'opérer les 
 
-rapprochements permettant d?aboutir à ce paysage conventionnel restructuré. 
+rapprochements permettant d'aboutir à ce paysage conventionnel restructuré. 
 
 
 
 V - Le ministre chargé du travail engage au 31 décembre 2016 la fusion des branches dont le champ 
 
-d?application géographique est uniquement régional ou local et des branches n?ayant pas conclu 
+d'application géographique est uniquement régional ou local et des branches n'ayant pas conclu 
 
-d?accord ou d?avenant lors des quinze années précédant la publication de la présente loi. 
+d'accord ou d'avenant lors des quinze années précédant la publication de la présente loi. 
 
 
 
-VI- A l?issue d?un délai de trois ans suivant la publication de la présente loi, le ministre chargé du 
+VI- A l'issue d'un délai de trois ans suivant la publication de la présente loi, le ministre chargé du 
 
 travail engage la fusion des branches comptant moins de cinq mille effectifs salariés et des branches 
 
-n?ayant pas conclu d?accord ou d?avenant lors des dix années précédentes. 
+n'ayant pas conclu d'accord ou d'avenant lors des dix années précédentes. 
 
 
 
 VII - Pendant trois ans à compter de la publication de la présente loi, le ministre chargé du travail ne 
 
-peut procéder à la fusion prévue au I de l?article L.2261-32 en cas d?opposition écrite et motivée de la 
+peut procéder à la fusion prévue au I de l'article L.2261-32 en cas d'opposition écrite et motivée de la 
 
 majorité des membres de la Commission nationale de la négociation collective. 
 
@@ -7097,9 +6616,9 @@ majorité des membres de la Commission nationale de la négociation collective.
 
 Les dispositions du précédent alinéa ne sont pas applicables lorsque la fusion concerne une branche 
 
-dont le champ d?application géographique est uniquement régional ou local ou une branche n?ayant 
+dont le champ d'application géographique est uniquement régional ou local ou une branche n'ayant 
 
-pas conclu d?accord ou d?avenant lors des quinze années précédant la publication de la présente loi. 
+pas conclu d'accord ou d'avenant lors des quinze années précédant la publication de la présente loi. 
 
 
 
@@ -7107,7 +6626,7 @@ pas conclu d?accord ou d?avenant lors des quinze années précédant la publication
 
 
 
-**Chapitre 3 Des acteurs du dialogue social renforcés **
+## Chapitre 3 Des acteurs du dialogue social renforcés **
 
 ****
 
@@ -7129,11 +6648,11 @@ des syndicats des locaux, lorsque ces derniers en font la demande.
 
 
 
-« Le maire, le président du conseil départemental et le président du conseil régional, le président d?un 
+« Le maire, le président du conseil départemental et le président du conseil régional, le président d'un 
 
 établissement public rattaché à une collectivité territoriale ou regroupant ces collectivités ou le 
 
-président d?un syndicat mixte détermine les conditions dans lesquelles ces locaux peuvent être utilisés 
+président d'un syndicat mixte détermine les conditions dans lesquelles ces locaux peuvent être utilisés 
 
 compte tenu des nécessités de l'administration des propriétés de la collectivité, du fonctionnement des 
 
@@ -7141,21 +6660,21 @@ services et du maintien de l'ordre public.
 
 
 
-« Le conseil municipal, le conseil départemental, le conseil régional, le conseil d?administration de 
+« Le conseil municipal, le conseil départemental, le conseil régional, le conseil d'administration de 
 
-l?établissement ou du syndicat mixte fixe, en tant que de besoin, la contribution due à raison de cette 
+l'établissement ou du syndicat mixte fixe, en tant que de besoin, la contribution due à raison de cette 
 
 utilisation. 
 
 
 
-« La mise à disposition mentionnée au premier alinéa peut faire l?objet d?une convention entre la 
+« La mise à disposition mentionnée au premier alinéa peut faire l'objet d'une convention entre la 
 
 collectivité et le syndicat bénéficiaire. 
 
 
 
-« Lorsque des locaux ont été mis à disposition d?un syndicat pendant une durée d?au moins cinq ans, 
+« Lorsque des locaux ont été mis à disposition d'un syndicat pendant une durée d'au moins cinq ans, 
 
 la décision de la collectivité de lui en retirer le bénéfice sans lui proposer un autre local lui permettant 
 
@@ -7165,7 +6684,7 @@ contraire de la convention prévue au quatrième alinéa.
 
 
 
-II. L?article L. 2144-3 du même code est ainsi modifié : 
+II. L'article L. 2144-3 du même code est ainsi modifié : 
 
 72 
 
@@ -7181,13 +6700,13 @@ II. L?article L. 2144-3 du même code est ainsi modifié :
 
 être mis à la disposition des organisations syndicales représentatives dans les conditions prévues à 
 
-l?article L. 1311-18. 
+l'article L. 1311-18. 
 
 
 
-III. Les dispositions du I. du présent article s?appliquent y compris aux locaux mis à disposition 
+III. Les dispositions du I. du présent article s'appliquent y compris aux locaux mis à disposition 
 
-antérieurement à la date d?entrée en vigueur de la présente loi. 
+antérieurement à la date d'entrée en vigueur de la présente loi. 
 
 ****
 
@@ -7223,7 +6742,7 @@ I.- L'article L.2143-13 du code du travail est ainsi modifié :
 
 
 
-II- Au premier alinéa de l?article L. 2143-15 le mot « vingt » est remplacé par le mot « vingt-
+II- Au premier alinéa de l'article L. 2143-15 le mot « vingt » est remplacé par le mot « vingt-
 
 quatre ». 
 
@@ -7251,7 +6770,7 @@ modifiée :
 
 
 
-1° L?article L. 4614-13 est modifié comme suit : 
+1° L'article L. 4614-13 est modifié comme suit : 
 
 
 
@@ -7259,9 +6778,9 @@ a\) Le premier alinéa est supprimé.
 
 
 
-b\) Au deuxième alinéa, qui devient le premier alinéa, les mots : « L?employeur qui entend contester la 
+b\) Au deuxième alinéa, qui devient le premier alinéa, les mots : « L'employeur qui entend contester la 
 
-nécessité de l?expertise, la désignation de l?expert, le coût, l?étendue ou le délai de l?expertise, saisit le 
+nécessité de l'expertise, la désignation de l'expert, le coût, l'étendue ou le délai de l'expertise, saisit le 
 
 juge judiciaire. Toutefois,» sont supprimés. 
 
@@ -7275,31 +6794,31 @@ c\) Après le deuxième alinéa, sont insérés deux alinéas ainsi rédigés :
 
 
 
-« Dans les autres cas, l?employeur qui entend contester la nécessité de l?expertise, la désignation de 
+« Dans les autres cas, l'employeur qui entend contester la nécessité de l'expertise, la désignation de 
 
-l?expert, l?étendue ou le délai de l?expertise saisit le juge judiciaire. Cette saisine suspend l?exécution 
+l'expert, l'étendue ou le délai de l'expertise saisit le juge judiciaire. Cette saisine suspend l'exécution 
 
-de la décision du comité d?hygiène, de sécurité et des conditions de travail ou de l?instance de 
+de la décision du comité d'hygiène, de sécurité et des conditions de travail ou de l'instance de 
 
-coordination visée à l?article L. 4616-1, ainsi que les délais dans lesquels ils sont consultés en 
+coordination visée à l'article L. 4616-1, ainsi que les délais dans lesquels ils sont consultés en 
 
-application de l?article L. 4612-8. Le juge statue dans les dix jours suivant sa saisine. » 
-
-
-
-« Les frais d?expertise sont à la charge de l?employeur. Toutefois, en cas d?annulation définitive par le 
-
-juge de la décision du comité d?hygiène, de sécurité et des conditions de travail ou de l?instance de 
-
-coordination, les sommes perçues par l?expert sont remboursées par ce dernier à l?employeur. Le 
-
-comité d?entreprise peut, à tout moment, décider de les prendre en charge dans les conditions prévues 
-
-à l?article L. 2325-41. » 
+application de l'article L. 4612-8. Le juge statue dans les dix jours suivant sa saisine. » 
 
 
 
-2° Après l?article L. 4614-13, il est inséré un article L. 4614-13-1 ainsi rédigé : 
+« Les frais d'expertise sont à la charge de l'employeur. Toutefois, en cas d'annulation définitive par le 
+
+juge de la décision du comité d'hygiène, de sécurité et des conditions de travail ou de l'instance de 
+
+coordination, les sommes perçues par l'expert sont remboursées par ce dernier à l'employeur. Le 
+
+comité d'entreprise peut, à tout moment, décider de les prendre en charge dans les conditions prévues 
+
+à l'article L. 2325-41. » 
+
+
+
+2° Après l'article L. 4614-13, il est inséré un article L. 4614-13-1 ainsi rédigé : 
 
 
 
@@ -7313,11 +6832,11 @@ code du travail \(partie législative\), un article L. 2325-41-1 est créé et rédi
 
 
 
-« *Art. L. 2325-41-1. * - Le comité d?entreprise peut, à tout moment, décider de prendre en charge, au 
+« *Art. L. 2325-41-1. * - Le comité d'entreprise peut, à tout moment, décider de prendre en charge, au 
 
-titre de sa subvention de fonctionnement prévue à l?article L. 2325-43, les frais d?une expertise du 
+titre de sa subvention de fonctionnement prévue à l'article L. 2325-43, les frais d'une expertise du 
 
-comité d?hygiène, de sécurité et des conditions de travail en application du troisième alinéa de l?article 
+comité d'hygiène, de sécurité et des conditions de travail en application du troisième alinéa de l'article 
 
 L. 4614-13. 
 
@@ -7333,23 +6852,23 @@ Article 18 \[formation des acteurs du dialogue social\]
 
 I. **\[0,2 du CE\]** A la section VIII du chapitre V du titre II du livre troisième de la deuxième partie du 
 
-code du travail, l?article L. 2325-43 du code du travail est complété par deux alinéas ainsi rédigés : 
+code du travail, l'article L. 2325-43 du code du travail est complété par deux alinéas ainsi rédigés : 
 
 
 
-« Le comité d?entreprise peut décider, par une délibération, de dédier une partie de son budget de 
+« Le comité d'entreprise peut décider, par une délibération, de dédier une partie de son budget de 
 
 fonctionnement au financement de la formation des délégués du personnel et des délégués syndicaux 
 
-présents dans l?entreprise. 
+présents dans l'entreprise. 
 
 
 
-« Cette somme et ses modalités d?utilisation sont retracées dans les comptes annuels du comité 
+« Cette somme et ses modalités d'utilisation sont retracées dans les comptes annuels du comité 
 
-d?entreprise ou, le cas échéant, dans les documents mentionnés à l?article L. 2325-46, et dans le 
+d'entreprise ou, le cas échéant, dans les documents mentionnés à l'article L. 2325-46, et dans le 
 
-rapport mentionné à l?article L. 2325-50 ». 
+rapport mentionné à l'article L. 2325-50 ». 
 
 
 
@@ -7367,11 +6886,11 @@ intitulé « Formation des acteurs de la négociation collective » ainsi rédigé :
 
 « *Art. L. 2212-1.- * Les salariés et les employeurs ou leurs représentants peuvent bénéficier de 
 
-formations communes. L?Institut national du travail, de l?emploi et de la formation professionnelle 
+formations communes. L'Institut national du travail, de l'emploi et de la formation professionnelle 
 
 apporte son concours à la création et à la mise en ?uvre de ces formations. Ces formations peuvent 
 
-être ouvertes à des magistrats judiciaires et administratifs et à des agents appartenant à d?autres corps 
+être ouvertes à des magistrats judiciaires et administratifs et à des agents appartenant à d'autres corps 
 
 de fonctionnaires. 
 
@@ -7383,61 +6902,61 @@ de fonctionnaires.
 
 
 
-« Ces formations peuvent être en tout ou partie financées par les crédits du fonds prévu à l?article L. 
+« Ces formations peuvent être en tout ou partie financées par les crédits du fonds prévu à l'article L. 
 
 2135-9. 
 
-« Les conditions d?application du présent article sont prévues par un décret en Conseil d?Etat. 
+« Les conditions d'application du présent article sont prévues par un décret en Conseil d'Etat. 
 
 * *
 
-*« Art. L. 2212-2.- * Des conventions ou des accords collectifs d?entreprise ou de branche peuvent 
+*« Art. L. 2212-2.- * Des conventions ou des accords collectifs d'entreprise ou de branche peuvent 
 
 définir : 
 
-« 1° le contenu des formations communes prévues à l?article L. 2212-1 et les conditions dans 
+« 1° le contenu des formations communes prévues à l'article L. 2212-1 et les conditions dans 
 
 lesquelles elles sont dispensées ; 
 
 « 2° les modalités de leur financement, pour couvrir les frais pédagogiques, les dépenses 
 
-d?indemnisation et les frais de déplacement et d?hébergement des stagiaires et animateurs ; 
+d'indemnisation et les frais de déplacement et d'hébergement des stagiaires et animateurs ; 
 
-« 3° la création de fonds mutualisés en vue d?assurer la rémunération des congés et le financement de 
+« 3° la création de fonds mutualisés en vue d'assurer la rémunération des congés et le financement de 
 
 la formation. 
 
 
 
-III. Au quatrième alinéa de l?article L. 2135-11, les mots : « ainsi que » sont remplacés par le signe 
+III. Au quatrième alinéa de l'article L. 2135-11, les mots : « ainsi que » sont remplacés par le signe 
 
 «, » et après les mots « mentionnées au 1° et 2° du présent article » sont insérés les mots : «, ainsi que 
 
-les formations communes mentionnées à l?article L. 2212-2, ». 
+les formations communes mentionnées à l'article L. 2212-2, ». 
 
 
 
 * *
 
-Article 19 \[Mesure de l?audience patronale\] 
+Article 19 \[Mesure de l'audience patronale\] 
 
 I. ? Au chapitre I du titre V du livre premier de la deuxième partie du code du travail, au septième 
 
-alinéa de l?article L. 2151-1, après le mot « adhérentes », sont insérés les mots : « et de leurs salariés ». 
+alinéa de l'article L. 2151-1, après le mot « adhérentes », sont insérés les mots : « et de leurs salariés ». 
 
 II. ? Le chapitre II du titre V du livre premier de la deuxième partie du code du travail est ainsi 
 
 modifié : 
 
-1° L?article L. 2152-1 est ainsi modifié : 
+1° L'article L. 2152-1 est ainsi modifié : 
 
-a\) Au quatrième alinéa, après les mots « l?ensemble des entreprises » sont insérés les mots «, pondéré 
+a\) Au quatrième alinéa, après les mots « l'ensemble des entreprises » sont insérés les mots «, pondéré 
 
 par leur nombre de salariés, ». 
 
 b\) Après la première phrase du 3°, il est inséré une phrase ainsi rédigée : « Pour la mesure de cette 
 
-audience, le nombre d?entreprises adhérentes et le nombre de leurs salariés sont pris en compte 
+audience, le nombre d'entreprises adhérentes et le nombre de leurs salariés sont pris en compte 
 
 respectivement à hauteur de 20% et de 80%. 
 
@@ -7445,19 +6964,19 @@ c\) Au 3°, les mots : « à ces organisations est attesté » sont remplacés par les
 
 organisations, ainsi que le nombre de leurs salariés, sont attestés ». 
 
-d\) Au dernier alinéa, après les mots « de l?article L. 723-15 du code rural et de la pêche maritime » 
+d\) Au dernier alinéa, après les mots « de l'article L. 723-15 du code rural et de la pêche maritime » 
 
-sont insérés les mots « quel que soit le nombre d?heures effectuées par les salariés concernés ». 
+sont insérés les mots « quel que soit le nombre d'heures effectuées par les salariés concernés ». 
 
-2° L?article L. 2152-4 est ainsi modifié : 
+2° L'article L. 2152-4 est ainsi modifié : 
 
-a\) Au 3°, après les mots : « l?ensemble des entreprises » sont insérés les mots : «, pondéré par leur 
+a\) Au 3°, après les mots : « l'ensemble des entreprises » sont insérés les mots : «, pondéré par leur 
 
 nombre de salariés, » ; 
 
 b\) Après la première phrase du 3°, il est inséré une phrase ainsi rédigée : « Pour la mesure de cette 
 
-audience, le nombre d?entreprises adhérentes et le nombre de leurs salariés sont pris en compte 
+audience, le nombre d'entreprises adhérentes et le nombre de leurs salariés sont pris en compte 
 
 respectivement à hauteur de 20% et de 80%. 
 
@@ -7471,13 +6990,13 @@ organisations, ainsi que le nombre de leurs salariés, sont attestés ».
 
 
 
-III. ? Au chapitre I du titre VI du livre II de la deuxième partie du code du travail, l?article L. 2261-19 
+III. ? Au chapitre I du titre VI du livre II de la deuxième partie du code du travail, l'article L. 2261-19 
 
 est ainsi modifié : 
 
 1° Après le mot : « au niveau considéré dont », le troisième alinéa est complété par les mots suivants : 
 
-« l?audience calculée dans les conditions prévues respectivement aux articles L. 2152-1 et L. 2152-4 
+« l'audience calculée dans les conditions prévues respectivement aux articles L. 2152-1 et L. 2152-4 
 
 selon le niveau considéré est supérieure à 50% » ; 
 
@@ -7495,13 +7014,13 @@ Le chapitre V du titre III du livre premier de la deuxième partie du code du tra
 
 
 
-Au 1° de l?article L. 2135-12 du code du travail, après les mots : « au niveau de la branche » sont 
+Au 1° de l'article L. 2135-12 du code du travail, après les mots : « au niveau de la branche » sont 
 
-insérés les mots : « ou, dans le secteur de la production cinématographique, de l?audiovisuel et du 
+insérés les mots : « ou, dans le secteur de la production cinématographique, de l'audiovisuel et du 
 
-spectacle, les organisations professionnelles d?employeurs représentatives de l?ensemble des 
+spectacle, les organisations professionnelles d'employeurs représentatives de l'ensemble des 
 
-professions de ce secteur dont les statuts prévoient qu?elles ont vocation à en percevoir ces crédits ». 
+professions de ce secteur dont les statuts prévoient qu'elles ont vocation à en percevoir ces crédits ». 
 
 
 
@@ -7509,13 +7028,13 @@ professions de ce secteur dont les statuts prévoient qu?elles ont vocation à en 
 
 ****
 
-Titre III Sécuriser les parcours et construire les bases d?un nouveau modèle 
+Titre III Sécuriser les parcours et construire les bases d'un nouveau modèle 
 
-social à l?ère du numérique 
+social à l'ère du numérique 
 
 ****
 
-**Chapitre 1 Mise en place du CPA **
+## Chapitre 1 Mise en place du CPA **
 
 
 
@@ -7543,15 +7062,15 @@ I. Le livre premier de la cinquième partie du code du travail est complété par u
 
 *** ***
 
-« *Art. L. 5151-1. *- Le compte personnel d?activité a pour objet de sécuriser, par l?utilisation 
+« *Art. L. 5151-1. *- Le compte personnel d'activité a pour objet de sécuriser, par l'utilisation 
 
 des droits inscrits sur le compte, le parcours professionnel de son titulaire. Il contribue au droit à la 
 
-qualification professionnelle mentionné à l?article L. 6314-1. 
+qualification professionnelle mentionné à l'article L. 6314-1. 
 
 
 
-« Le titulaire du compte personnel d?activité décide de l?utilisation de ses droits dans les 
+« Le titulaire du compte personnel d'activité décide de l'utilisation de ses droits dans les 
 
 conditions définies par le présent chapitre, le chapitre III du titre II du livre troisième de la sixième 
 
@@ -7561,9 +7080,9 @@ partie ainsi que le chapitre II du titre VI du livre 1er de la quatrième partie.
 
 
 
-« *Art. L. 5151-2*. - Un compte personnel d?activité est ouvert pour toute personne âgée d'au 
+« *Art. L. 5151-2*. - Un compte personnel d'activité est ouvert pour toute personne âgée d'au 
 
-moins seize ans relevant de l?une ou l?autre des situations suivantes : 
+moins seize ans relevant de l'une ou l'autre des situations suivantes : 
 
 
 
@@ -7579,7 +7098,7 @@ moins seize ans relevant de l?une ou l?autre des situations suivantes :
 
 
 
-« 2° Conjoint collaborateur mentionné au 1° du I de à l?article L. 121-4 du code de 
+« 2° Conjoint collaborateur mentionné au 1° du I de à l'article L. 121-4 du code de 
 
 commerce ; 
 
@@ -7603,7 +7122,7 @@ du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles.
 
 
 
-« Par dérogation au premier alinéa, un compte personnel d?activité est ouvert dès l'âge de 
+« Par dérogation au premier alinéa, un compte personnel d'activité est ouvert dès l'âge de 
 
 quinze ans pour le jeune qui signe un contrat d'apprentissage sur le fondement du deuxième alinéa de 
 
@@ -7613,9 +7132,9 @@ l'article L. 6222-1.
 
 
 
-« Le compte est fermé lorsque la personne atteint l?âge mentionné au premier alinéa de 
+« Le compte est fermé lorsque la personne atteint l'âge mentionné au premier alinéa de 
 
-l?article L. 1237-5. 
+l'article L. 1237-5. 
 
 
 
@@ -7623,7 +7142,7 @@ l?article L. 1237-5.
 
 « *Art. L. 5151-3. *- Sauf disposition contraire, les droits inscrits sur le compte personnel 
 
-d?activité demeurent acquis par leur titulaire jusqu?à leur utilisation ou à la fermeture du compte. 
+d'activité demeurent acquis par leur titulaire jusqu'à leur utilisation ou à la fermeture du compte. 
 
 . 
 
@@ -7637,7 +7156,7 @@ refus du titulaire du compte de le mobiliser ne constitue pas une faute.
 
 
 
-« *Art. L. 5151-5. *? Le compte personnel d?activité comprend le compte personnel de formation 
+« *Art. L. 5151-5. *? Le compte personnel d'activité comprend le compte personnel de formation 
 
 et le compte personnel de prévention de la pénibilité. 
 
@@ -7649,9 +7168,9 @@ et le compte personnel de prévention de la pénibilité.
 
 celui-ci et peut les utiliser en accédant à un service en ligne gratuit. Ce service en ligne est géré par la 
 
-Caisse des dépôts et consignations, sans préjudice des dispositions de l?article L. 4162-11 confiant à la 
+Caisse des dépôts et consignations, sans préjudice des dispositions de l'article L. 4162-11 confiant à la 
 
-Caisse nationale d?assurance vieillesse des travailleurs salariés la gestion du compte personnel de 
+Caisse nationale d'assurance vieillesse des travailleurs salariés la gestion du compte personnel de 
 
 prévention de la pénibilité. 
 
@@ -7661,9 +7180,9 @@ prévention de la pénibilité.
 
 « II. ? Chaque titulaire du compte a également accès à une offre de services en ligne ayant 
 
-trait à l?information sur les droits sociaux et à la sécurisation des parcours professionnels, selon des 
+trait à l'information sur les droits sociaux et à la sécurisation des parcours professionnels, selon des 
 
-modalités définies par décret en Conseil d?Etat. 
+modalités définies par décret en Conseil d'Etat. 
 
 
 
@@ -7675,7 +7194,7 @@ l'informatique et des libertés, détermine les conditions dans lesquelles les don
 
 personnel afférentes au compte personnel de formation et au compte personnel de prévention de la 
 
-pénibilité, ainsi que celles issues de la déclaration sociale nominative mentionnée à l?article L. 133-5-3 
+pénibilité, ainsi que celles issues de la déclaration sociale nominative mentionnée à l'article L. 133-5-3 
 
 du code de la sécurité sociale, peuvent être utilisées pour fournir les services mentionnés aux I et II. 
 
@@ -7687,7 +7206,7 @@ II. Le chapitre III du titre II du livre troisième de la sixième partie du code 
 
 
 
-1° L?article L. 6323-1 est ainsi rédigé : 
+1° L'article L. 6323-1 est ainsi rédigé : 
 
 
 
@@ -7695,15 +7214,15 @@ II. Le chapitre III du titre II du livre troisième de la sixième partie du code 
 
 « *Art. L. 6323-1. * ? Le compte personnel de formation est ouvert et fermé dans les conditions 
 
-définies à l?article L. 5151-2. 
+définies à l'article L. 5151-2. 
 
 
 
 
 
-2° A l?article L. 6323-2, après les mots : * *« d'un emploi, » * * sont insérés les mots * *: * *« que 
+2° A l'article L. 6323-2, après les mots : * *« d'un emploi, » * * sont insérés les mots * *: * *« que 
 
-travailleur indépendant, membre d?une profession libérale ou d?une profession non salariée, ou 
+travailleur indépendant, membre d'une profession libérale ou d'une profession non salariée, ou 
 
 conjoint collaborateur et les artistes auteurs» ; 
 
@@ -7711,7 +7230,7 @@ conjoint collaborateur et les artistes auteurs» ;
 
 
 
-3° Le II de l?article L. 6323-4 est ainsi modifié : 
+3° Le II de l'article L. 6323-4 est ainsi modifié : 
 
 
 
@@ -7721,9 +7240,9 @@ conjoint collaborateur et les artistes auteurs» ;
 
 
 
-a\) Après les mots : « L?Etat » sont insérés les mots : « , notamment au titre des périodes 
+a\) Après les mots : « L'Etat » sont insérés les mots : « , notamment au titre des périodes 
 
-réalisées en service civique selon des modalités déterminées par décret en Conseil d?Etat » ; 
+réalisées en service civique selon des modalités déterminées par décret en Conseil d'Etat » ; 
 
 
 
@@ -7731,7 +7250,7 @@ réalisées en service civique selon des modalités déterminées par décret en Conse
 
 b\) Après les mots « Les régions » sont insérés les mots : « , notamment en cas de sortie du 
 
-système éducatif sans diplôme, dans les conditions définies par l?article L. 5151-8 » ; 
+système éducatif sans diplôme, dans les conditions définies par l'article L. 5151-8 » ; 
 
 
 
@@ -7741,13 +7260,13 @@ c\) Il est inséré un 10° ainsi rédigé :
 
 
 
-« 10?n fond d?assurance formation de non-salariés. » ; 
+« 10?n fond d'assurance formation de non-salariés. » ; 
 
 
 
 
 
-4° L?article L. 6323-6 est ainsi modifié : 
+4° L'article L. 6323-6 est ainsi modifié : 
 
 * *
 
@@ -7755,7 +7274,7 @@ c\) Il est inséré un 10° ainsi rédigé :
 
 *a\)* Au I, après les mots : *« * sont les formations * »* sont insérés les mots : « et les actions 
 
-préalables d?évaluation directement afférentes ». 
+préalables d'évaluation directement afférentes ». 
 
 
 
@@ -7781,15 +7300,15 @@ définies par décret :
 
 
 
-« 2° Les actions d?accompagnement, d?information et de conseil dispensées aux créateurs ou 
+« 2° Les actions d'accompagnement, d'information et de conseil dispensées aux créateurs ou 
 
-repreneurs d?entreprises. 
-
-
+repreneurs d'entreprises. 
 
 
 
-5° L?article L. 6323-8 est remplacé par un article ainsi rédigé : 
+
+
+5° L'article L. 6323-8 est remplacé par un article ainsi rédigé : 
 
 
 
@@ -7797,23 +7316,23 @@ repreneurs d?entreprises.
 
 « *Art. L. 6323-8. *- Le droit à une durée complémentaire de formation qualifiante mentionné à 
 
-l?article L. 122-2 du code de l?éducation se traduit, lorsque cette formation est dispensée sous le statut 
+l'article L. 122-2 du code de l'éducation se traduit, lorsque cette formation est dispensée sous le statut 
 
-de stagiaire de la formation professionnelle, par l?abondement du compte personnel de formation à 
+de stagiaire de la formation professionnelle, par l'abondement du compte personnel de formation à 
 
-hauteur du nombre d?heures nécessaires à sa réalisation. 
-
-
+hauteur du nombre d'heures nécessaires à sa réalisation. 
 
 
 
-« Ces heures sont financées par la région au titre du droit d?accès à un premier niveau de 
 
-qualification mentionné au deuxième alinéa du I de l?article L. 6121-2 du code du travail. Le cas 
 
-échéant, l?abondement mentionné au premier alinéa vient en complément des droits déjà inscrits sur le 
+« Ces heures sont financées par la région au titre du droit d'accès à un premier niveau de 
 
-compte personnel de formation pour atteindre le nombre d?heures nécessaires à la réalisation de la 
+qualification mentionné au deuxième alinéa du I de l'article L. 6121-2 du code du travail. Le cas 
+
+échéant, l'abondement mentionné au premier alinéa vient en complément des droits déjà inscrits sur le 
+
+compte personnel de formation pour atteindre le nombre d'heures nécessaires à la réalisation de la 
 
 formation qualifiante. 
 
@@ -7831,7 +7350,7 @@ formation mentionné aux articles L. 6323-11 et L. 6323-25.
 
 
 
-« Par dérogation à l?article L. 6323-6, les formations éligibles au titre du présent article sont 
+« Par dérogation à l'article L. 6323-6, les formations éligibles au titre du présent article sont 
 
 celles inscrites au programme régional de formation professionnelle. 
 
@@ -7845,17 +7364,17 @@ celles inscrites au programme régional de formation professionnelle.
 
 
 
-« *Art. L. 6323-8-1. *- Les personnes ayant accompli jusqu?à son terme une mission de service 
+« *Art. L. 6323-8-1. *- Les personnes ayant accompli jusqu'à son terme une mission de service 
 
-civique bénéficient d?un abondement supplémentaire de vingt heures. Cet abondement est financé par 
+civique bénéficient d'un abondement supplémentaire de vingt heures. Cet abondement est financé par 
 
-l?Etat. » ; 
-
-
+l'Etat. » ; 
 
 
 
-7° Au I de l?article L. 6323-16 et au I de l?article L. 6323-21, les références : « I et III » sont 
+
+
+7° Au I de l'article L. 6323-16 et au I de l'article L. 6323-21, les références : « I et III » sont 
 
 remplacées par les références : « I, III, IV et V » ; 
 
@@ -7911,7 +7430,7 @@ section.
 
 « *Art. L. 6323-25. *- L'alimentation du compte se fait à hauteur de \[vingt-quatre heures\] par 
 
-année d?exercice de l?activité jusqu'à l'acquisition d'un crédit de \[cent vingt heures\], puis de \[douze 
+année d'exercice de l'activité jusqu'à l'acquisition d'un crédit de \[cent vingt heures\], puis de \[douze 
 
 heures\] par année de travail, dans la limite d'un plafond total de cent cinquante heures. 
 
@@ -7919,17 +7438,17 @@ heures\] par année de travail, dans la limite d'un plafond total de cent cinquan
 
 
 
-« L?alimentation du compte est conditionnée à l?acquittement effectif de la contribution 
+« L'alimentation du compte est conditionnée à l'acquittement effectif de la contribution 
 
-mentionnée à l?article L. 6331-48. 
-
-
+mentionnée à l'article L. 6331-48. 
 
 
 
-« *Art. L. 6323-26. *- La période d'absence du travailleur indépendant, du membre d?une 
 
-profession libérale ou d?une profession non salariée, ou du conjoint collaborateur pour un congé de 
+
+« *Art. L. 6323-26. *- La période d'absence du travailleur indépendant, du membre d'une 
+
+profession libérale ou d'une profession non salariée, ou du conjoint collaborateur pour un congé de 
 
 maternité, de paternité et d'accueil de l'enfant, d'adoption, de présence parentale, de soutien familial ou 
 
@@ -7943,13 +7462,13 @@ intégralement prise en compte pour le calcul de ces heures.
 
 « *Art. L. 6323-27. *- Le compte personnel de formation peut être abondé en application de 
 
-l'accord constitutif du fonds d?assurance formation de non-salariés mentionné à l?article L. 6332-9. 
+l'accord constitutif du fonds d'assurance formation de non-salariés mentionné à l'article L. 6332-9. 
 
 
 
 
 
-« *Art. L. 6323-28. *- Les abondements complémentaires mentionnés à l?article L. 6323-27 
+« *Art. L. 6323-28. *- Les abondements complémentaires mentionnés à l'article L. 6323-27 
 
 n'entrent pas en compte dans les modes de calcul des heures qui sont créditées sur le compte chaque 
 
@@ -7979,7 +7498,7 @@ formations mentionnées aux I, III, IV et V de l'article L. 6323-6.
 
 « Sont également éligibles au compte personnel de formation les formations qui figurent sur la 
 
-liste établie par délibération du conseil d?administration du fonds d?assurance formation auquel adhère 
+liste établie par délibération du conseil d'administration du fonds d'assurance formation auquel adhère 
 
 le titulaire du compte. 
 
@@ -7999,17 +7518,17 @@ le titulaire du compte.
 
 « *Art. L. 6323-30. *- I. ? Les frais pédagogiques et les frais annexes afférents à la formation du 
 
-travailleur indépendant, membre d?une profession libérale ou d?une profession non salariée, ou 
+travailleur indépendant, membre d'une profession libérale ou d'une profession non salariée, ou 
 
 conjoint collaborateur qui mobilise son compte personnel de formation sont pris en charge, selon des 
 
-modalités déterminées par décret, par le fond d?assurance formation de non-salariés auquel il adhère. 
+modalités déterminées par décret, par le fond d'assurance formation de non-salariés auquel il adhère. 
 
 ****
 
 
 
-III. Le troisième alinéa de l?article L. 6111-6 du code du travail est complété par une phrase ainsi 
+III. Le troisième alinéa de l'article L. 6111-6 du code du travail est complété par une phrase ainsi 
 
 rédigée : « Elle peut être proposée en tout ou partie à distance, dans des conditions définies par le 
 
@@ -8023,9 +7542,9 @@ cahier des charges. »
 
 
 
-IV. Les dispositions des I à III entrent en vigueur le 1er janvier 2017, à l?exception des dispositions du 
+IV. Les dispositions des I à III entrent en vigueur le 1er janvier 2017, à l'exception des dispositions du 
 
-8° de l?article II, qui entrent en vigueur le 1er janvier 2018. 
+8° de l'article II, qui entrent en vigueur le 1er janvier 2018. 
 
 
 
@@ -8035,7 +7554,7 @@ Article 22 \[Dématérialisation du bulletin de paie\]
 
 
 
-I. - L?article L. 3243-2 du code du travail est ainsi modifié : 
+I. - L'article L. 3243-2 du code du travail est ainsi modifié : 
 
 
 
@@ -8049,13 +7568,13 @@ I. - L?article L. 3243-2 du code du travail est ainsi modifié :
 
 
 
-« Sauf opposition du salarié, l?employeur peut procéder à la remise du bulletin de paie sous 
+« Sauf opposition du salarié, l'employeur peut procéder à la remise du bulletin de paie sous 
 
-forme électronique, dans des conditions de nature à garantir l?intégrité des données. Ces conditions 
+forme électronique, dans des conditions de nature à garantir l'intégrité des données. Ces conditions 
 
-sont réputées remplies lorsque le bulletin de paie est hébergé sur le compte personnel d?activité du 
+sont réputées remplies lorsque le bulletin de paie est hébergé sur le compte personnel d'activité du 
 
-salarié. L?hébergement sur le compte personnel d?activité est effectué de droit à la demande du 
+salarié. L'hébergement sur le compte personnel d'activité est effectué de droit à la demande du 
 
 salarié. » 
 
@@ -8069,7 +7588,7 @@ II. - Les dispositions du présent article entrent en vigueur le 1er janvier 2017
 
 
 
-**Chapitre 3 Adaptation du droit du travail à l?ère du numérique **
+## Chapitre 3 Adaptation du droit du travail à l'ère du numérique **
 
 * *
 
@@ -8115,15 +7634,15 @@ plateforme de mise en relation par voie électronique »
 
 « *Art. L. 7341-1. * ? Les dispositions du présent titre sont applicables aux travailleurs recourant 
 
-pour l?exercice de leur activité professionnelle à une ou plusieurs plateformes de mise en relation par 
+pour l'exercice de leur activité professionnelle à une ou plusieurs plateformes de mise en relation par 
 
-voie électronique mentionnées à l?article 242 *bis* du code général des impôts. 
-
-
+voie électronique mentionnées à l'article 242 *bis* du code général des impôts. 
 
 
 
-« Les dispositions de l?article L. 7411-1 et suivants ne leur sont pas applicables. 
+
+
+« Les dispositions de l'article L. 7411-1 et suivants ne leur sont pas applicables. 
 
 * *
 
@@ -8133,7 +7652,7 @@ voie électronique mentionnées à l?article 242 *bis* du code général des impôts.
 
 
 
-« *Art. L. 7341-2. * ? Le travailleur mentionné à l?article L. 7341-1 ne peut être regardé 
+« *Art. L. 7341-2. * ? Le travailleur mentionné à l'article L. 7341-1 ne peut être regardé 
 
 comme ayant avec la plateforme un lien de subordination juridique caractéristique du 
 
@@ -8167,15 +7686,15 @@ d'allocations familiales ;
 
 
 
-« 3° Il n?existe aucun lien d?exclusivité entre la plateforme et le travailleur. 
+« 3° Il n'existe aucun lien d'exclusivité entre la plateforme et le travailleur. 
 
 
 
 
 
-« Pour l?application du présent article, il n?y a pas lieu de rechercher si la plateforme 
+« Pour l'application du présent article, il n'y a pas lieu de rechercher si la plateforme 
 
-contrôle l?exécution de la prestation ou peut exercer un pouvoir de sanction sur les 
+contrôle l'exécution de la prestation ou peut exercer un pouvoir de sanction sur les 
 
 travailleurs. 
 
@@ -8191,17 +7710,17 @@ travailleurs.
 
 « *Art. L. 7341-3. * ? Lorsque la plateforme détermine les caractéristiques de la prestation de 
 
-service fournie ou du bien vendu et fixe son prix, elle a à l?égard des travailleurs concernés une 
+service fournie ou du bien vendu et fixe son prix, elle a à l'égard des travailleurs concernés une 
 
-responsabilité sociale, qui s?exerce dans les conditions prévues au présent chapitre. 
-
-
+responsabilité sociale, qui s'exerce dans les conditions prévues au présent chapitre. 
 
 
 
-« *Art. L. 7341-4. * ? Lorsque le travailleur souscrit à l?assurance volontaire en matière 
 
-d?accidents du travail mentionnée à l?article L. 743-1 du code de la sécurité sociale, la cotisation est 
+
+« *Art. L. 7341-4. * ? Lorsque le travailleur souscrit à l'assurance volontaire en matière 
+
+d'accidents du travail mentionnée à l'article L. 743-1 du code de la sécurité sociale, la cotisation est 
 
 prise en charge par la plateforme. 
 
@@ -8209,21 +7728,21 @@ prise en charge par la plateforme.
 
 
 
-« *Art. L. 7341-5. * ? Le travailleur bénéficie du droit d?accès à la formation professionnelle 
+« *Art. L. 7341-5. * ? Le travailleur bénéficie du droit d'accès à la formation professionnelle 
 
-continue prévu par l?article L. 6312-2. La contribution à la formation professionnelle mentionnée à 
+continue prévu par l'article L. 6312-2. La contribution à la formation professionnelle mentionnée à 
 
-l?article L. 6331-48 du code du travail est prise en charge par la plateforme. 
-
-
+l'article L. 6331-48 du code du travail est prise en charge par la plateforme. 
 
 
 
-« Il bénéficie, à sa demande, de la validation des acquis de l?expérience mentionnée aux 
 
-articles L. 6111-1 et L. 6411-1. La plateforme prend alors en charge les frais d?accompagnement et lui 
 
-verse une indemnité dans des conditions définies par décret en Conseil d?Etat. 
+« Il bénéficie, à sa demande, de la validation des acquis de l'expérience mentionnée aux 
+
+articles L. 6111-1 et L. 6411-1. La plateforme prend alors en charge les frais d'accompagnement et lui 
+
+verse une indemnité dans des conditions définies par décret en Conseil d'Etat. 
 
 
 
@@ -8231,11 +7750,11 @@ verse une indemnité dans des conditions définies par décret en Conseil d?Etat.
 
 « *Art. L. 7341-7. * ? Les mouvements de refus concerté de fournir leurs services organisés par 
 
-les travailleurs mentionnés à l?article L. 7341-3 en vue de défendre leurs revendications 
+les travailleurs mentionnés à l'article L. 7341-3 en vue de défendre leurs revendications 
 
 professionnelles ne peuvent ni engager leur responsabilité contractuelle ni constituer un motif de 
 
-rupture de leurs relations avec les plateformes ou de toute mesure les pénalisant dans l?exercice de leur 
+rupture de leurs relations avec les plateformes ou de toute mesure les pénalisant dans l'exercice de leur 
 
 activité. 
 
@@ -8243,9 +7762,9 @@ activité.
 
 
 
-« *Art. L. 7341-8. * ? Les travailleurs mentionnés à l?article L. 7341-3 bénéficient du droit de 
+« *Art. L. 7341-8. * ? Les travailleurs mentionnés à l'article L. 7341-3 bénéficient du droit de 
 
-constituer un syndicat, d?y adhérer et de faire valoir par leur intermédiaire leurs intérêts collectifs. 
+constituer un syndicat, d'y adhérer et de faire valoir par leur intermédiaire leurs intérêts collectifs. 
 
 
 
@@ -8261,7 +7780,7 @@ Article 24** \[**Droit à la déconnexion\]** **
 
 
 
-I. L?article L. 2242-8 du code du travail est ainsi modifié : 
+I. L'article L. 2242-8 du code du travail est ainsi modifié : 
 
 
 
@@ -8279,21 +7798,21 @@ les outils numériques » et le signe : «.» est remplacé par un le signe « ; » ;
 
 
 
-« 7° les modalités d?exercice par le salarié de son droit à la déconnexion dans l?utilisation des outils 
+« 7° les modalités d'exercice par le salarié de son droit à la déconnexion dans l'utilisation des outils 
 
-numériques en vue d?assurer le respect des temps de repos et de congés ; 
+numériques en vue d'assurer le respect des temps de repos et de congés ; 
 
 
 
-« A défaut d?accord, l?employeur définit ces modalités et les communique par tout moyen aux salariés 
+« A défaut d'accord, l'employeur définit ces modalités et les communique par tout moyen aux salariés 
 
-de l?entreprises. Dans les entreprises d?au moins trois cent salariés, ces modalités font l?objet d?une 
+de l'entreprises. Dans les entreprises d'au moins trois cent salariés, ces modalités font l'objet d'une 
 
-charte élaborée après avis du comité d?entreprise ou à défaut, des délégués du personnel, qui prévoit 
+charte élaborée après avis du comité d'entreprise ou à défaut, des délégués du personnel, qui prévoit 
 
-notamment la mise en ?uvre d?actions de formation et de sensibilisation des salariés à l?usage des 
+notamment la mise en ?uvre d'actions de formation et de sensibilisation des salariés à l'usage des 
 
-outils numériques à destination des salariés et du personnel d?encadrement et de direction. » 
+outils numériques à destination des salariés et du personnel d'encadrement et de direction. » 
 
 
 
@@ -8317,49 +7836,49 @@ négociation à ce sujet.
 
 ****
 
-Article 25 \[Un dialogue social adapté à l?ère du numérique\] 
+Article 25 \[Un dialogue social adapté à l'ère du numérique\] 
 
 
 
-I. Au deuxième chapitre du titre IV du livre premier de la deuxième partie du code du travail, l?article 
+I. Au deuxième chapitre du titre IV du livre premier de la deuxième partie du code du travail, l'article 
 
 L. 2142-6 est ainsi rédigé: 
 
 
 
-« Un accord d?entreprise peut définir les conditions et les modalités de diffusion des publications et 
+« Un accord d'entreprise peut définir les conditions et les modalités de diffusion des publications et 
 
-tracts syndicaux à travers les outils numériques disponibles dans l?entreprise, notamment l?intranet et 
+tracts syndicaux à travers les outils numériques disponibles dans l'entreprise, notamment l'intranet et 
 
-la messagerie électronique de l?entreprise, lorsqu?ils existent. 
+la messagerie électronique de l'entreprise, lorsqu'ils existent. 
 
 
 
-« A défaut d?accord, les organisations syndicales satisfaisant aux critères de respect des valeurs 
+« A défaut d'accord, les organisations syndicales satisfaisant aux critères de respect des valeurs 
 
 républicaines et d'indépendance, légalement constituée depuis au moins deux ans et dont le champ 
 
 professionnel et géographique couvre celui de l'entreprise ou de l'établissement peuvent mettre à 
 
-disposition des publications et tracts sur un site syndical accessible à partir de l?intranet de l?entreprise, 
+disposition des publications et tracts sur un site syndical accessible à partir de l'intranet de l'entreprise, 
 
-lorsqu?il existe.. . 
-
-
-
-« L?utilisation par les organisations syndicales des outils numériques mis à leur disposition doit : 
+lorsqu'il existe.. . 
 
 
 
-« 1°être compatible avec les exigences de bon fonctionnement du réseau informatique de l?entreprise ; 
+« L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit : 
 
 
 
-« 2° ne pas entraver l?accomplissement normal du travail ; 
+« 1°être compatible avec les exigences de bon fonctionnement du réseau informatique de l'entreprise ; 
 
 
 
-« 3° préserver la liberté de choix des salariés d?accepter ou de refuser un message. » 
+« 2° ne pas entraver l'accomplissement normal du travail ; 
+
+
+
+« 3° préserver la liberté de choix des salariés d'accepter ou de refuser un message. » 
 
 
 
@@ -8389,15 +7908,15 @@ nationale.
 
 
 
-« Toutefois, l?employeur peut s?opposer à la publication d?un accord s?il estime que sa diffusion serait 
+« Toutefois, l'employeur peut s'opposer à la publication d'un accord s'il estime que sa diffusion serait 
 
-préjudiciable à l?entreprise. Cette opposition est notifiée aux signataires et à l?autorité administrative 
+préjudiciable à l'entreprise. Cette opposition est notifiée aux signataires et à l'autorité administrative 
 
-compétente pour le dépôt de l?accord conformément aux dispositions de l?article L. 2231-6. 
+compétente pour le dépôt de l'accord conformément aux dispositions de l'article L. 2231-6. 
 
 
 
-« Les conditions d?application du présent article sont définies par un décret en Conseil d?Etat. 
+« Les conditions d'application du présent article sont définies par un décret en Conseil d'Etat. 
 
 
 
@@ -8405,7 +7924,7 @@ III. Le livre troisième de la deuxième partie du code du travail est ainsi modif
 
 
 
-1° L?article L. 2314-21 est ainsi modifié : 
+1° L'article L. 2314-21 est ainsi modifié : 
 
 
 
@@ -8419,11 +7938,11 @@ b\) Le deuxième alinéa est ainsi rédigé :
 
 « Elle peut également avoir lieu par vote électronique selon les modalités fixées par un décret en 
 
-Conseil d?Etat, si un accord d?entreprise ou, à défaut, l?employeur, le décide 
+Conseil d'Etat, si un accord d'entreprise ou, à défaut, l'employeur, le décide 
 
 
 
-2° L?article L. 2324-19 est ainsi modifié : 
+2° L'article L. 2324-19 est ainsi modifié : 
 
 
 
@@ -8437,21 +7956,21 @@ b\) Le deuxième alinéa est ainsi rédigé :
 
 « Elle peut également avoir lieu par vote électronique selon les modalités fixées par un décret en 
 
-Conseil d?Etat, si un accord d?entreprise ou, à défaut, l?employeur, le décide. 
+Conseil d'Etat, si un accord d'entreprise ou, à défaut, l'employeur, le décide. 
 
 
 
 * *
 
-Titre IV Favoriser l?emploi 
+Titre IV Favoriser l'emploi 
 
 
 
-**Chapitre 1 Faciliter la vie des TPE et PME et favoriser l?embauche **
+## Chapitre 1 Faciliter la vie des TPE et PME et favoriser l'embauche **
 
 * *
 
-Article 26 \[service d?appui de l?Etat pour les TPE et PME\] 
+Article 26 \[service d'appui de l'Etat pour les TPE et PME\] 
 
 * *
 
@@ -8471,11 +7990,11 @@ I. Le titre IV du livre premier de la cinquième partie du code du travail est ai
 
 
 
-« *Art. L. 5143-1. - * Tout employeur d?une entreprise de moins de trois cent salariés de cette entreprise 
+« *Art. L. 5143-1. - * Tout employeur d'une entreprise de moins de trois cent salariés de cette entreprise 
 
-a le droit d?obtenir une information personnalisée et délivrée dans des délais raisonnables lorsqu?il 
+a le droit d'obtenir une information personnalisée et délivrée dans des délais raisonnables lorsqu'il 
 
-sollicite l?administration sur une question en rapport avec l?application des dispositions du code du 
+sollicite l'administration sur une question en rapport avec l'application des dispositions du code du 
 
 travail ou des accords et conventions collectives qui lui sont applicables. 
 
@@ -8487,11 +8006,11 @@ travail ou des accords et conventions collectives qui lui sont applicables.
 
 
 
-« Pour assurer la mise en ?uvre de ce droit, des services d?information dédiés sont mis en place par 
+« Pour assurer la mise en ?uvre de ce droit, des services d'information dédiés sont mis en place par 
 
-l?autorité administrative compétente, qui peut y associer des représentants des collectivités 
+l'autorité administrative compétente, qui peut y associer des représentants des collectivités 
 
-territoriales, des organisations syndicales et professionnelles, ou tout autre acteur qu?elle estime 
+territoriales, des organisations syndicales et professionnelles, ou tout autre acteur qu'elle estime 
 
 compétent. » 
 
@@ -8509,23 +8028,23 @@ complétée par un article L. 2232-10-1 ainsi rédigé :
 
 
 
-« *Art. L. 2232-10-1. ? * Un accord de branche étendu peut contenir, le cas échéant sous forme d?accord 
+« *Art. L. 2232-10-1. ? * Un accord de branche étendu peut contenir, le cas échéant sous forme d'accord 
 
-type indiquant les différents choix laissés à l?employeur, des stipulations spécifiques pour les 
+type indiquant les différents choix laissés à l'employeur, des stipulations spécifiques pour les 
 
 entreprises de moins de cinquante salariés. 
 
 
 
-« L?employeur peut appliquer cet accord type à travers un document unilatéral indiquant les 
+« L'employeur peut appliquer cet accord type à travers un document unilatéral indiquant les 
 
-stipulations qu?il a retenues ». 
+stipulations qu'il a retenues ». 
 
 
 
 ****
 
-Article 28 \[Barème prud?homal\] 
+Article 28 \[Barème prud'homal\] 
 
 ****
 
@@ -8537,29 +8056,29 @@ Article 28 \[Barème prud?homal\]
 
 **** 
 
-1° Au sixième alinéa de l?article L. 1235-1, les mots : «, de l?âge et de la situation du 
+1° Au sixième alinéa de l'article L. 1235-1, les mots : «, de l'âge et de la situation du 
 
-demandeur par rapport à l?emploi » sont remplacés par les mots : « du salarié » ; 
-
-
-
-
-
-2° Le second alinéa de l?article L. 1235-3 est remplacé par huit alinéas ainsi rédigés: 
+demandeur par rapport à l'emploi » sont remplacés par les mots : « du salarié » ; 
 
 
 
 
 
-« Si l?une ou l?autre des parties refuse cette réintégration, le juge octroie au salarié une 
-
-indemnité à la charge de l?employeur, qui ne peut dépasser : 
+2° Le second alinéa de l'article L. 1235-3 est remplacé par huit alinéas ainsi rédigés: 
 
 
 
 
 
-« 1° Si l?ancienneté du salarié dans l?entreprise est inférieure à deux ans : trois mois de 
+« Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au salarié une 
+
+indemnité à la charge de l'employeur, qui ne peut dépasser : 
+
+
+
+
+
+« 1° Si l'ancienneté du salarié dans l'entreprise est inférieure à deux ans : trois mois de 
 
 salaire ; 
 
@@ -8567,7 +8086,7 @@ salaire ;
 
 
 
-« 2° Si l?ancienneté du salarié dans l?entreprise est d?au moins deux ans et de moins de cinq 
+« 2° Si l'ancienneté du salarié dans l'entreprise est d'au moins deux ans et de moins de cinq 
 
 ans : six mois de salaire; 
 
@@ -8575,7 +8094,7 @@ ans : six mois de salaire;
 
 
 
-« 3° Si l?ancienneté du salarié dans l?entreprise est d?au moins cinq ans et de moins de dix ans 
+« 3° Si l'ancienneté du salarié dans l'entreprise est d'au moins cinq ans et de moins de dix ans 
 
 : neuf mois de salaire; 
 
@@ -8583,7 +8102,7 @@ ans : six mois de salaire;
 
 
 
-« 4° Si l?ancienneté du salarié dans l?entreprise est d?au moins dix ans et de moins de vingt ans 
+« 4° Si l'ancienneté du salarié dans l'entreprise est d'au moins dix ans et de moins de vingt ans 
 
 : douze mois de salaire ; 
 
@@ -8591,7 +8110,7 @@ ans : six mois de salaire;
 
 
 
-« 5° Si l?ancienneté du salarié dans l?entreprise est d?au moins vingt ans : quinze mois de 
+« 5° Si l'ancienneté du salarié dans l'entreprise est d'au moins vingt ans : quinze mois de 
 
 salaire. 
 
@@ -8601,7 +8120,7 @@ salaire.
 
 
 
-« L?indemnité est due sans préjudice, le cas échéant, des indemnités de licenciement légales, 
+« L'indemnité est due sans préjudice, le cas échéant, des indemnités de licenciement légales, 
 
 conventionnelles ou contractuelles. 
 
@@ -8619,7 +8138,7 @@ présent article. » ;
 
 
 
-3° Après l?article L. 1235-3, sont insérés deux articles ainsi rédigés : 
+3° Après l'article L. 1235-3, sont insérés deux articles ainsi rédigés : 
 
 
 
@@ -8627,51 +8146,51 @@ présent article. » ;
 
 « *Art. L. 1235-3-1. -* Lorsque la rupture du contrat de travail est prononcée par le juge 
 
-judiciaire ou fait suite à une demande du salarié dans le cadre de la procédure mentionnée à l?article L. 
+judiciaire ou fait suite à une demande du salarié dans le cadre de la procédure mentionnée à l'article L. 
 
-1451-1, le montant de l?indemnité octroyée est déterminé selon les règles fixées à l?article L. 1235-3. 
-
-
+1451-1, le montant de l'indemnité octroyée est déterminé selon les règles fixées à l'article L. 1235-3. 
 
 
 
-« *Art. L. 1235-3-2. -* L?article L. 1235-3 s?applique sans préjudice de la faculté pour le juge de 
 
-fixer une indemnité d?un montant supérieur en cas de faute de l?employeur d?une particulière gravité, 
+
+« *Art. L. 1235-3-2. -* L'article L. 1235-3 s'applique sans préjudice de la faculté pour le juge de 
+
+fixer une indemnité d'un montant supérieur en cas de faute de l'employeur d'une particulière gravité, 
 
 caractérisée par des faits de harcèlement moral ou sexuel dans les conditions mentionnées aux articles 
 
-L. 1152-3 et L. 1153-4, par un licenciement discriminatoire dans les conditions prévues à l?article L. 
+L. 1152-3 et L. 1153-4, par un licenciement discriminatoire dans les conditions prévues à l'article L. 
 
-1134-4 ou consécutif à une action en justice en matière d?égalité professionnelle entre les femmes et 
+1134-4 ou consécutif à une action en justice en matière d'égalité professionnelle entre les femmes et 
 
-les hommes dans les conditions mentionnées à l?article L. 1144-3 ou en matière de corruption dans les 
+les hommes dans les conditions mentionnées à l'article L. 1144-3 ou en matière de corruption dans les 
 
-conditions prévues à l?article L. 1161-1, par la violation de l?exercice du droit de grève dans les 
+conditions prévues à l'article L. 1161-1, par la violation de l'exercice du droit de grève dans les 
 
-conditions mentionnées à l?article L. 2511-1 ou à l?exercice d?un mandat par un salarié protégé dans 
+conditions mentionnées à l'article L. 2511-1 ou à l'exercice d'un mandat par un salarié protégé dans 
 
-les conditions mentionnées à l?article L. 2422-1, par la violation de la protection dont bénéficient 
+les conditions mentionnées à l'article L. 2422-1, par la violation de la protection dont bénéficient 
 
 certains salariés dans les conditions mentionnées aux articles L. 1225-71, L. 1226-13 et L. 1226-15 ou 
 
-par l?atteinte à une liberté fondamentale. 
+par l'atteinte à une liberté fondamentale. 
 
 
 
 
 
-« Il s?applique sans préjudice des règles applicables aux cas de nullité du licenciement 
+« Il s'applique sans préjudice des règles applicables aux cas de nullité du licenciement 
 
-économique mentionnées aux articles L. 1235-10 et L. 1235-11, ainsi qu?aux cas prévus aux premier 
+économique mentionnées aux articles L. 1235-10 et L. 1235-11, ainsi qu'aux cas prévus aux premier 
 
-et deuxième alinéas de l?article L. 1235-16 et au septième alinéa du II de l?article L. 1233-58. » ; 
-
-
+et deuxième alinéas de l'article L. 1235-16 et au septième alinéa du II de l'article L. 1233-58. » ; 
 
 
 
-4° L?article L. 1235-5 est ainsi modifié : 
+
+
+4° L'article L. 1235-5 est ainsi modifié : 
 
 
 
@@ -8679,7 +8198,7 @@ et deuxième alinéas de l?article L. 1235-16 et au septième alinéa du II de l?art
 
 *a\)* Au premier alinéa, après les mots : « les dispositions relatives », sont insérés les mots : « au 
 
-remboursement des indemnités de chômage, prévues à l?article L. 1235-4 » ; 
+remboursement des indemnités de chômage, prévues à l'article L. 1235-4 » ; 
 
 
 
@@ -8691,7 +8210,7 @@ remboursement des indemnités de chômage, prévues à l?article L. 1235-4 » ;
 
 
 
-5° Au second alinéa de l?article L. 1235-11, le nombre : « douze » et remplacé par le chiffre : 
+5° Au second alinéa de l'article L. 1235-11, le nombre : « douze » et remplacé par le chiffre : 
 
 « six » ; 
 
@@ -8699,25 +8218,25 @@ remboursement des indemnités de chômage, prévues à l?article L. 1235-4 » ;
 
 
 
-6° L?article L. 1235-12 est complété par les mots : « dans la limite des montants fixés à 
+6° L'article L. 1235-12 est complété par les mots : « dans la limite des montants fixés à 
 
-l?article L. 1235-3 » ; 
-
-
+l'article L. 1235-3 » ; 
 
 
 
-7° A l?article L. 1235-13, les mots : « qui ne peut être inférieure à deux mois de salaire « sont 
+
+
+7° A l'article L. 1235-13, les mots : « qui ne peut être inférieure à deux mois de salaire « sont 
 
 remplacés par les mots : « calculée en fonction du préjudice subi dans la limite des montants fixés à 
 
-l?article L. 1235-3 » ; 
+l'article L. 1235-3 » ; 
 
 
 
 
 
-8° L?article L. 1235-14 est remplacé par un article ainsi rédigé : 
+8° L'article L. 1235-14 est remplacé par un article ainsi rédigé : 
 
 
 
@@ -8725,7 +8244,7 @@ l?article L. 1235-3 » ;
 
 « *Art. L. 1235-14. -* Ne sont pas applicables au licenciement d'un salarié de moins de deux ans 
 
-d'ancienneté dans l?entreprise les dispositions relatives à la sanction de la nullité du licenciement, 
+d'ancienneté dans l'entreprise les dispositions relatives à la sanction de la nullité du licenciement, 
 
 prévues à l'article L. 1235-11. 
 
@@ -8735,7 +8254,7 @@ prévues à l'article L. 1235-11.
 
 « Le salarié peut prétendre, en cas de licenciement abusif, à une indemnité correspondant au 
 
-préjudice subi dans la limite des montants fixés à l?article L. 1235-3. » ; 
+préjudice subi dans la limite des montants fixés à l'article L. 1235-3. » ; 
 
 85 
 
@@ -8743,17 +8262,17 @@ préjudice subi dans la limite des montants fixés à l?article L. 1235-3. » ;
 
 
 
-9° A l?article L. 1235-15, les mots : « qui ne peut être inférieure à un mois de salaire brut » 
+9° A l'article L. 1235-15, les mots : « qui ne peut être inférieure à un mois de salaire brut » 
 
 sont remplacés par les mots : « calculée en fonction du préjudice subi dans la limite des montants fixés 
 
-à l?article L. 1235-3. » 
+à l'article L. 1235-3. » 
 
 
 
 
 
-II. ? Au troisième alinéa de l?article L. 1226-15 du même code, le nombre : « douze » est 
+II. ? Au troisième alinéa de l'article L. 1226-15 du même code, le nombre : « douze » est 
 
 remplacé par le chiffre : « six ». 
 
@@ -8763,9 +8282,9 @@ remplacé par le chiffre : « six ».
 
 III. ? Le présent article entre en vigueur le lendemain de la publication de la présente loi. 
 
-Lorsqu?une instance a été introduite avant cette date, l?action est poursuivie et jugée conformément 
+Lorsqu'une instance a été introduite avant cette date, l'action est poursuivie et jugée conformément 
 
-aux dispositions législatives antérieures à la présente loi. Ces dispositions s?appliquent également en 
+aux dispositions législatives antérieures à la présente loi. Ces dispositions s'appliquent également en 
 
 appel et en cassation. 
 
@@ -8777,7 +8296,7 @@ Article 29 \[rescrit\]
 
 ****
 
-L?ordonnance n° 2015-1628 du 10 décembre 2015 relative aux garanties consistant en une prise de 
+L'ordonnance n° 2015-1628 du 10 décembre 2015 relative aux garanties consistant en une prise de 
 
 position formelle, opposable à l'administration, sur l'application d'une norme à la situation de fait ou au 
 
@@ -8785,7 +8304,7 @@ projet du demandeur est ratifiée.
 
 * *
 
-*Chapitre 2 Renforcer la formation professionnelle et l?apprentissage *
+*Chapitre 2 Renforcer la formation professionnelle et l'apprentissage *
 
 * *
 
@@ -8793,45 +8312,45 @@ Article 30 \[Apprentissage\]
 
 
 
-I. L?article L 6231-1 du code du travail est complété par un alinéa ainsi rédigé : 
+I. L'article L 6231-1 du code du travail est complété par un alinéa ainsi rédigé : 
 
 « 9° Délivrent au profit de tout apprenti une attestation mentionnant notamment les objectifs, la durée 
 
-et les résultats de l?évaluation des compétences acquises, en lien avec le référentiel de certification, 
+et les résultats de l'évaluation des compétences acquises, en lien avec le référentiel de certification, 
 
 conformément au modèle qui sera établi par un arrêté conjoint du ministre chargé de la formation 
 
-professionnelle et du ministre de l?Education nationale.» 
+professionnelle et du ministre de l'Education nationale.» 
 
-II. L?article L. 6242-6 est supprimé. 
+II. L'article L. 6242-6 est supprimé. 
 
-III. Le troisième alinéa de l?article L. 6241-9 du code du travail est remplacé quatre alinéas ainsi 
+III. Le troisième alinéa de l'article L. 6241-9 du code du travail est remplacé quatre alinéas ainsi 
 
 rédigés : 
 
-« 2° Les établissements privés d?enseignement du second degré gérés par des organismes à but non 
+« 2° Les établissements privés d'enseignement du second degré gérés par des organismes à but non 
 
-lucratif et qui remplissent l?une des conditions suivantes : 
+lucratif et qui remplissent l'une des conditions suivantes : 
 
-« a\) Être lié avec l?État par l?un des contrats d?association mentionnés à l?article L. 442-5 du code de 
+« a\) Être lié avec l'État par l'un des contrats d'association mentionnés à l'article L. 442-5 du code de 
 
-l?éducation ou à l?article L. 813-1 du code rural et de la pêche maritime ; 
+l'éducation ou à l'article L. 813-1 du code rural et de la pêche maritime ; 
 
-« b\) Être habilité à recevoir des boursiers nationaux conformément aux procédures prévues à l?article 
+« b\) Être habilité à recevoir des boursiers nationaux conformément aux procédures prévues à l'article 
 
-L. 531-4 du code de l?éducation ;? 
+L. 531-4 du code de l'éducation ;? 
 
-« c\) Être reconnu conformément à la procédure prévue à l?article L. 443-2 du code de l?éducation. 
+« c\) Être reconnu conformément à la procédure prévue à l'article L. 443-2 du code de l'éducation. 
 
-IV. L?article L.6332-16 du code du travail est complété par un alinéa ainsi rédigé: 
+IV. L'article L.6332-16 du code du travail est complété par un alinéa ainsi rédigé: 
 
 « Dans les mêmes conditions, ils peuvent également prendre en charge les organismes de formation 
 
 professionnelle initiale ou continue à but non lucratif figurant sur une liste arrêtée par le ministre en 
 
-charge de la formation professionnelle et du ministère de l?éducation nationale et concourant par leurs 
+charge de la formation professionnelle et du ministère de l'éducation nationale et concourant par leurs 
 
-enseignements technologiques et professionnels à l?insertion des jeunes sans qualification ». 
+enseignements technologiques et professionnels à l'insertion des jeunes sans qualification ». 
 
 86 
 
@@ -8839,35 +8358,35 @@ enseignements technologiques et professionnels à l?insertion des jeunes sans qua
 
 
 
-V. Les organismes visés à l?article L. 6232-1 du code du travail, peuvent, jusqu?au 31 décembre 2020, 
+V. Les organismes visés à l'article L. 6232-1 du code du travail, peuvent, jusqu'au 31 décembre 2020, 
 
-créer un centre de formation d?apprentis répondant aux objectifs de l?article L. 6211-1 du présent 
+créer un centre de formation d'apprentis répondant aux objectifs de l'article L. 6211-1 du présent 
 
 code, par dérogation aux articles L. 6232-1, L. 6232-2, L. 6232-3 et L. 6232-4 du même code. 
 
-Ce centre de formation d?apprentis comprend un conseil de perfectionnement. 
+Ce centre de formation d'apprentis comprend un conseil de perfectionnement. 
 
 Il rend compte annuellement de son activité au comité régional de l'emploi, de la formation et de 
 
 l'orientation professionnelles. 
 
-L?organisme gestionnaire de cecentre de formation d?apprentis ne peut percevoir de subvention 
+L'organisme gestionnaire de cecentre de formation d'apprentis ne peut percevoir de subvention 
 
-d?équipement ou de fonctionnement de la région. 
+d'équipement ou de fonctionnement de la région. 
 
 
 
-Article 31 \[Validation des acquis de l?expérience\] 
+Article 31 \[Validation des acquis de l'expérience\] 
 
-I. Le II de l?article L. 335-5 du code de l?éducation est ainsi modifié : 
+I. Le II de l'article L. 335-5 du code de l'éducation est ainsi modifié : 
 
-1° A l?alinéa 2, les mots « trois ans » sont remplacés par les mots « un an » et après les mots « 
+1° A l'alinéa 2, les mots « trois ans » sont remplacés par les mots « un an » et après les mots « 
 
 exercées sur une même période » il est inséré les mots suivants « ainsi que les périodes de formation 
 
 initiale ou continue en milieu professionnel suivie de façon continue ou non ». 
 
-2° Après l?alinéa 2 de cet article, il est inséré un alinéa ainsi rédigé : 
+2° Après l'alinéa 2 de cet article, il est inséré un alinéa ainsi rédigé : 
 
 « Cette demande de validation nécessite un dossier comprenant un formulaire de candidature dont le 
 
@@ -8879,15 +8398,15 @@ modèle et sa notice sont fixés par arrêté du ministre chargé de la formation pro
 
 « Les parties de certification obtenues constituant un bloc de compétences sont acquises 
 
-définitivement. Ces parties de certifications permettent des dispenses d?épreuve si les règles fixées par 
+définitivement. Ces parties de certifications permettent des dispenses d'épreuve si les règles fixées par 
 
-l?autorité administrative, l?établissement ou l?organisme qui délivre la certification visée, prévoient des 
+l'autorité administrative, l'établissement ou l'organisme qui délivre la certification visée, prévoient des 
 
 équivalences totales ou partielles». 
 
 ****
 
-II. le III de l?article L. 335-5 du code de l?éducation est ainsi rédigé : 
+II. le III de l'article L. 335-5 du code de l'éducation est ainsi rédigé : 
 
 « Le jury peut attribuer la totalité de la certification. A défaut, il se prononce sur l'étendue de la 
 
@@ -8895,21 +8414,21 @@ validation et, en cas de validation partielle, sur la nature des connaissances e
 
 l'objet d'un contrôle complémentaire. Les parties de certification obtenues constituant un bloc de 
 
-compétences sont acquises définitivement, elles permettent des dispenses d?épreuve si les règles fixées 
+compétences sont acquises définitivement, elles permettent des dispenses d'épreuve si les règles fixées 
 
-par l?autorité administrative, l?établissement ou l?organisme qui délivre la certification visée, prévoient 
+par l'autorité administrative, l'établissement ou l'organisme qui délivre la certification visée, prévoient 
 
 des équivalences totales ou partielles». 
 
-III. L?article L. 613-3 du code de l?éducation est ainsi modifié : 
+III. L'article L. 613-3 du code de l'éducation est ainsi modifié : 
 
-1° Après l?alinéa premier, il est inséré un alinéa ainsi rédigé : 
+1° Après l'alinéa premier, il est inséré un alinéa ainsi rédigé : 
 
 « Cette demande de validation nécessite un dossier comprenant un formulaire de candidature dont le 
 
 modèle et sa notice sont fixés par arrêté du ministre en chargé de la formation professionnelle. 
 
-L?autorité ou l?organisme qui se prononce sur la recevabilité de la demande effectue un contrôle de 
+L'autorité ou l'organisme qui se prononce sur la recevabilité de la demande effectue un contrôle de 
 
 conformité aux regards des conditions énumérées aux alinéas suivants. » 
 
@@ -8929,7 +8448,7 @@ ou non par les personnes.
 
 3° Les troisième et quatrième alinéas sont supprimés 
 
-IV. L?article L. 613-4 du code de l?éducation est ainsi modifié : 
+IV. L'article L. 613-4 du code de l'éducation est ainsi modifié : 
 
 1° La seconde phrase du deuxième alinéa est supprimée 
 
@@ -8943,27 +8462,27 @@ devant faire l'objet d'un contrôle complémentaire. Les parties de certification 
 
 bloc de compétences sont acquises définitivement. Ces parties de certifications permettent des 
 
-dispenses d?épreuve si les règles fixées par l?autorité administrative, l?établissement ou l?organisme 
+dispenses d'épreuve si les règles fixées par l'autorité administrative, l'établissement ou l'organisme 
 
 qui délivre la certification visée, prévoient des équivalences totales ou partielles» 
 
 V. Le code du travail est ainsi modifié : 
 
-1° Le premier alinéa du I l?article L. 6315-1 est complété par l?alinéa suivant : « Cet entretien 
+1° Le premier alinéa du I l'article L. 6315-1 est complété par l'alinéa suivant : « Cet entretien 
 
-comportera aussi des informations relatives à la validation des acquis de l?expérience. ». 
+comportera aussi des informations relatives à la validation des acquis de l'expérience. ». 
 
-2° Les deux derniers alinéas de l?article L.6422-2 du code du travail sont remplacés par l?alinéa rédigé 
+2° Les deux derniers alinéas de l'article L.6422-2 du code du travail sont remplacés par l'alinéa rédigé 
 
 comme suit : 
 
-«Les conditions de rémunération sont celles prévues à l?article L. 6422-8.» 
+«Les conditions de rémunération sont celles prévues à l'article L. 6422-8.» 
 
 Article 32 \[Compte personnel de formation\] 
 
-Le II de l?article L 6323-16 du code du travail est ainsi rédigé : 
+Le II de l'article L 6323-16 du code du travail est ainsi rédigé : 
 
-« II. ? Pour l?établissement des listes mentionnées aux 1° à 3° du I du présent article, les instances 
+« II. ? Pour l'établissement des listes mentionnées aux 1° à 3° du I du présent article, les instances 
 
 concernées déterminent les critères selon lesquels les formations sont inscrites et prévoient la 
 
@@ -8973,33 +8492,33 @@ publication de ces critères. Ces listes sont actualisées de façon régulière. »
 
 Article 33 \[Information et évaluation\] 
 
-I. Après l?article L.6111-7 du code du travail, il est inséré l?article suivant : 
+I. Après l'article L.6111-7 du code du travail, il est inséré l'article suivant : 
 
 « Art L 6111-4 : 
 
-« Chaque année, les résultats d?une enquête nationale qualitative relative au taux d?insertion des 
+« Chaque année, les résultats d'une enquête nationale qualitative relative au taux d'insertion des 
 
-formations dispensées dans les centres de formation d?apprentissage, les sections d?apprentissage et 
+formations dispensées dans les centres de formation d'apprentissage, les sections d'apprentissage et 
 
 les lycées professionnels, sont rendus publics. Le contenu des informations publiées et leurs modalités 
 
 de diffusion sont déterminés par arrêté conjoint du ministre en charge de la formation professionnelle 
 
-et du ministre en charge de l?éducation nationale. 
+et du ministre en charge de l'éducation nationale. 
 
 
 
-II. L?article L. 6121-6 est complété par un alinéa ainsi rédigé : 
+II. L'article L. 6121-6 est complété par un alinéa ainsi rédigé : 
 
-« Cette diffusion comprend notamment des informations sur l?offre de formation dans les territoires 
+« Cette diffusion comprend notamment des informations sur l'offre de formation dans les territoires 
 
-accessible aux actifs, les modalités et les délais d?accès aux formations ainsi que les modalités de 
+accessible aux actifs, les modalités et les délais d'accès aux formations ainsi que les modalités de 
 
-déroulement de ces formations et les résultats obtenus en matière d?accès à l?emploi et de 
+déroulement de ces formations et les résultats obtenus en matière d'accès à l'emploi et de 
 
-certifications. Elle comprend également des informations relatives à la qualité de l?offre ». 
+certifications. Elle comprend également des informations relatives à la qualité de l'offre ». 
 
-III. Après l?article L.6341-6 du code du travail, il est inséré l?article L. 6341-7 ainsi rédigé : 
+III. Après l'article L.6341-6 du code du travail, il est inséré l'article L. 6341-7 ainsi rédigé : 
 
 88 
 
@@ -9007,7 +8526,7 @@ III. Après l?article L.6341-6 du code du travail, il est inséré l?article L. 634
 
 
 
-« Les institutions mentionnées à l?article L.6341-1 transmettent chaque mois au service statistique du 
+« Les institutions mentionnées à l'article L.6341-1 transmettent chaque mois au service statistique du 
 
 ministère chargé de la formation professionnelle les informations individuelles relatives aux stagiaires 
 
@@ -9021,9 +8540,9 @@ niveau national et régional les résultats de l'exploitation des données recueill
 
 présent article ». 
 
-IV. Le deuxième alinéa de l?article L 6121-5 est supprimé ; 
+IV. Le deuxième alinéa de l'article L 6121-5 est supprimé ; 
 
-V. Après l?article L.6353-9, il est introduit une nouvelle section ainsi rédigée : 
+V. Après l'article L.6353-9, il est introduit une nouvelle section ainsi rédigée : 
 
 « Section 4 : 
 
@@ -9033,23 +8552,23 @@ V. Après l?article L.6353-9, il est introduit une nouvelle section ainsi rédigée
 
 délai et des conditions définies par décret, de l'entrée, des interruptions, des sorties effectives pour 
 
-chacun de leurs stagiaires ainsi que les données relatives à l?emploi et au parcours de formation 
+chacun de leurs stagiaires ainsi que les données relatives à l'emploi et au parcours de formation 
 
 professionnelle dont ils disposent sur ces derniers**. **
 
-« Les organismes financeurs, l?organisme gestionnaire du système d?information du compte personnel 
+« Les organismes financeurs, l'organisme gestionnaire du système d'information du compte personnel 
 
-de formation mentionné au III de l?article L.6323-8, et les institutions et organismes en charge du 
+de formation mentionné au III de l'article L.6323-8, et les institutions et organismes en charge du 
 
-conseil en évolution professionnelle mentionnés à l?article L.6111-6 partagent les données 
+conseil en évolution professionnelle mentionnés à l'article L.6111-6 partagent les données 
 
 mentionnées au précédent alinéa sous forme dématérialisée et dans des conditions définies par décret 
 
-en conseil d?Etat après avis de la Commission nationale de l?informatique et des libertés. » ; 
+en conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés. » ; 
 
 
 
-VI. L?article L6111-7 est supprimé. 
+VI. L'article L6111-7 est supprimé. 
 
 
 
@@ -9059,7 +8578,7 @@ VI. L?article L6111-7 est supprimé.
 
 *** ***
 
-*Chapitre 3 Sécuriser les acteurs du monde de l?emploi *
+*Chapitre 3 Sécuriser les acteurs du monde de l'emploi *
 
 
 
@@ -9067,17 +8586,17 @@ Article 34 \[portage salarial\]
 
 ****
 
-**I. L?ordonnance n° 2015-380 du 2 avril 2015 relative au portage salarial est ratifiée. **
+**I. L'ordonnance n° 2015-380 du 2 avril 2015 relative au portage salarial est ratifiée. **
 
 
 
-II. Dans la deuxième phrase de l?article L. 1254-9 du code du travail, les mots : « et de l?indemnité » 
+II. Dans la deuxième phrase de l'article L. 1254-9 du code du travail, les mots : « et de l'indemnité » 
 
 sont supprimés. 
 
 
 
-III. Après l?article L. 1255-13 du code du travail, il est ajouté une section 3 ainsi rédigée : 
+III. Après l'article L. 1255-13 du code du travail, il est ajouté une section 3 ainsi rédigée : 
 
 
 
@@ -9087,7 +8606,7 @@ III. Après l?article L. 1255-13 du code du travail, il est ajouté une section 3 
 
 
 
-« *Art. L. 1255-14*. - Est puni d?une amende de 3 750 ?, le fait pour un entrepreneur de portage 
+« *Art. L. 1255-14*. - Est puni d'une amende de 3 750 ?, le fait pour un entrepreneur de portage 
 
 salarial : 
 
@@ -9101,13 +8620,13 @@ salarial :
 
 « 1° De conclure un contrat de travail en portage salarial pour une activité de services en 
 
-méconnaissance des dispositions de l?article L. 1254-5 ; 
+méconnaissance des dispositions de l'article L. 1254-5 ; 
 
 
 
 « 2° De conclure un contrat de travail en portage salarial sans respecter les dispositions 
 
-prévues par l?article L. 1254-7 ; 
+prévues par l'article L. 1254-7 ; 
 
 
 
@@ -9115,7 +8634,7 @@ prévues par l?article L. 1254-7 ;
 
 pas un terme précis ou ne fixant pas de durée minimale lorsque le contrat ne comporte pas un terme 
 
-précis en méconnaissance des dispositions l?article L. 1254-11 ; 
+précis en méconnaissance des dispositions l'article L. 1254-11 ; 
 
 
 
@@ -9131,7 +8650,7 @@ obligatoire prévue aux articles L. 1254-14 et L. 1254-20 ;
 
 
 
-« 6° De conclure un contrat de travail en portage salarial ne comportant pas l?ensemble des 
+« 6° De conclure un contrat de travail en portage salarial ne comportant pas l'ensemble des 
 
 clauses et mentions prévues aux articles L. 1254-15 et L. 1254-21 ; 
 
@@ -9139,49 +8658,49 @@ clauses et mentions prévues aux articles L. 1254-15 et L. 1254-21 ;
 
 « 7° De ne pas transmettre au salarié porté le contrat de travail en portage salarial dans le délai 
 
-prévu à l?article L. 1254-16 ; 
+prévu à l'article L. 1254-16 ; 
 
 
 
-« 8° De ne pas conclure avec une entreprise cliente d?une personne portée le contrat 
+« 8° De ne pas conclure avec une entreprise cliente d'une personne portée le contrat 
 
-commercial écrit de prestation de portage salarial dans le délai prévu à l?article L. 1254-22 ou de ne 
+commercial écrit de prestation de portage salarial dans le délai prévu à l'article L. 1254-22 ou de ne 
 
 pas avoir délivré dans le même délai au salarié porté une copie de ce contrat ; 
 
 
 
-« 9° De conclure avec une entreprise cliente d?une personne portée un contrat commercial de 
+« 9° De conclure avec une entreprise cliente d'une personne portée un contrat commercial de 
 
-prestation de portage salarial ne comportant pas les mentions prévues à l?article L. 1254-23 ; 
-
-
-
-« 10° De méconnaître les dispositions relatives aux conditions d?exercice de l?activité de 
-
-portage salarial prévues à l?article L. 1254-24 ; 
+prestation de portage salarial ne comportant pas les mentions prévues à l'article L. 1254-23 ; 
 
 
 
-« 11° De méconnaître l?obligation de mettre en place et de gérer pour chaque salarié porté un 
+« 10° De méconnaître les dispositions relatives aux conditions d'exercice de l'activité de 
 
-compte d?activité conformément aux dispositions de l?article L. 1254-25 ; 
+portage salarial prévues à l'article L. 1254-24 ; 
+
+
+
+« 11° De méconnaître l'obligation de mettre en place et de gérer pour chaque salarié porté un 
+
+compte d'activité conformément aux dispositions de l'article L. 1254-25 ; 
 
 
 
 « 12° D?exercer son activité sans avoir souscrit de garantie financière, en méconnaissance des 
 
-dispositions de l?article L. 1254-26 ; 
+dispositions de l'article L. 1254-26 ; 
 
 
 
 « 13° D?exercer son activité sans avoir effectué la déclaration préalable prévue à 
 
-l?article L. 1254-27 ; 
+l'article L. 1254-27 ; 
 
 
 
-« 14° De ne pas respecter, en méconnaissance de l?article L. 1254-28, les obligations relatives 
+« 14° De ne pas respecter, en méconnaissance de l'article L. 1254-28, les obligations relatives 
 
 à la médecine du travail définies dans les articles L. 4121-1 à L. 4121-5. 
 
@@ -9197,7 +8716,7 @@ portage salarial pour une durée de deux à dix ans.
 
 
 
-« *Art. L. 1255-15. - * Est puni d?une amende de 3 750 ? le fait pour une entreprise ou son 
+« *Art. L. 1255-15. - * Est puni d'une amende de 3 750 ? le fait pour une entreprise ou son 
 
 dirigeant de droit ou de fait de conclure un contrat de portage salarial sans remplir les conditions 
 
@@ -9213,13 +8732,13 @@ requises pour exercer cette activité en application des articles L. 1254-24, L. 
 
 
 
-*« Art. L. 1255-16. - * Est puni d?une amende de 3 750 ?, le fait pour une entreprise cliente ou 
+*« Art. L. 1255-16. - * Est puni d'une amende de 3 750 ?, le fait pour une entreprise cliente ou 
 
 son dirigeant de droit ou de fait : 
 
 
 
-« 1° De recourir à un salarié porté en dehors des cas prévus à l?article L. 1254-3 ; 
+« 1° De recourir à un salarié porté en dehors des cas prévus à l'article L. 1254-3 ; 
 
 
 
@@ -9229,15 +8748,15 @@ articles L. 1254-4 et L. 1254-5 ;
 
 
 
-« 3° De ne pas conclure avec l?entreprise de portage salarial le contrat commercial écrit de 
+« 3° De ne pas conclure avec l'entreprise de portage salarial le contrat commercial écrit de 
 
 prestation de portage salarial dans le délai prévu à l'article L. 1254-22 ; 
 
 
 
-« 4° De conclure avec l?entreprise de portage salarial un contrat commercial écrit de prestation 
+« 4° De conclure avec l'entreprise de portage salarial un contrat commercial écrit de prestation 
 
-de portage salarial ne comportant pas les mentions prévues à l?article L. 1254-23. 
+de portage salarial ne comportant pas les mentions prévues à l'article L. 1254-23. 
 
 
 
@@ -9275,19 +8794,19 @@ IV- Le code du travail est ainsi modifié :
 
 
 
-1° A l?article L. 1255-11, la référence : « L. 1254-2 » est remplacée par la référence : « L. 
+1° A l'article L. 1255-11, la référence : « L. 1254-2 » est remplacée par la référence : « L. 
 
 1255-2 » ; 
 
 
 
-2° Au 1° de l?article L. 5132-14, les mots : « aux articles L. 1254-1 à L. 1254-12 » sont 
+2° Au 1° de l'article L. 5132-14, les mots : « aux articles L. 1254-1 à L. 1254-12 » sont 
 
 remplacés par les mots : « aux articles L. 1255-1 à L. 1255-12 ». 
 
 
 
-V- Au premier alinéa de l?article L. 5542-51 du code des transports, la référence : « L. 1254-2 » est 
+V- Au premier alinéa de l'article L. 5542-51 du code des transports, la référence : « L. 1254-2 » est 
 
 remplacée par la référence : « L. 1255-2 ». 
 
@@ -9299,7 +8818,7 @@ Article 35\[Sécurisation contrat saisonnier et négo\]
 
 ****
 
-I. Au 3° de l?article L 1242-2 du code du travail, les mots « saisonnier ou » sont remplacés par les 
+I. Au 3° de l'article L 1242-2 du code du travail, les mots « saisonnier ou » sont remplacés par les 
 
 mots : « dont les tâches sont appelées à se répéter chaque année selon une périodicité fixe, en fonction 
 
@@ -9307,19 +8826,19 @@ du rythme des saisons ou des modes de vie collectifs ou emplois» ;
 
 
 
-II. Au 4° de l?article L. 1242-7, au 3° de l?article L. 1244-1, au premier alinéa de l?article L.1244-2, au 
+II. Au 4° de l'article L. 1242-7, au 3° de l'article L. 1244-1, au premier alinéa de l'article L.1244-2, au 
 
-3° de l?article L.1244-4, au 3° de l?article L.1251-6, au 4° de l?article L.1251-11, au 3° de l?article 
+3° de l'article L.1244-4, au 3° de l'article L.1251-6, au 4° de l'article L.1251-11, au 3° de l'article 
 
-L.1251-37, à l?article L.1251-60, au dernier alinéa de l?article L.2412-2, au dernier alinéa de l?article 
+L.1251-37, à l'article L.1251-60, au dernier alinéa de l'article L.2412-2, au dernier alinéa de l'article 
 
-L.2412-3, au dernier alinéa de l?article L.2412-4, au dernier alinéa de l?article L.2412-7, au dernier 
+L.2412-3, au dernier alinéa de l'article L.2412-4, au dernier alinéa de l'article L.2412-7, au dernier 
 
-alinéa de l?article L.2412-8, au dernier alinéa de l?article L.2412-9, au dernier alinéa de l?article 
+alinéa de l'article L.2412-8, au dernier alinéa de l'article L.2412-9, au dernier alinéa de l'article 
 
-L.2412-13, à l?article L. 2421-8-1, à l?article L.5135-7, au premier alinéa de l?article L. 6321-13, après 
+L.2412-13, à l'article L. 2421-8-1, à l'article L.5135-7, au premier alinéa de l'article L. 6321-13, après 
 
-le mot : « saisonnier » sont ajoutés les mots « défini au 3° de l?article L. 1242-2 ». 
+le mot : « saisonnier » sont ajoutés les mots « défini au 3° de l'article L. 1242-2 ». 
 
 91 
 
@@ -9345,7 +8864,7 @@ le mot : « saisonnier » sont ajoutés les mots « défini au 3° de l?article L. 124
 
 **PROFESSIONNELLES D?EMPLOYEURS DES BRANCHES DANS LESQUELLES **
 
-**L?EMPLOI SAISONNIER DEFINI AU 3° DE L?ARTICLE L. 1242-2 EST **
+**L'EMPLOI SAISONNIER DEFINI AU 3° DE L'ARTICLE L. 1242-2 EST **
 
 **PARTICULIEREMENT DEVELOPPE ET QUI NE SONT PAS DEJA COUVERTES PAR **
 
@@ -9355,23 +8874,23 @@ le mot : « saisonnier » sont ajoutés les mots « défini au 3° de l?article L. 124
 
 **SAISONNIER AFIN DE DEFINIR LES MODALITES DE RECONDUCTION DE CE **
 
-**CONTRAT ET DE PRISE EN COMPTE DE L?ANCIENNETE DU SALARIE. **
+**CONTRAT ET DE PRISE EN COMPTE DE L'ANCIENNETE DU SALARIE. **
 
 
 
 A l'issue du délai prévu au premier alinéa, le Gouvernement est autorisé à prendre par ordonnance 
 
-toute mesure législative s'appliquant, à défaut d'accord de branche, dans les branches qu?elle 
+toute mesure législative s'appliquant, à défaut d'accord de branche, dans les branches qu'elle 
 
 détermine, à la reconduction du contrat de travail à caractère saisonnier conclu en application du 3° de 
 
-l?article L. 1242-2 et à la prise en compte de l?ancienneté du salarié. Le projet de loi de ratification est 
+l'article L. 1242-2 et à la prise en compte de l'ancienneté du salarié. Le projet de loi de ratification est 
 
 déposé au Parlement dans un délai de douze mois à compter de la promulgation de la présente loi. 
 
 
 
-Article 36 \[groupements d?employeurs\] 
+Article 36 \[groupements d'employeurs\] 
 
 
 
@@ -9381,15 +8900,15 @@ I. Après l'article L. 1253-18 du code du travail, il est créé un article L. 1253
 
 
 
-*« Art. L. 1253-18-1-* Pour fixer la durée du temps de travail d?un salarié à temps partiel, un 
+*« Art. L. 1253-18-1-* Pour fixer la durée du temps de travail d'un salarié à temps partiel, un 
 
-groupement d?employeur peut choisir d?appliquer les dispositions de la convention collective 
+groupement d'employeur peut choisir d'appliquer les dispositions de la convention collective 
 
-d?adhésion de l?entreprise dans lequel il met à disposition ce salarié. » 
+d'adhésion de l'entreprise dans lequel il met à disposition ce salarié. » 
 
 * *
 
-II. « Un groupement d?employeurs est éligible aux aides à l?emploi dont auraient bénéficié ses 
+II. « Un groupement d'employeurs est éligible aux aides à l'emploi dont auraient bénéficié ses 
 
 entreprises adhérentes si elles avaient embauché directement les personnes mises à leur disposition. » 
 
@@ -9407,9 +8926,9 @@ inspecteurs du travail\]
 
 I. Sans préjudice des recrutements des inspecteurs du travail effectués en application des 
 
-dispositions statutaires du corps de l?inspection du travail, les inspecteurs du travail peuvent être 
+dispositions statutaires du corps de l'inspection du travail, les inspecteurs du travail peuvent être 
 
-recrutés, au titre des années 2016 à 2019, par la voie d?un concours réservé prévu à l?article 261 de la 
+recrutés, au titre des années 2016 à 2019, par la voie d'un concours réservé prévu à l'article 261 de la 
 
 loi du 6 août 2015 susvisée. 
 
@@ -9427,7 +8946,7 @@ II. Le nombre de postes offerts est au plus de 250 chaque année.
 
 
 
-III. Les candidats recrutés au titre de l?article 10 sont nommés inspecteurs du travail stagiaires. Les 
+III. Les candidats recrutés au titre de l'article 10 sont nommés inspecteurs du travail stagiaires. Les 
 
 inspecteurs stagiaires suivent une formation obligatoire dont les modalités sont déterminées par 
 
@@ -9441,23 +8960,23 @@ voie réglementaire.
 
 IV. Les inspecteurs du travail stagiaires dont le stage a été considéré comme satisfaisant sont 
 
-titularisés dans le corps de l?inspection du travail. 
+titularisés dans le corps de l'inspection du travail. 
 
 
 
-Les stagiaires qui n?ont pas été titularisés à l?issue du stage peuvent être autorisés à accomplir un 
+Les stagiaires qui n'ont pas été titularisés à l'issue du stage peuvent être autorisés à accomplir un 
 
-stage complémentaire d?une durée maximale de trois mois. 
-
-
-
-Les stagiaires qui n?ont pas été autorisés à effectuer un stage complémentaire ou dont le stage 
-
-complémentaire n?a pas été considéré comme satisfaisant sont réintégrés dans leur corps d?origine. 
+stage complémentaire d'une durée maximale de trois mois. 
 
 
 
-La durée du stage est prise en compte pour l?avancement, en dehors des périodes de prolongation 
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage 
+
+complémentaire n'a pas été considéré comme satisfaisant sont réintégrés dans leur corps d'origine. 
+
+
+
+La durée du stage est prise en compte pour l'avancement, en dehors des périodes de prolongation 
 
 éventuelle. 
 
@@ -9467,63 +8986,63 @@ V- Le code du travail est ainsi modifié :
 
 
 
-1° Au dernier alinéa du II de l?article L. 1233-30, au second alinéa de l?article L. 1253-6, à la fin du 
+1° Au dernier alinéa du II de l'article L. 1233-30, au second alinéa de l'article L. 1253-6, à la fin du 
 
-deuxième alinéa de l?article L. 2143-7, à l?article L. 2313-11, à la fin du second alinéa de l?article L. 
+deuxième alinéa de l'article L. 2143-7, à l'article L. 2313-11, à la fin du second alinéa de l'article L. 
 
-2314-10, au dernier alinéa de l?article L. 2315-12, à l?article L. 2323-18, à l?article L. 2323-24, à la fin 
+2314-10, au dernier alinéa de l'article L. 2315-12, à l'article L. 2323-18, à l'article L. 2323-24, à la fin 
 
-de la seconde phrase du premier alinéa et au second alinéa de l?article L. 2324-8, à la fin du dernier 
+de la seconde phrase du premier alinéa et au second alinéa de l'article L. 2324-8, à la fin du dernier 
 
-alinéa de l?article L.2324-12, au 4° de l?article L. 2326-5, au deuxième alinéa de l?article L. 2392-2, à la 
+alinéa de l'article L.2324-12, au 4° de l'article L. 2326-5, au deuxième alinéa de l'article L. 2392-2, à la 
 
-fin de la seconde phrase de l?article L. 3121-7, à la fin du second alinéa de l?article L. 3121-37, à 
+fin de la seconde phrase de l'article L. 3121-7, à la fin du second alinéa de l'article L. 3121-37, à 
 
-l?article L. 3122-23, à la fin du dernier alinéa de l?article L. 3123-2, au 2° de l?article L. 3172-1, au 
+l'article L. 3122-23, à la fin du dernier alinéa de l'article L. 3123-2, au 2° de l'article L. 3172-1, au 
 
-second alinéa de l?article L. 4132-3, à la fin de la seconde phrase du second alinéa de l?article L. 4154-
+second alinéa de l'article L. 4132-3, à la fin de la seconde phrase du second alinéa de l'article L. 4154-
 
-2, au premier alinéa de l?article L. 4526-1, au second alinéa des articles L. 4613-1 et L. 4614-8, à 
+2, au premier alinéa de l'article L. 4526-1, au second alinéa des articles L. 4613-1 et L. 4614-8, à 
 
-l?article L. 4614-11, à la première phrase du 3° de l?article L. 4616-2, au premier alinéa de l?article L. 
+l'article L. 4614-11, à la première phrase du 3° de l'article L. 4616-2, au premier alinéa de l'article L. 
 
-4721-1, au second alinéa de l?article L. 4721-2, au premier alinéa de l?article L.6225-4, à l?article L. 
+4721-1, au second alinéa de l'article L. 4721-2, au premier alinéa de l'article L.6225-4, à l'article L. 
 
-7413-3, à la fin du second alinéa de l?article L. 7421-2 et à l?article L. 7424-3, les mots : « inspecteur 
+7413-3, à la fin du second alinéa de l'article L. 7421-2 et à l'article L. 7424-3, les mots : « inspecteur 
 
-du travail » sont remplacés par les mots : « agent de contrôle de l?inspection du travail mentionné à 
+du travail » sont remplacés par les mots : « agent de contrôle de l'inspection du travail mentionné à 
 
-l?article L. 8112-1 » ; 
+l'article L. 8112-1 » ; 
 
 
 
-2° Au second alinéa de l?article L. 2325-19, au premier alinéa de l?article L. 6361-5, au premier alinéa 
+2° Au second alinéa de l'article L. 2325-19, au premier alinéa de l'article L. 6361-5, au premier alinéa 
 
-de l?article L. 6363-1, à l?article L.7122-18, à la première phrase de l?article L. 7232-9, aux premier et 
+de l'article L. 6363-1, à l'article L.7122-18, à la première phrase de l'article L. 7232-9, aux premier et 
 
-dernier alinéas de l?article L. 8113-1, à l?article L. 8113-2, à l?article L. 8113-4, au premier alinéa de 
+dernier alinéas de l'article L. 8113-1, à l'article L. 8113-2, à l'article L. 8113-4, au premier alinéa de 
 
-l?article L. 8113-5, à l?article L. 8271-14 et au premier alinéa de l?article L. 8271-17, les mots : « 
+l'article L. 8113-5, à l'article L. 8271-14 et au premier alinéa de l'article L. 8271-17, les mots : « 
 
 inspecteurs et contrôleurs du travail » sont remplacés par les mots : « agents de contrôle de 
 
-l?inspection du travail mentionnés à l?article L. 8112-1 » ; 
+l'inspection du travail mentionnés à l'article L. 8112-1 » ; 
 
 
 
-3° Au premier alinéa de l?article L. 3171-3 et à l?article L. 4612-7 les mots : « inspecteur ou du 
+3° Au premier alinéa de l'article L. 3171-3 et à l'article L. 4612-7 les mots : « inspecteur ou du 
 
-contrôleur du travail » sont remplacés par les mots : « agent de contrôle de l?inspection du travail 
+contrôleur du travail » sont remplacés par les mots : « agent de contrôle de l'inspection du travail 
 
-mentionné à l?article L. 8112-1 » ; 
+mentionné à l'article L. 8112-1 » ; 
 
 
 
-4° Aux articles L. 3221-9, L. 4711-3, L. 4744-7 et L. 5424-16, au second alinéa de l?article L. 5213-5, au 
+4° Aux articles L. 3221-9, L. 4711-3, L. 4744-7 et L. 5424-16, au second alinéa de l'article L. 5213-5, au 
 
-premier alinéa de l?article L. 8113-3, au second alinéa de l?article L. 8113-8, au second alinéa de 
+premier alinéa de l'article L. 8113-3, au second alinéa de l'article L. 8113-8, au second alinéa de 
 
-l?article L. 8123-1 et au dernier alinéa de l?article L. 8123-6, les mots : « inspecteurs du travail » sont 
+l'article L. 8123-1 et au dernier alinéa de l'article L. 8123-6, les mots : « inspecteurs du travail » sont 
 
 93 
 
@@ -9531,61 +9050,61 @@ l?article L. 8123-1 et au dernier alinéa de l?article L. 8123-6, les mots : « in
 
 
 
-remplacés par les mots : « agents de contrôle de l?inspection du travail mentionnés à l?article L. 8112-
+remplacés par les mots : « agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-
 
 1 » ; 
 
 
 
-5° Au premier alinéa de l?article L. 4311-6 et au 1° de l?article L. 8271-1-2, les mots : « inspecteurs et 
+5° Au premier alinéa de l'article L. 4311-6 et au 1° de l'article L. 8271-1-2, les mots : « inspecteurs et 
 
-les contrôleurs du travail » sont remplacés par les mots : « agents de contrôle de l?inspection du 
+les contrôleurs du travail » sont remplacés par les mots : « agents de contrôle de l'inspection du 
 
-travail mentionnés à l?article L. 8112-1 » ; 
-
-
-
-6° À l?article L. 4721-4 et au premier alinéa de l?article L. 4721-5, les mots : « l?inspecteur et le 
-
-contrôleur du travail » sont remplacés par les mots : « les agents de contrôle de l?inspection du 
-
-travail mentionné à l?article L. 8112-1 » ; 
+travail mentionnés à l'article L. 8112-1 » ; 
 
 
 
-7° À la fin de l?article L. 8114-2, les mots : « inspecteurs du travail et des contrôleurs du travail » sont 
+6° À l'article L. 4721-4 et au premier alinéa de l'article L. 4721-5, les mots : « l'inspecteur et le 
 
-remplacés par les mots : « agents de contrôle de l?inspection du travail mentionnés à l?article L. 8112-
+contrôleur du travail » sont remplacés par les mots : « les agents de contrôle de l'inspection du 
+
+travail mentionné à l'article L. 8112-1 » ; 
+
+
+
+7° À la fin de l'article L. 8114-2, les mots : « inspecteurs du travail et des contrôleurs du travail » sont 
+
+remplacés par les mots : « agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-
 
 1 du présent code » ; 
 
 
 
-8° Au second alinéa de l?article L. 8271-19, les mots : « inspecteurs du travail, les contrôleurs du 
+8° Au second alinéa de l'article L. 8271-19, les mots : « inspecteurs du travail, les contrôleurs du 
 
-travail » sont remplacés par les mots : « agents de contrôle de l?inspection du travail mentionnés à 
+travail » sont remplacés par les mots : « agents de contrôle de l'inspection du travail mentionnés à 
 
-l?article L. 8112-1 » ; 
-
-
-
-9° A l?article L. 8223-1-1, les mots : « inspecteur ou le contrôleur du travail » sont remplacés par les 
-
-mots : « agent de contrôle de l?inspection du travail mentionné à l?article L. 8112-1 » ; 
+l'article L. 8112-1 » ; 
 
 
 
-10° Au premier alinéa de l?article L. 1263-3, au premier alinéa de l?article L. 1263-6 et au deuxième 
+9° A l'article L. 8223-1-1, les mots : « inspecteur ou le contrôleur du travail » sont remplacés par les 
 
-alinéa de l?article L. 8291-2, les mots : « aux articles L. 8112-1 ou L. 8112-5 » sont remplacés par les 
-
-mots : « à l?article L. 8112-1 » ; 
+mots : « agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 » ; 
 
 
 
-11° Au III de l?article L. 4624-3, les mots : « inspecteur ou au contrôleur du travail » sont remplacés 
+10° Au premier alinéa de l'article L. 1263-3, au premier alinéa de l'article L. 1263-6 et au deuxième 
 
-par les mots : « agent de contrôle de l?inspection du travail mentionné à l?article L. 8112-1 ». 
+alinéa de l'article L. 8291-2, les mots : « aux articles L. 8112-1 ou L. 8112-5 » sont remplacés par les 
+
+mots : « à l'article L. 8112-1 » ; 
+
+
+
+11° Au III de l'article L. 4624-3, les mots : « inspecteur ou au contrôleur du travail » sont remplacés 
+
+par les mots : « agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 ». 
 
 
 
@@ -9593,15 +9112,15 @@ VI - Le code des transports est ainsi modifié :
 
 
 
-1° A l?article L. 1324-10, les mots : « inspecteur du travail » sont remplacés par les mots : « agent de 
+1° A l'article L. 1324-10, les mots : « inspecteur du travail » sont remplacés par les mots : « agent de 
 
-contrôle de l?inspection du travail mentionné à l'article L. 8112-1 du code du travail ». 
+contrôle de l'inspection du travail mentionné à l'article L. 8112-1 du code du travail ». 
 
 
 
-2° A l?article L. 5243-2-3, les mots : « inspecteurs et les contrôleurs » sont remplacés par les mots : « 
+2° A l'article L. 5243-2-3, les mots : « inspecteurs et les contrôleurs » sont remplacés par les mots : « 
 
-agents de contrôle de l?inspection du travail mentionnés à l?article L. 8112-1 du code du travail ». 
+agents de contrôle de l'inspection du travail mentionnés à l'article L. 8112-1 du code du travail ». 
 
 
 
@@ -9613,11 +9132,11 @@ agents de contrôle de l?inspection du travail mentionnés à l?article L. 8112-1 d
 
 a\) Aux articles L. 5544-18 et L. 5544-31, les mots : « inspecteur du travail » sont remplacés par les 
 
-mots : « agent de contrôle de l?inspection du travail mentionné à l'article L. 8112-1 » ; 
+mots : « agent de contrôle de l'inspection du travail mentionné à l'article L. 8112-1 » ; 
 
 
 
-b\) L?intitulé de la section 6 est complété par les mots : « et administratives » ; 
+b\) L'intitulé de la section 6 est complété par les mots : « et administratives » ; 
 
 
 
@@ -9631,13 +9150,13 @@ c\) Il est ajouté un article L. 5544-64 ainsi rédigé :
 
 
 
-« *Art. L. 5544-64*. - L?employeur encourt les amendes administratives prévues au premier alinéa de 
+« *Art. L. 5544-64*. - L'employeur encourt les amendes administratives prévues au premier alinéa de 
 
-l?article L. 8115-1 et aux articles L. 8115-2 à L. 8115-7 du code du travail en cas de manquement : 
+l'article L. 8115-1 et aux articles L. 8115-2 à L. 8115-7 du code du travail en cas de manquement : 
 
 
 
-« 1° Aux dispositions relatives aux durées maximales du travail fixées aux I à III de l?article L. 5544-4, 
+« 1° Aux dispositions relatives aux durées maximales du travail fixées aux I à III de l'article L. 5544-4, 
 
 et aux mesures réglementaires prises pour son application ; 
 
@@ -9661,7 +9180,7 @@ interprofessionnel de croissance prévues par les articles L. 5544-38 à L. 5544-3
 
 réglementaires prises pour leur application ; 
 
-« Les amendes sont mises en ?uvre dans les conditions définies à l?article L. 8113-7 du code du 
+« Les amendes sont mises en ?uvre dans les conditions définies à l'article L. 8113-7 du code du 
 
 travail. » 
 
@@ -9703,7 +9222,7 @@ e\) Il est créé un article L. 5548-5 ainsi rédigé :
 
 
 
-« *Art.- L. 5548-5. * - Les agents chargés du contrôle de l?inspection du travail mentionnés à l?article L. 
+« *Art.- L. 5548-5. * - Les agents chargés du contrôle de l'inspection du travail mentionnés à l'article L. 
 
 8112-1 du code du travail et les fonctionnaires affectés dans les services exerçant des missions de 
 
@@ -9711,7 +9230,7 @@ contrôle dans le domaine des affaires maritimes sous l'autorité ou à la disposit
 
 de la mer se communiquent réciproquement tous renseignements et tous documents utiles à 
 
-l?accomplissement de leur mission de contrôle de la législation du travail applicable aux gens de mer, 
+l'accomplissement de leur mission de contrôle de la législation du travail applicable aux gens de mer, 
 
 de la certification sociale des navires visée au chapitre IV du titre Ier du livre V de la cinquième partie 
 
@@ -9723,11 +9242,11 @@ de la certification sociale des navires visée au chapitre IV du titre Ier du liv
 
 du code des transports et de la mise en ?uvre des conventions internationales du travail de 
 
-l?Organisation internationale du travail applicables aux gens de mer. » 
+l'Organisation internationale du travail applicables aux gens de mer. » 
 
 
 
-5°.- L?article L. 5641-1 est ainsi modifié : 
+5°.- L'article L. 5641-1 est ainsi modifié : 
 
 
 
@@ -9739,7 +9258,7 @@ b\) Le deuxième alinéa est ainsi modifié :
 
 *- * Au début, les mots : « ses agents » sont remplacés par les mots : « Les agents de contrôle de 
 
-l?inspection du travail » ; 
+l'inspection du travail » ; 
 
 *- * Après le mot : « bord » sont insérés les mots : « des navires immatriculés au registre international 
 
@@ -9749,7 +9268,7 @@ français » ;
 
 c\) Au dernier alinéa, les mots : « inspecteurs et contrôleurs du travail » sont remplacés par les mots : 
 
-« agents de contrôle de l?inspection ». 
+« agents de contrôle de l'inspection ». 
 
 * *
 
@@ -9767,9 +9286,9 @@ modifiée :
 
 1° Aux articles L.5426-8-1 et L.5426-8-2, après les mots « pour son propre compte », sont insérés les 
 
-mots : « pour le compte de l?organisme chargé de la gestion du régime d?assurance chômage 
+mots : « pour le compte de l'organisme chargé de la gestion du régime d'assurance chômage 
 
-mentionné à l?article L. 5427-1l» ; 
+mentionné à l'article L. 5427-1l» ; 
 
 
 
@@ -9789,27 +9308,27 @@ est inséré une section I bis ainsi rédigée :
 
 
 
-« *Périodes d?activités non déclarées *
+« *Périodes d'activités non déclarées *
 
 
 
-« *Art L. 5426-1-1. * Les périodes d?activité professionnelle d?une durée supérieure à trois jours 
+« *Art L. 5426-1-1. * Les périodes d'activité professionnelle d'une durée supérieure à trois jours 
 
-consécutifs ou non au cours du même mois civil, non déclarées par le demandeur d?emploi à Pôle 
+consécutifs ou non au cours du même mois civil, non déclarées par le demandeur d'emploi à Pôle 
 
-emploi au terme de ce mois, ne sont pas prises en compte pour l?ouverture ou le rechargement des 
+emploi au terme de ce mois, ne sont pas prises en compte pour l'ouverture ou le rechargement des 
 
-droits à l?allocation d?assurance. Les rémunérations correspondantes ne sont pas incluses dans le 
+droits à l'allocation d'assurance. Les rémunérations correspondantes ne sont pas incluses dans le 
 
 salaire de référence. 
 
 
 
-« *Art L.5426-1-2. * Lorsque l?application de l?article L.5426-1-1 fait obstacle à l?ouverture ou au 
+« *Art L.5426-1-2. * Lorsque l'application de l'article L.5426-1-1 fait obstacle à l'ouverture ou au 
 
-rechargement des droits à l?allocation d?assurance, le demandeur d?emploi peut exercer un recours 
+rechargement des droits à l'allocation d'assurance, le demandeur d'emploi peut exercer un recours 
 
-devant l?instance paritaire régionale de Pôle emploi mentionnée à l?article L.5312-10. 
+devant l'instance paritaire régionale de Pôle emploi mentionnée à l'article L.5312-10. 
 
 * *
 
@@ -9831,49 +9350,49 @@ Le code du travail est ainsi modifié :
 
 
 
-I. - L?article L. 1233-61 est complété par un alinéa ainsi rédigé : 
+I. - L'article L. 1233-61 est complété par un alinéa ainsi rédigé : 
 
 
 
-« Lorsque ce plan comporte, en vue d?éviter la fermeture d?un ou de plusieurs établissements, le 
+« Lorsque ce plan comporte, en vue d'éviter la fermeture d'un ou de plusieurs établissements, le 
 
 transfert d'une ou plusieurs entités économiques, nécessaire à la sauvegarde d'une partie des emplois, 
 
-l'article L.1224-1 ne s?applique que dans la limite du nombre des emplois qui n'ont pas été supprimés 
+l'article L.1224-1 ne s'applique que dans la limite du nombre des emplois qui n'ont pas été supprimés 
 
 par suite des licenciements à la date d'effet du transfert. » 
 
 
 
-II. Au troisième alinéa de l?article L.1233-24-2, après le mot : « entreprise », sont ajoutés les mots : 
+II. Au troisième alinéa de l'article L.1233-24-2, après le mot : « entreprise », sont ajoutés les mots : 
 
 «, en particulier, les conditions dans lesquelles cette procédure peut être aménagée en cas de projet de 
 
-transfert d'une ou plusieurs entités économiques, prévue à l?article L. 1224-1-1 nécessaire pour limiter 
+transfert d'une ou plusieurs entités économiques, prévue à l'article L. 1224-1-1 nécessaire pour limiter 
 
-le nombre de disparitions d?emplois ». 
-
-
-
-III ? L?article L. 1233-57-19 est complété par un alinéa ainsi rédigé : 
+le nombre de disparitions d'emplois ». 
 
 
 
-« Lorsque la procédure est aménagée en application de l?article L. 1233-24-2 pour favoriser un projet 
-
-de transfert d?une ou plusieurs entités économiques, comme cela est prévu à l?article L. 1224-1-1, 
-
-l?employeur consulte le comité d?entreprise sur l?offre de reprise dans le délai fixé par l?accord 
-
-collectif mentionné à l?article L. 1233-24-2. » 
+III ? L'article L. 1233-57-19 est complété par un alinéa ainsi rédigé : 
 
 
 
+« Lorsque la procédure est aménagée en application de l'article L. 1233-24-2 pour favoriser un projet 
+
+de transfert d'une ou plusieurs entités économiques, comme cela est prévu à l'article L. 1224-1-1, 
+
+l'employeur consulte le comité d'entreprise sur l'offre de reprise dans le délai fixé par l'accord 
+
+collectif mentionné à l'article L. 1233-24-2. » 
 
 
-IV ? Le 3° de l?article L. 1233-62 est complété par les dispositions suivantes : 
 
-« ou favorisant la reprise de tout ou partie des activités en vue d?éviter la fermeture d?un ou de 
+
+
+IV ? Le 3° de l'article L. 1233-62 est complété par les dispositions suivantes : 
+
+« ou favorisant la reprise de tout ou partie des activités en vue d'éviter la fermeture d'un ou de 
 
 plusieurs établissements » 
 
@@ -9885,41 +9404,41 @@ Article 40 \[revitalisation\]
 
 
 
-I. L?article L. 1233-85 est ainsi modifié : 
+I. L'article L. 1233-85 est ainsi modifié : 
 
 
 
-1° Au premier alinéa le mot : « six» est remplacé par le mot : « huit» et les mots : « prévue à l?article 
+1° Au premier alinéa le mot : « six» est remplacé par le mot : « huit» et les mots : « prévue à l'article 
 
 L1233-46 »sont remplacés par les mots : « prévue aux articles L1233-19 et L1233-46 » 
 
 
 
-2° Au deuxième alinéa, après les mots : « ou prévues dans le cadre du plan de sauvegarde de l?emploi 
+2° Au deuxième alinéa, après les mots : « ou prévues dans le cadre du plan de sauvegarde de l'emploi 
 
-établi par l?entreprise » sont insérés les mots : « ou prévues dans le cadre d?une démarche volontaire 
+établi par l'entreprise » sont insérés les mots : « ou prévues dans le cadre d'une démarche volontaire 
 
-de l?entreprise faisant l?objet d?un document-cadre conclu entre l?Etat et l?entreprise dont les modalités 
+de l'entreprise faisant l'objet d'un document-cadre conclu entre l'Etat et l'entreprise dont les modalités 
 
 sont définies par décret ». 
 
 
 
-II. Après l?article L. 1233-90, il est inséré un article L. 1233-90-1 nouveau ainsi rédigé : 
+II. Après l'article L. 1233-90, il est inséré un article L. 1233-90-1 nouveau ainsi rédigé : 
 
 
 
 « Art. L. 1233-90-1 ? Une convention-cadre nationale de revitalisation peut être conclue entre 
 
-l?autorité administrative au niveau national et l?entreprise à l?initiative de l?une ou l?autre des parties 
+l'autorité administrative au niveau national et l'entreprise à l'initiative de l'une ou l'autre des parties 
 
-dès lors que les suppressions d?emplois concernent au moins trois départements. 
+dès lors que les suppressions d'emplois concernent au moins trois départements. 
 
 
 
-« Il est tenu compte, pour la détermination du montant de la contribution mentionnée à l?article 
+« Il est tenu compte, pour la détermination du montant de la contribution mentionnée à l'article 
 
-L.1233-86, du nombre total des emplois supprimés dans l?ensemble des bassins d?emploi impactés. 
+L.1233-86, du nombre total des emplois supprimés dans l'ensemble des bassins d'emploi impactés. 
 
 
 
@@ -9931,7 +9450,7 @@ licenciement. »
 
 « Elle est déclinée dans les quatre mois suivants sa signature par une ou plusieurs conventions locales 
 
-conclues entre l?autorité administrative locale et l?entreprise qui s?inscrivent en cohérence avec le 
+conclues entre l'autorité administrative locale et l'entreprise qui s'inscrivent en cohérence avec le 
 
 contenu de la convention-cadre nationale. 
 
@@ -9941,9 +9460,9 @@ contenu de la convention-cadre nationale.
 
 
 
-« Le ministre chargé de l?emploi peut désigner une autorité administrative pour assurer le suivi et 
+« Le ministre chargé de l'emploi peut désigner une autorité administrative pour assurer le suivi et 
 
-l?évaluation des actions prévues dans la convention cadre nationale. » 
+l'évaluation des actions prévues dans la convention cadre nationale. » 
 
 
 
@@ -9965,7 +9484,7 @@ I. Le titre deuxième du livre deuxième de la première partie du code du travail 
 
 
 
-1° L?article L. 1225-11 est ainsi modifié : 
+1° L'article L. 1225-11 est ainsi modifié : 
 
 
 
@@ -9977,7 +9496,7 @@ I. Le titre deuxième du livre deuxième de la première partie du code du travail 
 
 
 
-« 4° *bis* L. 1226-10, relatif à l?inaptitude consécutive à un accident du travail ou à une maladie 
+« 4° *bis* L. 1226-10, relatif à l'inaptitude consécutive à un accident du travail ou à une maladie 
 
 professionnelle ; » 
 
@@ -9989,7 +9508,7 @@ professionnelle ; »
 
 
 
-2° L?article L. 1225-15 est ainsi modifié : 
+2° L'article L. 1225-15 est ainsi modifié : 
 
 
 
@@ -9997,7 +9516,7 @@ professionnelle ; »
 
 
 
-« 2° *bis* L. 1226-10, relatif à l?inaptitude consécutive à un accident du travail ou à une maladie 
+« 2° *bis* L. 1226-10, relatif à l'inaptitude consécutive à un accident du travail ou à une maladie 
 
 professionnelle ; » 
 
@@ -10009,7 +9528,7 @@ professionnelle ; »
 
 
 
-3° L?article L. 1226-2 est ainsi modifié : 
+3° L'article L. 1226-2 est ainsi modifié : 
 
 
 
@@ -10017,21 +9536,21 @@ professionnelle ; »
 
 
 
-*-* les mots : « , à l?issue des périodes de suspension du contrat de travail consécutives à une 
+*-* les mots : « , à l'issue des périodes de suspension du contrat de travail consécutives à une 
 
 maladie ou un accident non professionnel, le salarié » sont remplacés par les mots : « le salarié victime 
 
-d?une maladie ou d?un accident non professionnel » ; 
+d'une maladie ou d'un accident non professionnel » ; 
 
 
 
 *-* après les mots : « par le médecin du travail » sont insérés les mots : «, en application de 
 
-l?article L. 4624-4, » ; 
+l'article L. 4624-4, » ; 
 
 
 
-*-* les mots : « l?emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
+*-* les mots : « l'emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
 
 remplacé par le mot : « poste » ; 
 
@@ -10039,17 +9558,17 @@ remplacé par le mot : « poste » ;
 
 *b\)* Au deuxième alinéa, après les mots : « prend en compte » sont insérés les mots : « , après 
 
-avis des délégués du personnel, » et les mots : « l?aptitude » sont remplacés par les mots : « la 
+avis des délégués du personnel, » et les mots : « l'aptitude » sont remplacés par les mots : « la 
 
 capacité » ; 
 
 
 
-*c\)* Le deuxième alinéa est complété par une phrase ainsi rédigée : « Dans les entreprises d?au 
+*c\)* Le deuxième alinéa est complété par une phrase ainsi rédigée : « Dans les entreprises d'au 
 
 moins cinquante salariés, le médecin du travail formule également des indications sur la capacité du 
 
-salarié à bénéficier d?une formation destinée à lui proposer un poste adapté. » ; 
+salarié à bénéficier d'une formation destinée à lui proposer un poste adapté. » ; 
 
 98 
 
@@ -10059,59 +9578,59 @@ salarié à bénéficier d?une formation destinée à lui proposer un poste adapté. » 
 
 * *
 
-*d\)* Au dernier alinéa, la première occurrence des mots : « L?emploi » est remplacée par les 
+*d\)* Au dernier alinéa, la première occurrence des mots : « L'emploi » est remplacée par les 
 
-mots : « Le poste », la seconde occurrence des mots : « l?emploi » est remplacée par le mot : « celui » 
+mots : « Le poste », la seconde occurrence des mots : « l'emploi » est remplacée par le mot : « celui » 
 
 et les mots : « telles que mutations, transformations de poste ou aménagement de travail » sont 
 
-remplacés par les mots : « d?aménagement, d?adaptation ou de transformation de postes existants » ; 
+remplacés par les mots : « d'aménagement, d'adaptation ou de transformation de postes existants » ; 
 
 
 
-4° Après l?article L. 1226-2, il est inséré un article ainsi rédigé : 
+4° Après l'article L. 1226-2, il est inséré un article ainsi rédigé : 
 
 
 
-« *Art. L. 1226-2-1. * ? Lorsque l?employeur est dans l?impossibilité de proposer un autre poste 
+« *Art. L. 1226-2-1. * ? Lorsque l'employeur est dans l'impossibilité de proposer un autre poste 
 
-au salarié, il lui fait connaître par écrit les motifs qui s?opposent à son reclassement. 
-
-
-
-« L?employeur ne peut rompre le contrat de travail que s?il justifie soit de son impossibilité de 
-
-proposer un poste dans les conditions prévues à l?article L. 1226-2, soit du refus par le salarié du poste 
-
-proposé dans ces conditions, soit de la mention expresse dans l?avis du médecin du travail que tout 
-
-maintien du salarié dans l?entreprise serait gravement préjudiciable à sa santé ou que l?état de santé du 
-
-salarié fait obstacle à tout reclassement dans l?entreprise. 
+au salarié, il lui fait connaître par écrit les motifs qui s'opposent à son reclassement. 
 
 
 
-« L?obligation de reclassement est réputée satisfaite lorsque l?employeur a proposé, dans les 
+« L'employeur ne peut rompre le contrat de travail que s'il justifie soit de son impossibilité de 
 
-conditions prévues à l?article L. 1226-2, un poste prenant en compte les propositions, conclusions 
+proposer un poste dans les conditions prévues à l'article L. 1226-2, soit du refus par le salarié du poste 
+
+proposé dans ces conditions, soit de la mention expresse dans l'avis du médecin du travail que tout 
+
+maintien du salarié dans l'entreprise serait gravement préjudiciable à sa santé ou que l'état de santé du 
+
+salarié fait obstacle à tout reclassement dans l'entreprise. 
+
+
+
+« L'obligation de reclassement est réputée satisfaite lorsque l'employeur a proposé, dans les 
+
+conditions prévues à l'article L. 1226-2, un poste prenant en compte les propositions, conclusions 
 
 écrites et indications du médecin du travail. 
 
 
 
-« S?il prononce le licenciement, l?employeur respecte la procédure applicable au licenciement 
+« S?il prononce le licenciement, l'employeur respecte la procédure applicable au licenciement 
 
 pour motif personnel prévue au chapitre II du livre III. » ; 
 
 
 
-5° Au premier alinéa de l?article L. 1226-4-1, la référence « L. 1226-4 » est remplacée par la 
+5° Au premier alinéa de l'article L. 1226-4-1, la référence « L. 1226-4 » est remplacée par la 
 
 référence : « L. 1226-2-1 » ; 
 
 
 
-6° Le premier alinéa de l?article L. 1226-8 est ainsi modifié : 
+6° Le premier alinéa de l'article L. 1226-8 est ainsi modifié : 
 
 
 
@@ -10119,13 +9638,13 @@ référence : « L. 1226-2-1 » ;
 
 
 
-*b\)* L?alinéa est complété par les mots : « , sauf dans les situations mentionnées à l?article L. 
+*b\)* L'alinéa est complété par les mots : « , sauf dans les situations mentionnées à l'article L. 
 
 1226-10 » ; 
 
 
 
-7° L?article L. 1226-10 est ainsi modifié : 
+7° L'article L. 1226-10 est ainsi modifié : 
 
 
 
@@ -10133,37 +9652,37 @@ référence : « L. 1226-2-1 » ;
 
 
 
-*-* les mots : «, à l?issue des périodes de suspension du contrat de travail consécutives à un 
+*-* les mots : «, à l'issue des périodes de suspension du contrat de travail consécutives à un 
 
 accident du travail ou à une maladie professionnelle, le salarié » sont remplacés par les mots : « le 
 
-salarié victime d?un accident du travail ou d?une maladie professionnelle » ; 
+salarié victime d'un accident du travail ou d'une maladie professionnelle » ; 
 
 
 
-*-* après les mots : « médecin du travail », sont insérés les mots : «, en application de l?article L. 
+*-* après les mots : « médecin du travail », sont insérés les mots : «, en application de l'article L. 
 
 4624-4, » ; 
 
 
 
-*-* les mots : « l?emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
+*-* les mots : « l'emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
 
 remplacé par le mot : « poste » ; 
 
 
 
-*b\)* Au deuxième alinéa, les mots : « l?aptitude » sont remplacés par les mots : « la capacité » ; 
+*b\)* Au deuxième alinéa, les mots : « l'aptitude » sont remplacés par les mots : « la capacité » ; 
 
 
 
-*c\)* Au dernier alinéa, la première occurrence des mots : « L?emploi » est remplacée par les 
+*c\)* Au dernier alinéa, la première occurrence des mots : « L'emploi » est remplacée par les 
 
-mots : « Le poste », la seconde occurrence des mots « l?emploi » est remplacée par le mot : « celui » et 
+mots : « Le poste », la seconde occurrence des mots « l'emploi » est remplacée par le mot : « celui » et 
 
 les mots : « telles que mutations, transformations de poste ou aménagement de travail » sont remplacés 
 
-par les mots : « d?aménagement, d?adaptation ou de transformation de postes existants » ; 
+par les mots : « d'aménagement, d'adaptation ou de transformation de postes existants » ; 
 
 
 
@@ -10173,7 +9692,7 @@ par les mots : « d?aménagement, d?adaptation ou de transformation de postes exis
 
 
 
-8° L?article L. 1226-12 est ainsi modifié : 
+8° L'article L. 1226-12 est ainsi modifié : 
 
 
 
@@ -10183,13 +9702,13 @@ par les mots : « d?aménagement, d?adaptation ou de transformation de postes exis
 
 *b\)* Au deuxième alinéa, le mot : « emploi » est remplacé par le mot : « poste », les mots : « de 
 
-l?emploi » sont remplacés par les mots : « du poste », la dernière phrase est supprimée et l?alinéa est 
+l'emploi » sont remplacés par les mots : « du poste », la dernière phrase est supprimée et l'alinéa est 
 
-complété par les mots : « , soit de la mention expresse dans l?avis du médecin du travail que tout 
+complété par les mots : « , soit de la mention expresse dans l'avis du médecin du travail que tout 
 
-maintien du salarié dans l?entreprise serait gravement préjudiciable à sa santé ou que l?état de santé du 
+maintien du salarié dans l'entreprise serait gravement préjudiciable à sa santé ou que l'état de santé du 
 
-salarié fait obstacle à tout reclassement dans l?entreprise » ; 
+salarié fait obstacle à tout reclassement dans l'entreprise » ; 
 
 
 
@@ -10197,15 +9716,15 @@ salarié fait obstacle à tout reclassement dans l?entreprise » ;
 
 
 
-« L?obligation de reclassement est réputée satisfaite lorsque l?employeur a proposé, dans les 
+« L'obligation de reclassement est réputée satisfaite lorsque l'employeur a proposé, dans les 
 
-conditions prévues à l?article L. 1226-10, un poste prenant en compte les propositions, conclusions 
+conditions prévues à l'article L. 1226-10, un poste prenant en compte les propositions, conclusions 
 
 écrites et indications du médecin du travail. » ; 
 
 
 
-9° L?article L. 1226-15 est ainsi modifié : 
+9° L'article L. 1226-15 est ainsi modifié : 
 
 
 
@@ -10217,7 +9736,7 @@ conditions prévues à l?article L. 1226-10, un poste prenant en compte les propos
 
 
 
-10° L?article L. 1226-20 est ainsi modifié : 
+10° L'article L. 1226-20 est ainsi modifié : 
 
 
 
@@ -10227,21 +9746,21 @@ conditions prévues à l?article L. 1226-10, un poste prenant en compte les propos
 
 *b\)* Au deuxième alinéa, après les mots : « dans ces conditions » sont insérés les mots : « ou si 
 
-l?avis du médecin du travail mentionne expressément que tout maintien du salarié dans l?entreprise 
+l'avis du médecin du travail mentionne expressément que tout maintien du salarié dans l'entreprise 
 
-serait gravement préjudiciable à sa santé ou que l?état de santé du salarié fait obstacle à tout 
+serait gravement préjudiciable à sa santé ou que l'état de santé du salarié fait obstacle à tout 
 
-reclassement dans l?entreprise » ; 
-
-
-
-11° Au premier alinéa de l?article L. 1226-21, les mots : « est déclaré apte » sont remplacés 
-
-par les mots : « n?est pas déclaré inapte ». 
+reclassement dans l'entreprise » ; 
 
 
 
-II. Au dernier alinéa de l?article L. 3122-45 du code du travail, les mots : « de l?article L. 4624-1 » 
+11° Au premier alinéa de l'article L. 1226-21, les mots : « est déclaré apte » sont remplacés 
+
+par les mots : « n'est pas déclaré inapte ». 
+
+
+
+II. Au dernier alinéa de l'article L. 3122-45 du code du travail, les mots : « de l'article L. 4624-1 » 
 
 sont remplacés par les mots : « des articles L. 4624-3 et L. 4624-4 ». 
 
@@ -10251,35 +9770,35 @@ III. Le titre deuxième du livre sixième de la quatrième partie du code du travai
 
 
 
-1° A l?article L. 4622-3, les mots : « ainsi que toute atteinte à la sécurité des tiers » sont 
+1° A l'article L. 4622-3, les mots : « ainsi que toute atteinte à la sécurité des tiers » sont 
 
-remplacés par les mots : « ainsi que tout risque manifeste d?atteinte à la sécurité des tiers évoluant 
+remplacés par les mots : « ainsi que tout risque manifeste d'atteinte à la sécurité des tiers évoluant 
 
-dans l?environnement immédiat de travail » ; 
-
-
-
-2° L?article L. 4624-2 devient l?article L. 4624-8 et il est modifié de la façon suivante : les 
-
-mots : « de l?article L. 4624-1 » sont remplacés par les mots : « des articles L. 4624-3 et L. 4624-4 » ; 
+dans l'environnement immédiat de travail » ; 
 
 
 
-3° L?article L. 4624-3 devient l?article L. 4624-9 ; 
+2° L'article L. 4624-2 devient l'article L. 4624-8 et il est modifié de la façon suivante : les 
+
+mots : « de l'article L. 4624-1 » sont remplacés par les mots : « des articles L. 4624-3 et L. 4624-4 » ; 
 
 
 
-4° L?article L. 4624-5 devient l?article L. 4624-10 et il est complété par les mots : « 
+3° L'article L. 4624-3 devient l'article L. 4624-9 ; 
 
-, notamment les modalités du suivi individuel prévu à l?article L. 4624-1, les modalités d?identification 
 
-des travailleurs mentionnés à l?article L. 4624-2 et les modalités du suivi individuel renforcé dont ils 
+
+4° L'article L. 4624-5 devient l'article L. 4624-10 et il est complété par les mots : « 
+
+, notamment les modalités du suivi individuel prévu à l'article L. 4624-1, les modalités d'identification 
+
+des travailleurs mentionnés à l'article L. 4624-2 et les modalités du suivi individuel renforcé dont ils 
 
 bénéficient » ; 
 
 
 
-5° L?article L. 4624-1 est remplacé par les dispositions suivantes : 
+5° L'article L. 4624-1 est remplacé par les dispositions suivantes : 
 
 
 
@@ -10297,7 +9816,7 @@ du travail et, sous l'autorité de celui-ci, par les autres professionnels de san
 
 pluridisciplinaire mentionnée à l'article L. 4622-8 qu'il anime et coordonne, notamment le 
 
-collaborateur médecin visé à l?article L. 4623-1 et l' infirmier. 
+collaborateur médecin visé à l'article L. 4623-1 et l' infirmier. 
 
 
 
@@ -10331,7 +9850,7 @@ travail sauf lorsque des dispositions spécifiques le confient à un autre médecin
 
 « *Art. L. 4624-3. * ? Le médecin du travail peut proposer, après échange avec le salarié et 
 
-l?employeur, des mesures individuelles d'aménagement, d'adaptation ou de transformation du poste de 
+l'employeur, des mesures individuelles d'aménagement, d'adaptation ou de transformation du poste de 
 
 travail ou d'aménagement du temps de travail justifiées par des considérations relatives notamment à 
 
@@ -10343,11 +9862,11 @@ l'âge ou à l'état de santé physique et mentale du travailleur.
 
 pluridisciplinaire à une étude de poste et après avoir échangé avec le salarié et l'employeur, le médecin 
 
-du travail qui constate qu?aucune mesure d?aménagement, d?adaptation ou de transformation du poste 
+du travail qui constate qu'aucune mesure d'aménagement, d'adaptation ou de transformation du poste 
 
-de travail occupé n?est possible et que l?état de santé du travailleur justifie un changement de poste, 
+de travail occupé n'est possible et que l'état de santé du travailleur justifie un changement de poste, 
 
-déclare le travailleur inapte à son poste de travail. L?avis d?inaptitude est accompagné des conclusions 
+déclare le travailleur inapte à son poste de travail. L'avis d'inaptitude est accompagné des conclusions 
 
 écrites et des indications du médecin du travail relatives au reclassement du travailleur. 
 
@@ -10355,13 +9874,13 @@ déclare le travailleur inapte à son poste de travail. L?avis d?inaptitude est ac
 
 « *Art. L. 4624-5. * ? Pour l'application des articles L. 4624-3 et L. 4624-4, le médecin du travail 
 
-reçoit le salarié, afin de d?échanger sur les propositions, conclusions écrites et indications qu'il adresse 
+reçoit le salarié, afin de d'échanger sur les propositions, conclusions écrites et indications qu'il adresse 
 
 à l'employeur. 
 
 
 
-« Le médecin du travail peut proposer à l?employeur l?appui de l?équipe pluridisciplinaire ou 
+« Le médecin du travail peut proposer à l'employeur l'appui de l'équipe pluridisciplinaire ou 
 
 celui d'un organisme compétent en matière de maintien en emploi pour mettre en ?uvre ces 
 
@@ -10369,33 +9888,33 @@ propositions, conclusions écrites et indications.
 
 
 
-« *Art. L. 4624-6. * ? L'employeur est tenu de prendre en considération les avis d?aptitude ou 
+« *Art. L. 4624-6. * ? L'employeur est tenu de prendre en considération les avis d'aptitude ou 
 
-d?inaptitude, les propositions, conclusions écrites et indications du médecin du travail. En cas de refus, 
+d'inaptitude, les propositions, conclusions écrites et indications du médecin du travail. En cas de refus, 
 
-l?employeur fait connaître au travailleur et au médecin du travail les motifs qui s?opposent à ce qu?il y 
+l'employeur fait connaître au travailleur et au médecin du travail les motifs qui s'opposent à ce qu'il y 
 
 soit donné suite. 
 
 
 
-« *Art. L. 4624-7. * ? En cas de difficulté ou de désaccord du salarié ou de l?employeur avec les 
+« *Art. L. 4624-7. * ? En cas de difficulté ou de désaccord du salarié ou de l'employeur avec les 
 
-propositions, les conclusions écrites, les indications et les avis d?aptitude ou inaptitude émis par le 
+propositions, les conclusions écrites, les indications et les avis d'aptitude ou inaptitude émis par le 
 
-médecin du travail en application des articles L. 4624-2 à L. 4624-4, l?employeur ou le salarié peut 
+médecin du travail en application des articles L. 4624-2 à L. 4624-4, l'employeur ou le salarié peut 
 
-saisir le conseil de prud?hommes, statuant en la forme des référés, d?une demande de désignation d?un 
+saisir le conseil de prud'hommes, statuant en la forme des référés, d'une demande de désignation d'un 
 
-médecin-expert inscrit sur la liste des experts près la cour d?appel. Il en informe l?autre partie. L?avis 
+médecin-expert inscrit sur la liste des experts près la cour d'appel. Il en informe l'autre partie. L'avis 
 
-de l?expert se substitue à l?avis du médecin du travail. 
+de l'expert se substitue à l'avis du médecin du travail. 
 
 
 
 « Les litiges relatifs à cet avis relèvent de la compétence, en premier ressort, du conseil de 
 
-prud?hommes, à l?exclusion de tout autre recours administratif ou contentieux. » ; 
+prud'hommes, à l'exclusion de tout autre recours administratif ou contentieux. » ; 
 
 
 
@@ -10405,11 +9924,11 @@ prud?hommes, à l?exclusion de tout autre recours administratif ou contentieux. »
 
 
 
-6° Après l?article L. 4625-1, il est inséré un article L. 4625-1-1 ainsi rédigé : 
+6° Après l'article L. 4625-1, il est inséré un article L. 4625-1-1 ainsi rédigé : 
 
 
 
-« *Art. L. 4625-1-1*. ? Un décret en Conseil d?Etat prévoit les adaptations des règles définies 
+« *Art. L. 4625-1-1*. ? Un décret en Conseil d'Etat prévoit les adaptations des règles définies 
 
 aux articles L. 4624-1 et L.4624-2 pour les salariés temporaires et les salariés en contrat à durée 
 
@@ -10417,19 +9936,19 @@ déterminée.
 
 
 
-« Ces adaptations leur garantissent un suivi médical individuel d?une périodicité équivalente, à 
+« Ces adaptations leur garantissent un suivi médical individuel d'une périodicité équivalente, à 
 
-l?échelle de leur parcours professionnel, à celle du suivi des salariés en contrat à durée indéterminée. 
+l'échelle de leur parcours professionnel, à celle du suivi des salariés en contrat à durée indéterminée. 
 
 
 
-« Ce décret en Conseil d?Etat prévoit les modalités d?information de l?employeur sur la 
+« Ce décret en Conseil d'Etat prévoit les modalités d'information de l'employeur sur la 
 
 situation de son salarié au regard de ce suivi. » ; 
 
 
 
-7° Au dernier alinéa de l?article L. 717-2 du code rural et de la pêche maritime, la référence : 
+7° Au dernier alinéa de l'article L. 717-2 du code rural et de la pêche maritime, la référence : 
 
 « L. 4624-1 » est remplacée par les références : « L. 4624-1 à L. 4624-7 ». 
 
@@ -10439,15 +9958,15 @@ Titre VI Renforcer la lutte contre le détachement illégal
 
 ****
 
-Article 42 \[obligation de vigilance des MO au regard de l?obligation de déclaration des salariés 
+Article 42 \[obligation de vigilance des MO au regard de l'obligation de déclaration des salariés 
 
 détachés des sous-traitants \+ obligation de transmission dématérialisée de la déclaration subsidiaire \+ 
 
-obligation légale de déclaration de l?AT du salarié détaché par l?employeur et le MO/DO\] 
+obligation légale de déclaration de l'AT du salarié détaché par l'employeur et le MO/DO\] 
 
 ****
 
-I.- L?article L. 1262-4-1 du code du travail est ainsi modifié : 
+I.- L'article L. 1262-4-1 du code du travail est ainsi modifié : 
 
 
 
@@ -10459,49 +9978,49 @@ I.- L?article L. 1262-4-1 du code du travail est ainsi modifié :
 
 
 
-« Les conditions dans lesquelles le maître d?ouvrage ou le donneur d?ordre est tenu de transmettre, par 
+« Les conditions dans lesquelles le maître d'ouvrage ou le donneur d'ordre est tenu de transmettre, par 
 
-voie dématérialisée, la déclaration mentionnée à l?alinéa précédent sont fixées par décret en Conseil 
+voie dématérialisée, la déclaration mentionnée à l'alinéa précédent sont fixées par décret en Conseil 
 
 d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. 
 
 
 
-« II. - Le maître d?ouvrage vérifie, avant le début du détachement, que chacun des sous-traitants 
+« II. - Le maître d'ouvrage vérifie, avant le début du détachement, que chacun des sous-traitants 
 
-directs ou indirects de ses co-contractants qu?il agrée en application de l?article 3 de la loi n° 75-1334 
+directs ou indirects de ses co-contractants qu'il agrée en application de l'article 3 de la loi n° 75-1334 
 
 du 31 décembre 1975 et qui détachent des salariés dans les conditions mentionnées aux articles L. 
 
-1262-1 et L. 1262-2, s'est acquitté de l?obligation mentionnée au I de l'article L. 1262-2-1. ». 
+1262-1 et L. 1262-2, s'est acquitté de l'obligation mentionnée au I de l'article L. 1262-2-1. ». 
 
 
 
-II.- Après l?article L. 1262-4-3 du même code, il est inséré un article L. 1262-4-4 ainsi rédigé : 
+II.- Après l'article L. 1262-4-3 du même code, il est inséré un article L. 1262-4-4 ainsi rédigé : 
 
 
 
-« * Art. ? L. 1262-4-4. *? Lorsqu?un salarié détaché est victime d?un accident du travail, une déclaration 
+« * Art. ? L. 1262-4-4. *? Lorsqu'un salarié détaché est victime d'un accident du travail, une déclaration 
 
-est envoyée à l?inspection du travail. 
+est envoyée à l'inspection du travail. 
 
 
 
 « Cette déclaration est effectuée, dans un délai et selon des modalités fixées par décret en Conseil 
 
-d?État par : 
+d'État par : 
 
 
 
-« 1° l?employeur lorsque le salarié est détaché selon les modalités mentionnées au 3° de l?article L 
+« 1° l'employeur lorsque le salarié est détaché selon les modalités mentionnées au 3° de l'article L 
 
 1262-1 ; 
 
 
 
-« 2° le donneur d?ordre ou le maître d?ouvrage co-contractant d?un prestataire de services qui détache 
+« 2° le donneur d'ordre ou le maître d'ouvrage co-contractant d'un prestataire de services qui détache 
 
-des salariés dans les conditions mentionnées aux 1° et 2° de l?article L 1262-1 ou à l?article L. 1262-
+des salariés dans les conditions mentionnées aux 1° et 2° de l'article L 1262-1 ou à l'article L. 1262-
 
 2.» ; 
 
@@ -10513,13 +10032,13 @@ des salariés dans les conditions mentionnées aux 1° et 2° de l?article L 1262-1 
 
 
 
-III.- A l?article L. 1264-1 du même code, après la mention : « L. 1262-2-1 », est insérée la mention : «, 
+III.- A l'article L. 1264-1 du même code, après la mention : « L. 1262-2-1 », est insérée la mention : «, 
 
-à l?article L. 1262-4-4 » ; 
+à l'article L. 1262-4-4 » ; 
 
 
 
-IV.- L?article L. 1264-2 du même code est remplacé par les dispositions suivantes : 
+IV.- L'article L. 1264-2 du même code est remplacé par les dispositions suivantes : 
 
 
 
@@ -10537,17 +10056,17 @@ L. 1262-2-1 ;
 
 
 
-« 2° en cas de méconnaissance de l?obligation mentionnée à l?article L. 1262-4-4. » 
+« 2° en cas de méconnaissance de l'obligation mentionnée à l'article L. 1262-4-4. » 
 
 
 
-« II. - La méconnaissance par le maître d?ouvrage de l?obligation mentionnée au II de l'article L. 1262-
+« II. - La méconnaissance par le maître d'ouvrage de l'obligation mentionnée au II de l'article L. 1262-
 
 4-1 est passible d'une amende administrative, dans les conditions prévues à l'article L. 1264-3, lorsque 
 
-l?un des sous-traitants directs ou indirects de ses co-contractants, qu?il agrée conformément à l?article 
+l'un des sous-traitants directs ou indirects de ses co-contractants, qu'il agrée conformément à l'article 
 
-3 de la loi n° 75-1334 du 31 décembre 1975, n?a pas rempli l'obligation lui incombant en application 
+3 de la loi n° 75-1334 du 31 décembre 1975, n'a pas rempli l'obligation lui incombant en application 
 
 du I de l'article L. 1262-2-1. » 
 
@@ -10561,7 +10080,7 @@ Article 43 \[droit de timbre\]
 
 A la section II du chapitre II du titre VI du livre II de la première partie du code du travail, il est inséré 
 
-après l?article L. 1262-4-4 créé par la présente loi les articles L. 1262-4-5 et L. 1262-4-6 ainsi rédigés : 
+après l'article L. 1262-4-4 créé par la présente loi les articles L. 1262-4-5 et L. 1262-4-6 ainsi rédigés : 
 
 
 
@@ -10569,19 +10088,19 @@ après l?article L. 1262-4-4 créé par la présente loi les articles L. 1262-4-5 et
 
 national est assujetti à une contribution destinée à couvrir les coûts de mise en place et de 
 
-fonctionnement du système de déclaration dématérialisée mentionné à l?article L.1262-2-2, les coûts 
+fonctionnement du système de déclaration dématérialisée mentionné à l'article L.1262-2-2, les coûts 
 
 de traitement des données issues de ce système et le coût du service rendu, notamment en termes 
 
-d?information, aux salariés détachés. Le fait générateur est constitué par le détachement d?un salarié. 
+d'information, aux salariés détachés. Le fait générateur est constitué par le détachement d'un salarié. 
 
 
 
-« Le montant de la contribution mentionnée à l?alinéa précédent ainsi que les conditions de son 
+« Le montant de la contribution mentionnée à l'alinéa précédent ainsi que les conditions de son 
 
 paiement par voie électronique et de son recouvrement sont déterminées par un décret en Conseil 
 
-d?Etat. 
+d'Etat. 
 
 
 
@@ -10589,21 +10108,21 @@ Article 44 \[suspension de la PSI pour absence de déclaration de détachement par
 
 
 
-I.- Après l?article L.1263-4 du code du travail, il est inséré un article L. 1263-4-1 ainsi rédigé : 
+I.- Après l'article L.1263-4 du code du travail, il est inséré un article L. 1263-4-1 ainsi rédigé : 
 
 
 
-« *Art. L. 1263-4-1.- * L?agent de contrôle de l'inspection du travail mentionné aux articles L. 8112-1 et 
+« *Art. L. 1263-4-1.- * L'agent de contrôle de l'inspection du travail mentionné aux articles L. 8112-1 et 
 
-L. 8112-5 ou l?agent de contrôle assimilé mentionné à l?article L. 8112-3 qui n?a pas reçu à l?issue du 
+L. 8112-5 ou l'agent de contrôle assimilé mentionné à l'article L. 8112-3 qui n'a pas reçu à l'issue du 
 
 délai de quarante-huit heures suivant le début du détachement de déclaration de détachement 
 
-mentionnée au deuxième alinéa de l?article L. 1262-4-1 de la part du donneur d?ordre ou du maître 
+mentionnée au deuxième alinéa de l'article L. 1262-4-1 de la part du donneur d'ordre ou du maître 
 
-d?ouvrage qui a contracté avec un prestataire de services peut saisir d?un rapport motivé l'autorité 
+d'ouvrage qui a contracté avec un prestataire de services peut saisir d'un rapport motivé l'autorité 
 
-administrative compétente. Celle-ci peut ordonner, au regard de l?ampleur du manquement, par 
+administrative compétente. Celle-ci peut ordonner, au regard de l'ampleur du manquement, par 
 
 décision motivée, la suspension de la réalisation de la prestation de services pour une durée ne pouvant 
 
@@ -10613,7 +10132,7 @@ excéder un mois.
 
 « L'autorité administrative met fin à la mesure dès réception de la déclaration de détachement par 
 
-l?employeur, le donneur d?ordre ou le maître d?ouvrage, pour les salariés concernés. 
+l'employeur, le donneur d'ordre ou le maître d'ouvrage, pour les salariés concernés. 
 
 
 
@@ -10623,39 +10142,39 @@ l?employeur, le donneur d?ordre ou le maître d?ouvrage, pour les salariés concer
 
 
 
-« La sanction prévue au premier alinéa peut être cumulée avec l?amende administrative prévue aux 
+« La sanction prévue au premier alinéa peut être cumulée avec l'amende administrative prévue aux 
 
 articles L. 1264-1 et L. 1264-2. 
 
 
 
-« Un décret en Conseil d?Etat détermine les modalités de mise en ?uvre du présent article. » 
+« Un décret en Conseil d'Etat détermine les modalités de mise en ?uvre du présent article. » 
 
 
 
-II.- A l?article L. 1263-5 du même code, après les mots : « autorité administrative » sont ajoutés les 
+II.- A l'article L. 1263-5 du même code, après les mots : « autorité administrative » sont ajoutés les 
 
 mots : « en application des articles L. 1263-4 et L. 1263-4-1 ». 
 
 
 
-III.- A l?article L. 1263-6 du même code : 
+III.- A l'article L. 1263-6 du même code : 
 
 
 
-1° Après les mots : « L. 1263-4 » sont insérés les mots : « et à l?article L. 1263-4-1 ». 
+1° Après les mots : « L. 1263-4 » sont insérés les mots : « et à l'article L. 1263-4-1 ». 
 
 
 
-2° Après les mots : « ou L8112-5 » sont insérés les mots : «, ou d?un agent de contrôle assimilé 
+2° Après les mots : « ou L8112-5 » sont insérés les mots : «, ou d'un agent de contrôle assimilé 
 
-mentionné à l?article L. 8112-3 » 
+mentionné à l'article L. 8112-3 » 
 
 
 
-IV.- A l?article L. 1263-3 du même code, après les mots : « ou L 8112-5 » » sont insérés les mots : « 
+IV.- A l'article L. 1263-3 du même code, après les mots : « ou L 8112-5 » » sont insérés les mots : « 
 
-ou un agent de contrôle assimilé mentionné à l?article L. 8112-3». 
+ou un agent de contrôle assimilé mentionné à l'article L. 8112-3». 
 
 
 
@@ -10663,21 +10182,21 @@ Article 45 \[mesure de transposition de la directive de 2014 sur le recouvrement
 
 
 
-Après l?article L. 1264-3 du code du travail, il est inséré un article L. 1264-4 ainsi rédigé : 
+Après l'article L. 1264-3 du code du travail, il est inséré un article L. 1264-4 ainsi rédigé : 
 
 
 
-« *Art. L. 1264-4. * - La sanction ou amende administrative pécuniaire notifiée par l?autorité compétente 
+« *Art. L. 1264-4. * - La sanction ou amende administrative pécuniaire notifiée par l'autorité compétente 
 
-d?un autre État membre que la France et prononcée à l?encontre d?un prestataire de services établi en 
+d'un autre État membre que la France et prononcée à l'encontre d'un prestataire de services établi en 
 
-France à l?occasion d?un détachement de salariés dans les conditions mentionnées par la directive 
+France à l'occasion d'un détachement de salariés dans les conditions mentionnées par la directive 
 
-96/71/CE, est constatée par l?État français en application de l?article 15 de la directive 2014/67/UE. 
+96/71/CE, est constatée par l'État français en application de l'article 15 de la directive 2014/67/UE. 
 
 
 
-« La sanction ou l?amende est recouvrée selon les modalités fixées aux articles 112 à 124 du décret n° 
+« La sanction ou l'amende est recouvrée selon les modalités fixées aux articles 112 à 124 du décret n° 
 
 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
@@ -10699,29 +10218,29 @@ titre de perception.
 
 
 
-Article 46\[droit d?accès de tous les agents de contrôle compétents en matière de lutte contre le travail 
+Article 46\[droit d'accès de tous les agents de contrôle compétents en matière de lutte contre le travail 
 
 illégal au fichier de traitement informatisé des déclarations de détachement \+ interprètes assermentés\] 
 
 ****
 
-**I. L?ARTICLE L. 1263-1 DU CODE DU TRAVAIL EST COMPLETE PAR L?ALINEA **
+**I. L'ARTICLE L. 1263-1 DU CODE DU TRAVAIL EST COMPLETE PAR L'ALINEA **
 
 **SUIVANT : **
 
 
 
-« * * Les agents de contrôle mentionnés à l?article L. 8271-1-2 disposent d?un droit d?accès aux données 
+« * * Les agents de contrôle mentionnés à l'article L. 8271-1-2 disposent d'un droit d'accès aux données 
 
-issues des déclarations de détachements transmises à l?inspection du travail en application des articles 
+issues des déclarations de détachements transmises à l'inspection du travail en application des articles 
 
-L. 1262-2-1 et L. 1262-4-1 nécessaires à l?accomplissement de leur mission de lutte contre le travail 
+L. 1262-2-1 et L. 1262-4-1 nécessaires à l'accomplissement de leur mission de lutte contre le travail 
 
 illégal. » 
 
 
 
-II. A l?article L. 8271-3 du code du travail, il est ajouté un second alinéa ainsi rédigé : 
+II. A l'article L. 8271-3 du code du travail, il est ajouté un second alinéa ainsi rédigé : 
 
 104 
 
@@ -10729,9 +10248,9 @@ II. A l?article L. 8271-3 du code du travail, il est ajouté un second alinéa ain
 
 
 
-« Les agents de contrôle mentionnés au premier alinéa qui exercent leur droit d?entrée dans les 
+« Les agents de contrôle mentionnés au premier alinéa qui exercent leur droit d'entrée dans les 
 
-établissements dans les conditions mentionnées à l?article L 8113-1 peuvent être accompagnés de ces 
+établissements dans les conditions mentionnées à l'article L 8113-1 peuvent être accompagnés de ces 
 
 interprètes assermentés. » 
 
@@ -10741,11 +10260,11 @@ Article 47 \[code rural\]
 
 
 
-I.- A l?article L. 1263-3 du code du travail, il est ajouté un alinéa ainsi rédigé : 
+I.- A l'article L. 1263-3 du code du travail, il est ajouté un alinéa ainsi rédigé : 
 
 
 
-« Pour l?application des dispositions du présent article, lorsque l?employeur établi hors de France 
+« Pour l'application des dispositions du présent article, lorsque l'employeur établi hors de France 
 
 détache des salariés sur le territoire national exerçant des activités relevant du code rural et de la pêche 
 
@@ -10757,9 +10276,9 @@ sont respectivement remplacées par les références aux articles L. 714-5, L. 714-
 
 
 
-II.- Au 2ème alinéa de l?article L. 4231-1 du code du travail, après les mots : « du présent code », sont 
+II.- Au 2ème alinéa de l'article L. 4231-1 du code du travail, après les mots : « du présent code », sont 
 
-ajoutés les mots : « ou le cas échéant de l?article L. 716-1 du code rural et de la pêche maritime ». 
+ajoutés les mots : « ou le cas échéant de l'article L. 716-1 du code rural et de la pêche maritime ». 
 
 
 
