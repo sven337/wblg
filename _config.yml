@@ -3,9 +3,7 @@ description: Computers, electronics, politics
 markdown: kramdown
 kramdown:
     input: GFM
-    use_coderay: true
-    coderay_defaultlang: C
-highlighter: pygments
+    syntax_highlighter: rouge
 baseurl: /~sven337
 encoding: ISO-8859-15
 url: http://perso.aquilenet.fr/~sven337

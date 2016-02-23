@@ -4,6 +4,6 @@ all:
 	rsync --delete -avP _site/* dionysos.aquilenet.fr:~/public_html
 
 draft:
-	jekyll build -D
+	jekyll build --drafts
 	rsync --delete -avP _site/* dionysos.aquilenet.fr:~/public_html
 
