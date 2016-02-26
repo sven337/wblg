@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critique de l'avant-projet de loi El Khomri
+title: Critique de l'avant-projet de loi El Konneri
 date: 2016-02-23 12:04:58
 tags: politique
 category: francais
@@ -55,11 +55,6 @@ Ci-dessous, le sommaire de l'avant-projet de loi, avec les titres d'origine. En 
   * **Chapitre 1 Un Préambule pour le code du travail \(principes Badinter\)**
   * **Chapitre 2 Création de la commission de refondation du code**
   * **Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés**
-    * Article 3 \[Durée du travail\]  
-    * Article 4 \(congés spécifiques\)  
-    * Article 5 \(CET\)  
-    * Article 6 \(jeunes travailleurs\)  
-    * Article 7 \(dispositions non codifiées forfaits \+ accords de modulation\)  
 * Titre II Favoriser une culture du dialogue et de la négociation  
   * Chapitre 1 : Des règles de négociation plus souples et le renforcement de la loyauté de la négociation  
     * Article 8 \[préambule des accords, méthode, publicité\]  
@@ -290,8 +285,8 @@ le citoyen moyen qui ne lira pas plus loin ne voit que du bien dans ce projet.
 
 ## Chapitre 2 Création de la commission de refondation du code ** 
 
-Sans intérêt. Encore une commission d'incapables qui va pondre des propositions pour la plupart débiles, qui seront 
-de toute façon enterrées.
+Sans intérêt. Encore une commission d'incapables qui va pondre des propositions qui seront 
+enterrées.
 
 ## Chapitre 3 Une nouvelle architecture des règles en matière de durée du travail et de congés ** 
 
@@ -302,8 +297,7 @@ de toute façon enterrées.
 Voici l'article en question : 
 <https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006072050&idArticle=LEGIARTI000006902439&dateTexte=&categorieLien=cid>
 
-Quel intérêt ? Je pense que certaines entreprises s'amusaient à donner à leurs cadres supérieurs (mais non dirigeants) un statut de cadre dirigeant. Cela était déjà contraire à la loi, avec cette précision on met un peu plus les points sur les i.
-
+Quel intérêt ? Je pense que certaines entreprises s'amusaient à donner à leurs cadres supérieurs (mais non dirigeants) un statut de cadre dirigeant. Cela était déjà contraire à la loi, avec cette précision on met un peu plus les points sur les i. Personnellement je ne pleure pas trop sur le sort des cadres supérieurs, dont le salaire (au moins dans les grands groupes) est souvent suffisamment important pour justifier que le droit du travail leur soit appliqué plus souplement.
 
 > **Le titre II du livre Ier de la troisième partie du code du travail est ainsi rédigé : 
 > 
@@ -647,142 +641,45 @@ individualisés sont déterminées par décret en Conseil d'Etat. ** **
 * *
 *« Paragraphe 1 : Dispositions communes *
 ****
-**« Art. L. 3121-51. ***- **La durée du travail peut être forfaitisée en heures ou en jours dans les conditions 
-prévues aux sous-sections 2 et 3. 
-« *Art. L. 3121-52 -* Le forfait en heures est hebdomadaire, mensuel ou annuel. Le forfait en jours est 
-annuel. 
-**« Art. L. 3121-53. ***- **La forfaitisation de la durée du travail doit faire l'objet de l'accord du salarié et d'une convention individuelle de forfait établie par écrit. ** **
-* *
+[...]
 *« Paragraphe 2 : Forfaits en heures *
-****
-**« Art. L. 3121-54. **Peut conclure une convention individuelle de forfait en heures sur la semaine ou 
-sur le mois tout salarié. ** **
-« Peuvent conclure une convention individuelle de forfait en heures sur l'année, dans la limite du 
-nombre d'heures prévu au 3° du I de l'article L.3121-62 : 
-« 1° Les cadres dont la nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au 
-sein de l'atelier, du service ou de l'équipe auquel ils sont intégrés ; 
-« 2° Les salariés qui disposent d'une réelle autonomie dans l'organisation de leur emploi du temps. 
+[...]
 
-**« Art. L. 3121-55. ***- **La rémunération du salarié ayant conclu une convention individuelle de forfait en 
-heures est au moins égale à la rémunération minimale applicable dans l'entreprise pour le nombre 
-d'heures correspondant à son forfait, augmentée des majorations pour heures supplémentaires prévues 
-aux articles L. 3121-27 et L.3121-35. ** **
+> *« Paragraphe 3 : Forfaits en jours *
+> **« Art. L. 3121-56. ***- **Peuvent conclure une convention individuelle de forfait en jours sur l'année, dans 
+> la limite du nombre de jours prévu au 3° du I de l'article L.3121-62 :** **
+> « 1° Les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la 
+> nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du 
+> service ou de l'équipe auquel ils sont intégrés ; 
+> « 2° Les salariés dont la durée du temps de travail ne peut être prédéterminée et qui disposent d'une 
+> réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des responsabilités qui 
+> leur sont confiées. 
 
-*« Paragraphe 3 : Forfaits en jours *
-**« Art. L. 3121-56. ***- **Peuvent conclure une convention individuelle de forfait en jours sur l'année, dans 
-la limite du nombre de jours prévu au 3° du I de l'article L.3121-62 :** **
-« 1° Les cadres qui disposent d'une autonomie dans l'organisation de leur emploi du temps et dont la 
-nature des fonctions ne les conduit pas à suivre l'horaire collectif applicable au sein de l'atelier, du 
-service ou de l'équipe auquel ils sont intégrés ; 
-« 2° Les salariés dont la durée du temps de travail ne peut être prédéterminée et qui disposent d'une 
-réelle autonomie dans l'organisation de leur emploi du temps pour l'exercice des responsabilités qui 
-leur sont confiées. 
+Reprise à l'identique de l'actuel L.3121-43.
 
-**« Art. L. 3121-57.-*** **Le salarié qui le souhaite peut, en accord avec son employeur, renoncer à une partie 
-de ses jours de repos en contrepartie d'une majoration de son salaire. L'accord entre le salarié et 
-l'employeur est établi par écrit. ** **
-
-« Un avenant à la convention de forfait conclue entre le salarié et l'employeur détermine le taux de la 
-majoration applicable à la rémunération de ce temps de travail supplémentaire, sans qu'il puisse être 
-inférieur à 10 %. Cet avenant est valable pour l'année en cours. Il ne peut être reconduit de manière 
-tacite. ** ** 
-
+> [...]
 > **** *Art. L. 3121-58. *- Lorsque l'employeur a fixé des échéances et une charge de travail compatibles avec 
 > le respect des repos quotidien et hebdomadaire et des congés du salarié, sa responsabilité ne peut être 
 > engagée au seul motif que le salarié n'a, de sa propre initiative, pas bénéficié de ces repos ou congés. ** **
 
-XXX logique!
+Cet article est une nouveauté. Jusqu'à présent l'employeur avait la responsabilité de prouver que le salarié
+avait bien pris ses congés, et il était responsable d'imposer au salarié de les prendre. Désormais, si le salarié
+ne les prend pas et que ce n'est pas à cause d'une contrainte de l'employeur (charge de travail excessive), 
+l'employeur n'a plus à se soucier de savoir si le salarié prend ses congés.
+C'est en fait assez logique.
 
-> **« Art. L. 3121-59. ***- **Lorsqu'un salarié ayant conclu une convention de forfait en jours perçoit une 
-> rémunération manifestement sans rapport avec les sujétions qui lui sont imposées, il peut, nonobstant 
-> toute clause contraire, conventionnelle ou contractuelle, saisir le juge judiciaire afin que lui soit 
-> allouée une indemnité calculée en fonction du préjudice subi, eu égard notamment au niveau du salaire 
-> pratiqué dans l'entreprise, et correspondant à sa qualification. ** **
+> « Art. L. 3121-59. 
+> [...]
+> « Art. L. 3121-60. 
+> [...]
 
-XXXX c'était déjà le cas avant, vérifier si modif (article inutile)
+Ces deux articles sont la reprise à l'identique des actuels L.3121-47 et L.3121-48. Encore du texte pour rien (simplement pour renuméroter les articles).
 
-> **« Art. L. 3121-60. ***- **Les salariés ayant conclu une convention de forfait en jours ne sont pas soumis aux 
-> dispositions relatives :** **
-> « 1° A la durée quotidienne maximale de travail prévue à l'article L. 3121-16 ; 
-> « 2° Aux durées hebdomadaires maximales de travail prévues aux articles L. 3121-19 et L. 3121-20. 
-> « 3° A la durée légale hebdomadaire prévue à l'article L. 3121-26 ; 
+> *« Sous-section 2 : Champ de la négociation collective *
+> [...]
+> « Art. L. 3121-64.-*** **A défaut d'accord collectif prévu à l'article L. 3121-62, dans les entreprises de moins de cinquante salariés, des conventions individuelles de forfaits en jours et en heures sur l'année peuvent être conclues sous réserve que l'employeur fixe les règles et respecte les garanties mentionnées aux articles L.3121-62 à L.3121-63. ** **
 
-XXXX c'était déjà le cas avant, vérifier si modif (article inutile)
-
-*« Sous-section 2 : Champ de la négociation collective *
-* *
-**« Art. L. 3121-61. *** **Les forfaits annuels en heures ou en jours sur l'année sont mis en place par accord 
-collectif d'entreprise ou d'établissement ou, à défaut, par une convention ou un accord de branche. 
-« *Art. L. 3121-62.-** *** I**. - **L'accord prévoyant la conclusion de conventions individuelles de forfait en heures ou en jours sur l'année détermine :** **
-« 1° les catégories de salariés susceptibles de conclure une convention individuelle de forfait, dans 
-le respect des dispositions des articles L. 3121-54 et L. 3121-56 ; 
-« 2° la période de référence du forfait, qui peut être l'année civile ou toute autre période de douze 
-mois consécutifs ; 
-« 3° le nombre d'heures ou de jours compris dans le forfait dans la limite de deux cent dix-huit 
-jours s'agissant du forfait en jours ;? 
-« 4° les conditions de prise en compte, pour la rémunération des salariés, des absences ainsi que 
-des arrivées et départs en cours de période ; 
-« 5° les caractéristiques principales des conventions individuelles qui doivent notamment fixer le 
-nombre d'heures ou de jours compris dans le forfait. 
-**« **II. ** **L'accord autorisant la conclusion de conventions individuelles de forfait en jours détermine :** **
-« 1° les modalités selon lesquelles l'employeur assure l'évaluation et le suivi régulier de la charge de 
-travail du salarié ; 
-« 2° les modalités selon lesquelles l'employeur et le salarié échangent périodiquement sur la charge de 
-travail du salarié, l'articulation entre son activité professionnelle et sa vie personnelle, sa 
-rémunération, ainsi que sur l'organisation du travail dans l'entreprise ;? 
-17 
-« 3° les modalités selon lesquelles le salarié peut exercer son droit à la déconnexion prévu au 1° de 
-l'article L. 2242-8. 
-« L'accord peut fixer le nombre maximal de jours travaillés dans l'année lorsque le salarié renonce à 
-une partie de ses jours de repos en application des dispositions de l'article L. 3121-57. Ce nombre de 
-jours doit être compatible avec les dispositions du titre III relatives au repos quotidien, au repos 
-hebdomadaire et aux jours fériés chômés dans l'entreprise, et du titre IV relatives aux congés payés. 
-« L'accord peut également fixer les modalités selon lesquelles le salarié peut, à sa demande et avec 
-l'accord de l'employeur, fractionner son repos quotidien ou hebdomadaire dès lors qu'il travaille en 
-dehors de son lieu de travail au moyen d'outils numériques. L'accord détermine notamment la durée 
-minimale de repos quotidien et hebdomadaire ne pouvant faire l'objet d'un fractionnement. 
-*« Sous-section 3 : Dispositions supplétives *
-****
-**« Art. L. 3121-63. ***? **A défaut** **des stipulations conventionnelles prévues au 1° et 2° du II de l'article 
-L.3121-62, une convention individuelle de forfait en jours peut être valablement conclue sous réserve 
-du respect des dispositions suivantes :** **
-« 1°  l'employeur établit un document de contrôle du nombre de jours travaillés faisant apparaître le 
-nombre et la date des journées ou demi-journées travaillées. Sous la responsabilité de 
-l'employeur, ce document peut être rempli par le salarié ; 
-« 2° l'employeur s'assure du bénéfice, par le salarié, de son repos quotidien et hebdomadaire ; 
-« 3° l'employeur organise une fois par an un entretien avec le salarié pour évoquer sa charge de 
-travail qui doit être raisonnable, l'organisation de son travail, l'articulation entre son activité 
-professionnelle et sa vie personnelle, ainsi que sa rémunération. 
-****
-**« Art. L. 3121-64.-*** **A défaut d'accord collectif prévu à l'article L. 3121-62, dans les entreprises de moins de cinquante salariés, des conventions individuelles de forfaits en jours et en heures sur l'année peuvent être conclues sous réserve que l'employeur fixe les règles et respecte les garanties mentionnées aux articles L.3121-62 à L.3121-63. ** **
-**« Art. L. 3121-65. ***- **En cas de renonciation, par le salarié, à des jours de repos en application des 
-dispositions de l'article L. 3121-57, et à défaut de précision dans l'accord collectif mentionné à 
-l'article L. 3121-62, le nombre maximal de jours travaillés dans l'année est de deux cent trente-cinq 
-jours. 
-* « Section 6 : Dispositions d'application *
-**« Art. L. 3121-66* - Des décrets en Conseil d'Etat déterminent les modalités d'application du 
-présent chapitre pour l'ensemble des branches d'activité ou des professions ou pour une 
-branche ou une profession particulière. Ces décrets fixent notamment : 
-« 1° La répartition et l'aménagement des horaires de travail ; 
-« 2° Les conditions de recours aux astreintes ; 
-« 3° Les dérogations permanentes ou temporaires applicables dans certains cas et pour certains 
-emplois ; 
-18 
-« 4° Les périodes de repos ; 
-« 5° Les modalités de récupération des heures de travail perdues ; 
-« 6° Les mesures de contrôle de ces diverses dispositions. 
-« Ces décrets sont pris et révisés après consultation des organisations d'employeurs et de salariés 
-intéressées et au vu, le cas échéant, des résultats des négociations intervenues entre ces dernières. 
-« Art. L. 3121-67 - Il peut être dérogé par convention ou accord collectif étendu ou par convention ou 
-accord d'entreprise ou d'établissement à celles des dispositions des décrets prévus à l'article L. 3121-
-66 qui sont relatives à l'aménagement et à la répartition des horaires de travail à l'intérieur de la 
-semaine, aux périodes de repos, aux conditions de recours aux astreintes, ainsi qu'aux modalités de 
-récupération des heures de travail perdues lorsque la loi permet cette récupération. 
-« En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les 
-dispositions de ces décrets auxquelles il avait été dérogé redeviennent applicables. 
-**« Art. L. 3121-68***- **Un décret en Conseil d'Etat détermine les mesures d'application des articles L. 
-3121-23 à L. 3121-25. ** **
-
+Cela semble être une nouveauté : les petites entreprises peuvent désormais mettre en place du forfait jours.
 
 > *« Chapitre II : Travail de nuit *
 
@@ -1761,23 +1658,14 @@ Ben voyons.
 Sans commentaire.
 
 ### Article 10 \[retouches\] 
-> ****I. A la section première du chapitre II du titre II du livre III de la deuxième partie du code du travail, 
-> l'article L. 2322-5 est complété par un alinéa ainsi rédigé : 
-> « En cas de contestation, le recours à l'encontre de la décision de l'autorité administrative relève de la 
-> compétence du juge judiciaire. » 
+> [...]
 > II. A la section 3 du chapitre II du titre III du livre II de la deuxième partie du code du travail, après le 
 > troisième alinéa de l'article L.2232-22, il est inséré un alinéa ainsi rédigé : 
 > « La commission se prononce sur la validité de l'accord dans les quatre mois qui suivent sa 
 > transmission ; à défaut, l'accord est réputé avoir été validé ». 
 
-XXX creuser
-
-> III. L'article L.2326-5 est complété par un alinéa ainsi rédigé : 
-> « 8° Les réunions de la délégation peuvent se dérouler en visioconférence dans les conditions prévues 
-> à l'article L.2325-5-1, y compris lorsque l'ordre du jour comporte des points relevant uniquement des 
-> attributions des délégués du personnel. 
-
-XXX à creuser (intérêt juridique ?)
+Point de détail : dans une entreprise qui a des représentants du personnel élus, mais pas de délégués syndicaux, la possibilité de conclure un accord collectif est très limitée. Elle est soumise à l'approbation de l'accord par une "commission paritaire de branche". Cet ajout assure que si la commission traîne un peu trop, l'accord sera automatiquement validé.
+C'est une bonne chose car cela facilite la signature d'accords en l'absence de délégués syndicaux, dont l'existence n'est pas toujours gage de qualité du dialogue social.
 
 > [...]
 
@@ -1794,7 +1682,7 @@ XXX à creuser (intérêt juridique ?)
 > représentatives ayant recueilli la majorité des suffrages exprimés à ces mêmes élections, quel que soit 
 > le nombre de votants » sont supprimés ; 
 
-XXX à creuser
+Cela ressemble bien à un durcissement des conditions de validité d'un accord majoritaire, c'est-à-dire qu'il faudra un accord plus large entre syndicats au sein d'une entreprise pour que l'accord soit valide. D'un côté, c'est bien, car l'accord majoritaire acquiert plus de pouvoir avec cette loi (notamment sur le temps de travail), d'un autre côté, cela va compliquer la signature d'accords lorsque tous les syndicats ne sont pas d'accord, et je ne sais pas si c'est nécessairement une bonne idée.
 
 > 2° Le deuxième alinéa est remplacé par sept alinéas ainsi rédigés : 
 > « Si cette condition n'est pas satisfaite et que l'accord a été signé par des organisations syndicales 
@@ -1912,7 +1800,7 @@ Complètement inutile. Il n'y a pas besoin de cet article pour autoriser les coll
 > « 1° Au début du 1° le mot « dix » est remplacé par le mot « douze » ; 
 > « 2° Au début du 2° le mot « quinze » est remplacé par le mot « dix-huit ». 
 
-XXX vérifier, grosseuh blagueuh ?
+C'est une augmentation de 20% du temps de délégation dont disposent les délégués syndicaux. Je n'aime pas beaucoup cette disposition, car les délégués syndicaux ne sont pas élus (contrairement aux membres du CE ou délégués du personnel), leur attribuer trop d'avantages en fait rapidement une "planque" qui attire les personnalités les plus nuisibles.
 
 ### Article 17 \[expertise CHSCT\] 
 
@@ -1920,7 +1808,7 @@ Sans intérêt. De toute façon ces expertises servent avant tout à enrichir les ex
 
 ### Article 18 \[formation des acteurs du dialogue social\] 
 
-> I. **\[0,2 du CE\]** A la section VIII du chapitre V du titre II du livre troisième de la deuxième partie du 
+> [NdSven337: formation du CE] A la section VIII du chapitre V du titre II du livre troisième de la deuxième partie du 
 > code du travail, l'article L. 2325-43 du code du travail est complété par deux alinéas ainsi rédigés : 
 > « Le comité d'entreprise peut décider, par une délibération, de dédier une partie de son budget de 
 > fonctionnement au financement de la formation des délégués du personnel et des délégués syndicaux 
@@ -1931,7 +1819,6 @@ Sans intérêt. De toute façon ces expertises servent avant tout à enrichir les ex
 
 Très bien.
 
-> [...]
 
 ### Article 19 \[Mesure de l'audience patronale\] 
 
@@ -2162,11 +2049,9 @@ Je pense qu'il faudrait imposer plus sérieusement à l'employeur de permettre aux
 > b\) Le deuxième alinéa est ainsi rédigé : 
 > « Elle peut également avoir lieu par vote électronique selon les modalités fixées par un décret en 
 > Conseil d'Etat, si un accord d'entreprise ou, à défaut, l'employeur, le décide 
-> 2° L'article L. 2324-19 est ainsi modifié : 
-> a\) Après les mots : « sous enveloppe », la fin du premier alinéa est supprimée ; 
-> b\) Le deuxième alinéa est ainsi rédigé : 
-> « Elle peut également avoir lieu par vote électronique selon les modalités fixées par un décret en 
-> Conseil d'Etat, si un accord d'entreprise ou, à défaut, l'employeur, le décide. 
+
+On élargit les possibilités de vote électronique pour les élections des représentants du personnel. Je suis assez partagé sur cette disposition. D'un côté, le vote électronique est, sur le plan des garanties (secret, vérifiabilité), une catastrophe. Il se prête à la fois à la fraude et aux pressions sur les électeurs, et la fraude est non seulement facile à commettre mais, en plus, indétectable. 
+D'un autre côté, simplifier les scrutins n'est pas une mauvaise idée étant donné la relative usine à gaz que cela représente, surtout dans les entreprises où tous les salariés ne sont pas sur site.
 
 # Titre IV Favoriser l'emploi 
 
@@ -2185,7 +2070,7 @@ Je pense qu'il faudrait imposer plus sérieusement à l'employeur de permettre aux
 > territoriales, des organisations syndicales et professionnelles, ou tout autre acteur qu'elle estime 
 > compétent. » 
 
-C'est très bien, car le droit du travail est très complexe et les petits employeurs n'ont pas forcément les moyens ou le temps de se payer leur propre avocat (dont la compétence est par ailleurs rarement à l'échelle de leurs honoraires, comme j'ai pu en faire l'expérience). Mais je pense que c'est une solution au mauvais problème. Le problème de fond est que le droit du travail est trop compliqué, et comporte trop de dérogations et de points de détails, qui font qu'il faut avoir soit une bonne expérience en droit et en français juridique pour prétendre le comprendre un minimum (ce qui est mon cas, mais je ne doute pas que je fais un grand nombre d'erreurs dans mon interprétation), soit beaucoup d'argent pour se payer les services d'un professionnel dont on espère que son expérience en droit est suffisante pour faire peu d'erreurs.
+Le droit du travail est très complexe et les petits employeurs n'ont pas forcément les moyens ou le temps de se payer leur propre avocat (dont la compétence est par ailleurs rarement à l'échelle de leurs honoraires, comme j'ai pu en faire l'expérience). Mais je pense que c'est une solution au mauvais problème. Le problème de fond est que le droit du travail est trop compliqué, et comporte trop de dérogations et de points de détails, qui font qu'il faut avoir soit une bonne expérience en droit et en français juridique pour prétendre le comprendre un minimum (ce qui est mon cas, mais je ne doute pas que je fais un grand nombre d'erreurs dans mon interprétation), soit beaucoup d'argent pour se payer les services d'un professionnel dont on espère que son expérience en droit est suffisante pour faire peu d'erreurs.
 
 La bonne solution serait de simplifier au maximum, à périmètre égal de protection pour les salariés et les employeurs, en diminuant le volume de texte ; c'est-à-dire qu'il faut supprimer tous les articles qui n'ont aucun effet (or, on a vu précédemment que ce projet de loi fait exactement l'inverse), et ensuite de supprimer toutes les dispositions prétendument protectrices mais qui par leur spécificité ou leur complexité ont pour seul effet de "juridiciser" la relation de travail.
 
@@ -2197,7 +2082,7 @@ Détail sans grand intérêt.
 
 ### Article 28 \[Barème prud'homal\]  (sic)
 
-On écrit "prud'hom**m**al", mais bon, ce n'est pas comme si c'était un des articles les plus critiques de ce texte.
+On écrit "prud'hom**m**al", mais bon, ce n'est pas comme si c'était un des articles les plus fondamentaux de ce texte.
 Notre législateur est un consultant J2EE ivre.
 
 > **I. - LE CHAPITRE V DU TITRE III DU LIVRE II DE LA PREMIERE **
@@ -2218,6 +2103,15 @@ Notre législateur est un consultant J2EE ivre.
 > « Cette indemnité est cumulable, le cas échéant, avec les indemnités prévues aux articles \[L. 
 > 1235-2,\] L. 1235-12, L. 1235-13 et L. 1235-15, dans la limite des montants maximum prévus au présent article. » ; 
 
+On instaure donc un plafond d'indemnités aux prud'hommes. En pratique, cela signifie surtout qu'on instaure un permis de licencier moyennant une indemnité. Je ne trouve pas que c'est une mauvaise idée *en soi* d'avoir un tel permis, à condition que l'indemnité soit suffisante pour être dissuassive (ce qui n'est absolument pas le cas ici) ; mais cela pose un problème juridique.
+En effet le préjudice qu'une personne vous inflige est supposé être entièrement (mais pas plus) indemnisé, de telle sorte que l'indemnité neutralise le préjudice subi (En d'autres termes il faudrait qu'après coup, vous n'ayiez pas de préférence entre la situation avant et après. C'est évidemment compliqué si on vous indemnise la perte d'un membre ou d'un enfant.). Je rappelle qu'en France, les indemnités ne peuvent jamais dépasser le préjudice subi : il n'existe ainsi pas d'indemnités *punitives* comme aux USA.
+Le problème avec cet article, c'est qu'il y a des situations, nombreuses, où un licenciement abusif cause un préjudice qui est très supérieur à trois mois de salaire (pour les petites anciennetés). De plus, le législateur codifie que le préjudice subi lors d'un licenciement abusif est plus ou moins propostionnel à l'ancienneté, or j'estime que cela est faux. Le préjudice subi est une fonction affine de l'ancienneté (et du salaire) ; cette loi instaure une proportionnalité qui fait que les petits salaires ou petites anciennetés sont indemnisé dans des proportions ridicules.
+
+Les employeurs souhaitent avoir une sécurité juridique en connaissant le coût maximal d'un licenciement abusif. Leur donner cette information n'est pas équivalent à leur donner la garantie que la somme sera faible, ce que fait ce projet de loi. Pour moi, on devrait fixer cette somme à environ 150 000 euros, indépendamment de tout paramètre. C'est le juge qui fixera ensuite, comme il en a l'habitude actuellement, la somme à accorder entre 0 et ce plafond. 
+
+L'OCDE (nous indique)[http://stats.oecd.org/Index.aspx?DataSetCode=TENURE_AVE&Lang=fr] que 46% des salariés en France ont plus de 10 ans d'ancienneté, 20% plus de 5 ans (et moins de 10), et 20% de 1 à 5 ans d'ancienneté. 
+
+Ce n'est
 > 3° Après l'article L. 1235-3, sont insérés deux articles ainsi rédigés : 
 > « *Art. L. 1235-3-1. -* Lorsque la rupture du contrat de travail est prononcée par le juge 
 > judiciaire ou fait suite à une demande du salarié dans le cadre de la procédure mentionnée à l'article L. 
@@ -2268,9 +2162,9 @@ XXX
 > aux dispositions législatives antérieures à la présente loi. Ces dispositions s'appliquent également en 
 > appel et en cassation. 
 
-Non rétroactivité de cette loi pour les procédures en cours. Je rappelle que c'est un principe fondamental... du droit pénal. En droit du travail (ou, bien plus souvent, en droit fiscal), on peut parfaitement imaginer une disposition qui aurait un effet rétroactif, et cela arrive parfois.
-XXX exemple (mutuelles ?)
-C'est donc bien que la non-rétroactivité soit précisée, même si elle est par défaut. (XXX preuve)
+Non rétroactivité de cette loi pour les procédures en cours. Je rappelle que c'est un principe fondamental de la loi française, mais qui n'est garanti qu'en droit pénal. En droit du travail (ou fiscal), on peut parfaitement imaginer une disposition qui aurait un effet rétroactif, et cela arrive parfois.
+XXX exemple (mutuelles pas vraiment le cas)
+C'est donc bien que la non-rétroactivité soit précisée.
 
 ### Article 29 \[rescrit\] 
 
@@ -2278,41 +2172,16 @@ C'est donc bien que la non-rétroactivité soit précisée, même si elle est par déf
 > position formelle, opposable à l'administration, sur l'application d'une norme à la situation de fait ou au 
 > projet du demandeur est ratifiée. 
 
-XXX lire cette ordonnance
+Voici l'ordonnance en question.
+https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000031593830&categorieLien=id
+
+Si une partie de cette ordonnance touche bien au code du travail, cet article 29 de la loi me semble être un cavalier législatif, qui devrait donc se voir censurer par le conseil constitutionnel.
 
 ## Chapitre 2 Renforcer la formation professionnelle et l'apprentissage *
 
 ### Article 30 \[Apprentissage\] 
 
-I. L'article L 6231-1 du code du travail est complété par un alinéa ainsi rédigé : 
-« 9° Délivrent au profit de tout apprenti une attestation mentionnant notamment les objectifs, la durée 
-et les résultats de l'évaluation des compétences acquises, en lien avec le référentiel de certification, 
-conformément au modèle qui sera établi par un arrêté conjoint du ministre chargé de la formation 
-professionnelle et du ministre de l'Education nationale.» 
-II. L'article L. 6242-6 est supprimé. 
-III. Le troisième alinéa de l'article L. 6241-9 du code du travail est remplacé quatre alinéas ainsi 
-rédigés : 
-« 2° Les établissements privés d'enseignement du second degré gérés par des organismes à but non 
-lucratif et qui remplissent l'une des conditions suivantes : 
-« a\) Être lié avec l'État par l'un des contrats d'association mentionnés à l'article L. 442-5 du code de 
-l'éducation ou à l'article L. 813-1 du code rural et de la pêche maritime ; 
-« b\) Être habilité à recevoir des boursiers nationaux conformément aux procédures prévues à l'article 
-L. 531-4 du code de l'éducation ;? 
-« c\) Être reconnu conformément à la procédure prévue à l'article L. 443-2 du code de l'éducation. 
-IV. L'article L.6332-16 du code du travail est complété par un alinéa ainsi rédigé: 
-« Dans les mêmes conditions, ils peuvent également prendre en charge les organismes de formation 
-professionnelle initiale ou continue à but non lucratif figurant sur une liste arrêtée par le ministre en 
-charge de la formation professionnelle et du ministère de l'éducation nationale et concourant par leurs 
-enseignements technologiques et professionnels à l'insertion des jeunes sans qualification ». 
-86 
-V. Les organismes visés à l'article L. 6232-1 du code du travail, peuvent, jusqu'au 31 décembre 2020, 
-créer un centre de formation d'apprentis répondant aux objectifs de l'article L. 6211-1 du présent 
-code, par dérogation aux articles L. 6232-1, L. 6232-2, L. 6232-3 et L. 6232-4 du même code. 
-Ce centre de formation d'apprentis comprend un conseil de perfectionnement. 
-Il rend compte annuellement de son activité au comité régional de l'emploi, de la formation et de 
-l'orientation professionnelles. 
-L'organisme gestionnaire de cecentre de formation d'apprentis ne peut percevoir de subvention 
-d'équipement ou de fonctionnement de la région. 
+Sans commentaire.
 
 ### Article 31 \[Validation des acquis de l'expérience\] 
 
@@ -2367,137 +2236,33 @@ comme suit :
 
 ### Article 32 \[Compte personnel de formation\] 
 
-Le II de l'article L 6323-16 du code du travail est ainsi rédigé : 
-« II. ? Pour l'établissement des listes mentionnées aux 1° à 3° du I du présent article, les instances 
-concernées déterminent les critères selon lesquels les formations sont inscrites et prévoient la 
-publication de ces critères. Ces listes sont actualisées de façon régulière. » 
+Sans commentaire. 
 
 ### Article 33 \[Information et évaluation\] 
 
-I. Après l'article L.6111-7 du code du travail, il est inséré l'article suivant : 
-« Art L 6111-4 : 
-« Chaque année, les résultats d'une enquête nationale qualitative relative au taux d'insertion des 
-formations dispensées dans les centres de formation d'apprentissage, les sections d'apprentissage et 
-les lycées professionnels, sont rendus publics. Le contenu des informations publiées et leurs modalités 
-de diffusion sont déterminés par arrêté conjoint du ministre en charge de la formation professionnelle 
-et du ministre en charge de l'éducation nationale. 
-II. L'article L. 6121-6 est complété par un alinéa ainsi rédigé : 
-« Cette diffusion comprend notamment des informations sur l'offre de formation dans les territoires 
-accessible aux actifs, les modalités et les délais d'accès aux formations ainsi que les modalités de 
-déroulement de ces formations et les résultats obtenus en matière d'accès à l'emploi et de 
-certifications. Elle comprend également des informations relatives à la qualité de l'offre ». 
-III. Après l'article L.6341-6 du code du travail, il est inséré l'article L. 6341-7 ainsi rédigé : 
-« Les institutions mentionnées à l'article L.6341-1 transmettent chaque mois au service statistique du 
-ministère chargé de la formation professionnelle les informations individuelles relatives aux stagiaires 
-de la formation professionnelle dont ils assurent le financement de la rémunération. Le contenu de ces 
-informations est défini par arrêté du ministre chargé de la formation professionnelle. 
-Le service statistique du ministère chargé de la formation professionnelle publie trimestriellement à un 
-niveau national et régional les résultats de l'exploitation des données recueillies en application du 
-présent article ». 
-IV. Le deuxième alinéa de l'article L 6121-5 est supprimé ; 
-V. Après l'article L.6353-9, il est introduit une nouvelle section ainsi rédigée : 
-« Section 4 : 
-« Obligations vis-à-vis des financeurs 
-« Article L.6353-10. - Les organismes de formation informent le financeur de la formation, dans un 
-délai et des conditions définies par décret, de l'entrée, des interruptions, des sorties effectives pour 
-chacun de leurs stagiaires ainsi que les données relatives à l'emploi et au parcours de formation 
-professionnelle dont ils disposent sur ces derniers. 
-« Les organismes financeurs, l'organisme gestionnaire du système d'information du compte personnel 
-de formation mentionné au III de l'article L.6323-8, et les institutions et organismes en charge du 
-conseil en évolution professionnelle mentionnés à l'article L.6111-6 partagent les données 
-mentionnées au précédent alinéa sous forme dématérialisée et dans des conditions définies par décret 
-en conseil d'Etat après avis de la Commission nationale de l'informatique et des libertés. » ; 
-VI. L'article L6111-7 est supprimé. 
+> I. Après l'article L.6111-7 du code du travail, il est inséré l'article suivant : 
+> « Art L 6111-4 : 
+> « Chaque année, les résultats d'une enquête nationale qualitative relative au taux d'insertion des 
+> formations dispensées dans les centres de formation d'apprentissage, les sections d'apprentissage et 
+> les lycées professionnels, sont rendus publics. 
+
+Par qui ? L'étude est réalisée par qui ? Avec quels moyens ?
+
+> Le contenu des informations publiées et leurs modalités 
+> de diffusion sont déterminés par arrêté conjoint du ministre en charge de la formation professionnelle 
+> et du ministre en charge de l'éducation nationale. 
+
+Donc cet article n'a rien à faire dans la loi, qu'il alourdit inutilement.
 
 ## Chapitre 3 Sécuriser les acteurs du monde de l'emploi
 
-### Article 34 \[portage salarial\] 
+Pas de commentaire sur les articles suivants :
 
-I. L'ordonnance n° 2015-380 du 2 avril 2015 relative au portage salarial est ratifiée. 
-II. Dans la deuxième phrase de l'article L. 1254-9 du code du travail, les mots : « et de l'indemnité » 
-sont supprimés. 
-III. Après l'article L. 1255-13 du code du travail, il est ajouté une section 3 ainsi rédigée : 
-*« Section 3 *
-*« Portage salarial *
-« *Art. L. 1255-14*. - Est puni d'une amende de 3 750 ?, le fait pour un entrepreneur de portage 
-salarial : 
-89 
-« 1° De conclure un contrat de travail en portage salarial pour une activité de services en 
-méconnaissance des dispositions de l'article L. 1254-5 ; 
-« 2° De conclure un contrat de travail en portage salarial sans respecter les dispositions 
-prévues par l'article L. 1254-7 ; 
-« 3° De conclure un contrat de travail en portage salarial à durée déterminée ne comportant 
-pas un terme précis ou ne fixant pas de durée minimale lorsque le contrat ne comporte pas un terme 
-précis en méconnaissance des dispositions l'article L. 1254-11 ; 
-« 4° De méconnaître les durées maximales du contrat de travail en portage salarial à durée 
-déterminée prévues aux articles L. 1254-12, L. 1254-13 et L. 1254-17 ; 
-« 5° De conclure un contrat de travail en portage salarial ne comportant pas la mention 
-obligatoire prévue aux articles L. 1254-14 et L. 1254-20 ; 
-« 6° De conclure un contrat de travail en portage salarial ne comportant pas l'ensemble des 
-clauses et mentions prévues aux articles L. 1254-15 et L. 1254-21 ; 
-« 7° De ne pas transmettre au salarié porté le contrat de travail en portage salarial dans le délai 
-prévu à l'article L. 1254-16 ; 
-« 8° De ne pas conclure avec une entreprise cliente d'une personne portée le contrat 
-commercial écrit de prestation de portage salarial dans le délai prévu à l'article L. 1254-22 ou de ne 
-pas avoir délivré dans le même délai au salarié porté une copie de ce contrat ; 
-« 9° De conclure avec une entreprise cliente d'une personne portée un contrat commercial de 
-prestation de portage salarial ne comportant pas les mentions prévues à l'article L. 1254-23 ; 
-« 10° De méconnaître les dispositions relatives aux conditions d'exercice de l'activité de 
-portage salarial prévues à l'article L. 1254-24 ; 
-« 11° De méconnaître l'obligation de mettre en place et de gérer pour chaque salarié porté un 
-compte d'activité conformément aux dispositions de l'article L. 1254-25 ; 
-« 12° D?exercer son activité sans avoir souscrit de garantie financière, en méconnaissance des 
-dispositions de l'article L. 1254-26 ; 
-« 13° D?exercer son activité sans avoir effectué la déclaration préalable prévue à 
-l'article L. 1254-27 ; 
-« 14° De ne pas respecter, en méconnaissance de l'article L. 1254-28, les obligations relatives 
-à la médecine du travail définies dans les articles L. 4121-1 à L. 4121-5. 
-« La récidive est punie d'un emprisonnement de six mois et d'une amende de 7 500 ?. 
-« La juridiction peut prononcer en outre l'interdiction d'exercer l'activité d'entreprise de 
-portage salarial pour une durée de deux à dix ans. 
-« *Art. L. 1255-15. - * Est puni d'une amende de 3 750 ? le fait pour une entreprise ou son 
-dirigeant de droit ou de fait de conclure un contrat de portage salarial sans remplir les conditions 
-requises pour exercer cette activité en application des articles L. 1254-24, L. 1254-25, L. 1254-26 et L. 
-1254-27. 
-90 
-*« Art. L. 1255-16. - * Est puni d'une amende de 3 750 ?, le fait pour une entreprise cliente ou 
-son dirigeant de droit ou de fait : 
-« 1° De recourir à un salarié porté en dehors des cas prévus à l'article L. 1254-3 ; 
-« 2° De méconnaître les interdictions de recourir à un salarié porté prévues aux 
-articles L. 1254-4 et L. 1254-5 ; 
-« 3° De ne pas conclure avec l'entreprise de portage salarial le contrat commercial écrit de 
-prestation de portage salarial dans le délai prévu à l'article L. 1254-22 ; 
-« 4° De conclure avec l'entreprise de portage salarial un contrat commercial écrit de prestation 
-de portage salarial ne comportant pas les mentions prévues à l'article L. 1254-23. 
-« La récidive est punie d'un emprisonnement de six mois et d'une amende de 7 500 ?. 
-*« Art. L. 1255-17. -* Le fait de méconnaître, directement ou par personne interposée, 
-l'interdiction d'exercer l'activité de portage salarial prononcée par la juridiction en application du 
-dernier alinéa de l'article L. 1255-14 est puni d'un emprisonnement de six mois et d'une amende de 
-6 000 ?. 
-*« Art. L. 1254-18. -* Dans tous les cas prévus à la présente section, la juridiction peut ordonner, 
-à titre de peine complémentaire, l'affichage ou la diffusion de l'intégralité ou d'une partie de la 
-décision, ou d'un communiqué informant le public des motifs et du dispositif de celle-ci, aux frais de 
-l'entrepreneur de portage salarial ou de l'entreprise cliente condamnée, dans les conditions prévues à 
-l'article 131-35 du code pénal, et son insertion, intégrale ou par extraits, dans les journaux qu'elle 
-désigne. Elle détermine, le cas échéant, les extraits de la décision et les termes du communiqué qui 
-devront être affichés ou diffusés. » 
-IV- Le code du travail est ainsi modifié : 
-1° A l'article L. 1255-11, la référence : « L. 1254-2 » est remplacée par la référence : « L. 
-1255-2 » ; 
-2° Au 1° de l'article L. 5132-14, les mots : « aux articles L. 1254-1 à L. 1254-12 » sont 
-remplacés par les mots : « aux articles L. 1255-1 à L. 1255-12 ». 
-V- Au premier alinéa de l'article L. 5542-51 du code des transports, la référence : « L. 1254-2 » est 
-remplacée par la référence : « L. 1255-2 ». 
-* *
-* *
-
-### Article 35\[Sécurisation contrat saisonnier et négo\] 
-
-Sans commentaire.
-
-### Article 36 \[groupements d'employeurs\] 
-
-Sans commentaire.
+- Article 34 \[portage salarial\] 
+- Article 35\[Sécurisation contrat saisonnier et négo\] 
+- Article 36 \[groupements d'employeurs\] 
+- Article 38 \[indus et périodes non déclarées\] 
+- Article 39 \[transferts\] 
 
 ### Article 37 \[Prolongation du plan de transformation des emplois de contrôleurs du travail en inspecteurs du travail\] 
 
@@ -2516,251 +2281,28 @@ Je ne suis pas convaincu de l'utilité de cette disposition dans la loi. Un décre
 Quel est l'intérêt de cette disposition ? L'administration n'ouvrira jamais que les postes dont elle a besoin (et je présume que c'est bien plus de 250 par an), dans la limite de son budget (dont je présume qu'il la limite de toute façon à moins de 250 postes par an).
 De toute façon, le ministre a toute autorité sur son administration, donc cette disposition ne contraint pas utilement l'administration. Cela n'a rien à faire dans la loi et relève du domaine réglementaire.
 
-> [...]
-> c\) Il est ajouté un article L. 5544-64 ainsi rédigé : 
-> « *Art. L. 5544-64*. - L'employeur encourt les amendes administratives prévues au premier alinéa de 
-> l'article L. 8115-1 et aux articles L. 8115-2 à L. 8115-7 du code du travail en cas de manquement : 
-> « 1° Aux dispositions relatives aux durées maximales du travail fixées aux I à III de l'article L. 5544-4, 
-> et aux mesures réglementaires prises pour son application ; 
-> « 2° Aux dispositions relatives aux repos prévus aux articles L. 5544-15, L. 5544-16, L. 5544-17 et L. 
-> 5544-18, et aux mesures réglementaires prises pour leur application ; 
-> « 3° Aux dispositions relatives au décompte de la durée du travail et des repos fixées par les articles 
-> L. 5544-4 et L. 5544-16 et aux mesures réglementaires prises pour leur application ; 
-> « 4° Aux dispositions relatives aux modalités de détermination du salaire minimum 
-> interprofessionnel de croissance prévues par les articles L. 5544-38 à L. 5544-39-1 et aux mesures 
-> réglementaires prises pour leur application ; 
-> « Les amendes sont mises en ?uvre dans les conditions définies à l'article L. 8113-7 du code du 
-> travail. » 
-
-XXX vérifier ces amendes
-
-### Article 38 \[indus et périodes non déclarées\] 
-
-> « *Art L. 5426-1-1. * Les périodes d'activité professionnelle d'une durée supérieure à trois jours 
-> consécutifs ou non au cours du même mois civil, non déclarées par le demandeur d'emploi à Pôle 
-> emploi au terme de ce mois, ne sont pas prises en compte pour l'ouverture ou le rechargement des 
-> droits à l'allocation d'assurance. Les rémunérations correspondantes ne sont pas incluses dans le 
-> salaire de référence. 
-> « *Art L.5426-1-2. * Lorsque l'application de l'article L.5426-1-1 fait obstacle à l'ouverture ou au 
-> rechargement des droits à l'allocation d'assurance, le demandeur d'emploi peut exercer un recours 
-> devant l'instance paritaire régionale de Pôle emploi mentionnée à l'article L.5312-10. 
-
-XXX scandaleux
-
-### Article 39 \[transferts\] 
-
-Sans commentaire.
-
 # Titre V Moderniser la médecine du travail 
 
 ### Article 41 
 
-I. Le titre deuxième du livre deuxième de la première partie du code du travail est ainsi modifié : 
-1° L'article L. 1225-11 est ainsi modifié : 
-*a\)* Après le 4°, il est inséré un 4° *bis* ainsi rédigé : 
-« 4° *bis* L. 1226-10, relatif à l'inaptitude consécutive à un accident du travail ou à une maladie 
-professionnelle ; » 
-*b\)* Au 5°, les mots : « L. 4624-1, relatif » sont remplacés par les mots : « L. 4624-3 et L. 4624-
-4, relatifs » ; 
-2° L'article L. 1225-15 est ainsi modifié : 
-*a\)* Après le 2°, il est inséré un 2° *bis* ainsi rédigé : 
-« 2° *bis* L. 1226-10, relatif à l'inaptitude consécutive à un accident du travail ou à une maladie 
-professionnelle ; » 
-*b\)* Au 3°, les mots : « L. 4624-1, relatif » sont remplacés par les mots : « L. 4624-3 et L. 4624-
-4, relatifs » ; 
-3° L'article L. 1226-2 est ainsi modifié : 
-*a\)* Au premier alinéa : 
-*-* les mots : « , à l'issue des périodes de suspension du contrat de travail consécutives à une 
-maladie ou un accident non professionnel, le salarié » sont remplacés par les mots : « le salarié victime 
-d'une maladie ou d'un accident non professionnel » ; 
-*-* après les mots : « par le médecin du travail » sont insérés les mots : «, en application de 
-l'article L. 4624-4, » ; 
-*-* les mots : « l'emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
-remplacé par le mot : « poste » ; 
-*b\)* Au deuxième alinéa, après les mots : « prend en compte » sont insérés les mots : « , après 
-avis des délégués du personnel, » et les mots : « l'aptitude » sont remplacés par les mots : « la 
-capacité » ; 
-*c\)* Le deuxième alinéa est complété par une phrase ainsi rédigée : « Dans les entreprises d'au 
-moins cinquante salariés, le médecin du travail formule également des indications sur la capacité du 
-salarié à bénéficier d'une formation destinée à lui proposer un poste adapté. » ; 
-98 
-* *
-*d\)* Au dernier alinéa, la première occurrence des mots : « L'emploi » est remplacée par les 
-mots : « Le poste », la seconde occurrence des mots : « l'emploi » est remplacée par le mot : « celui » 
-et les mots : « telles que mutations, transformations de poste ou aménagement de travail » sont 
-remplacés par les mots : « d'aménagement, d'adaptation ou de transformation de postes existants » ; 
-4° Après l'article L. 1226-2, il est inséré un article ainsi rédigé : 
-« *Art. L. 1226-2-1. * ? Lorsque l'employeur est dans l'impossibilité de proposer un autre poste 
-au salarié, il lui fait connaître par écrit les motifs qui s'opposent à son reclassement. 
-« L'employeur ne peut rompre le contrat de travail que s'il justifie soit de son impossibilité de 
-proposer un poste dans les conditions prévues à l'article L. 1226-2, soit du refus par le salarié du poste 
-proposé dans ces conditions, soit de la mention expresse dans l'avis du médecin du travail que tout 
-maintien du salarié dans l'entreprise serait gravement préjudiciable à sa santé ou que l'état de santé du 
-salarié fait obstacle à tout reclassement dans l'entreprise. 
-« L'obligation de reclassement est réputée satisfaite lorsque l'employeur a proposé, dans les 
-conditions prévues à l'article L. 1226-2, un poste prenant en compte les propositions, conclusions 
-écrites et indications du médecin du travail. 
-« S?il prononce le licenciement, l'employeur respecte la procédure applicable au licenciement 
-pour motif personnel prévue au chapitre II du livre III. » ; 
-5° Au premier alinéa de l'article L. 1226-4-1, la référence « L. 1226-4 » est remplacée par la 
-référence : « L. 1226-2-1 » ; 
-6° Le premier alinéa de l'article L. 1226-8 est ainsi modifié : 
-*a\)* Les mots : « Lorsque, » et « est déclaré apte par le médecin du travail, il » sont supprimés ; 
-*b\)* L'alinéa est complété par les mots : « , sauf dans les situations mentionnées à l'article L. 
-1226-10 » ; 
-7° L'article L. 1226-10 est ainsi modifié : 
-*a\)* Au premier alinéa : 
-*-* les mots : «, à l'issue des périodes de suspension du contrat de travail consécutives à un 
-accident du travail ou à une maladie professionnelle, le salarié » sont remplacés par les mots : « le 
-salarié victime d'un accident du travail ou d'une maladie professionnelle » ; 
-*-* après les mots : « médecin du travail », sont insérés les mots : «, en application de l'article L. 
-4624-4, » ; 
-*-* les mots : « l'emploi » sont remplacés par les mots : « le poste » et le mot : « emploi » est 
-remplacé par le mot : « poste » ; 
-*b\)* Au deuxième alinéa, les mots : « l'aptitude » sont remplacés par les mots : « la capacité » ; 
-*c\)* Au dernier alinéa, la première occurrence des mots : « L'emploi » est remplacée par les 
-mots : « Le poste », la seconde occurrence des mots « l'emploi » est remplacée par le mot : « celui » et 
-les mots : « telles que mutations, transformations de poste ou aménagement de travail » sont remplacés 
-par les mots : « d'aménagement, d'adaptation ou de transformation de postes existants » ; 
-99 
-8° L'article L. 1226-12 est ainsi modifié : 
-*a\)* Au premier alinéa, le mot : « emploi » est remplacé par le mot : « poste » ; 
-*b\)* Au deuxième alinéa, le mot : « emploi » est remplacé par le mot : « poste », les mots : « de 
-l'emploi » sont remplacés par les mots : « du poste », la dernière phrase est supprimée et l'alinéa est 
-complété par les mots : « , soit de la mention expresse dans l'avis du médecin du travail que tout 
-maintien du salarié dans l'entreprise serait gravement préjudiciable à sa santé ou que l'état de santé du 
-salarié fait obstacle à tout reclassement dans l'entreprise » ; 
-*c\)* Il est inséré un troisième alinéa ainsi rédigé : 
-« L'obligation de reclassement est réputée satisfaite lorsque l'employeur a proposé, dans les 
-conditions prévues à l'article L. 1226-10, un poste prenant en compte les propositions, conclusions 
-écrites et indications du médecin du travail. » ; 
-9° L'article L. 1226-15 est ainsi modifié : 
-*a\)* Au premier alinéa, les mots : « déclaré apte » sont supprimés ; 
-*b\)* Au dernier alinéa, le mot : « troisième » est remplacé par le mot : « quatrième » ; 
-10° L'article L. 1226-20 est ainsi modifié : 
-*a\)* Au premier alinéa, le mot : « troisième » est remplacée par le mot : « quatrième » ; 
-*b\)* Au deuxième alinéa, après les mots : « dans ces conditions » sont insérés les mots : « ou si 
-l'avis du médecin du travail mentionne expressément que tout maintien du salarié dans l'entreprise 
-serait gravement préjudiciable à sa santé ou que l'état de santé du salarié fait obstacle à tout 
-reclassement dans l'entreprise » ; 
-11° Au premier alinéa de l'article L. 1226-21, les mots : « est déclaré apte » sont remplacés 
-par les mots : « n'est pas déclaré inapte ». 
-II. Au dernier alinéa de l'article L. 3122-45 du code du travail, les mots : « de l'article L. 4624-1 » 
-sont remplacés par les mots : « des articles L. 4624-3 et L. 4624-4 ». 
-****
-III. Le titre deuxième du livre sixième de la quatrième partie du code du travail est ainsi modifié : 
-1° A l'article L. 4622-3, les mots : « ainsi que toute atteinte à la sécurité des tiers » sont 
-remplacés par les mots : « ainsi que tout risque manifeste d'atteinte à la sécurité des tiers évoluant 
-dans l'environnement immédiat de travail » ; 
-2° L'article L. 4624-2 devient l'article L. 4624-8 et il est modifié de la façon suivante : les 
-mots : « de l'article L. 4624-1 » sont remplacés par les mots : « des articles L. 4624-3 et L. 4624-4 » ; 
-3° L'article L. 4624-3 devient l'article L. 4624-9 ; 
-4° L'article L. 4624-5 devient l'article L. 4624-10 et il est complété par les mots : « 
-, notamment les modalités du suivi individuel prévu à l'article L. 4624-1, les modalités d'identification 
-des travailleurs mentionnés à l'article L. 4624-2 et les modalités du suivi individuel renforcé dont ils 
-bénéficient » ; 
-5° L'article L. 4624-1 est remplacé par les dispositions suivantes : 
-100 
-« *Art. L. 4624-1. * ? Tout travailleur bénéficie, au titre de la surveillance de l'état de santé des 
-travailleurs prévue à l'article L. 4622-2, d'un suivi individuel de son état de santé assuré par le médecin 
-du travail et, sous l'autorité de celui-ci, par les autres professionnels de santé membres de l'équipe 
-pluridisciplinaire mentionnée à l'article L. 4622-8 qu'il anime et coordonne, notamment le 
-collaborateur médecin visé à l'article L. 4623-1 et l' infirmier. 
-« Ce suivi comprend une visite d'information et de prévention effectuée après l'embauche par 
-l'un des professionnels de santé mentionnés au premier alinéa, dans un délai fixé par décret en Conseil 
-d'État. 
-« Les modalités et la périodicité de ce suivi prennent en compte les conditions de travail, l'état 
-de santé et l'âge du travailleur, ainsi que les risques professionnels auxquels il est exposé. 
-« *Art. L. 4624-2. *? Tout travailleur affecté à un poste présentant des risques particuliers pour 
-sa santé ou sa sécurité, celles de ses collègues ou de tiers bénéficie d'un suivi individuel renforcé de 
-son état de santé. Ce suivi comprend notamment un examen médical d'aptitude permettant de s'assurer 
-de la compatibilité de l'état de santé du travailleur avec le poste auquel il est affecté, réalisé avant 
-l'embauche et renouvelé périodiquement. Cet examen médical d'aptitude est effectué par le médecin du 
-travail sauf lorsque des dispositions spécifiques le confient à un autre médecin. 
-« *Art. L. 4624-3. * ? Le médecin du travail peut proposer, après échange avec le salarié et 
-l'employeur, des mesures individuelles d'aménagement, d'adaptation ou de transformation du poste de 
-travail ou d'aménagement du temps de travail justifiées par des considérations relatives notamment à 
-l'âge ou à l'état de santé physique et mentale du travailleur. 
-« *Art. L. 4624-4. * ? Après avoir procédé ou fait procéder par un membre de l'équipe 
-pluridisciplinaire à une étude de poste et après avoir échangé avec le salarié et l'employeur, le médecin 
-du travail qui constate qu'aucune mesure d'aménagement, d'adaptation ou de transformation du poste 
-de travail occupé n'est possible et que l'état de santé du travailleur justifie un changement de poste, 
-déclare le travailleur inapte à son poste de travail. L'avis d'inaptitude est accompagné des conclusions 
-écrites et des indications du médecin du travail relatives au reclassement du travailleur. 
-« *Art. L. 4624-5. * ? Pour l'application des articles L. 4624-3 et L. 4624-4, le médecin du travail 
-reçoit le salarié, afin de d'échanger sur les propositions, conclusions écrites et indications qu'il adresse 
-à l'employeur. 
-« Le médecin du travail peut proposer à l'employeur l'appui de l'équipe pluridisciplinaire ou 
-celui d'un organisme compétent en matière de maintien en emploi pour mettre en ?uvre ces 
-propositions, conclusions écrites et indications. 
-« *Art. L. 4624-6. * ? L'employeur est tenu de prendre en considération les avis d'aptitude ou 
-d'inaptitude, les propositions, conclusions écrites et indications du médecin du travail. En cas de refus, 
-l'employeur fait connaître au travailleur et au médecin du travail les motifs qui s'opposent à ce qu'il y 
-soit donné suite. 
-« *Art. L. 4624-7. * ? En cas de difficulté ou de désaccord du salarié ou de l'employeur avec les 
-propositions, les conclusions écrites, les indications et les avis d'aptitude ou inaptitude émis par le 
-médecin du travail en application des articles L. 4624-2 à L. 4624-4, l'employeur ou le salarié peut 
-saisir le conseil de prud'hommes, statuant en la forme des référés, d'une demande de désignation d'un 
-médecin-expert inscrit sur la liste des experts près la cour d'appel. Il en informe l'autre partie. L'avis 
-de l'expert se substitue à l'avis du médecin du travail. 
-« Les litiges relatifs à cet avis relèvent de la compétence, en premier ressort, du conseil de 
-prud'hommes, à l'exclusion de tout autre recours administratif ou contentieux. » ; 
-101 
-6° Après l'article L. 4625-1, il est inséré un article L. 4625-1-1 ainsi rédigé : 
-« *Art. L. 4625-1-1*. ? Un décret en Conseil d'Etat prévoit les adaptations des règles définies 
-aux articles L. 4624-1 et L.4624-2 pour les salariés temporaires et les salariés en contrat à durée 
-déterminée. 
-« Ces adaptations leur garantissent un suivi médical individuel d'une périodicité équivalente, à 
-l'échelle de leur parcours professionnel, à celle du suivi des salariés en contrat à durée indéterminée. 
-« Ce décret en Conseil d'Etat prévoit les modalités d'information de l'employeur sur la 
-situation de son salarié au regard de ce suivi. » ; 
-7° Au dernier alinéa de l'article L. 717-2 du code rural et de la pêche maritime, la référence : 
-« L. 4624-1 » est remplacée par les références : « L. 4624-1 à L. 4624-7 ». 
+> [...]5° L'article L. 4624-1 est remplacé par les dispositions suivantes : 
+> « *Art. L. 4624-1. * ? Tout travailleur bénéficie, au titre de la surveillance de l'état de santé des 
+> travailleurs prévue à l'article L. 4622-2, d'un suivi individuel de son état de santé assuré par le médecin 
+> du travail et, sous l'autorité de celui-ci, par les autres professionnels de santé membres de l'équipe 
+> pluridisciplinaire mentionnée à l'article L. 4622-8 qu'il anime et coordonne, notamment le 
+> collaborateur médecin visé à l'article L. 4623-1 et l' infirmier. 
+> « Ce suivi comprend une visite d'information et de prévention effectuée après l'embauche par 
+> l'un des professionnels de santé mentionnés au premier alinéa, dans un délai fixé par décret en Conseil 
+> d'État. [...]
+
+D'autres ont commenté les changements ici. Je ne vois pas le changement de périodicité de la visite, par contre en effet la visite médicale d'embauche réalisée obligatoirement par un médecin du travail semble désormais être réalisée (potentiellement) par un infirmier.
+Vu l'utilité de la visite médicale d'embauche, j'ai du mal à voir le moindre problème à cela.
 
 # Titre VI Renforcer la lutte contre le détachement illégal 
 
-### Article 42 \[obligation de vigilance des MO au regard de l'obligation de déclaration des salariés détachés des sous-traitants \+ obligation de transmission dématérialisée de la déclaration subsidiaire \+ obligation légale de déclaration de l'AT du salarié détaché par l'employeur et le MO/DO\] 
+Pas de commentaire sur les articles de ce titre, qui ne m'intéressent pas vraiment.
 
-I.- L'article L. 1262-4-1 du code du travail est ainsi modifié : 
-1° Au début du premier alinéa est ajoutée la mention : « I. - » ; 
-2° Après le deuxième alinéa, sont ajoutés deux alinéas ainsi rédigés : 
-« Les conditions dans lesquelles le maître d'ouvrage ou le donneur d'ordre est tenu de transmettre, par 
-voie dématérialisée, la déclaration mentionnée à l'alinéa précédent sont fixées par décret en Conseil 
-d'Etat pris après avis de la Commission nationale de l'informatique et des libertés. 
-« II. - Le maître d'ouvrage vérifie, avant le début du détachement, que chacun des sous-traitants 
-directs ou indirects de ses co-contractants qu'il agrée en application de l'article 3 de la loi n° 75-1334 
-du 31 décembre 1975 et qui détachent des salariés dans les conditions mentionnées aux articles L. 
-1262-1 et L. 1262-2, s'est acquitté de l'obligation mentionnée au I de l'article L. 1262-2-1. ». 
-II.- Après l'article L. 1262-4-3 du même code, il est inséré un article L. 1262-4-4 ainsi rédigé : 
-« * Art. ? L. 1262-4-4. *? Lorsqu'un salarié détaché est victime d'un accident du travail, une déclaration 
-est envoyée à l'inspection du travail. 
-« Cette déclaration est effectuée, dans un délai et selon des modalités fixées par décret en Conseil 
-d'État par : 
-« 1° l'employeur lorsque le salarié est détaché selon les modalités mentionnées au 3° de l'article L 
-1262-1 ; 
-« 2° le donneur d'ordre ou le maître d'ouvrage co-contractant d'un prestataire de services qui détache 
-des salariés dans les conditions mentionnées aux 1° et 2° de l'article L 1262-1 ou à l'article L. 1262-
-2.» ; 
-102 
-III.- A l'article L. 1264-1 du même code, après la mention : « L. 1262-2-1 », est insérée la mention : «, 
-à l'article L. 1262-4-4 » ; 
-IV.- L'article L. 1264-2 du même code est remplacé par les dispositions suivantes : 
-« *Art. ? L. 1264-2. * - I. - Le maître d'ouvrage ou le donneur d'ordre est passible d'une amende 
-administrative, dans les conditions prévues à l'article L. 1264-3 : 
-« 1° en cas de méconnaissance d'une des obligations mentionnées au I de l'article L. 1262-4-1, lorsque 
-son cocontractant n'a pas rempli au moins l'une des obligations lui incombant en application de l'article 
-L. 1262-2-1 ; 
-« 2° en cas de méconnaissance de l'obligation mentionnée à l'article L. 1262-4-4. » 
-« II. - La méconnaissance par le maître d'ouvrage de l'obligation mentionnée au II de l'article L. 1262-
-4-1 est passible d'une amende administrative, dans les conditions prévues à l'article L. 1264-3, lorsque 
-l'un des sous-traitants directs ou indirects de ses co-contractants, qu'il agrée conformément à l'article 
-3 de la loi n° 75-1334 du 31 décembre 1975, n'a pas rempli l'obligation lui incombant en application 
-du I de l'article L. 1262-2-1. » 
-
-### Autres articles
-
-Pas de commentaire sur les articles restants, qui sont des points de détail.
-
+-  Article 42 \[obligation de vigilance des MO au regard de l'obligation de déclaration des salariés détachés des sous-traitants \+ obligation de transmission dématérialisée de la déclaration subsidiaire \+ obligation légale de déclaration de l'AT du salarié détaché par l'employeur et le MO/DO\] 
 - Article 43 \[droit de timbre\] 
 - Article 44 \[suspension de la PSI pour absence de déclaration de détachement par le MO/DO\]
 - Article 45 \[mesure de transposition de la directive de 2014 sur le recouvrement des sanctions\] 
