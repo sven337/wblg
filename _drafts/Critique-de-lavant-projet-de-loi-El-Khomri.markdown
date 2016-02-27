@@ -35,7 +35,9 @@ blockquote.normal  {
 
 De très nombreux journaux et de très nombreuses personnes commentent depuis quelques jours le projet de loi présenté par le Premier Menton et notre bien compétente ministre du Travail. Or, ces commentaires sont amusants car ils ne s'appuient sur aucune source officielle, mais sur des propos rapportés et sur la propagande gouvernementale. En fait, à l'heure où j'écris ces lignes, il semblerait que le projet de loi n'en soit pas encore un, et qu'il ne s'agisse que d'un avant-projet, vraisemblablement rédigé sous Microsoft Word par on ne sait quel membre du cabinet de Manuel Valls l'immigré. Cet avant-projet n'a pas l'air d'être public, mais certains journaux ont publié assez confidentiellement un PDF, dont j'ai extrait le contenu.
 
-Je vais ici m'appuyer sur ce document, qui constitue la source la plus fiable sur ce que le gouvernement prévoit de faire voter par le parlement, pour faire quelques commentaires. Le texte de l'avant projet apparaîtra dans des blocs de couleur rose-saumon-un-peu-pourri (quoi de plus approprié pour le gouvernement socialiste actuel) ; alors le texte du code du travail actuel sera dans des blocs gris.
+Je vais ici m'appuyer sur ce document, qui constitue la source la plus fiable sur ce que le gouvernement prévoit de faire voter par le parlement, pour faire quelques commentaires. Le texte de l'avant projet apparaîtra dans des blocs de couleur rose-saumon-un-peu-pourri (quoi de plus approprié pour le gouvernement socialiste actuel).
+
+Ce projet de critique était très ambitieux et j'ai parfois fait un peu vite.
 
 # Le titre
 
