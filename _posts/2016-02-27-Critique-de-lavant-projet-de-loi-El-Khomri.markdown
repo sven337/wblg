@@ -35,7 +35,7 @@ blockquote.normal  {
 
 De très nombreux journaux et de très nombreuses personnes commentent depuis quelques jours le projet de loi présenté par le Premier Menton et notre bien compétente ministre du Travail. Or, ces commentaires sont amusants car ils ne s'appuient sur aucune source officielle, mais sur des propos rapportés et sur la propagande gouvernementale. En fait, à l'heure où j'écris ces lignes, il semblerait que le projet de loi n'en soit pas encore un, et qu'il ne s'agisse que d'un avant-projet, vraisemblablement rédigé sous Microsoft Word par on ne sait quel membre du cabinet de Manuel Valls l'immigré. Cet avant-projet n'a pas l'air d'être public, mais certains journaux ont publié assez confidentiellement un PDF, dont j'ai extrait le contenu.
 
-Je vais ici m'appuyer sur ce document, qui constitue la source la plus fiable sur ce que le gouvernement prévoit de faire voter par le parlement, pour faire quelques commentaires. Le texte de l'avant projet apparaîtra dans des blocs de couleur rose-saumon-un-peu-pourri (quoi de plus approprié pour le gouvernement socialiste actuel).
+Je vais ici m'appuyer sur [ce document](/~sven337/data/khomri/lavant-projet-de-loi-el-khomri.pdf), qui constitue la source la plus fiable sur ce que le gouvernement prévoit de faire voter par le parlement, pour faire quelques commentaires. Le texte de l'avant projet apparaîtra dans des blocs de couleur rose-saumon-un-peu-pourri (quoi de plus approprié pour le gouvernement socialiste actuel).
 
 Ce projet de critique était très ambitieux et j'ai parfois fait un peu vite.
 
@@ -171,7 +171,7 @@ Ici il ne s'agit que de la répétition du code du travail tel qu'il est actuellem
 
 Un point intéressant : l'intitulé du paragraphe mentionne explicitement que ces dispositions sont d'ordre public. Une disposition d'ordre public est une disposition qui ne peut pas être remise en question, même avec accord des parties. En d'autres termes cette nouvelle rédaction indique clairement que la définition de "durée de travail effectif" n'est pas négociable dans les entreprises. En l'absence de cette précision, on peut imaginer un accord qui s'écarte de ce que prévoit la loi.
 
-De nombreuses dispositions sont d'ordre public, mais pas toutes. La notion d'ordre public provient de l'article 6 du code civil :
+De nombreuses dispositions sont d'ordre public, mais pas toutes. La notion d'ordre public provient de l'article 6 du code civil&nbsp;:
 
 {: .normal}
 > On ne peut déroger, par des conventions particulières, aux lois qui intéressent l'ordre public et les bonnes moeurs.
