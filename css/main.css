@@ -36,6 +36,8 @@ h2 { font-size: 1.2em;
 }
 h3 { margin-left: 4em; color: #4e6a94;}
 h4 { margin-left: 6em; font-size: 0.9em; color: #3d5272;}
+h5 { margin-left: 8em; font-size: 0.9em; color: #0d1232;}
+
 p { margin: 1em 7.5em 1em 7.5em; }
 .post > ul > li { margin-left: 7.5em; margin-right: 7.5em; }
 .post > ol > li { margin-left: 7.5em; margin-right: 7.5em; }
