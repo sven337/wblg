@@ -676,7 +676,7 @@ Excellente chose, car à ce jour, sauf erreur de ma part, les accords doivent néc
 > « 2° ne pas entraver l'accomplissement normal du travail ; 
 > « 3° préserver la liberté de choix des salariés d'accepter ou de refuser un message. » 
 
-Je pense qu'il faudrait imposer plus sérieusement à l'employeur de permettre aux syndicats de tracter en utilisant le réseau de l'entreprise, y compris par e-mail (le point 3 me semble faire obstacle à l'utilitation de l'e-mail). Le point 2 me semble permettre un peu trop facilement à l'employeur de refuser toute utilisation du réseau pour diffuser des tracts.
+Je pense qu'il faudrait imposer plus sérieusement à l'employeur de permettre aux syndicats de tracter en utilisant le réseau de l'entreprise, y compris par e-mail (le point 3 me semble faire obstacle à l'utilisation de l'e-mail). Le point 2 me semble permettre un peu trop facilement à l'employeur de refuser toute utilisation du réseau pour diffuser des tracts.
 
 > III. Le livre troisième de la deuxième partie du code du travail est ainsi modifié : 
 > 1° L'article L. 2314-21 est ainsi modifié : 
