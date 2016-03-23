@@ -62,9 +62,9 @@ La chose la plus répandue, et dont j'ignore pourquoi tout le monde (en tout cas 
 - licenciements boursiers pour *réduire les coûts* dans une entreprise qui fait par ailleurs des bénéfices
 - exigence de rentabilité sur capital délirante
 - obsession du court terme, du *next quarter* dans la gestion de l'entreprise qui nuit à ses intérêts long terme
-- syndrôme de Stockholm chez de nombreux actionnaires qui les pousse à voter pour les rémunération délirantes des patrons et pour leur folie des grandeurs
+- syndrôme de Stockholm chez de nombreux actionnaires qui les pousse à voter pour les rémunérations délirantes des patrons et pour leur folie des grandeurs
 
-Le problème, c'est que la bourse est un très bon moyen de s'enrichir, car **à long terme** et **en moyenne**, elle rapporte environ 6% par an, et cela sans bouger de sa chaise. Contrairement à l'immobilier, la bourse permet également de s'engager avec de petites sommes, et d'en rajouter au fur et à meesure ; et la liquidité est optimale (il est possible de revendre très rapidement si nécessaire... selon l'humeur du marché le mois concerné, cela peut se faire avec de grosses pertes ou au contraire avec une belle plus-value). Ainsi, il devient difficile d'ignorer la bourse quand on a rempli son épargne d'urgence.
+Le problème, c'est que la bourse est un très bon moyen de s'enrichir, car **à long terme** et **en moyenne**, elle rapporte environ 6% par an, et cela sans bouger de sa chaise. Contrairement à l'immobilier, la bourse permet également de s'engager avec de petites sommes, et d'en rajouter au fur et à mesure ; et la liquidité est optimale (il est possible de revendre très rapidement si nécessaire... selon l'humeur du marché le mois concerné, cela peut se faire avec de grosses pertes ou au contraire avec une belle plus-value). Ainsi, il devient difficile d'ignorer la bourse quand on a rempli son épargne d'urgence.
 
 ##### Stratégie
 
