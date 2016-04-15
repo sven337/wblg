@@ -70,7 +70,7 @@ The CD reader connector has fourteen pins, of which three pins are interesting -
 So you can hook up your jack connector there, that's what I did. There are tiny vias next to all of those pins, if you have wire that is thin enough (I used single strands of copper wire). Good luck soldering them. I destroyed part of a trace, without any impact on functionality. Still, you have to be confident in your abilities because this is tiny, and I actually wasted more time on that aspect than I thought possible.
 The problem I had was that it **didn't work**. When I plugged the jack connector (I used a male cable instead of the more common female sockets people use for AUX inputs) into the MP3 player, the sound from the currently playing CD was completely muted (overpowered?), but I didn't hear anything from the MP3 player. Note that I neglected to put **small capacitors** in series with both channels on the jack connector. This is unlikely to explain the issue. I was quite tired by the time I tested, and don't have an oscilloscope available, so I couldn't easily check if I made a simple mistake or if the CD reader output cannot easy be highjacked.
 
-Note that [other people have succeeded in this approach](http://www.groundedtoearth.net/2014/11/gave-my-cars-stereo-aux-input.html) (on another car).
+Note that [other people have succeeded in this approach](http://archive.is/7wo4f) (on another car) - link updated in 2016 to an archive link as the website seems no longer to be up.
 
 ## Amplifier input
 
