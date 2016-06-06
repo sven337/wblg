@@ -9,20 +9,19 @@ img_rel: "/~sven337/data/terrasse"
 ---
 
 
-L'appartement que je loue dispose d'une terrasse tropézienne : c'est une terrasse fabriquée en enlevant une partie du toit de la maison et en étanchéifiant le sol. Voir par exemple ici : http://www.deco.fr/jardin-jardinage/terrasse/actualite-493004-terrasses-tropeziennes.html
+L'appartement que je loue dispose d'une terrasse tropézienne : c'est une terrasse fabriquée en enlevant une partie du toit de la maison et en étanchéifiant le sol. Voir par exemple [ici](http://www.deco.fr/jardin-jardinage/terrasse/actualite-493004-terrasses-tropeziennes.html).
 ![Terrasse tropézienne](tropezienne.jpg)
 
 Ma terrasse utilise des dalles en bois exotique posées sur des plots en plastique, et fait environ 3m x 3m.
 
 # Élevage de moustiques
 
-J'ai observé un problème dès l'emménagement dans cet appartement : après une période de pluie, la terrasse ne se vidange pas correctement, et il reste par endroits de l'eau stagnante pouvant monter jusqu'à 2 cm. Coïncidence ou non, il y avait de nombreux moucherons et moustiques lorsque j'ai emménagé.
-Il y a deux défauts.
+J'ai observé un problème dès l'emménagement dans cet appartement : après une période de pluie, la terrasse ne se vidange pas correctement, et il reste par endroits de l'eau stagnante pouvant monter jusqu'à 2 cm. Coïncidence ou non, il y avait de nombreux moucherons et moustiques lorsque j'ai emménagé. Il y a en fait deux problèmes :
 
 - La terrasse dispose bien d'une évacuation d'eau dans un coin, mais celle-ci est située pas loin de 2 cm au dessus du reste de la terrasse, et ne me semble pas facile à modifier (car les plaques de bitume pour l'étanchéité sont relevées sur les bords de la terrasse, et si je creuse un peu je risque d'envoyer l'eau dans l'appartement du dessous).
 - La pente pour l'évacuation est très insuffisante, peut-être à cause d'une mauvaise réalisation, ce qui fait que l'eau n'est pas dirigée vers l'évacuation mais s'accumule à d'autres endroits.
 
-J'ai parlé du souci au propriétaire, qui ne me frappe pas comme étant un grand bricoleur, et qui a fait le mort (probablement après avoir vu le devis de l'artisan qui est venu et est resté dix minutes). Il n'est pas improbable, au vu de ce que j'ai lu, que cet artisan lui ait par ailleurs dit que de l'eau  stagnante sur ce type de terrasse n'était pas un défaut. Ce qui est sûrement vrai du point de vue de l'artisan cherchant à justifier du travail douteux, mais nettement moins du point de vue de l'habitant !
+J'ai parlé du souci au propriétaire, qui ne me semble pas être un grand bricoleur, et qui a fait le mort (probablement après avoir vu le devis de l'artisan qui est venu et est resté dix minutes). Il n'est pas improbable, au vu de ce que j'ai lu, que cet artisan lui ait par ailleurs dit que de l'eau stagnante sur ce type de terrasse n'était pas un défaut... ce qui est sûrement vrai du point de vue de l'artisan cherchant à justifier du travail douteux, mais nettement moins du point de vue de l'habitant !
 
 # Vidange 
 
