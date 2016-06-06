@@ -41,7 +41,7 @@ module Jekyll
           path = file.path.sub(File.extname(file.path),
             '-thumb' << File.extname(file.path))
           thumb.write path
-          site.static_files << StaticFile.new(thumb, site.source,
+          site.static_files << StaticFile.new(site, site.source,
             File.dirname(file.path).sub(site.source, ''),
             File.basename(file.path).sub(File.extname(file.path),
               '-thumb' << File.extname(file.path)))
