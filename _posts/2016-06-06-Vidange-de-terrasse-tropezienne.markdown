@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vidange de terrasse tropézienne avec panneau solaire"
+title: "Vidange de terrasse tropézienne"
 date: 2016-06-06 06:30:17
 tags: electronics
 category: francais
