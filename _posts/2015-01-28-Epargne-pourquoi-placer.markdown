@@ -121,7 +121,7 @@ Tout le monde n'a pas cet objectif mais je crois qu'il est intéressant, particul
 La somme pour atteindre ce niveau se calcule relativement facilement : il s'agit tout d'abord de calculer votre souhait de dépenses en tant que rentier. Il faut prévoir le logement, la nourriture, les voyages, les cigares, ...
 Pour moi, à titre personnel (c'est-à-dire sans compter une éventuelle famille, qui de toute façon sera assez grande pour se débrouiller quand vous atteindrez le niveau 4), j'estimerais ces dépenses à **2000EUR** par mois, et c'est probablement surestimé par rapport à mes désirs réels d'achat.
 
-Cela nous fait une somme de **24kEUR** par an. La question, dès lors, est *combien d'épargne me faut-il pour pouvoir sortir 24kEUR par an ?*. On estime qu'il est "durable" de soutirer **4%** par an à son épargne (c'est-à-dire que dans la durée le capital de diminuera pas). Une autre façon de le dire est que la rentabilité moyenne à long terme du capital est de 4%. (En réalité on peut soutirer un peu plus, en acceptant l'objectif qu'il ne reste plus grand chose du capital à votre décès, vous pourrez commencer à réduire le capital épargné à partir de 60 ans.)
+Cela nous fait une somme de **24kEUR** par an. La question, dès lors, est *combien d'épargne me faut-il pour pouvoir sortir 24kEUR par an ?*. On estime qu'il est "durable" de soutirer **4%** par an à son épargne (c'est-à-dire que dans la durée le capital ne diminuera pas). Une autre façon de le dire est que la rentabilité moyenne à long terme du capital est de 4%. (En réalité on peut soutirer un peu plus, en acceptant l'objectif qu'il ne reste plus grand chose du capital à votre décès, vous pourrez commencer à réduire le capital épargné à partir de 60 ans.)
 
 Donc il faut prévoir une somme épargnée de ... 24 / 0.04 = **600kEUR**. Avec cette somme là, vous arrivez au niveau 4 : vous n'avez plus besoin de travailler pour vivre. Bonne chance.
 
@@ -131,7 +131,7 @@ Les objectifs ici sont les mêmes qu'au niveau 3, mais on tolèrera une liquidité 
 
 # Comment placer son argent ?
 
-Dans un article à venir, j'aborderai les différents placements et nous verrons leur adéquation aux différents niveaux d'épargne.
+Dans un article à venir, j'aborderai les différents placements et nous verrons leur adéquation aux différents niveaux d'épargne. L'article est ici : [commment placer son argent](/~sven337/francais/2016/03/01/Epargne-comment-placer.html).
 
 Votre travail, d'ici là, est de **réfléchir** au niveau auquel vous vous situez actuellement, de **calculer** vos besoins d'argent pour les différents niveaux, et de vous faire une idée du "flux d'épargne" dont vous allez disposer dans les années à venir.
 
