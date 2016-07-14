@@ -139,7 +139,7 @@ Implementation of both compression methods, with useful statistics, is [availabl
  
 ## Command channel
 
-The **command channel** is an UDP port that the receiver listens on, to receive such commands as:
+The **command channel** is an UDP port that the transmitter listens on, to receive such commands as:
 
 - trigger data sending now for 15 seconds, regardless of the envelope detection
 - enable or disable the digital highpass filter (it's disabled by default and doesn't improve sound quality, but I keep it to show that the ESP8266 can do nontrivial realtime signal processing)
