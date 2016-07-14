@@ -5,7 +5,7 @@ date: 2016-07-08 10:21:56
 tags: electronics
 category: english
 comments: true
-img_rel: "/~sven337/data/XXX"
+img_rel: "/~sven337/data/piups"
 ---
 
 I decided to write this article because I could find no reliable account on the web of **what mobile power banks** will work as a **battery backup for a Raspberry Pi**.
@@ -49,6 +49,8 @@ We also want the transition to battery powered mode to be instantaneous : if it 
 
 Unfortunately, it seems that most devices on the market use the exact same chip, whose reference I forgot. That chip's boost module (the output) is off while the battery is charging, so most mobile power banks, especially the cheaper ones, are useless for our purpose! Worse yet, "manufacturers" (importers, really) will change the specification without changing the model number, so I wasted about ten euros on a **Logilink PA0064 power bank**. Earlier versions of the device used to work, as evidenced by [that Youtube video](https://www.youtube.com/watch?v=6nh11axTXQo), but mine didn't, and the manufacturer claims that it never did.
 
+![Logilink PA0064 - do NOT buy](LOGILINK_PA0064.jpg)
+
 ## Finally one that charges and discharges at the same time!
 
 A received a "promotional" mobile power bank, an item that was given away by a company to make me remember them. I tested it and I was pleasantly surprised to see that it did charge and discharge at the same time, so it was usable... or was it?
@@ -58,7 +60,19 @@ A battery with a larger power rating, able to draw and source more current, is n
 
 ## Xiaomi power bank
 
-A friend of mine reported that large **Xiaomi** power banks (20000mAh) were known to work, and I had heard the same thing from other places. However I was still wary due to the previously mentioned Youtube video being misleading. I ended up buying a smaller **Xiaomi 5000mAh** power bank for 14 euros, and I confirm that it works perfectly!
+A friend of mine reported that large **Xiaomi** power banks (20000mAh) were known to work, and I had heard the same thing from other places. However I was still wary due to the previously mentioned Youtube video being misleading. 
+
+![Xiaomi 20000mAh power bank](xiaomi20k.jpg)
+
+I ended up buying a smaller **Xiaomi 5000mAh** power bank for 14 euros, and I confirm that it works perfectly!
+
+![Xiaomi 5000mAh power bank - I have this one and it works](xiaomi5k.jpg)
+
 
 I got it from [Dealextreme](http://www.dx.com/p/xiaomi-universal-5000mah-li-po-mobile-usb-power-source-bank-silvery-365318). It's still a little more expensive than I would have hoped for, but it does the job without any hacking required, and that's something I appreciate once in a while!
+<script>
+    $(document).ready(function() {
+		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
+    });
+</script>
 

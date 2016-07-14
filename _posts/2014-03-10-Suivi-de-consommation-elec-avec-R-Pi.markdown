@@ -34,7 +34,10 @@ La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr
 La sortie téléinfo implémente un protocole qui n'est électriquement pas compatible avec les protocoles que parlent les ordinateurs en général (RS-232, USB, parallèle, ...), ni d'ailleurs avec les protocoles du monde de l'informatique embarquée tels que I2C, SPI, ou un bête GPIO. C'est un choix curieux de la part d'EDF, mais le protocole téléinfo est assez facile à convertir en un protocole connu tel que **RS-232**.
 La spécification est publique et plutôt bien écrite, alors au travail !
 
-La forme du signal est la suivante : un **0** correspond à une **sinusoïde** à **50KHz** variant entre **-12V** et **+12V**, un **1** correspond à un plateau à **+0V**.
+La forme du signal est la suivante : un **0** correspond à une **sinusoïde** à **50KHz** variant entre **-12V** et **+12V**, un **1** correspond à un plateau à **+0V**. (Mise à jour en 2016 : j'ai enfin relié un oscilloscope au compteur pour regarder le signal !)
+
+![Signal issu du compteur correspondant à un 0](scope_meter_output.png)
+
 **RS-232** utilise quant à lui **+12V** pour un 1, et **-12V** pour un 0. Cette tension négative est un choix technique discutable qui complique la vie de l'électronique moderne souhaitant implémenter RS-232. En général les circuits intégrés ont une UART qui utilise des niveaux de signaux différents (TTL) : +Vdd = 3.3V pour un 1, et +0V pour un 0. C'est plus simple, et plus logique... mais les ports série des ordinateurs "parlent" du vrai RS-232. Le circuit **MAX232** est un exemple de circuit intégré qui s'occupe de la conversion des niveaux entre RS-232 "réel" et RS-232 TTL (celui à 3.3V).
 
 # Travaux précédents
@@ -98,6 +101,11 @@ Si le temps de chute n'a pas bougé, et reste inquiétant, on note que l'ondulatio
 
 Pour améliorer le temps de chute, on peut jouer sur la valeur de **R2**, mais on assiste alors (je vous laisse jouer avec Spice) à un phénomène de _vases communicants_ : le passage à 0 est plus rapide si on diminue R2, mais l'ondulation résiduelle à 1 devient très importante.
 La valeur de R2 est contrainte par la sécurité de l'optocoupleur, qui nous impose dans la datasheet un courant maximal correspondant à une résistance d'au moins 270 Ohm. J'ai choisi 2.2 kOhm.
+
+En 2016, après plusieurs années de bons et loyaux services de ce système qui semble fonctionner parfaitement, j'ai relié un oscilloscope au module pour regarder la "vraie" allure du signal, et pas seulement celle issue de la simulation. On est assez proche.
+
+![Sortie du module](scope_module_output.png)
+![Entrée et sortie du module superposées](scope_module_input_and_output.png)
 
 ## Achat des fournitures
 

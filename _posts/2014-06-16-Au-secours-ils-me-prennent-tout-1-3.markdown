@@ -11,6 +11,12 @@ img_rel: "/~sven337/data/XXX"
 Dans cette série d'articles je souhaite apporter quelques explications sur le fonctionnement de notre système fiscal français. Je ne suis ni fiscaliste ni économiste, mais j'ai répondu au fil des ans à tellement de questions que je remarque que le peu que je comprends semble être supérieur à la moyenne.
 Mon objectif est d'expliquer simplement comment fonctionne notre système fiscal (et ses raisons d'être), et d'aborder certaines idées reçues et considérations politiques qui manquent bien souvent au débat. Notre système fiscal atteint un niveau de complexité tel que, malheureusement, un citoyen est obligé de dépenser plusieurs semaines de son temps pour le comprendre - et les sources d'information sont en général de mauvaise qualité.
 
+# Table des matières
+{:.no_toc}
+
+1. contents placeholder
+{:toc}
+
 # La mafia
 
 Sans jugement de valeur, la société est un parasite de l'activité économique. Dès que de l'argent change de mains, la société est là, pour exiger sa part. Ce principe fondamental est simple, et trop peu souvent rappelé. L'adage "tout travail mérite salaire" justifie ce principe : toute l'activité économique en France n'est possible que parce que le pays est développé et qu'il existe autour des acteurs une société évoluée qui rend de nombreux services.

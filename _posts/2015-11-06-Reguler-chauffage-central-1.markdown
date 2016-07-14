@@ -112,6 +112,11 @@ Voici le montage tel que réalisé sur *breadboard*. Mes excuses pour la piètre qu
 Le transistor utilisé pour la sortie est un FDS6690A ÀPasCher(TM) acheté sur eBay. 
 Je ne fais pas le schéma électronique car il est très simple, si un lecteur le demande je prendrai peut-être le temps de m'en occuper.
 
+Mise à jour en juillet 2016 : à l'occasion de quelques retouches logicielles, j'ai pris une photo de la carte. J'en suis assez fier car elle est propre !
+
+![Carte finale](chaudiere_in.jpg)
+
+
 ## Code
 
 Le montage reçoit en UDP une valeur de 0 à 100 correspondant à la puissance à commander à la chaudière. 
