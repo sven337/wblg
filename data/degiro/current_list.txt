@@ -1,0 +1,187 @@
+ISIN	Fullname	Index	TER	PEA?	AUM	Replication	Div. freq.	Last div	Quote	Ticker
+FR0010713669	AMUNDI ETF MSCI PACIFIC EX JAPAN UCITS ETF DR - EU 	MSCI Pacific Ex Japan	0.450%	No	100-500 M€	Physical	Annually	NH	479.11 €	CP9
+FR0007080973	AMUNDI ETF CAC 40 UCITS ETF 	CAC 40	0.250%	Yes	100-500 M€	Physical	Capitalisation	NH	65.74 €	C40
+FR0010754200	AMUNDI ETF CASH 3 MONTHS EUROMTSUCITS ETF 	EuroMTS Government Bill	0.140%	No	100-500 M€	Synthetic	Annually	NH	119.86 €	C3M
+FR0010654913	AMUNDI ETF EURO STOXX 50 UCITS ETF DR - C 	EURO STOXX 50	0.150%	Yes	+500 M€	Physical	Capitalisation	NH	66.91 €	C50
+FR0010908251	AMUNDI ETF EURO STOXX 50 UCITS ETF DR - D 	EURO STOXX 50	0.150%	Yes	<50 M€	Physical	Annually	1.71€ the 29/07/2016	51.35 €	CD5
+FR0010821819	AMUNDI ETF MSCI EUROPE EX EMU UCITS ETF 	MSCI Europe Ex EMU	0.300%	Yes	100-500 M€	Synthetic	Annually	NH	214.70 €	CU9
+FR0010754119	AMUNDI ETF EURO CORPORATES UCITS ETF 	Markit iBoxx Euro Liquid Corp	0.160%	No	+500 M€	Synthetic	Annually	NH	213.56 €	CC4
+FR0010892190	AMUNDI ETF GOVT BOND LOWEST RATED UCITS ETF 	EuroMTS Lowest-RatedAll-Mat	0.140%	No	+500 M€	Synthetic	Annually	NH	226.34 €	X1G
+FR0010754192	AMUNDI ETF GOVT BOND EUROMTS UCITS ETF 	EuroMTS Investment All Mat	0.140%	No	100-500 M€	Synthetic	Annually	NH	227.38 €	CB3
+FR0010655688	AMUNDI ETF MSCI EMU UCITS ETF DR 	MSCI EMU	0.250%	Yes	+500 M€	Physical	Annually	NH	178.59 €	CMU
+FR0010655696	AMUNDI ETF MSCI EUROPE UCITS ETF 	MSCI Europe	0.150%	Yes	100-500 M€	Synthetic	Annually	NH	197.32 €	CEU
+FR0010655738	AMUNDI ETF MSCI NORDIC UCITS ETF 	MSCI Nordic Countries	0.250%	Yes	100-500 M€	Synthetic	Annually	NH	327.36 €	CN1
+FR0010655746	AMUNDI ETF MSCI SPAIN UCITS ETF 	MSCI Spain	0.250%	Yes	50-100 M€	Synthetic	Annually	NH	180.60 €	CS1
+FR0010655753	AMUNDI ETF MSCI SWITZERLAND UCITS ETF 	MSCI Switzerland	0.250%	Yes	100-500 M€	Synthetic	Annually	NH	246.33 €	CSW
+FR0010959676	AMUNDI ETF MSCI EMERGING MARKETS UCITS ETF 	MSCI Emerging Markets	0.200%	Yes	+500 M€	Synthetic	Annually	NH	3.56 €	AEEM
+FR0010688242	AMUNDI ETF MSCI JAPAN UCITS ETF DR - EUR 	MSCI Japan	0.450%	No	100-500 M€	Physical	Annually	NH	178.05 €	CJ1
+FR0010655761	AMUNDI ETF MSCI UK UCITS ETF 	MSCI UK	0.250%	Yes	100-500 M€	Synthetic	Annually	NH	179.43 €	CU1
+FR0010688275	AMUNDI ETF MSCI USA UCITS ETF 	MSCI USA	0.280%	Yes	+500 M€	Synthetic	Annually	NH	251.57 €	CU2
+FR0010756098	AMUNDI ETF MSCI WORLD UCITS ETF 	MSCI World	0.380%	Yes	100-500 M€	Synthetic	Annually	NH	235.55 €	CW8
+FR0010892224	AMUNDI ETF S&P 500 UCITS ETF 	S&P 500	0.150%	Yes	+500 M€	Synthetic	Annually	NH	37.10 €	500
+FR0010791004	AMUNDI ETF STOXX EUROPE 600 UCITS ETF 	STOXX Europe 600	0.180%	Yes	100-500 M€	Synthetic	Annually	NH	72.42 €	C6E
+FR0010756122	AMUNDI ETF MSCI WORLD EX EUROPE UCITS ETF 	MSCI World Ex Europe	0.350%	Yes	50-100 M€	Synthetic	Annually	NH	249.96 €	CE8
+FR0010878033	AMUNDI ETF CAC 40 UCITS ETF 	CAC 40	0.250%	Yes	100-500 M€	Physical	Annually	1.44€ the 29/07/2016	48.71 €	C4D
+LU0378438732	ComStage DAX® TR UCITS ETF 	DAX®	0.080%	Yes	+500 M€	Synthetic	-	NH	113.58 €	PDAX
+LU0292106753	db x-trackers Euro Stoxx 50® Short Daily UCITS ETF 	EURO STOXX 50 Daily Short	0.400%	No	100-500 M€	Synthetic	Capitalisation	NH	NH €	XSX
+LU0292107645	db x-trackers MSCI Emerging Markets Index UCITS ET 	MSCI Emerging Markets	0.650%	No	+500 M€	Synthetic	Capitalisation	NH	NH €	XEM
+FR0010150458	BNP Paribas Easy CAC 40 UCITS ETF Distribution 	CAC 40	0.250%	Yes	50-100 M€	Physical	Annually	1.70€ the 19/09/2016	47.80 €	E40
+LU0192223062	BNP Paribas Easy FTSE EPRA/NAREIT Eurozone Capped  	FTSE EPRA/NAREIT Eurozone Capp	0.450%	No	100-500 M€	Physical	Quarterly	0.58€ the 15/11/2016	225.38 €	EEE
+FR0010276949	BNP Paribas Easy Markit iBoxxLiquid Sovereigns U 	Markit iBoxx Euro Liq Sov	0.150%	No	100-500 M€	Physical	Capitalisation	NH	233.01 €	ISM
+GB00B15KY989	ETFS ALL COMMODIT. 	All Commodities	0.490%	No	100-500 M€	Synthetic	-	NH	8.44 €	AIGCP
+GB00B0CTWC01	ETFS BRENT OIL SEC 	Crude Oil (Brent)	0.490%	No	100-500 M€	Synthetic	-	NH	22.86 €	OILBP
+GB00B15KY104	ETFS NATURAL GAS 	Natural Gas	0.490%	No	50-100 M€	Synthetic	-	NH	0.05 €	NGASP
+JE00B1VS3333	ETFS PHYSIC SILVER 	Silver	0.490%	No	+500 M€	Physical	-	NH	15.15 €	PHAG
+JE00B1VS3770	ETFS PHYSICALGOLD 	Gold	0.390%	No	+500 M€	Physical	-	NH	109.21 €	PHAU
+JE00B1VS3002	ETFS PHYSPALLADIUM 	Palladium	0.490%	No	100-500 M€	Physical	-	NH	67.32 €	PHPD
+JE00B1VS3W29	ETFS PHYSPM BASKET 	Precious Metals	0.430%	No	100-500 M€	Physical	-	NH	84.28 €	PHPM
+JE00B1VS2W53	ETFSPHYSIPLATINUM 	Platinium	0.490%	No	100-500 M€	Physical	-	NH	88.44 €	PHPT
+IE00B42TW061	HSBC FTSE 100 ETF 	FTSE 100	0.350%	Yes	100-500 M€	Physical	Semi-Annually	1.80€ the 04/08/2016	83.65 €	UKX
+IE00B44T3H88	HSBC MSCI CHINA ETF 	MSCI China	0.600%	No	100-500 M€	Physical	Semi-Annually	0.08€ the 28/07/2016	5.80 €	CNY
+IE00B4X9L533	HSBC MSCI WORLD 	MSCI World	0.350%	No	100-500 M€	Physical	Quarterly	0.07€ the 20/10/2016	16.72 €	WRD
+IE00B5VX7566	HSBC MSCI JAPAN ETF 	MSCI Japan	0.400%	No	100-500 M€	Physical	Semi-Annually	0.22€ the 28/07/2016	27.65 €	MJP
+IE00B5KQNG97	HSBC SP 500 ETF 	S&P 500	0.150%	No	+500 M€	Physical	Semi-Annually	0.17€ the 21/07/2016	21.61 €	HHH
+IE00B0M62Y33	iShares AEX 	AEX	0.300%	No	100-500 M€	Physical	Quarterly	0.15€ the 15/12/2016	48.38 €	IAEX
+IE00B14X4T88	iShares Asia Pacific Dividend UCITS ETF 	DJ Asia Pacific Select Div 30	0.590%	No	100-500 M€	Physical	Quarterly	0.43€ the 15/12/2016	27.19 €	IAPD
+IE00B3DKXQ41	iShares E Aggregate Bond UCITS ETF EUR (Dist) 	BarCap Euro Aggregate	0.250%	No	+500 M€	Physical	Semi-Annually	0.73€ the 12/01/2017	121.09 €	IEAG
+IE00B3F81R35	iShares Core E Corp Bond UCITS ETF EUR (Dist) 	BarCap Euro Corporate	0.200%	No	+500 M€	Physical	Monthly	1.01€ the 12/01/2017	128.58 €	IEAC
+IE00B0M63516	iShares MSCI Brazil UCITS ETF (Dist) 	MSCI Brazil	0.740%	No	100-500 M€	Physical	Semi-Annually	0.08€ the 15/12/2016	27.28 €	IBZL
+IE00B1W57M07	iShares BRIC 50 UCITS ETF USD (Dist) 	FTSE BRIC 50	0.740%	No	100-500 M€	Physical	Semi-Annually	0.41€ the 10/11/2016	22.83 €	BRIC
+IE00B02KXK85	iShares China Large Cap UCITS ETF 	FTSE Xinhua China 25	0.740%	No	+500 M€	Physical	Quarterly	0.22€ the 15/12/2016	98.30 €	FXC
+IE00B57X3V84	iShares DwJones Glob Sust Scrn UCITS ETF USD (Acc) 	DJ Sustainbty World ex ATGAFAE	0.600%	No	100-500 M€	Physical	Capitalisation	NH	31.04 €	IGSG
+IE00B3B8Q275	iShares E Covered Bond UCITS ETF EUR (Dist) 	Markit iBoxx Euro Covered	0.200%	No	+500 M€	Physical	Semi-Annually	0.50€ the 12/01/2017	154.83 €	ICOV
+IE00B14X4Q57	iShares Euro Government Bond 1 3yr UCITS ETF 	Barclays Euro Gov Bond 1-3Y	0.200%	No	+500 M€	Physical	Semi-Annually	0.19€ the 10/03/2016	144.30 €	IBGS
+IE00B1FZS681	iShares E Govt Bond 3-5yr UCITS ETF EUR (Dist) 	Barclays Euro Government Bond	0.200%	No	+500 M€	Physical	Semi-Annually	0.02€ the 10/11/2016	168.97 €	IBGX
+IE00B1FZS806	iShares E Govt Bond 7-10yr UCITS ETF EUR (Dist) 	Barclays Euro Government Bond	0.200%	No	+500 M€	Physical	Semi-Annually	0.77€ the 10/11/2016	208.44 €	IBGM
+IE00B0M62X26	iShares Euro Inflation Linked Gov Bond UCITS ETF 	Barclays Euro Gov Bond	0.250%	No	+500 M€	Physical	Capitalisation	NH	205.37 €	IBCI
+IE00B0M63730	iShares MSCI AC Far East ex Japan UCITS ETF 	MSCI AC Far East ex Japan	0.500%	No	+500 M€	Physical	Quarterly	0.07€ the 15/12/2016	41.54 €	IFFF
+IE00B0M63953	iShares MSCI Eastern Europe Capped UCITS ETF 	MSCI Eastern Europe	0.740%	No	100-500 M€	Physical	Quarterly	0.04€ the 15/12/2016	20.39 €	IEER
+IE00B4WXJG34	iShares E Govt Bond 5-7yr UCITS ETF EUR (Dist) 	Barclays Euro Gov Bond 5-7	0.200%	No	100-500 M€	Physical	Semi-Annually	0.17€ the 12/01/2017	155.08 €	IEGY
+IE00B0M63177	iShares MSCI Emerging Markets UCITS ETF (Dist) 	MSCI Emerging Markets	0.680%	No	+500 M€	Physical	Quarterly	0.06€ the 15/12/2016	32.58 €	IEMM
+IE00B0M62S72	iShares EURO Dividend UCITS ETF 	STOXX Europe Select Div 30	0.400%	No	+500 M€	Physical	Quarterly	0.01€ the 15/12/2016	21.61 €	IDVY
+IE00B02KXL92	iShares EURO STOXX Mid UCITS ETF 	EURO STOXX Mid	0.400%	No	100-500 M€	Physical	Quarterly	0.05€ the 15/12/2016	52.28 €	DJMC
+IE00B02KXM00	iShares EURO STOXX Small UCITS ETF 	EURO STOXX Small	0.400%	No	100-500 M€	Physical	Quarterly	0.06€ the 15/12/2016	30.03 €	DJSC
+IE00B0M62T89	iShares EURO Total Market Value Large UCITS ETF 	EURO STOXX Total Market Value	0.400%	No	50-100 M€	Physical	Quarterly	0.04€ the 15/12/2016	21.52 €	IDJV
+IE0008471009	iShares EURO STOXX 50 UCITS ETF EUR (Dist) 	EURO STOXX 50	0.150%	Yes	+500 M€	Physical	Semi-Annually	0.18€ the 10/11/2016	33.48 €	EUEA
+IE00B14X4N27	iShares MSCI Europe ex UK UCITS ETF 	MSCI Europe Ex UK	0.400%	No	+500 M€	Physical	Quarterly	0.03€ the 15/12/2016	29.43 €	IEUX
+IE00B1YZSC51	iShares MSCI Europe UCITS ETF EUR (Dist) 	MSCI Europe	0.350%	No	+500 M€	Physical	Quarterly	0.10€ the 10/11/2016	22.69 €	IMEU
+IE0005042456	iShares Core FTSE 100 UCITS ETF 	FTSE 100	0.070%	No	+500 M€	Physical	Quarterly	0.06€ the 15/12/2016	8.22 €	ISFA
+IE00B1FZS467	iShares Global Infrastructure UCITS ETF USD (Dist) 	FTSE Macquarie Global Infr 100	0.650%	No	100-500 M€	Physical	Quarterly	0.12€ the 10/11/2016	22.41 €	INFR
+IE00B6X2VY59	iShares EUR CBond I.Rate Hedg UCITS ETF EUR (Dist) 	Barclays EUR Corporate Interes	0.250%	No	+500 M€	Physical	Capitalisation	0.65€ the 15/12/2016	97.09 €	IRCP
+IE00B02KXH56	iShares MSCI Japan UCITS ETF (Dist) 	MSCI Japan	0.590%	No	+500 M€	Physical	Semi-Annually	0.08€ the 12/01/2017	12.00 €	IJPN
+IE00B0M63391	iShares MSCI Korea UCITS ETF (Dist) 	MSCI Korea	0.740%	No	+500 M€	Physical	Semi-Annually	0.64€ the 10/03/2016	34.86 €	IKRA
+IE00B27YCK28	iShares MSCI EM Latin America UCITS ETF USD (Dist) 	MSCI EM Latin America	0.740%	No	100-500 M€	Physical	Semi-Annually	0.09€ the 10/11/2016	14.93 €	LTAM
+IE00B4L5YC18	iShares MSCI EM UCITS ETF USD (Acc) 	MSCI Emerging Markets	0.750%	No	100-500 M€	Physical	Capitalisation	NH	25.80 €	IEMA
+IE00B4K48X80	iShares MSCI Europe UCITS ETF EUR (Acc) 	MSCI Europe	0.350%	No	+500 M€	Physical	Capitalisation	NH	45.26 €	IMAE
+IE00B42Z5J44	iShares MSCI Japan EUR Hedged UCITS ETF (Acc) 	MSCI Japan Hedged EUR	0.640%	No	+500 M€	Physical	Capitalisation	NH	43.95 €	IJPE
+IE00B4L5Y983	iShares Core MSCI World UCITS ETF USD (Acc) 	MSCI World	0.200%	No	+500 M€	Physical	Capitalisation	NH	42.47 €	IWDA
+IE00B441G979	iShares MSCI World EUR Hedged UCITS ETF (Acc) 	MSCI World Hedged EUR	0.550%	No	+500 M€	Physical	Capitalisation	NH	44.21 €	IWDE
+IE00B14X4M10	iShares MSCI North America UCITS ETF 	MSCI North America	0.400%	No	+500 M€	Physical	Quarterly	0.15€ the 15/12/2016	40.59 €	INAA
+IE00B1TXHL60	iShares Listed Private Equity UCITS ETF USD (Dist) 	S&P Listed Private Equity	0.750%	No	100-500 M€	Physical	Semi-Annually	0.40€ the 10/11/2016	17.16 €	IPRV
+IE00B1FZS244	iShares Asia Property Yield UCITS ETF USD (Dist) 	FTSE EPRA NAREIT DevAsiaDiv+	0.590%	No	100-500 M€	Physical	Quarterly	0.17€ the 10/11/2016	23.70 €	IASP
+IE00B0M63284	iShares European Property Yield UCITS ETF 	FTSE EPRA NAREITDevEurExUKDiv+	0.400%	No	+500 M€	Physical	Quarterly	0.06€ the 15/12/2016	36.78 €	IPRP
+IE00B1FZS350	iShares Dev Markts Prop Yield UCITS ETF USD (Dist) 	FTSE EPRA/NAREIT Dev Div+	0.590%	No	+500 M€	Physical	Quarterly	0.17€ the 10/11/2016	23.24 €	IWDP
+IE00B1FZSF77	iShares US Property Yield UCITS ETF USD (Dist) 	FTSE EPRA/NAREIT US Div+	0.400%	No	+500 M€	Physical	Quarterly	0.23€ the 10/11/2016	26.92 €	IUSP
+IE00B3ZW0K18	iShares SP 500 EUR Hedged UCITS ETF (Acc) 	S&P 500 Hedged EUR	0.450%	No	+500 M€	Physical	Capitalisation	NH	51.73 €	IUES
+IE0008470928	iShares STOXX Europe 50 UCITS ETF EUR (Dist) 	STOXX Europe 50	0.350%	No	+500 M€	Physical	Semi-Annually	0.19€ the 10/11/2016	30.71 €	EUNA
+IE00B0M63623	iShares MSCI Taiwan UCITS ETF 	MSCI Taiwan	0.740%	No	100-500 M€	Physical	Semi-Annually	0.85€ the 15/09/2016	35.45 €	ITWN
+IE00B1FZS574	iShares MSCI Turkey UCITS ETF USD (Dist) 	MSCI Turkey	0.740%	No	100-500 M€	Physical	Semi-Annually	0.10€ the 10/11/2016	18.95 €	ITKY
+IE00B14X4S71	iShares S Treasury Bond 1 3yr UCITS ETF 	Barclays US Treasury 1-3Y	0.200%	No	+500 M€	Physical	Semi-Annually	0.46€ the 15/09/2016	124.88 €	IBTS
+IE00B1FZS798	iShares S Treasur Bd 7-10yr UCITS ETF USD (Dist) 	Barclays US Treasury 10yr Term	0.200%	No	+500 M€	Physical	Quarterly	1.65€ the 10/11/2016	183.93 €	BTMA
+IE0032895942	iShares S Corporate Bond UCITS ETF 	Markit iBoxx USD Liquid Invest	0.200%	No	+500 M€	Physical	Quarterly	0.91€ the 15/12/2016	107.41 €	LQDA
+IE00B0M62Q58	iShares MSCI World UCITS ETF (Dist) 	MSCI World	0.500%	No	+500 M€	Physical	Quarterly	0.13€ the 15/12/2016	35.72 €	IWRD
+FR0010312124	LYXOR UCITS ETF MSCI AC ASIA PACIFIC ex JAPAN 	MSCI AC Asia-Pacific ex Japan	0.650%	No	100-500 M€	Synthetic	Annually	0.40€ the 07/12/2011	46.20 €	AEJ
+FR0010345389	Lyxor UCITS ETF Stoxx Europe 600 Basic Resources 	STOXX Europe 600 BasicResrces	0.300%	Yes	100-500 M€	Synthetic	Annually	NH	49.30 €	BRE
+FR0010814236	Lyxor UCITS ETF Euro Corporate Bond ex Financials 	Markit iBoxx EuroLiqCorpNonFin	0.200%	No	100-500 M€	Synthetic	Capitalisation	NH	132.73 €	CNB
+FR0010869578	LYXOR UCITS ETF DAILY DOUBLE SHORT BUND 	SGI Daily Double Short Bund	0.200%	No	+500 M€	Synthetic	Capitalisation	NH	37.32 €	DSB
+FR0010204073	Lyxor UCITS ETF Eastern Europe (CECE NTR EUR) 	CECE EUR	0.500%	No	100-500 M€	Synthetic	Annually	0.44€ the 07/12/2011	17.92 €	CEC
+FR0010405431	LYXOR UCITS ETF FTSE ATHEX LARGE CAP 	FTSE ATHEX 20	0.450%	Yes	100-500 M€	Synthetic	Semi-Annually	0.01€ the 06/07/2016	0.82 €	GRE
+FR0010345371	LYXOR UCITS ETF STOXX EUROPE 600 BANKS 	STOXX Europe 600 Banks	0.300%	Yes	+500 M€	Synthetic	Annually	NH	20.41 €	BNK
+FR0010408799	Lyxor Brazil (Ibovespa) UCITS ETF - C-EUR 	iBOVESPA	0.650%	No	100-500 M€	Synthetic	Capitalisation	NH	16.87 €	RIO
+FR0007052782	LYXOR UCITS ETF CAC 40 (DR) - D-EUR 	CAC 40	0.250%	Yes	+500 M€	Physical	Semi-Annually	0.16€ the 14/12/2016	47.97 €	CAC
+FR0010204081	Lyxor China Enterprise (HSCEI) UCITS ETF - C-EUR 	Hang Seng China Enterprises	0.650%	No	100-500 M€	Synthetic	Annually	0.37€ the 07/12/2011	130.76 €	ASI
+FR0010270033	Lyxor Commodities Thomson Reuters/CoreCommodity CR 	Thomson Reuters Jefferies CRB	0.350%	No	+500 M€	Synthetic	Capitalisation	NH	16.87 €	CRB
+FR0010346205	Lyxor Commodities Thomson Reuters/CoreCommodity CR 	TReutersJefferies CRBNonEnergy	0.350%	No	100-500 M€	Synthetic	Capitalisation	NH	19.68 €	CRN
+LU0252633754	Lyxor DAX (DR) UCITS ETF 	DAX	0.150%	Yes	+500 M€	Synthetic	Capitalisation	NH	110.73 €	DAX
+FR0007056841	Lyxor UCITS ETF Dow Jones Industrial Average 	Dow Jones Industrial Average	0.500%	No	100-500 M€	Synthetic	Semi-Annually	2.05€ the 14/12/2016	186.95 €	DJE
+FR0010429068	Lyxor MSCI Emerging Markets UCITS ETF - C-EUR 	MSCI Emerging Markets	0.650%	No	+500 M€	Synthetic	Annually	0.22€ the 07/12/2011	9.03 €	LEM
+FR0007054358	Lyxor EURO STOXX 50 (DR) UCITS ETF - D-EUR 	EURO STOXX 50	0.250%	Yes	+500 M€	Physical	Semi-Annually	0.17€ the 14/12/2016	32.21 €	MSE
+FR0010510800	LYXOR UCITS ETF EURO CASH 	EuroMTS Eonia Investable	0.150%	No	+500 M€	Synthetic	Capitalisation	NH	106.40 €	CSH
+FR0010438127	LYXOR UCITS ETF FTSE 100 	FTSE 100	0.300%	No	+500 M€	Synthetic	Annually	NH	10.77 €	L100
+FR0010010827	LYXOR UCITS ETF FTSE MIB 	FTSE MIB	0.350%	Yes	+500 M€	Synthetic	Semi-Annually	0.11€ the 14/12/2016	18.79 €	MIB
+FR0010361683	LYXOR UCITS ETF MSCI INDIA 	MSCI India	0.850%	No	+500 M€	Synthetic	Annually	NH	14.18 €	INR
+FR0010245514	LYXOR UCITS ETF Japan (TOPIX) 	Topix	0.500%	No	+500 M€	Synthetic	Semi-Annually	0.98€ the 14/12/2016	121.73 €	JPN
+LU0252634307	Lyxor Daily LevDAX UCITS ETF 	LevDAX	0.400%	Yes	100-500 M€	Synthetic	Capitalisation	NH	95.59 €	LVD
+FR0007085501	Lyxor MSCI EMU (DR) UCITS ETF - D-EUR 	MSCI EMU	0.350%	Yes	100-500 M€	Synthetic	Semi-Annually	0.20€ the 14/12/2016	44.57 €	MFE
+FR0010296061	LYXOR UCITS ETF MSCI USA 	MSCI USA	0.350%	No	+500 M€	Synthetic	Semi-Annually	1.71€ the 14/12/2016	204.97 €	USA
+FR0007063177	LYXOR UCITS ETF NASDAQ-100 	NASDAQ-100	0.300%	No	100-500 M€	Synthetic	Semi-Annually	0.20€ the 06/07/2016	18.78 €	UST
+FR0010326140	LYXOR UCITS ETF RUSSIA (Dow Jones Russia GDR) 	Dow Jones Russia GDR	0.650%	No	100-500 M€	Synthetic	Annually	0.50€ the 07/12/2011	31.37 €	RUS
+LU0959211243	Lyxor S&P 500 UCITS ETF - Daily Hedged D-EUR 	S&P 500 Net Total Return Index	0.150%	No	50-100 M€	Synthetic	Semi-Annually	1.17€ the 14/12/2016	134.53 €	SP5H
+LU0832436512	Lyxor SG Global Quality Income NTR UCITS ETF - D-E 	SG Global Quality Income NTR	0.450%	No	100-500 M€	Synthetic	Semi-Annually	1.80€ the 09/12/2015	124.62 €	SGQI
+FR0010326256	LYXOR UCITS ETF TURKEY (DJ TURKEY TITANS 20) 	Dow Jones Turkey Titans 20	0.650%	No	50-100 M€	Synthetic	Annually	NH	35.95 €	TUR
+FR0010737544	LYXOR EURO CORPORATE BOND UCITS ETF - C-EUR 	Markit iBoxx EUR Liquid Corpo	0.200%	No	+500 M€	Synthetic	Capitalisation	NH	145.24 €	CRP
+FR0010222224	LYXOR UCITS ETF EuroMTS 1-3Y Investment Grade (DR) 	EuroMTS 1-3Y	0.170%	No	+500 M€	Synthetic	Capitalisation	NH	126.25 €	MTA
+FR0010037234	LYXOR UCITS ETF EuroMTS 3-5Y Investment Grade (DR) 	EuroMTS 3-5Y	0.170%	No	+500 M€	Synthetic	Capitalisation	0.53€ the 10/06/2010	153.15 €	MTB
+FR0010481127	Lyxor UCITS ETF EuroMTS Covered Bond Aggregate 	EuroMTS Covered Bond Aggregate	0.170%	No	100-500 M€	Synthetic	Semi-Annually	0.44€ the 06/07/2016	143.53 €	ECB
+FR0010174292	LYXOR UCITS ETF EUROMTS INFLATION LINKED INVESTMEN 	EuroMTS Inflation Linked	0.200%	No	+500 M€	Synthetic	Capitalisation	NH	147.98 €	MTI
+FR0010344861	LYXOR UCITS ETF STOXX EUROPE 600 FOOD & BEVERAGE 	STOXX Europe 600 Food&Beverage	0.300%	Yes	100-500 M€	Synthetic	Annually	NH	67.33 €	FOO
+FR0010344879	LYXOR UCITS ETF STOXX EUROPE 600 HEALTHCARE 	STOXX Europe 600 Health Care	0.300%	Yes	100-500 M€	Synthetic	Annually	NH	79.95 €	HLT
+FR0010975771	LYXOR UCITS ETF IBOXX EUR LIQUID HIGH YIELD 30 EX- 	Markit iBoxx EUR Liquid High Y	0.450%	No	100-500 M€	Synthetic	Semi-Annually	5.60€ the 06/07/2016	117.31 €	YIEL
+FR0010344887	LYXOR UCITS ETF STOXX EUROPE 600 INDUSTRIAL GOODS  	STOXX Europe600IndGoods&Serv	0.300%	Yes	50-100 M€	Synthetic	Annually	NH	52.92 €	IND
+FR0010592014	LYXOR UCITS ETF LEVERAGE CAC 40 	CAC 40 Leverage	0.400%	Yes	100-500 M€	Synthetic	Capitalisation	NH	14.56 €	LVC
+FR0010468983	Lyxor UCITS ETF EURO STOXX 50 Daily Leverage 	EURO STOXX 50 Daily Leverage	0.400%	Yes	100-500 M€	Synthetic	Capitalisation	NH	22.01 €	LVE
+FR0010261198	LYXOR UCITS ETF MSCI Europe 	MSCI Europe Net	0.350%	Yes	+500 M€	Synthetic	Semi-Annually	0.81€ the 14/12/2016	121.54 €	MEU
+FR0010168781	LYXOR UCITS ETF MSCI EMU Value 	MSCI EMU Value	0.400%	Yes	50-100 M€	Synthetic	Semi-Annually	0.66€ the 14/12/2016	114.12 €	VAL
+FR0010315770	LYXOR UCITS ETF MSCI WORLD 	MSCI World	0.450%	No	+500 M€	Synthetic	Semi-Annually	1.40€ the 14/12/2016	166.34 €	WLD
+FR0010028860	LYXOR UCITS ETF EUROMTS ALL-MATURITY INVESTMENT GR 	EuroMTS Global	0.170%	No	+500 M€	Synthetic	Capitalisation	NH	175.93 €	MTX
+FR0010344960	Lyxor UCITS ETF Stoxx Europe 600 Oil & Gas 	STOXX Europe 600 Oil & Gas	0.300%	Yes	100-500 M€	Synthetic	Annually	NH	40.10 €	OIL
+FR0010168773	LYXOR UCITS ETF MSCI EMU Small Cap 	MSCI EMU Small Cap	0.400%	Yes	100-500 M€	Synthetic	Semi-Annually	5.50€ the 06/07/2016	249.35 €	MMS
+LU0496786574	Lyxor S&P 500 UCITS ETF - D-EUR 	S&P 500	0.250%	No	+500 M€	Synthetic	Semi-Annually	0.22€ the 06/07/2016	21.80 €	SP5
+FR0010411884	Lyxor CAC 40 Daily Double Short UCITS ETF 	CAC 40	0.600%	Yes	100-500 M€	Synthetic	Capitalisation	NH	6.56 €	BX4
+LU0599612842	OSSIAM iSTOXXEUROPE MINIMUM VARIANCE NR UCITS ET 	iSTOXX Europe Minimum Variance	0.650%	Yes	100-500 M€	Synthetic	Capitalisation	NH	155.35 €	EUMV
+IE0032077012	PowerShares EQQQ Nasdaq-100 UCITS ETF 	NASDAQ-100	0.270%	No	+500 M€	Physical	Quarterly	0.23€ the 29/12/2016	116.73 €	QQQ
+IE00B23D8S39	PowerShares FTSE RAFI US 1000 UCITS ETF 	FTSE RAFI US 1000	0.500%	No	100-500 M€	Physical	Capitalisation	0.06€ the 29/12/2016	15.74 €	PFT
+IE00B466KX20	SPDR MSCI EM Asia UCITS ETF 	MSCI EM Asia	0.650%	No	100-500 M€	Physical	Capitalisation	NH	47.65 €	EMAE
+NL0010273801	Think iBoxx AAA-AA Government Bond UCITS ETF 	iBoxx Gov AAA-AA 1-5 Index	0.150%	No	100-500 M€	Physical	Quarterly	0.13€ the 21/12/2016	23.61 €	TAT
+NL0009690221	Think Global Equity UCITS ETF 	Think Global Equity	0.200%	No	100-500 M€	Physical	Quarterly	0.20€ the 21/12/2016	38.53 €	TGET
+LU0446734872	UBS ETF - MSCI CANADA UCITS ETF (CAD) A-DIS 	MSCI Canada	0.330%	No	100-500 M€	Physical	-	0.27€ the 29/07/2016	28.61 €	UIM9
+IE00B3RBWM25	Vanguard FTSE All-World UCITS ETF 	FTSE All-World Index	0.250%	No	+500 M€	Physical	Quarterly	0.27€ the 15/12/2016	67.25 €	VWRL
+IE00B3XXRP09	Vanguard S&P 500 UCITS ETF 	S&P 500 Index	0.090%	No	+500 M€	Physical	Quarterly	0.18€ the 15/12/2016	40.73 €	VUSA
+IE0031091428	AMUNDI ETF MSCI EUROPE DR UCITS ETF 	MSCI Europe	0.350%	Yes	50-100 M€	Physical	Capitalisation	NH	220.30 €	AMEU
+IE0032523478	ISHARES E CORP BD 	iShares Markit iBoxx Euro Corp	0.200%	No	<50 M€	Physical	Quarterly	0.38€ the 15/12/2016	134.85 €	IBCX
+IE0031442068	ISHARES S&P 500 	S&P 500	0.400%	No	<50 M€	Physical	Quarterly	0.08€ the 15/12/2016	21.33 €	IUSA
+IE00B1FZSC47	iShares S TIPS UCITS ETF USD (Acc) 	Barclays US Gov Inflation Link	0.250%	No	<50 M€	Physical	Capitalisation	NH	189.60 €	TPSA
+LU0508799334	ComStage Commerzbank Bund-Future TR UCITS ETF 	UNKNOWN	0.20%	?	EUR17m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF560
+LU0603933895	ComStage DivDax TR UCITS ETF 	UNKNOWN	0.25%	?	EUR51m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF003
+LU0392495882	ComStage MSCI USA Large Cap TRN UCITS ETF 	UNKNOWN	0.25%	?	EUR29m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF121
+LU0488317701	ComStage NYSE Arca Gold BUGS UCITS ETF 	UNKNOWN	0.65%	?	EUR221m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF091
+LU0603942888	ComStage SDAX TR UCITS ETF 	UNKNOWN	0.70%	?	EUR62m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF005
+LU0392496773	ComStage Topix UCITS ETF 	UNKNOWN	0.25%	?	EUR9m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETF021
+LU0659579063	db x-trackers ATX UCITS ETF (DR) 1C 	UNKNOWN	0.25%	?	EUR190m	Physical	Accumulating	UNKNOWN	UNKNOWN	DBX0KJ
+LU0779800910	db x-trackers CSI 300 UCITS ETF 1C 	UNKNOWN	0.50%	?	EUR230m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	DBX0M2
+LU0839027447	db x-trackers Nikkei 225 UCITS ETF (DR) 1D 	UNKNOWN	0.09%	?	EUR356m	Physical	Distributing	UNKNOWN	UNKNOWN	DBX0NJ
+LU0292106241	db x-trackers ShortDAX Daily UCITS ETF 1C 	UNKNOWN	0.40%	?	EUR287m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	DBX1DS
+LU0411075020	db x-trackers ShortDAX x2 Daily UCITS ETF 1C 	UNKNOWN	0.60%	?	EUR81m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	DBX0BY
+LU0274221281	db x-trackers Swiss Large Cap UCITS ETF (DR) 1D 	UNKNOWN	0.30%	?	EUR732m	Physical	Distributing	UNKNOWN	UNKNOWN	DBX1SM
+DE000ETFL342	Deka MSCI Emerging Markets UCITS ETF 	UNKNOWN	0.65%	?	EUR16m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	ETFL34
+DE000ETFL060	Deka DAX (ausschüttend) UCITS ETF 	UNKNOWN	0.15%	?	EUR784m	Physical	Distributing	UNKNOWN	UNKNOWN	ETFL06
+DE000ETFL201	Deka Deutsche Boerse EUROGOV Germany 5-10 UCITS ETF 	UNKNOWN	0.15%	?	EUR313m	Physical	Distributing	UNKNOWN	UNKNOWN	ETFL20
+DE000ETFL029	Deka EURO STOXX 50 UCITS ETF 	UNKNOWN	0.15%	?	EUR1,022m	Physical	Distributing	UNKNOWN	UNKNOWN	ETFL02
+DE000ETFL383	Deka iBoxx EUR Liquid Non-Financials Diversified UCITS ETF 	UNKNOWN	0.20%	?	EUR422m	Physical	Distributing	UNKNOWN	UNKNOWN	ETFL38
+DE000ETFL441	Deka MDAX UCITS ETF 	UNKNOWN	0.30%	?	EUR231m	Physical	Accumulating	UNKNOWN	UNKNOWN	ETFL44
+DE000A0N62H8	ETFS Physical PM Basket 	UNKNOWN	0.44%	?	EUR112m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0N62H
+DE000A0N62F2	ETFS Physical Silver 	UNKNOWN	0.49%	?	EUR821m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0N62F
+DE000A0N62G0	ETFS Physical Gold 	UNKNOWN	0.39%	?	EUR5,267m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0N62G
+DE000A0N62E5	ETFS Physical Palladium 	UNKNOWN	0.49%	?	EUR167m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0N62E
+DE000A0N62D7	ETFS Physical Platinum 	UNKNOWN	0.49%	?	EUR348m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0N62D
+DE000A1DCTL3	ETFS Physical Swiss Gold 	UNKNOWN	0.39%	?	EUR414m	Physical	Accumulating	UNKNOWN	UNKNOWN	A1DCTL
+DE000A0LP781	Gold Bullion Securities 	UNKNOWN	0.40%	?	EUR3,472m	Physical	Accumulating	UNKNOWN	UNKNOWN	A0LP78
+DE0005933931	iShares Core DAX UCITS ETF (DE) 	UNKNOWN	0.16%	?	EUR8,121m	Physical	Accumulating	UNKNOWN	UNKNOWN	593393
+DE000A0H0728	iShares Diversified Commodity Swap UCITS ETF (DE) 	UNKNOWN	0.46%	?	EUR772m	Synthetic	Accumulating	UNKNOWN	UNKNOWN	A0H072
+IE00B66F4759	iShares Euro High Yield Corporate Bond UCITS ETF 	UNKNOWN	0.50%	?	EUR5,813m	Physical	Distributing	UNKNOWN	UNKNOWN	A1C3NE
+DE0005933964	iShares SLI UCITS ETF (DE) 	UNKNOWN	0.51%	?	EUR238m	Physical	Distributing	UNKNOWN	UNKNOWN	593396
+DE0002635299	iShares STOXX Europe Select Dividend 30 UCITS ETF (DE) 	UNKNOWN	0.31%	?	EUR491m	Physical	Distributing	UNKNOWN	UNKNOWN	263529
+DE000A0F5UH1	iShares STOXX Global Select Dividend 100 UCITS ETF (DE) 	UNKNOWN	0.46%	?	EUR1,140m	Physical	Distributing	UNKNOWN	UNKNOWN	A0F5UH
+DE0005933972	iShares TecDAX UCITS ETF (DE) 	UNKNOWN	0.51%	?	EUR350m	Physical	Accumulating	UNKNOWN	UNKNOWN	593397
+FR0010411413	Lyxor UCITS ETF EuroMTS 5-7Y Investment Grade (DR) EUR 	UNKNOWN	0.16%	?	EUR604m	Physical	Accumulating	UNKNOWN	UNKNOWN	LYX0BJ
+FR0010411439	Lyxor UCITS ETF EuroMTS 7-10Y Investment Grade (DR) EUR 	UNKNOWN	0.16%	?	EUR325m	Physical	Accumulating	UNKNOWN	UNKNOWN	LYX0BK
