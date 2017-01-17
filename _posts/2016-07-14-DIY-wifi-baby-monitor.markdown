@@ -133,9 +133,12 @@ Instead of packing the samples tightly, we will attempt to make smart use of the
 This way, uncompressed samples remain on 16 bits (with 4 unused bits), and compressed samples take 8 bits, looking like this: ``1SMMMMMM``, where **S** is a sign bit, and **M** are the magnitude bits. This is a signed value, but not encoded in two's complement, because it is surprisingly hard to implement 7 bit signed integers in C with two's complement, while using the sign-and-magnitude encoding is much easier.
 The 6 magnitude bits mean that to be compressible, a sample has to differ by less than 63 from the previous sample. Over a scale of 4096, that is actually pretty likely, hence the good compression results obtained.
 
-Implementing that simple system shows an average compression rate of **45%** - admittedly this was based on a recording of silence and my voice, not of the baby's cries, because that baby is currently still in the womb and therefore doesn't make all that much noise! Silence naturally compresses better than baby cries, so this figure may go down - but I have reason to believe that it's never really going to go lower than the 25% I get with tightly packing samples. (And both can't easily be done at the same time.)
+Implementing that simple system shows an average compression rate of **45%** - admittedly this was based on a **recording of silence and my voice**, not of the baby's cries, because that baby is currently still in the womb and therefore doesn't make all that much noise! Silence naturally compresses better than baby cries, so this figure will go down - but I have reason to believe that it's never really going to go lower than the 25% I get with tightly packing samples. (And both can't easily be done at the same time.)
 
-Implementation of both compression methods, with useful statistics, is [available here](https://github.com/sven337/jeenode/blob/master/babymonitor/udpserver/stats.c). It hasn't yet been added to the baby monitor software.
+Implementation of both compression methods, with useful statistics, is [available here](https://github.com/sven337/jeenode/blob/master/babymonitor/udpserver/stats.c), and delta7 compression was added to the baby monitor devices.
+
+A test with a radio talk show shows practical gains in throughput of 33% on average. Here is the throughput over time:
+![delta7 compression throughput](delta7compression_mrx.png)
  
 ## Command channel
 

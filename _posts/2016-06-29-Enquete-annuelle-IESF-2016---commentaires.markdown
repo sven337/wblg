@@ -39,7 +39,7 @@ Par contre, je vais en faire une critique en citant quelques passages, en applic
 
 Page 3 du PDF, "Une profession appréciée", nous donne les informations suivantes :
 
-> La proportion d'ingénieurs ne cesse de croître dans la population. 380 000 nouveaux ingénieurs ont été diplômés en 2015, remplaçant 8000 à 9000 départs à la retraite. Le nombre d'ingénieurs approche le million. 780 000 sont en activité [...]
+> La proportion d'ingénieurs ne cesse de croître dans la population. 38 000 nouveaux ingénieurs ont été diplômés en 2015, remplaçant 8000 à 9000 départs à la retraite. Le nombre d'ingénieurs approche le million. 780 000 sont en activité [...]
 
 En d'autres termes, le nombre d'ingénieurs en 2015 a **augmenté de 3.8%**. Notre société a-t-elle réellement besoin de plus en plus d'ingénieurs ? En réalité, on assiste à une **inflation des diplômes** : on demande un bac+3 là où le bac suffisait, et un bac+5 là où un bac+3 suffisait. Le problème, c'est que les jobs en France ne deviennent pas en moyenne plus complexes ou plus exigeants chaque année, et surtout pas de presque 4% par an. Notre système scolaire sort donc des ingénieurs qui ne pourront **pas trouver de travail comme ingénieur**. À la place, soit ils opteront carrément pour une reconversion (comme c'est arrivé dans mon entourage, après avoir observé qu'il n'y a **pas** de travail pour tous les ingénieurs dans certains domaines où on continue pourtant à en former), soit, plus couramment, pour un poste "déqualifié" qui aura le titre d'ingénieur, mais pas les fonctions.
 
