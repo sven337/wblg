@@ -122,12 +122,86 @@ def justetf_scrape_ISIN(isin):
 f = open("degiro_ETF_gratuits.txt");
 out = open("scraped_list.txt", "w")
 
+def morningstar_get_soup(link):
+    url = 'http://www.morningstar.co.uk/' + link
+    r = urllib.urlopen(url.encode("UTF-8")).read().replace("</html>", "").replace("<html>", "")
+    soup = BeautifulSoup(r, "lxml")
+    return soup
+
+def morningstar_search_ISIN(isin):
+    url = 'uk/funds/SecuritySearchResults.aspx?search=' + isin
+    soup = morningstar_get_soup(url)
+    
+    links = soup.select(".searchLink")
+    if len(links)  < 1:
+        print("Cannot find results for ISIN " + isin)
+        return ""
+    elif len(links) > 1:
+        print("Too many results for ISIN " + isin + ", taking first result")
+    
+    return links[0].a['href']
+
+def morningstar_scrape_ISIN(link):
+    soup = morningstar_get_soup(link)
+#    isincheck = soup.title.contents[0].split('|')[1].strip() Not reliable (morningstar lies, e.g. on DE000A0KRJU0)
+    
+    h1title = soup.find_all("h1")[0].contents[0].split('|')
+    fullname = h1title[0].strip()
+    ticker = h1title[1].strip()
+
+    table = soup.find_all("td", class_="line heading")
+    sz = 9
+    if (len(table) < 9):
+        print("Did not find expected table from morningstar, results will be truncated")
+        sz = len(table)
+
+    unk = 'UNKNOWN'
+    result = { 'fullname' : fullname,
+               'ISIN' : unk,
+               'ticker' : ticker,
+               'PEA' : '?',
+               'index' : unk,
+               'TER'   : unk,
+               'replication' : unk,
+               'last_dividend' : unk,
+               'dividend_freq' : unk,
+               'aum' : unk,
+               'quote' : unk
+             }
+
+    for i in range(0, sz):
+        lbl = table[i].contents[0].strip()
+        if (lbl.startswith("Morningstar Category")):
+            continue
+        val = table[i].find_next_siblings(class_="text")[0].contents[0].strip()
+        if (lbl == "Closing Price"):
+            result['quote'] = val
+        elif (lbl == "Fund Size (Mil)"):
+            result['aum'] = val
+        elif (lbl == "Ongoing Charge"):
+            result['TER'] = val
+        elif (lbl == "ISIN"):
+            result['ISIN'] = val
+    
+    idx = soup.find_all(string="Fund Benchmark")[0].parent.parent.parent.find_all(class_="value text")[0].contents[0]
+    result['index'] = idx
+
+    soup = morningstar_get_soup(link + '&tab=5')
+    val = soup.select('.managementFeesTable')[2].select(".number")[0].contents[0].strip()
+    result['TER'] = val
+    return result
+
+
+
 # etf360 is preferred because it gives us more info (the explicit index name), but it does not have all funds
-#search_ISIN = etf360_search_ISIN
-#scrape_ISIN = etf360_scrape_ISIN
+search_ISIN = etf360_search_ISIN
+scrape_ISIN = etf360_scrape_ISIN
 # justetf is useful for funds that don't exist on etf360
 search_ISIN = justetf_search_ISIN
 scrape_ISIN = justetf_scrape_ISIN
+# morningstar has all funds (?) but fewer details and they are often incorrect. use for US funds
+search_ISIN = morningstar_search_ISIN
+scrape_ISIN = morningstar_scrape_ISIN
 
 out.write("ISIN\tFullname\tIndex\tTER\tPEA?\tAUM\tReplication\tDiv. freq.\tLast div\tQuote\tTicker\n")
 for line in f.readlines():
