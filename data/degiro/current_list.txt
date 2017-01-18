@@ -185,3 +185,4 @@ DE000A0F5UH1	iShares STOXX Global Select Dividend 100 UCITS ETF (DE) 	UNKNOWN	0.
 DE0005933972	iShares TecDAX UCITS ETF (DE) 	UNKNOWN	0.51%	?	EUR350m	Physical	Accumulating	UNKNOWN	UNKNOWN	593397
 FR0010411413	Lyxor UCITS ETF EuroMTS 5-7Y Investment Grade (DR) EUR 	UNKNOWN	0.16%	?	EUR604m	Physical	Accumulating	UNKNOWN	UNKNOWN	LYX0BJ
 FR0010411439	Lyxor UCITS ETF EuroMTS 7-10Y Investment Grade (DR) EUR 	UNKNOWN	0.16%	?	EUR325m	Physical	Accumulating	UNKNOWN	UNKNOWN	LYX0BK
+US78467X1090	SPDR Dow Jones Industrial Average ETF Trust 	Dow Jones Industrial Average	0.180%	No	+500 M€	Physical	Monthly	0.42€ the 16/12/2016	187.18 €	DIA
