@@ -8,5 +8,5 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-(ou l'inflation des diplômes, référence à Franck Lepage?)
+(ou l'inflation des diplÃ´mes, rÃ©fÃ©rence Ã  Franck Lepage?)
 french recruitement (no technical check + only PhDs because I'm so damn smart)

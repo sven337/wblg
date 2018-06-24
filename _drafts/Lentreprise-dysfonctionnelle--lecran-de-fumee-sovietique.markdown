@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'entreprise dysfonctionnelle : l'écran de fumée soviétique"
+title: "L'entreprise dysfonctionnelle : l'Ã©cran de fumÃ©e soviÃ©tique"
 date: 2015-08-11 19:26:59
 tags: XXX
 category: francais

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'entreprise dysfonctionnelle : les indicateurs peuvent tout résoudre"
+title: "L'entreprise dysfonctionnelle : les indicateurs peuvent tout rÃ©soudre"
 date: 2015-08-11 20:57:02
 tags: politique management
 category: francais

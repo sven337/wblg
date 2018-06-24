@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La France des privilèges : les vieux face au licenciement"
+title: "La France des privilÃ¨ges : les vieux face au licenciement"
 date: 2015-06-27 10:26:38
 tags: politique
 category: francais
@@ -8,14 +8,14 @@ comments: true
 img_rel: "/~sven337/data/PSE"
 ---
 
-J'inaugure une nouvelle section de mon weblog : "la France des privilèges". Si nous avons guillotiné notre roi, nous n'avons pas pour autant éliminé toutes les traces de l'aristocratie dans notre société, et il persiste en France de nombreux privilèges. Le plus connu est le contrat de travail à durée indéterminée (CDI), qui vous permet de louer un logement ou de contracter un prêt bancaire. Il y a également de nombreuses professions qui jouissent de privilèges parfois discutables, souvent scandaleux (plusieurs spécialités médicales, mais aussi des postes de fonctionnaire).
+J'inaugure une nouvelle section de mon weblog : "la France des privilÃ¨ges". Si nous avons guillotinÃ© notre roi, nous n'avons pas pour autant Ã©liminÃ© toutes les traces de l'aristocratie dans notre sociÃ©tÃ©, et il persiste en France de nombreux privilÃ¨ges. Le plus connu est le contrat de travail Ã  durÃ©e indÃ©terminÃ©e (CDI), qui vous permet de louer un logement ou de contracter un prÃªt bancaire. Il y a Ã©galement de nombreuses professions qui jouissent de privilÃ¨ges parfois discutables, souvent scandaleux (plusieurs spÃ©cialitÃ©s mÃ©dicales, mais aussi des postes de fonctionnaire).
 
-Dans cet article, je m'intéresserai à un privilège particulier de notre société française : celui de l'âge dans le contexte du contrat de travail, et plus précisément de sa rupture. Nous avons récemment abordé la [loi El Konnri](/~sven337/francais/2016/02/27/Critique-de-lavant-projet-de-loi-El-Khomri.html), avec son article 28 qui instaure un plafonnement des indemnités perçues en justice en cas de licenciement abusif.
-Mais ces indemnités, comment sont-elles calculées exactement ?
+Dans cet article, je m'intÃ©resserai Ã  un privilÃ¨ge particulier de notre sociÃ©tÃ© franÃ§aise : celui de l'Ã¢ge dans le contexte du contrat de travail, et plus prÃ©cisÃ©ment de sa rupture. Nous avons rÃ©cemment abordÃ© la [loi El Konnri](/~sven337/francais/2016/02/27/Critique-de-lavant-projet-de-loi-El-Khomri.html), avec son article 28 qui instaure un plafonnement des indemnitÃ©s perÃ§ues en justice en cas de licenciement abusif.
+Mais ces indemnitÃ©s, comment sont-elles calculÃ©es exactement ?
 
-# Indemnité en droit civil français : la théorie
+# IndemnitÃ© en droit civil franÃ§ais : la thÃ©orie
 
-# Quelle méthodologie ?
+# Quelle mÃ©thodologie ?
 
 ## Exemples jurisprudentiels
 
