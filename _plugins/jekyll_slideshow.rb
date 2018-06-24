@@ -11,7 +11,7 @@ module Jekyll
       # go through all the images in the site, generate thumbnails for each one
 
       # if we don't have values set for thumbnails, use a sensible default
-      if Jekyll.configuration({}).has_key?('slideshow')
+      if Jekyll.configuration({}).key?('slideshow')
         config = Jekyll.configuration({})['slideshow']
       else
         config = Hash["width", 100, "height", 100]
@@ -57,7 +57,7 @@ module Jekyll
 
 	  page = @context.registers[:page]
 	  img_rel = ""
-      if page.has_key?('img_rel')
+      if page.key?('img_rel')
 	  	img_rel=page['img_rel'] + '/'
 	  end
 
