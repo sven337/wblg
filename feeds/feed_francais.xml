@@ -1,11 +1,11 @@
 ---
 layout: null
 ---
-<?xml version="1.0" encoding="ISO-8859-15"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>{{ site.name | xml_escape }} - Français</title>
-<description>Articles en français</description>
+<title>{{ site.name | xml_escape }} - FranÃ§ais</title>
+<description>Articles en franÃ§ais</description>
 <link>{{ site.url }}</link>
 <atom:link href="{{ site.url }}/feeds/feed.category.xml" rel="self" type="application/rss+xml" />
 {% for post in site.categories.francais limit:10 %}
