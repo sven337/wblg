@@ -1,6 +1,5 @@
-require 'rmagick'
+require 'mini_magick'
 require 'nokogiri'
-include Magick
 
 module Jekyll
 
@@ -20,7 +19,8 @@ module Jekyll
       # create a list of images to be thumbed
       # avoids problem with running over and over the old thumb
       site.static_files.each do |file|
-        if (File.extname(file.path).downcase == ('.jpg' || '.png')) &&
+		extension = File.extname(file.path).downcase
+        if (extension == '.jpg' || extension == '.png') &&
               (!File.basename(file.path).include? "-thumb")
           new_path = File.dirname(file.path) +
             '/' + File.basename(file.path, '.*') +
@@ -31,13 +31,16 @@ module Jekyll
           # thumbify
           if (!File.file?(new_path) ||
               File.mtime(new_path).to_i < file.mtime)
+			  print "Creating thumb for ", file.path, "\n"
             to_thumb.push(file)
           end
         end
       end
       to_thumb.each do |file|
-          img = Magick::Image::read(file.path).first
-          thumb = img.resize_to_fill(config['width'], config['height'])
+
+          img = MiniMagick::Image.open(file.path)
+		 print img
+          thumb = img.resize config['width'].to_s + 'x' + config['height'].to_s
           path = file.path.sub(File.extname(file.path),
             '-thumb' << File.extname(file.path))
           thumb.write path
