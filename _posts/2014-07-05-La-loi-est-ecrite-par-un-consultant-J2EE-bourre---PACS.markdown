@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La loi est écrite par un consultant J2EE bourré - épisode 1 : le PACS"
+title: "La loi est Ã©crite par un consultant J2EE bourrÃ© - Ã©pisode 1 : le PACS"
 date: 2014-07-05 08:30:58
 tags: politique finance droit
 category: francais
@@ -8,72 +8,72 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-La loi est mal écrite, et je ne peux m'empêcher de faire un parallèle avec du code informatique. Comme je l'expliquais dans un [article précédent](//perso.aquilenet.fr/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html) sur le système fiscal, on modifie sans cesse la spécification (= les objectifs) de la loi, et l'implémentation consiste à rajouter des verrues sans jamais rien supprimer ou factoriser. On se retrouve avec des lois écrites dans un français sibyllin, des références très difficiles à retrouver, et une incertitude constante. Cela fait le bonheur des avocats et du système judicaire en général, et en soi c'est déjà un problème car la loi devient inaccessible au citoyen non expert.
+La loi est mal Ã©crite, et je ne peux m'empÃªcher de faire un parallÃ¨le avec du code informatique. Comme je l'expliquais dans un [article prÃ©cÃ©dent](//perso.aquilenet.fr/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html) sur le systÃ¨me fiscal, on modifie sans cesse la spÃ©cification (= les objectifs) de la loi, et l'implÃ©mentation consiste Ã  rajouter des verrues sans jamais rien supprimer ou factoriser. On se retrouve avec des lois Ã©crites dans un franÃ§ais sibyllin, des rÃ©fÃ©rences trÃ¨s difficiles Ã  retrouver, et une incertitude constante. Cela fait le bonheur des avocats et du systÃ¨me judicaire en gÃ©nÃ©ral, et en soi c'est dÃ©jÃ  un problÃ¨me car la loi devient inaccessible au citoyen non expert.
 
-Mais ce que je souhaite dénoncer dans cette rubrique "consultant bourré", ce sont les effets secondaires *imprévus*, néfastes, qui sont conséquence d'une production législative bâclée. Il y a pléthore d'exemples en droit pénal mais ce domaine ne m'intéresse pas beaucoup.
+Mais ce que je souhaite dÃ©noncer dans cette rubrique "consultant bourrÃ©", ce sont les effets secondaires *imprÃ©vus*, nÃ©fastes, qui sont consÃ©quence d'une production lÃ©gislative bÃ¢clÃ©e. Il y a plÃ©thore d'exemples en droit pÃ©nal mais ce domaine ne m'intÃ©resse pas beaucoup.
 
-Dans ce premier épisode je vais vous raconter l'histoire du PACS, ou comment l'obsession de ne pas paraître homophobe dans une décennie où ce n'est plus à la mode a perverti de nombreux dispositifs préexistants.
+Dans ce premier Ã©pisode je vais vous raconter l'histoire du PACS, ou comment l'obsession de ne pas paraÃ®tre homophobe dans une dÃ©cennie oÃ¹ ce n'est plus Ã  la mode a perverti de nombreux dispositifs prÃ©existants.
 
 # Le PACS : le mariage light pour les homos
 
-Le PACS a originellement été pensé comme un mariage "light" pour les homosexuels, car les unions homosexuelles sont contre nature et on ne saurait les encourager. Un vrai mariage pour les homosexuels encouragerait mes enfants à choisir de devenir gays, et c'est inacceptable. Je veux que mon fils soit un *vrai homme*. 
+Le PACS a originellement Ã©tÃ© pensÃ© comme un mariage "light" pour les homosexuels, car les unions homosexuelles sont contre nature et on ne saurait les encourager. Un vrai mariage pour les homosexuels encouragerait mes enfants Ã  choisir de devenir gays, et c'est inacceptable. Je veux que mon fils soit un *vrai homme*. 
 
-Par contre, les citoyens sont égaux devant la loi, ce principe impose que les avantages spécifiques du mariage ne soient pas exclusivement réservés aux couples hétérosexuels. Il fallait donc pondre un dispositif permettant aux homosexuels d'en profiter, sans quoi la France aurait probablement perdu un quatre-millième procès devant la Cour Européenne des Droits de l'Homme.
-Attention toutefois : on sait que les homosexuels sont volages et aiment avoir de multiples partenaires dans la même semaine, afin de les contenter, il est important que le PACS soit facile à conclure et à rompre. Le PACS impose tout de même la monogamie, mais on peut en conclure un et le rompre dans la même semaine !
+Par contre, les citoyens sont Ã©gaux devant la loi, ce principe impose que les avantages spÃ©cifiques du mariage ne soient pas exclusivement rÃ©servÃ©s aux couples hÃ©tÃ©rosexuels. Il fallait donc pondre un dispositif permettant aux homosexuels d'en profiter, sans quoi la France aurait probablement perdu un quatre-milliÃ¨me procÃ¨s devant la Cour EuropÃ©enne des Droits de l'Homme.
+Attention toutefois : on sait que les homosexuels sont volages et aiment avoir de multiples partenaires dans la mÃªme semaine, afin de les contenter, il est important que le PACS soit facile Ã  conclure et Ã  rompre. Le PACS impose tout de mÃªme la monogamie, mais on peut en conclure un et le rompre dans la mÃªme semaine !
 
-Objectivement, voici les caractéristiques spécifiques du PACS qui en font un mariage "allégé" :
+Objectivement, voici les caractÃ©ristiques spÃ©cifiques du PACS qui en font un mariage "allÃ©gÃ©" :
 
-- facilité de conclusion (contrat privé à faire enregistrer, alors que le mariage est une cérémonie publique)
-- facilité de dissolution (ce n'est qu'un contrat, résiliable à tout moment avec très peu de formalités, alors que le mariage étant une affaire publique nécessite le passage devant un juge)
-- pas d'effet sur l'héritage (à vérifier), donc on peut se PACSer avec n'importe qui, alors que le mariage est assez lourd de conséquences au niveau de la succession
-- séparation des biens par défaut
+- facilitÃ© de conclusion (contrat privÃ© Ã  faire enregistrer, alors que le mariage est une cÃ©rÃ©monie publique)
+- facilitÃ© de dissolution (ce n'est qu'un contrat, rÃ©siliable Ã  tout moment avec trÃ¨s peu de formalitÃ©s, alors que le mariage Ã©tant une affaire publique nÃ©cessite le passage devant un juge)
+- pas d'effet sur l'hÃ©ritage (Ã  vÃ©rifier), donc on peut se PACSer avec n'importe qui, alors que le mariage est assez lourd de consÃ©quences au niveau de la succession
+- sÃ©paration des biens par dÃ©faut
 
 # Les "bonus" du mariage
 
-Être marié apporte un certain nombre de bonus à différents niveaux.
+ÃŠtre mariÃ© apporte un certain nombre de bonus Ã  diffÃ©rents niveaux.
 
 ## Foyer fiscal
 
-L'impôt sur le revenu des personnes mariées est calculé en faisant la somme de leur revenus, chaque tranche étant naturellement deux fois plus grande que pour une personne célibataire. L'effet concret est que lorsque les mariés ont des grandes disparités de revenus (techniquement dès lors qu'ils ne sont pas dans la même tranche marginale individuellement), cela diminue l'impôt total à payer. L'objet de mon article n'est pas de discuter de l'opportunité de cette situation (mais mon avis était assez clair dans l'article précédent), mais de mentionner cet avantage. Je rédigerai un article consacré entièrement à cet avantage, afin d'expliquer les différentes stratégies de paiement de l'impôt au sein du couple (car diviser par deux à parts égales est souvent injuste).
-Attention, pour les couples dont au moins l'un des partenaires paie peu d'impôts (moins de 508EUR en 2014), le mariage ou le PACS risque de mécaniquement *augmenter* l'impôt à payer, car la [décote](http://bofip.impots.gouv.fr/bofip/2495-PGP) sera perdue.
+L'impÃ´t sur le revenu des personnes mariÃ©es est calculÃ© en faisant la somme de leur revenus, chaque tranche Ã©tant naturellement deux fois plus grande que pour une personne cÃ©libataire. L'effet concret est que lorsque les mariÃ©s ont des grandes disparitÃ©s de revenus (techniquement dÃ¨s lors qu'ils ne sont pas dans la mÃªme tranche marginale individuellement), cela diminue l'impÃ´t total Ã  payer. L'objet de mon article n'est pas de discuter de l'opportunitÃ© de cette situation (mais mon avis Ã©tait assez clair dans l'article prÃ©cÃ©dent), mais de mentionner cet avantage. Je rÃ©digerai un article consacrÃ© entiÃ¨rement Ã  cet avantage, afin d'expliquer les diffÃ©rentes stratÃ©gies de paiement de l'impÃ´t au sein du couple (car diviser par deux Ã  parts Ã©gales est souvent injuste).
+Attention, pour les couples dont au moins l'un des partenaires paie peu d'impÃ´ts (moins de 508EUR en 2014), le mariage ou le PACS risque de mÃ©caniquement *augmenter* l'impÃ´t Ã  payer, car la [dÃ©cote](http://bofip.impots.gouv.fr/bofip/2495-PGP) sera perdue.
 
 ## Autres avantages fiscaux
 
-Un plan d'épargne entreprise (PEE) est un dispositif d'épargne bloquée dans lequel l'État, en échange de l'engagement du salarié à conserver son épargne pendant 5 ans, consent une remise significative sur les impôts et charges qui devraient normalement être payées par les revenus dudit plan. (Les placements sont de plus potentiellement "abondés", c'est-à-dire augmentés, par l'entreprise, à des conditions fiscales avantageuses. Cela permet à des entreprises d'augmenter virtuellement leurs salariés à moindre coût, ce dispositif est donc très utilisé.)
-Toutefois, du fait que ce dispositif impose de bloquer de l'argent pendant *cinq longues années*, et que les français sont irresponsables et ne comprennent pas la notion d'engagement (citons par exemple les forfaits de téléphone mobile "avec engagement de deux ans", qui en réalité ne vous engagent que pour environ la moitié de cette durée, ou les médecins/coiffeurs/garagistes dont les clients ne viennent régulièrement pas, alors qu'ils avaient rendez-vous, et cela sans prévenir afin de ne pas avoir à assumer leur légèreté), il existe des conditions de déblocage anticipé.
-Pour les produits financiers standard de type compte à terme (un compte à terme est le symétrique d'un prêt), si vous souhaitez rompre le contrat avant la fin de la période d'engagement, cela est en général possible moyennant une pénalité parfois significative. Si on prend le cas du PEA (plan d'épargne en actions, une invention stupide de l'état français pour dépenser de l'argent public afin d'encourager les français à <s>jouer à la loterie</s>  <s>parier</s>  "investir" en bourse), la rupture est possible à tout moment, moyennant perte de l'avantage fiscal.
-Pour le PEE, le montage est différent, car il aurait été dommage d'avoir un peu d'harmonie dans les produits financiers à avantage fiscal. Le déblocage avant échéance est impossible, sauf cas particuliers qui permettent de **conserver l'avantage fiscal**. Ces cas particuliers sont, notamment :
+Un plan d'Ã©pargne entreprise (PEE) est un dispositif d'Ã©pargne bloquÃ©e dans lequel l'Ã‰tat, en Ã©change de l'engagement du salariÃ© Ã  conserver son Ã©pargne pendant 5 ans, consent une remise significative sur les impÃ´ts et charges qui devraient normalement Ãªtre payÃ©es par les revenus dudit plan. (Les placements sont de plus potentiellement "abondÃ©s", c'est-Ã -dire augmentÃ©s, par l'entreprise, Ã  des conditions fiscales avantageuses. Cela permet Ã  des entreprises d'augmenter virtuellement leurs salariÃ©s Ã  moindre coÃ»t, ce dispositif est donc trÃ¨s utilisÃ©.)
+Toutefois, du fait que ce dispositif impose de bloquer de l'argent pendant *cinq longues annÃ©es*, et que les franÃ§ais sont irresponsables et ne comprennent pas la notion d'engagement (citons par exemple les forfaits de tÃ©lÃ©phone mobile "avec engagement de deux ans", qui en rÃ©alitÃ© ne vous engagent que pour environ la moitiÃ© de cette durÃ©e, ou les mÃ©decins/coiffeurs/garagistes dont les clients ne viennent rÃ©guliÃ¨rement pas, alors qu'ils avaient rendez-vous, et cela sans prÃ©venir afin de ne pas avoir Ã  assumer leur lÃ©gÃ¨retÃ©), il existe des conditions de dÃ©blocage anticipÃ©.
+Pour les produits financiers standard de type compte Ã  terme (un compte Ã  terme est le symÃ©trique d'un prÃªt), si vous souhaitez rompre le contrat avant la fin de la pÃ©riode d'engagement, cela est en gÃ©nÃ©ral possible moyennant une pÃ©nalitÃ© parfois significative. Si on prend le cas du PEA (plan d'Ã©pargne en actions, une invention stupide de l'Ã©tat franÃ§ais pour dÃ©penser de l'argent public afin d'encourager les franÃ§ais Ã  <s>jouer Ã  la loterie</s>  <s>parier</s>  "investir" en bourse), la rupture est possible Ã  tout moment, moyennant perte de l'avantage fiscal.
+Pour le PEE, le montage est diffÃ©rent, car il aurait Ã©tÃ© dommage d'avoir un peu d'harmonie dans les produits financiers Ã  avantage fiscal. Le dÃ©blocage avant Ã©chÃ©ance est impossible, sauf cas particuliers qui permettent de **conserver l'avantage fiscal**. Ces cas particuliers sont, notamment :
 
-- achat de la résidence principale
-- perte de son emploi (attention, la définition de "perte" n'est pas la même que dans d'autres lois, la démission est ici incluse dans la définition, ce qui est une honte)
+- achat de la rÃ©sidence principale
+- perte de son emploi (attention, la dÃ©finition de "perte" n'est pas la mÃªme que dans d'autres lois, la dÃ©mission est ici incluse dans la dÃ©finition, ce qui est une honte)
 - mariage 
 - ...
 
-Votre mariage vous permet de profiter de l'avantage fiscal du PEE sans attendre le délai. Quand je parle de verrue dans notre système fiscal... quel est l'intérêt d'un tel dispositif ? Encourager les français détenteurs d'un PEE (c'est-à-dire seulement une fraction des salariés) à se marier ? Pourquoi eux plutôt que d'autres ? L'effet de ce dispositif est-il évalué par rapport à son coût ? 
+Votre mariage vous permet de profiter de l'avantage fiscal du PEE sans attendre le dÃ©lai. Quand je parle de verrue dans notre systÃ¨me fiscal... quel est l'intÃ©rÃªt d'un tel dispositif ? Encourager les franÃ§ais dÃ©tenteurs d'un PEE (c'est-Ã -dire seulement une fraction des salariÃ©s) Ã  se marier ? Pourquoi eux plutÃ´t que d'autres ? L'effet de ce dispositif est-il Ã©valuÃ© par rapport Ã  son coÃ»t ? 
 
 ## Droit social
 
 Dans le monde du travail, le mariage permet quelques menus avantages :
 
-- avoir ses vacances en même temps que son conjoint (sous réserve des nécessités du service)
-- demander une mutation pour rapprochement de conjoints (pour les fonctionnaires), bénéficier de l'assurance chômage en cas de démission pour suivre son conjoint (pour les salariés)
-- plein de petits détails dont certains chanceux profitent car ils sont les seuls au courant, comme d'habitude dans notre droit du travail français
+- avoir ses vacances en mÃªme temps que son conjoint (sous rÃ©serve des nÃ©cessitÃ©s du service)
+- demander une mutation pour rapprochement de conjoints (pour les fonctionnaires), bÃ©nÃ©ficier de l'assurance chÃ´mage en cas de dÃ©mission pour suivre son conjoint (pour les salariÃ©s)
+- plein de petits dÃ©tails dont certains chanceux profitent car ils sont les seuls au courant, comme d'habitude dans notre droit du travail franÃ§ais
 
 # Le PACS rend ces bonus beaucoup plus accessibles
 
-Le problème fondamental du PACS est qu'il a été conçu comme mariage allégé tant dans ses obligations que dans sa conclusion, mais qu'il ouvre droit - parce que ne pas le faire serait discriminer les homosexuels - aux mêmes avantages que le mariage.
-Légalement il y a assez peu de problèmes à se PACSer avec quelqu'un rencontré dans la rue deux jours plus tôt, le temps de demander à bénéficier d'un avantage, et rompre le PACS immédiatement après. J'ai entendu parler de cette pratique chez les fonctionnaires - à noter qu'elle est formellement légale, mais j'imagine que l'abus de droit pourrait vous être opposé.
+Le problÃ¨me fondamental du PACS est qu'il a Ã©tÃ© conÃ§u comme mariage allÃ©gÃ© tant dans ses obligations que dans sa conclusion, mais qu'il ouvre droit - parce que ne pas le faire serait discriminer les homosexuels - aux mÃªmes avantages que le mariage.
+LÃ©galement il y a assez peu de problÃ¨mes Ã  se PACSer avec quelqu'un rencontrÃ© dans la rue deux jours plus tÃ´t, le temps de demander Ã  bÃ©nÃ©ficier d'un avantage, et rompre le PACS immÃ©diatement aprÃ¨s. J'ai entendu parler de cette pratique chez les fonctionnaires - Ã  noter qu'elle est formellement lÃ©gale, mais j'imagine que l'abus de droit pourrait vous Ãªtre opposÃ©.
 
-Cette facilité déséquilibre totalement l'ensemble des avantages octroyés au mariage, en les rendant accessibles à tout un chacun sans la moindre contrepartie sérieuse ! En effet on ne se marie pas, ou on n'achète pas une maison, juste dans le but de rompre un PEE. Par contre, se PACSer uniquement dans cette optique est parfaitement envisageable.
+Cette facilitÃ© dÃ©sÃ©quilibre totalement l'ensemble des avantages octroyÃ©s au mariage, en les rendant accessibles Ã  tout un chacun sans la moindre contrepartie sÃ©rieuse ! En effet on ne se marie pas, ou on n'achÃ¨te pas une maison, juste dans le but de rompre un PEE. Par contre, se PACSer uniquement dans cette optique est parfaitement envisageable.
 
-# Le mariage des personnes de même sexe...
+# Le mariage des personnes de mÃªme sexe...
 
-Arrive l'élection de M. Hollande, qui nous promet d'ouvrir le mariage aux personnes de même sexe. Je n'ai rien contre (j'aurais voté pour si on m'avait demandé mon avis), et à vrai dire lorsque le gouvernement passe son temps là dessus il ne le passe pas à exercer son incompétence sur des sujets plus importants pour la société, mais il aurait semblé logique de faire suivre cette réforme de la **suppression pure et simple du PACS**, dont la raison d'être originelle avait dès lors disparu !
-Or, je n'ai pas entendu de telle suggestion, car les français sont certainement trop habitués au PACS - ce qui n'est pas surprenant étant donné les avantages qu'il offre avec une grande facilité d'accès.
+Arrive l'Ã©lection de M. Hollande, qui nous promet d'ouvrir le mariage aux personnes de mÃªme sexe. Je n'ai rien contre (j'aurais votÃ© pour si on m'avait demandÃ© mon avis), et Ã  vrai dire lorsque le gouvernement passe son temps lÃ  dessus il ne le passe pas Ã  exercer son incompÃ©tence sur des sujets plus importants pour la sociÃ©tÃ©, mais il aurait semblÃ© logique de faire suivre cette rÃ©forme de la **suppression pure et simple du PACS**, dont la raison d'Ãªtre originelle avait dÃ¨s lors disparu !
+Or, je n'ai pas entendu de telle suggestion, car les franÃ§ais sont certainement trop habituÃ©s au PACS - ce qui n'est pas surprenant Ã©tant donnÃ© les avantages qu'il offre avec une grande facilitÃ© d'accÃ¨s.
 
-Le problème de fond est que les avantages - dont je conteste la légitimité, bien que j'en profite partiellement - du mariage coûtent de l'argent à l'état, sous la forme d'impôts non perçus. Les rendre aveuglément accessibles sous couvert de réforme sociétale est une erreur, et il est évident que le PACS aujourd'hui sert avant tout à réduire les impôts (ou obtenir des mutations, etc.) d'un couple hétérosexuel, bien avant de servir à un couple homosexuel à réaliser une union civile qui ne leur était auparavant pas ouverte. Il aurait fallu ouvrir le mariage aux personnes de même sexe plutôt que de créer le PACS, et à défaut, supprimer le PACS dès que ce mariage a été légalisé.
+Le problÃ¨me de fond est que les avantages - dont je conteste la lÃ©gitimitÃ©, bien que j'en profite partiellement - du mariage coÃ»tent de l'argent Ã  l'Ã©tat, sous la forme d'impÃ´ts non perÃ§us. Les rendre aveuglÃ©ment accessibles sous couvert de rÃ©forme sociÃ©tale est une erreur, et il est Ã©vident que le PACS aujourd'hui sert avant tout Ã  rÃ©duire les impÃ´ts (ou obtenir des mutations, etc.) d'un couple hÃ©tÃ©rosexuel, bien avant de servir Ã  un couple homosexuel Ã  rÃ©aliser une union civile qui ne leur Ã©tait auparavant pas ouverte. Il aurait fallu ouvrir le mariage aux personnes de mÃªme sexe plutÃ´t que de crÃ©er le PACS, et Ã  dÃ©faut, supprimer le PACS dÃ¨s que ce mariage a Ã©tÃ© lÃ©galisÃ©.
 
-Cela m'amène à conclure que ceux qui rédigent la loi, et réfléchissent au PACS ou au mariage des personnes de même sexe, ont probablement été consultants en J2EE dans une SSII avant de nous régaler de leur production intellectuelle. C'est tout de même inquiétant de réaliser que des mauvais informaticiens bourrés feraient un aussi bon travail que les personnes qui nous gouvernent. Un minimum de culture en programmation, ou bricolage (du type fabriquer des meubles ou un dispositif électronique) serait très utile à nos concitoyens...
+Cela m'amÃ¨ne Ã  conclure que ceux qui rÃ©digent la loi, et rÃ©flÃ©chissent au PACS ou au mariage des personnes de mÃªme sexe, ont probablement Ã©tÃ© consultants en J2EE dans une SSII avant de nous rÃ©galer de leur production intellectuelle. C'est tout de mÃªme inquiÃ©tant de rÃ©aliser que des mauvais informaticiens bourrÃ©s feraient un aussi bon travail que les personnes qui nous gouvernent. Un minimum de culture en programmation, ou bricolage (du type fabriquer des meubles ou un dispositif Ã©lectronique) serait trÃ¨s utile Ã  nos concitoyens...
 
 
 

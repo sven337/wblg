@@ -8,13 +8,13 @@ comments: true
 img_rel: "/~sven337/data/teleinfo"
 ---
 
-J'ai présenté, il y a bien longtemps, mon montage de [suivi de consommation électrique](/~sven337/francais/2014/03/09/Suivi-de-consommation-elec-avec-R-Pi.html) utilisant la téléinfo EDF. Jusqu'à présent je m'en servais assez peu : pour m'épargner le déplacement jusqu'au compteur lorsque, quelques fois par an, mon fournisseur d'énergie me demande une auto-relève ; et pour tirer des courbes que je ne regarde au demeurant que très peu souvent (celles de température sont parfois utiles, celles de consommation électrique, très rarement).
+J'ai prÃ©sentÃ©, il y a bien longtemps, mon montage de [suivi de consommation Ã©lectrique](/~sven337/francais/2014/03/09/Suivi-de-consommation-elec-avec-R-Pi.html) utilisant la tÃ©lÃ©info EDF. Jusqu'Ã  prÃ©sent je m'en servais assez peu : pour m'Ã©pargner le dÃ©placement jusqu'au compteur lorsque, quelques fois par an, mon fournisseur d'Ã©nergie me demande une auto-relÃ¨ve ; et pour tirer des courbes que je ne regarde au demeurant que trÃ¨s peu souvent (celles de tempÃ©rature sont parfois utiles, celles de consommation Ã©lectrique, trÃ¨s rarement).
 
-![Exemple de courbe de consommation électrique - lissée sur la journée](teleinfo_jsgraph2.jpg)
+![Exemple de courbe de consommation Ã©lectrique - lissÃ©e sur la journÃ©e](teleinfo_jsgraph2.jpg)
 
-Une utilisation concrète fait suite à l'acquisition par mon foyer d'un sèche-linge, sans augmentation de la puissance de mon abonnement d'électricité (car c'est très cher et peu justifié). Pour éviter les coupures de courant intempestives qui arrivent lorsque le sèche-linge est utilisé au mauvais moment (c'est-à-dire en même temps que le four, la machine à laver, les plaques à induction, ...), j'ai modifié ma petite application Flask afin d'y ajouter un avertissement dès que la puissance efficace dépasse 5500W (mon abonnement est de 6000VA, mais j'ai remarqué que le disjoncteur principal était assez laxiste et me permettait de monter jusqu'à 6500W avant coupure). J'ai fixé ce seuil empiriquement de telle sorte qu'il corresponde à une situation critique (il faut réagir *vite* sinon *ça va couper*), mais rattrapable (en éteignant quelques appareils on évite la coupure générale). 
+Une utilisation concrÃ¨te fait suite Ã  l'acquisition par mon foyer d'un sÃ¨che-linge, sans augmentation de la puissance de mon abonnement d'Ã©lectricitÃ© (car c'est trÃ¨s cher et peu justifiÃ©). Pour Ã©viter les coupures de courant intempestives qui arrivent lorsque le sÃ¨che-linge est utilisÃ© au mauvais moment (c'est-Ã -dire en mÃªme temps que le four, la machine Ã  laver, les plaques Ã  induction, ...), j'ai modifiÃ© ma petite application Flask afin d'y ajouter un avertissement dÃ¨s que la puissance efficace dÃ©passe 5500W (mon abonnement est de 6000VA, mais j'ai remarquÃ© que le disjoncteur principal Ã©tait assez laxiste et me permettait de monter jusqu'Ã  6500W avant coupure). J'ai fixÃ© ce seuil empiriquement de telle sorte qu'il corresponde Ã  une situation critique (il faut rÃ©agir *vite* sinon *Ã§a va couper*), mais rattrapable (en Ã©teignant quelques appareils on Ã©vite la coupure gÃ©nÃ©rale). 
 
-Le script d'avertissement m'envoie un e-mail, un SMS, et met le son au maximum sur l'eeePC qui me sert de serveur afin de jouer un mp3 d'alarme. La combinaison de ces méthodes de notification suffit en général à attirer mon attention à temps.
+Le script d'avertissement m'envoie un e-mail, un SMS, et met le son au maximum sur l'eeePC qui me sert de serveur afin de jouer un mp3 d'alarme. La combinaison de ces mÃ©thodes de notification suffit en gÃ©nÃ©ral Ã  attirer mon attention Ã  temps.
 
 ``` bash
 #!/bin/bash
@@ -26,7 +26,7 @@ echo "POWER WARNING $1 W"| ~/sms-send-notification.sh
 echo "POWER WARNING $1 W" | mail -s 'POWER WARNING'  root
 ```
 
-Cela me permet de continuer à lancer le sèche-linge au mauvais moment, sans payer le prix de mon étourderie sous la forme d'une coupure générale d'électricité qui est toujours agaçante (et sensiblement dommageable au système d'exploitation des multiples ordinateurs qui fonctionnent à la maison, et par exemple du Raspberry Pi que j'utilise comme pour certaines fonctionnalités domotiques... il faut que je mette en place un système de batterie de secours pour cet appareil).
+Cela me permet de continuer Ã  lancer le sÃ¨che-linge au mauvais moment, sans payer le prix de mon Ã©tourderie sous la forme d'une coupure gÃ©nÃ©rale d'Ã©lectricitÃ© qui est toujours agaÃ§ante (et sensiblement dommageable au systÃ¨me d'exploitation des multiples ordinateurs qui fonctionnent Ã  la maison, et par exemple du Raspberry Pi que j'utilise comme pour certaines fonctionnalitÃ©s domotiques... il faut que je mette en place un systÃ¨me de batterie de secours pour cet appareil).
 
 <script>
     $(document).ready(function() { 

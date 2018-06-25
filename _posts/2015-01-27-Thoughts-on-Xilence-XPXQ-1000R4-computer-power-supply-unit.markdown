@@ -44,7 +44,7 @@ Just this is enough to worry a little bit about the *attention this power supply
 
 ## Capacitors
 
-Everybody knows that **electrolytic capacitor failures** are the #1 cause of failure in power supplies. Most components don't really age, but electrolytic capacitors do, and temperature is their enemy. The choice of a particular brand of capacitors has real impact on the reliability of the power supply, but all capacitors will die some day. They're usually only rated for a few thousand hours of runtime at 105°C.
+Everybody knows that **electrolytic capacitor failures** are the #1 cause of failure in power supplies. Most components don't really age, but electrolytic capacitors do, and temperature is their enemy. The choice of a particular brand of capacitors has real impact on the reliability of the power supply, but all capacitors will die some day. They're usually only rated for a few thousand hours of runtime at 105Â°C.
 This power supply uses a few Chinese brands of capacitors which aren't known for their quality. Usually, the filtering capacitors at the output of the power supply are the ones that will die first. 
 
 # The failure

@@ -8,112 +8,112 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-Dans le [précédent article sur l'impôt](/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html), j'abordais les impôts qui concernent les êtres humains, et j'expliquais tout le bien que je pense de la simplicité de l'impôt sur le revenu et de la philosophie de l'impôt sur la fortune. Aujourd'hui nous allons nous intéresser aux flux d'argent au sein d'une entreprise, sachant que le principe fondamental énoncé dans l'article précédent s'applique toujours : l'État veut sa part sur tout.
+Dans le [prÃ©cÃ©dent article sur l'impÃ´t](/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html), j'abordais les impÃ´ts qui concernent les Ãªtres humains, et j'expliquais tout le bien que je pense de la simplicitÃ© de l'impÃ´t sur le revenu et de la philosophie de l'impÃ´t sur la fortune. Aujourd'hui nous allons nous intÃ©resser aux flux d'argent au sein d'une entreprise, sachant que le principe fondamental Ã©noncÃ© dans l'article prÃ©cÃ©dent s'applique toujours : l'Ã‰tat veut sa part sur tout.
 
-Notez que je travaille sur cet article depuis juin 2014 et que, réalisant qu'il ne serait jamais terminé, j'ai décidé de publier quelque chose de plus court et de faire moins de vérifications approfondies. 
+Notez que je travaille sur cet article depuis juin 2014 et que, rÃ©alisant qu'il ne serait jamais terminÃ©, j'ai dÃ©cidÃ© de publier quelque chose de plus court et de faire moins de vÃ©rifications approfondies. 
 
-# Une entreprise, c'est avant tout une pompe à billets
+# Une entreprise, c'est avant tout une pompe Ã  billets
 
-Le but fondamental d'une entreprise est de *gagner de l'argent* (sinon, ses créateurs auraient choisi la voie de l'association de loi 1901 dite "à but non lucratif" - sauf parfois pour ses créateurs, car une association peut avoir des salariés et peut avoir une gouvernance très opaque). 
+Le but fondamental d'une entreprise est de *gagner de l'argent* (sinon, ses crÃ©ateurs auraient choisi la voie de l'association de loi 1901 dite "Ã  but non lucratif" - sauf parfois pour ses crÃ©ateurs, car une association peut avoir des salariÃ©s et peut avoir une gouvernance trÃ¨s opaque). 
 
-Le modèle que je propose est le suivant : il faut voir l'entreprise comme une station de pompage de *cash money*, avec des tuyaux qui vont dans différents réservoirs, et dont l'activité consiste à aspirer l'argent dans certains des réservoirs pour le transférer dans d'autres. Il y a donc une pompe au centre (l'entreprise), des entités diverses, et des tuyaux qui connectent la pompe à ces entités.
+Le modÃ¨le que je propose est le suivant : il faut voir l'entreprise comme une station de pompage de *cash money*, avec des tuyaux qui vont dans diffÃ©rents rÃ©servoirs, et dont l'activitÃ© consiste Ã  aspirer l'argent dans certains des rÃ©servoirs pour le transfÃ©rer dans d'autres. Il y a donc une pompe au centre (l'entreprise), des entitÃ©s diverses, et des tuyaux qui connectent la pompe Ã  ces entitÃ©s.
 
 # Une station de pompage
 
 Dans une station de pompage, il y a :
 
 - des machines
-- de l'énergie et des hommes pour faire fonctionner les machines
+- de l'Ã©nergie et des hommes pour faire fonctionner les machines
 
-Les machines, c'est le capital de la société. Lorsqu'ils ont créé l'entreprise, les associés ont acheté ces machines, et ce sont ces machines qui vont faire le pompage... mais elles ont besoin d'énergie, c'est-à-dire d'employés, pour fonctionner. Le pompage se fait par l'action coordonnée des machines et des hommes.
+Les machines, c'est le capital de la sociÃ©tÃ©. Lorsqu'ils ont crÃ©Ã© l'entreprise, les associÃ©s ont achetÃ© ces machines, et ce sont ces machines qui vont faire le pompage... mais elles ont besoin d'Ã©nergie, c'est-Ã -dire d'employÃ©s, pour fonctionner. Le pompage se fait par l'action coordonnÃ©e des machines et des hommes.
 
 # Qui gagne de l'argent
 
-L'entreprise va aspirer l'argent dans la poche des clients, et en reverser une partie à ses fournisseurs. Logiquement, elle en reverse moins qu'elle n'aspire, et cela crée un flux qui s'appelle la **valeur ajoutée**. Ce flux est ensuite réparti entre différentes entités.
+L'entreprise va aspirer l'argent dans la poche des clients, et en reverser une partie Ã  ses fournisseurs. Logiquement, elle en reverse moins qu'elle n'aspire, et cela crÃ©e un flux qui s'appelle la **valeur ajoutÃ©e**. Ce flux est ensuite rÃ©parti entre diffÃ©rentes entitÃ©s.
 
-## Les salariés
+## Les salariÃ©s
 
-Tout d'abord (et je les place en premier car ils représentent couramment le poste le plus important parmi ceux que je vais lister), il faut payer les salariés. L'entreprise affecte donc une partie de sa valeur ajoutée à remplir les poches des salariés. Cette part représente, en France, environ **60%** de la valeur ajoutée de l'entreprise. Attention, cela ne veut pas dire que 60% de la valeur ajoutée arrive dans la poche des salariés (car on verra que l'argent "s'évapore" en route, mais bien sûr il n'est pas perdu pour tout le monde). Voir [ici](http://www.captaineconomics.fr/mobile/article.php?id=150) pour des graphiques et une opinion, et [un rapport de l'INSEE (PDF, 90 pages)](http://www.insee.fr/fr/publications-et-services/dossiers_web/partage_VA/rapport_partage_VA.pdf) sur le partage de la valeur ajoutée.
-Les salariés, première "citerne" que remplit la pompe - ce qui relativise fortement les revendications de nombreux hommes politiques et syndicats de gauche. En réalité les entreprises travaillent avant tout pour leurs salariés, comme le rapport de l'INSEE le montre.
+Tout d'abord (et je les place en premier car ils reprÃ©sentent couramment le poste le plus important parmi ceux que je vais lister), il faut payer les salariÃ©s. L'entreprise affecte donc une partie de sa valeur ajoutÃ©e Ã  remplir les poches des salariÃ©s. Cette part reprÃ©sente, en France, environ **60%** de la valeur ajoutÃ©e de l'entreprise. Attention, cela ne veut pas dire que 60% de la valeur ajoutÃ©e arrive dans la poche des salariÃ©s (car on verra que l'argent "s'Ã©vapore" en route, mais bien sÃ»r il n'est pas perdu pour tout le monde). Voir [ici](http://www.captaineconomics.fr/mobile/article.php?id=150) pour des graphiques et une opinion, et [un rapport de l'INSEE (PDF, 90 pages)](http://www.insee.fr/fr/publications-et-services/dossiers_web/partage_VA/rapport_partage_VA.pdf) sur le partage de la valeur ajoutÃ©e.
+Les salariÃ©s, premiÃ¨re "citerne" que remplit la pompe - ce qui relativise fortement les revendications de nombreux hommes politiques et syndicats de gauche. En rÃ©alitÃ© les entreprises travaillent avant tout pour leurs salariÃ©s, comme le rapport de l'INSEE le montre.
 
 ### L'EBE
 
-Une fois les salariés payés, on a une grandeur qui s'appelle l'excédent brut d'exploitation (EBE ou plus couramment EBITDA en anglais). Cette valeur représente le "potentiel d'enrichissement" de l'entreprise : elle correspond à l'argent qui reste une fois que l'entreprise a payé ses dettes de fonctionnement (fournisseurs et salariés).
-C'est une mesure importante de la bonne santé d'une entreprise, car si une entreprise compte survivre elle a besoin d'investir un minimum, et c'est à partir de ce flux qu'elle pourra le faire. L'EBE sert également à valoriser une entreprise : la valeur d'achat d'une entreprise est de l'ordre de 2 à 20 fois l'EBE (selon son secteur d'activité, mais aussi l'humeur de l'évaluateur et bien sûr les coefficients des marées). Voir [ce document des impôts (PDF, 114 pages)](http://www.impots.gouv.fr/portal/deploiement/p1/fichedescriptive_4166/fichedescriptive_4166.pdf), de très bonne facture, pour plus de détails sur l'évaluation des entreprises. Si vous la payez plus cher que cela, foncièrement, c'est que vous ne l'achetez pas pour qu'elle vous rapporte de l'argent, mais pour la revendre à un pigeon avec une plus-value. C'est ce que font la plupart des gens sur les marchés boursiers et sur le marché de l'immobilier de nos jours. 
+Une fois les salariÃ©s payÃ©s, on a une grandeur qui s'appelle l'excÃ©dent brut d'exploitation (EBE ou plus couramment EBITDA en anglais). Cette valeur reprÃ©sente le "potentiel d'enrichissement" de l'entreprise : elle correspond Ã  l'argent qui reste une fois que l'entreprise a payÃ© ses dettes de fonctionnement (fournisseurs et salariÃ©s).
+C'est une mesure importante de la bonne santÃ© d'une entreprise, car si une entreprise compte survivre elle a besoin d'investir un minimum, et c'est Ã  partir de ce flux qu'elle pourra le faire. L'EBE sert Ã©galement Ã  valoriser une entreprise : la valeur d'achat d'une entreprise est de l'ordre de 2 Ã  20 fois l'EBE (selon son secteur d'activitÃ©, mais aussi l'humeur de l'Ã©valuateur et bien sÃ»r les coefficients des marÃ©es). Voir [ce document des impÃ´ts (PDF, 114 pages)](http://www.impots.gouv.fr/portal/deploiement/p1/fichedescriptive_4166/fichedescriptive_4166.pdf), de trÃ¨s bonne facture, pour plus de dÃ©tails sur l'Ã©valuation des entreprises. Si vous la payez plus cher que cela, fonciÃ¨rement, c'est que vous ne l'achetez pas pour qu'elle vous rapporte de l'argent, mais pour la revendre Ã  un pigeon avec une plus-value. C'est ce que font la plupart des gens sur les marchÃ©s boursiers et sur le marchÃ© de l'immobilier de nos jours. 
 
-L'EBE (auquel on enlève quelques petites choses), on peut l'utiliser à deux fins : soit le distribuer aux actionnaires en rémunération du capital investi (c'est-à-dire de l'argent qu'ils ont investi dans l'entreprise et dont ils attendent un retour sur investissement), soit le garder dans les coffres de la société pour financer sa croissance. C'est *parce que* une entreprise dégage un excédent d'exploitation qu'elle peut s'acheter des machines, créer des emplois, innover, ... 
+L'EBE (auquel on enlÃ¨ve quelques petites choses), on peut l'utiliser Ã  deux fins : soit le distribuer aux actionnaires en rÃ©munÃ©ration du capital investi (c'est-Ã -dire de l'argent qu'ils ont investi dans l'entreprise et dont ils attendent un retour sur investissement), soit le garder dans les coffres de la sociÃ©tÃ© pour financer sa croissance. C'est *parce que* une entreprise dÃ©gage un excÃ©dent d'exploitation qu'elle peut s'acheter des machines, crÃ©er des emplois, innover, ... 
 
 ## Les actionnaires
 
-Pour payer les actionnaires, l'entreprise distribue une partie de son bénéfice : ce sont les dividendes. Dit autrement, les dividendes, c'est la fraction du produit du travail de l'entreprise qui rémunère l'actionnaire : la deuxième "citerne" que remplit la pompe.
+Pour payer les actionnaires, l'entreprise distribue une partie de son bÃ©nÃ©fice : ce sont les dividendes. Dit autrement, les dividendes, c'est la fraction du produit du travail de l'entreprise qui rÃ©munÃ¨re l'actionnaire : la deuxiÃ¨me "citerne" que remplit la pompe.
 
 ## L'entreprise
 
-Il faut réaliser que seule une personne physique peut réellement gagner de l'argent, puisque seule une personne physique peut réellement le dépenser ou être rémunérée avec. Une entreprise n'est jamais qu'un intermédiaire qui peut éventuellement stocker de l'argent.
-Stocker l'argent qu'on a gagné, pour un particulier, cela s'appelle épargner. Une entreprise peut faire de même, et cela s'appelle mettre les bénéfices en réserve. C'est la ligne "réserves" qui apparaît au passif du bilan comptable, et qui appartient aux capitaux propres. En faisant cela l'entreprise peut grandir de manière traditionnelle, c'est-à-dire par autofinancement. Il existe une grandeur appelée capacité d'autofinancement (CAF) qui mesure cela.
+Il faut rÃ©aliser que seule une personne physique peut rÃ©ellement gagner de l'argent, puisque seule une personne physique peut rÃ©ellement le dÃ©penser ou Ãªtre rÃ©munÃ©rÃ©e avec. Une entreprise n'est jamais qu'un intermÃ©diaire qui peut Ã©ventuellement stocker de l'argent.
+Stocker l'argent qu'on a gagnÃ©, pour un particulier, cela s'appelle Ã©pargner. Une entreprise peut faire de mÃªme, et cela s'appelle mettre les bÃ©nÃ©fices en rÃ©serve. C'est la ligne "rÃ©serves" qui apparaÃ®t au passif du bilan comptable, et qui appartient aux capitaux propres. En faisant cela l'entreprise peut grandir de maniÃ¨re traditionnelle, c'est-Ã -dire par autofinancement. Il existe une grandeur appelÃ©e capacitÃ© d'autofinancement (CAF) qui mesure cela.
 
-L'entreprise elle-même, troisième "citerne" que remplit la pompe.
+L'entreprise elle-mÃªme, troisiÃ¨me "citerne" que remplit la pompe.
 
-# Et notre mafia dans tout ça ?
+# Et notre mafia dans tout Ã§a ?
 
-Le principe est simple : sur chacun des tuyaux qui relie la pompe à une citerne, l'État prend sa part. Dans la plupart des cas c'est normal, dans certains cas la justification économique est plus discutable.
+Le principe est simple : sur chacun des tuyaux qui relie la pompe Ã  une citerne, l'Ã‰tat prend sa part. Dans la plupart des cas c'est normal, dans certains cas la justification Ã©conomique est plus discutable.
 
 Voyons ensemble la liste des tuyaux :
 
 1. client->pompe
 1. pompe->fournisseur
-1. pompe->salariés
+1. pompe->salariÃ©s
 1. pompe->actionnaires
-1. pompe->épargne de l'entreprise
+1. pompe->Ã©pargne de l'entreprise
 
 ## Je vous mens (je vous spolie ?)
 
-J'ai un peu menti : sur le premier tuyau, l'État ne prend rien, pas plus que sur le deuxième (qui est le symétrique du premier) ! 
-Par contre, il prend sur la **différence des deux**, c'est-à-dire la **valeur ajoutée** comme expliqué plus haut... et cela s'appelle la TVA. Nous en avons déjà discuté dans le [précédent article](/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html#tva) (car la TVA est en réalité payée uniquement par le consommateur final personne physique, les entreprises ne jouant que le rôle de percepteur). C'est une ponction tout à fait raisonnable conceptuellement, mais ce système de différence lui donne une complexité qui en fait une cible intéressante pour la fraude, et qui complique le travail comptable dans les entreprises. 
+J'ai un peu menti : sur le premier tuyau, l'Ã‰tat ne prend rien, pas plus que sur le deuxiÃ¨me (qui est le symÃ©trique du premier) ! 
+Par contre, il prend sur la **diffÃ©rence des deux**, c'est-Ã -dire la **valeur ajoutÃ©e** comme expliquÃ© plus haut... et cela s'appelle la TVA. Nous en avons dÃ©jÃ  discutÃ© dans le [prÃ©cÃ©dent article](/~sven337/francais/2014/06/16/Au-secours-ils-me-prennent-tout-1-3.html#tva) (car la TVA est en rÃ©alitÃ© payÃ©e uniquement par le consommateur final personne physique, les entreprises ne jouant que le rÃ´le de percepteur). C'est une ponction tout Ã  fait raisonnable conceptuellement, mais ce systÃ¨me de diffÃ©rence lui donne une complexitÃ© qui en fait une cible intÃ©ressante pour la fraude, et qui complique le travail comptable dans les entreprises. 
 
-## La fiscalité de la rémunération des salariés
+## La fiscalitÃ© de la rÃ©munÃ©ration des salariÃ©s
 
-Des livres ont été écrits, des larmes ont été versées, des vies ont été détruites. Au final personne n'y comprend rien. Si vous créez une entreprise, vous avez deux possibilités :
+Des livres ont Ã©tÃ© Ã©crits, des larmes ont Ã©tÃ© versÃ©es, des vies ont Ã©tÃ© dÃ©truites. Au final personne n'y comprend rien. Si vous crÃ©ez une entreprise, vous avez deux possibilitÃ©s :
 
-- comprendre en détail le fonctionnement de la rémunération du personnel, OU
-- développer votre entreprise
+- comprendre en dÃ©tail le fonctionnement de la rÃ©munÃ©ration du personnel, OU
+- dÃ©velopper votre entreprise
 
-Je vais essayer de simplifier les choses en expliquant non les centaines de détails mais les principes généraux. Il existe une différence, tout à fait artificielle du point de vue de l'employeur et du salarié, entre les prélèvements à but social (qui financent la sécurité sociale), et ceux à but fiscal (qui financent l'État). Ces deux types de prélèvements s'additionnent et font que lorsque l'employeur verse 1000EUR au salarié, celui-ci reçoit à peu près 500EUR : la moitié de ce que l'employeur paye son salarié part dans les caisses de l'État et de la sécurité sociale. 
+Je vais essayer de simplifier les choses en expliquant non les centaines de dÃ©tails mais les principes gÃ©nÃ©raux. Il existe une diffÃ©rence, tout Ã  fait artificielle du point de vue de l'employeur et du salariÃ©, entre les prÃ©lÃ¨vements Ã  but social (qui financent la sÃ©curitÃ© sociale), et ceux Ã  but fiscal (qui financent l'Ã‰tat). Ces deux types de prÃ©lÃ¨vements s'additionnent et font que lorsque l'employeur verse 1000EUR au salariÃ©, celui-ci reÃ§oit Ã  peu prÃ¨s 500EUR : la moitiÃ© de ce que l'employeur paye son salariÃ© part dans les caisses de l'Ã‰tat et de la sÃ©curitÃ© sociale. 
 
 En fait, il y a deux grandeurs :
 
-- le **salaire super-brut**, c'est ce que l'employeur paie son salarié
-- le **salaire net**, c'est ce que le salarié reçoit de l'employeur
-Et comme on l'a vu le rapport est d'environ 2, un peu moins pour les bas salaires (sauf erreur de ma part) du fait de réductions sur les cotisations sociales. 
+- le **salaire super-brut**, c'est ce que l'employeur paie son salariÃ©
+- le **salaire net**, c'est ce que le salariÃ© reÃ§oit de l'employeur
+Et comme on l'a vu le rapport est d'environ 2, un peu moins pour les bas salaires (sauf erreur de ma part) du fait de rÃ©ductions sur les cotisations sociales. 
 
-Mais c'était trop simple, et afin d'éviter que les citoyens ne réalisent le taux réel de prélèvement qui est opéré par l'État, une construction mentale a été inventée qui s'appelle le **salaire brut**. Le salaire brut, c'est quelque chose qui vient entre les deux, plus près du net que du super-brut, et qui est très utile pour vous empêcher de comprendre vraiment votre rémunération. Cette illusion est basée sur une séparation artificielle des prélèvements obligatoires entre une part "salarié" et une part "patronale". En réalité, elles sont prélevées exactement de la même façon, sur le tuyau qui relie l'employeur à l'employé, et cette distinction n'a donc pas de sens technique. L'intérêt, c'est que quand on vous montre que votre salaire net correspond (à peu près) à 78% de votre salaire brut, vous voyez que l'État prélève **22%**, et vous ne descendez pas dans la rue. Si on vous montrait le taux réel de prélèvement, de l'ordre de **50%**, la paix sociale serait plus difficile à maintenir.
+Mais c'Ã©tait trop simple, et afin d'Ã©viter que les citoyens ne rÃ©alisent le taux rÃ©el de prÃ©lÃ¨vement qui est opÃ©rÃ© par l'Ã‰tat, une construction mentale a Ã©tÃ© inventÃ©e qui s'appelle le **salaire brut**. Le salaire brut, c'est quelque chose qui vient entre les deux, plus prÃ¨s du net que du super-brut, et qui est trÃ¨s utile pour vous empÃªcher de comprendre vraiment votre rÃ©munÃ©ration. Cette illusion est basÃ©e sur une sÃ©paration artificielle des prÃ©lÃ¨vements obligatoires entre une part "salariÃ©" et une part "patronale". En rÃ©alitÃ©, elles sont prÃ©levÃ©es exactement de la mÃªme faÃ§on, sur le tuyau qui relie l'employeur Ã  l'employÃ©, et cette distinction n'a donc pas de sens technique. L'intÃ©rÃªt, c'est que quand on vous montre que votre salaire net correspond (Ã  peu prÃ¨s) Ã  78% de votre salaire brut, vous voyez que l'Ã‰tat prÃ©lÃ¨ve **22%**, et vous ne descendez pas dans la rue. Si on vous montrait le taux rÃ©el de prÃ©lÃ¨vement, de l'ordre de **50%**, la paix sociale serait plus difficile Ã  maintenir.
 
-En France, on utilise le brut pour négocier son salaire, ce qui n'arrange personne et n'a pas de sens. On devrait négocier soit le super-brut, soit de préférence le net.
+En France, on utilise le brut pour nÃ©gocier son salaire, ce qui n'arrange personne et n'a pas de sens. On devrait nÃ©gocier soit le super-brut, soit de prÃ©fÃ©rence le net.
 
-Une deuxième invention révolutionnairement stupide est la différence entre salaire net et **salaire net imposable**, qui sert une fois de plus à cacher le taux réel de la fiscalité du travail. Notez que le salaire net est imposable : il paie l'impôt sur le revenu. Ce qu'il vous reste après impôt sur le revenu, je le nomme "super-net" (et quand on reparlera de finance et d'épargne, j'introduirai le "super-net hors dépenses contraintes", également appelé "argent de poche"). Le ratio entre net et super-net dépend de votre imposition sur le revenu, qui dépend de paramètres familiaux (et de centaines de niches diverses) inconnus de votre employeur. Mais l'État vous spolie : la base d'imposition utilisée n'est pas votre salaire net, mais une somme un peu supérieure qui inclut une partie de la CSG ("CSG non-déductible") !
+Une deuxiÃ¨me invention rÃ©volutionnairement stupide est la diffÃ©rence entre salaire net et **salaire net imposable**, qui sert une fois de plus Ã  cacher le taux rÃ©el de la fiscalitÃ© du travail. Notez que le salaire net est imposable : il paie l'impÃ´t sur le revenu. Ce qu'il vous reste aprÃ¨s impÃ´t sur le revenu, je le nomme "super-net" (et quand on reparlera de finance et d'Ã©pargne, j'introduirai le "super-net hors dÃ©penses contraintes", Ã©galement appelÃ© "argent de poche"). Le ratio entre net et super-net dÃ©pend de votre imposition sur le revenu, qui dÃ©pend de paramÃ¨tres familiaux (et de centaines de niches diverses) inconnus de votre employeur. Mais l'Ã‰tat vous spolie : la base d'imposition utilisÃ©e n'est pas votre salaire net, mais une somme un peu supÃ©rieure qui inclut une partie de la CSG ("CSG non-dÃ©ductible") !
 
-Enfin, un certain nombre de personnes dont le coeur est très à gauche vont vous expliquer que le salaire est composé de deux parties : une partie individuelle directe (le net), et une partie socialisée indirecte (le brut, voire le super-brut). Selon ces gens-là, la différence entre le brut et le net correspond à du salaire que vous touchez, mais indirectement car l'État vous le reverse ; et la différence entre le super-brut et le brut correspond selon leur humeur soit à la même chose que précédemment, soit à une taxe qui punit le grand méchant patron pour avoir exploité le pauvre petit salarié.
-C'est partiellement vrai qu'il s'agit de salaire "indirect", mais ce n'est pas forcément de l'argent qui vous sera reversé : quel serait l'intérêt, sinon, de le prélever ? L'État a fermement l'intention d'utiliser cet argent, peut-être dans votre intérêt, mais peut-être pas, et n'oubliez pas que ces euros qui vous sont prélevés ne portent en rien votre nom, et que l'État est libre de s'en servir comme il l'entend. 
-Je n'ai rien contre la sécurité sociale, mais il faut arrêter de prétendre que le salaire indirect est une bonne chose. Le salaire indirect, c'est **votre** argent qu'on dépense **à votre place** sans vous demander votre avis, pour faire des choses dont certaines sont justifiées, et d'autres avec lesquelles vous ne seriez peut-être pas d'accord.
-
-
-## La fiscalité de la rémunération des actionnaires
-
-Le système pour les actionnaires est simple en comparaison de celui des salariés, tellement que c'est à en pleurer de ne pouvoir se passer de salariés. La raison majeure, il faut le dire, est que la rémunération des actionnaires paie assez peu la sécurité sociale, dont le système de financement très complexe est une cause majeure des sous-performances de nombreuses entreprises françaises. La rémunération des actionnaires est soumise au barème de l'impôt sur le revenu (une nouveauté, auparavant c'était forfaitaire), mais avec un prélèvement anticipé (qui sert à prêter de l'argent à l'État). On se demande un peu pourquoi les dividendes devraient subir ce prélèvement anticipé, mais pas les salaires... C'est la fameuse "retenue à la source" qui semble tellement compliquée à mettre en place : en fait elle existe déjà pour de nombreux revenus, tels que les dividendes.
-Les dividendes paient également des cotisations sociales (à ne pas confondre avec les charges sociales), nous en parlerons au prochain épisode.
+Enfin, un certain nombre de personnes dont le coeur est trÃ¨s Ã  gauche vont vous expliquer que le salaire est composÃ© de deux parties : une partie individuelle directe (le net), et une partie socialisÃ©e indirecte (le brut, voire le super-brut). Selon ces gens-lÃ , la diffÃ©rence entre le brut et le net correspond Ã  du salaire que vous touchez, mais indirectement car l'Ã‰tat vous le reverse ; et la diffÃ©rence entre le super-brut et le brut correspond selon leur humeur soit Ã  la mÃªme chose que prÃ©cÃ©demment, soit Ã  une taxe qui punit le grand mÃ©chant patron pour avoir exploitÃ© le pauvre petit salariÃ©.
+C'est partiellement vrai qu'il s'agit de salaire "indirect", mais ce n'est pas forcÃ©ment de l'argent qui vous sera reversÃ© : quel serait l'intÃ©rÃªt, sinon, de le prÃ©lever ? L'Ã‰tat a fermement l'intention d'utiliser cet argent, peut-Ãªtre dans votre intÃ©rÃªt, mais peut-Ãªtre pas, et n'oubliez pas que ces euros qui vous sont prÃ©levÃ©s ne portent en rien votre nom, et que l'Ã‰tat est libre de s'en servir comme il l'entend. 
+Je n'ai rien contre la sÃ©curitÃ© sociale, mais il faut arrÃªter de prÃ©tendre que le salaire indirect est une bonne chose. Le salaire indirect, c'est **votre** argent qu'on dÃ©pense **Ã  votre place** sans vous demander votre avis, pour faire des choses dont certaines sont justifiÃ©es, et d'autres avec lesquelles vous ne seriez peut-Ãªtre pas d'accord.
 
 
-## La fiscalité de l'épargne de l'entreprise
+## La fiscalitÃ© de la rÃ©munÃ©ration des actionnaires
 
-(Rien à voir ici avec le PEE, qui relève de la fiscalité de la rémunération des salariés, et qui est un moyen légal supplémentaire de fraude fiscale. J'en ai un petit peu parlé [ici](/~sven337/francais/2014/07/05/La-loi-est-ecrite-par-un-consultant-J2EE-bourre---PACS.html#autres-avantages-fiscaux).)
+Le systÃ¨me pour les actionnaires est simple en comparaison de celui des salariÃ©s, tellement que c'est Ã  en pleurer de ne pouvoir se passer de salariÃ©s. La raison majeure, il faut le dire, est que la rÃ©munÃ©ration des actionnaires paie assez peu la sÃ©curitÃ© sociale, dont le systÃ¨me de financement trÃ¨s complexe est une cause majeure des sous-performances de nombreuses entreprises franÃ§aises. La rÃ©munÃ©ration des actionnaires est soumise au barÃ¨me de l'impÃ´t sur le revenu (une nouveautÃ©, auparavant c'Ã©tait forfaitaire), mais avec un prÃ©lÃ¨vement anticipÃ© (qui sert Ã  prÃªter de l'argent Ã  l'Ã‰tat). On se demande un peu pourquoi les dividendes devraient subir ce prÃ©lÃ¨vement anticipÃ©, mais pas les salaires... C'est la fameuse "retenue Ã  la source" qui semble tellement compliquÃ©e Ã  mettre en place : en fait elle existe dÃ©jÃ  pour de nombreux revenus, tels que les dividendes.
+Les dividendes paient Ã©galement des cotisations sociales (Ã  ne pas confondre avec les charges sociales), nous en parlerons au prochain Ã©pisode.
 
-Lorsque l'entreprise souhaite mettre de l'argent de côté (pour financer, plus tard, sa croissance), elle ne peut le faire sans verser son pourcentage à l'état. Sur le tuyau qui relie la pompe au compte épargne de l'entreprise se trouve une sangsue qui s'appelle l'**impôt sur les sociétés** (IS).
 
-Le principe de l'impôt sur les sociétés, c'est de ponctionner l'argent qui reste une fois que l'entreprise a tout payé, c'est-à-dire l'argent qu'elle va se garder. Bien sûr, toutes les entreprises ne gagnent pas d'argent et parfois, il ne reste rien, voire il reste un flux négatif (quand l'entreprise perd de l'argent). Dans ce cas, les pertes sont en général reportables : elles peuvent être déduites des résultats des années suivantes.
+## La fiscalitÃ© de l'Ã©pargne de l'entreprise
 
-L'IS prélève 33.33% (moins, sous certaines conditions) du [résultat courant avant impôts](http://fr.wikipedia.org/wiki/Soldes_interm%C3%A9diaires_de_gestion) de l'entreprise. Cela intervient une fois que les salariés, marchandises, ... ont été payés, mais avant que les actionnaires ne soient rémunérés et avant que l'entreprise ne mette de l'argent de côté. <s>Cependant, le prélèvement à la source d'IR sur les dividendes vient en déduction de l'IS ce qui fait qu'en pratique, l'IS ne s'applique pas vraiment sur la rémunération des actionnaires (ce qui ferait une double taxation). C'est pourtant simple.</s> Tellement simple qu'une de mes sources m'indique que c'est faux... [Et pourtant...](http://bofip.impots.gouv.fr/bofip/4296-PGP)
+(Rien Ã  voir ici avec le PEE, qui relÃ¨ve de la fiscalitÃ© de la rÃ©munÃ©ration des salariÃ©s, et qui est un moyen lÃ©gal supplÃ©mentaire de fraude fiscale. J'en ai un petit peu parlÃ© [ici](/~sven337/francais/2014/07/05/La-loi-est-ecrite-par-un-consultant-J2EE-bourre---PACS.html#autres-avantages-fiscaux).)
 
-À noter que le taux *réel* d'IS est beaucoup plus faible en particulier pour les grands groupes qui disposent de nombreux mécanismes légaux (et votés par vos représentants) pour contourner l'impôt. Les PME, en revanche, ont moins accès à ces montages et par conséquent paient l'IS au taux nominal, ce qui les désavantage par rapport aux grands groupes, en parfaite concordance avec la stratégie politico-économique française qui n'a d'yeux que pour les grands groupes dirigés par des grands patrons issus de grandes familles et de grandes écoles.
+Lorsque l'entreprise souhaite mettre de l'argent de cÃ´tÃ© (pour financer, plus tard, sa croissance), elle ne peut le faire sans verser son pourcentage Ã  l'Ã©tat. Sur le tuyau qui relie la pompe au compte Ã©pargne de l'entreprise se trouve une sangsue qui s'appelle l'**impÃ´t sur les sociÃ©tÃ©s** (IS).
+
+Le principe de l'impÃ´t sur les sociÃ©tÃ©s, c'est de ponctionner l'argent qui reste une fois que l'entreprise a tout payÃ©, c'est-Ã -dire l'argent qu'elle va se garder. Bien sÃ»r, toutes les entreprises ne gagnent pas d'argent et parfois, il ne reste rien, voire il reste un flux nÃ©gatif (quand l'entreprise perd de l'argent). Dans ce cas, les pertes sont en gÃ©nÃ©ral reportables : elles peuvent Ãªtre dÃ©duites des rÃ©sultats des annÃ©es suivantes.
+
+L'IS prÃ©lÃ¨ve 33.33% (moins, sous certaines conditions) du [rÃ©sultat courant avant impÃ´ts](http://fr.wikipedia.org/wiki/Soldes_interm%C3%A9diaires_de_gestion) de l'entreprise. Cela intervient une fois que les salariÃ©s, marchandises, ... ont Ã©tÃ© payÃ©s, mais avant que les actionnaires ne soient rÃ©munÃ©rÃ©s et avant que l'entreprise ne mette de l'argent de cÃ´tÃ©. <s>Cependant, le prÃ©lÃ¨vement Ã  la source d'IR sur les dividendes vient en dÃ©duction de l'IS ce qui fait qu'en pratique, l'IS ne s'applique pas vraiment sur la rÃ©munÃ©ration des actionnaires (ce qui ferait une double taxation). C'est pourtant simple.</s> Tellement simple qu'une de mes sources m'indique que c'est faux... [Et pourtant...](http://bofip.impots.gouv.fr/bofip/4296-PGP)
+
+Ã€ noter que le taux *rÃ©el* d'IS est beaucoup plus faible en particulier pour les grands groupes qui disposent de nombreux mÃ©canismes lÃ©gaux (et votÃ©s par vos reprÃ©sentants) pour contourner l'impÃ´t. Les PME, en revanche, ont moins accÃ¨s Ã  ces montages et par consÃ©quent paient l'IS au taux nominal, ce qui les dÃ©savantage par rapport aux grands groupes, en parfaite concordance avec la stratÃ©gie politico-Ã©conomique franÃ§aise qui n'a d'yeux que pour les grands groupes dirigÃ©s par des grands patrons issus de grandes familles et de grandes Ã©coles.
 
 
 

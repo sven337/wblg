@@ -20,7 +20,7 @@ However, this is sold as a "supercompact" supply, in a metal case - and the meta
 # Metal case danger
 
 The fuse inside (see picture below) is installed vertically, and its top lead touches the metal case - or if it doesn't, it has about a quarter of a millimeter of clearance, which is dangerous in case of a surge, and dangerous in case you touch the case because pressing it even very slightly will make contact. The supply has an "Earth" pin, tied to the metal case - because every time you have a metal case and mains together, you **need** an Earth connection!
-If you've connected the Earth pin, and have a proper residual-current circuit breaker ("disjoncteur différentiel" in French), the breaker will trip as soon as the plug is connected, electricity in the house will be cut, and you won't die - and probably not get a shock at all, unless you're touching the power supply right as you plug it in.
+If you've connected the Earth pin, and have a proper residual-current circuit breaker ("disjoncteur diffÃ©rentiel" in French), the breaker will trip as soon as the plug is connected, electricity in the house will be cut, and you won't die - and probably not get a shock at all, unless you're touching the power supply right as you plug it in.
 If you've neglected to connect this pin, you'll have a 50% chance of **getting a nasty shock**, depending upon whether it's the *hot* or *neutral* wire that touches the case. (Do note that if you follow the wiring diagram on the supply, it's the neutral wire that ends up touching the case. As a result, the power supply will trip the breaker, but will not tase you - **assuming your power plug has a standard L and N wiring**, which isn't the case of European plugs!)
 
 # How to secure it

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La loi est écrite par un consultant J2EE bourré - épisode 4 : l'option pour une imposition à 24% des intérêts"
+title: "La loi est Ã©crite par un consultant J2EE bourrÃ© - Ã©pisode 4 : l'option pour une imposition Ã  24% des intÃ©rÃªts"
 date: 2015-04-22 10:03:26
 tags: politique finance
 category: francais
@@ -8,32 +8,32 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-Il n'aura pas échappé à certains que la "remise à plat" de notre système fiscal, qui n'est jamais arrivée, fait suite à des mesurettes dont le principal effet est d'augmenter les impôts de manière plus ou moins déguisée.
+Il n'aura pas Ã©chappÃ© Ã  certains que la "remise Ã  plat" de notre systÃ¨me fiscal, qui n'est jamais arrivÃ©e, fait suite Ã  des mesurettes dont le principal effet est d'augmenter les impÃ´ts de maniÃ¨re plus ou moins dÃ©guisÃ©e.
 
-# Le prélèvement forfaitaire libératoire
+# Le prÃ©lÃ¨vement forfaitaire libÃ©ratoire
 
-Ainsi, un certain nombre de placements étaient auparavant éligibles à un prélèvement à la source dit **forfaitaire** et **libératoire**. Forfaitaire parce que son taux était fixe, et libératoire parce qu'après ce prélèvement, les revenus n'étaient pas soumis à l'impôt sur le revenu et n'avaient pas à être déclarés.
+Ainsi, un certain nombre de placements Ã©taient auparavant Ã©ligibles Ã  un prÃ©lÃ¨vement Ã  la source dit **forfaitaire** et **libÃ©ratoire**. Forfaitaire parce que son taux Ã©tait fixe, et libÃ©ratoire parce qu'aprÃ¨s ce prÃ©lÃ¨vement, les revenus n'Ã©taient pas soumis Ã  l'impÃ´t sur le revenu et n'avaient pas Ã  Ãªtre dÃ©clarÃ©s.
 
-Ce prélèvement avait pour effet, vu son taux (24% sur la plupart des placements), de permettre aux personnes dont le taux marginal d'imposition était relativement élevé (30% ou plus) de diminuer artificiellement leur imposition. L'intérêt pour la nation était que le prélèvement à la source était plus simple, et donc le traitement coûtait potentiellement moins cher (puisque c'est en fait les banques qui s'en occupaient), mais le manque à gagner était évident.
+Ce prÃ©lÃ¨vement avait pour effet, vu son taux (24% sur la plupart des placements), de permettre aux personnes dont le taux marginal d'imposition Ã©tait relativement Ã©levÃ© (30% ou plus) de diminuer artificiellement leur imposition. L'intÃ©rÃªt pour la nation Ã©tait que le prÃ©lÃ¨vement Ã  la source Ã©tait plus simple, et donc le traitement coÃ»tait potentiellement moins cher (puisque c'est en fait les banques qui s'en occupaient), mais le manque Ã  gagner Ã©tait Ã©vident.
 
-# Le prélèvement forfaitaire non libératoire
+# Le prÃ©lÃ¨vement forfaitaire non libÃ©ratoire
 
-Notre gouvernement a choisi de supprimer cet avantage, ce qui est un objectif louable ne serait-ce que pour la simplicité de l'impôt. En revanche, supprimer complètement le prélèvement à la source, ce qui aurait été logique, n'a pas été envisagé, probablement car cela gênerait la trésorerie de l'État français. Donc on a maintenu le prélèvement à la source, au taux de 24%, mais celui-ci n'est plus libératoire et constitue simplement un acompte sur l'impôt sur le revenu. Il faut donc reporter (en case 2CK) le montant de cet acompte. (Normalement, l'organisme financier le fait, mais cela n'a pas été le cas pour moi cette année.)
-Mais c'était trop simple...
+Notre gouvernement a choisi de supprimer cet avantage, ce qui est un objectif louable ne serait-ce que pour la simplicitÃ© de l'impÃ´t. En revanche, supprimer complÃ¨tement le prÃ©lÃ¨vement Ã  la source, ce qui aurait Ã©tÃ© logique, n'a pas Ã©tÃ© envisagÃ©, probablement car cela gÃªnerait la trÃ©sorerie de l'Ã‰tat franÃ§ais. Donc on a maintenu le prÃ©lÃ¨vement Ã  la source, au taux de 24%, mais celui-ci n'est plus libÃ©ratoire et constitue simplement un acompte sur l'impÃ´t sur le revenu. Il faut donc reporter (en case 2CK) le montant de cet acompte. (Normalement, l'organisme financier le fait, mais cela n'a pas Ã©tÃ© le cas pour moi cette annÃ©e.)
+Mais c'Ã©tait trop simple...
 
 
-# Le prélèvement forfaitaire non libératoire avec exception
+# Le prÃ©lÃ¨vement forfaitaire non libÃ©ratoire avec exception
 
-Sous certaines conditions, la loi prévoit une dispense de ce prélèvement forfaitaire non libératoire. Attention, cela ne dispense pas de payer l'impôt, mais simplement de verser l'acompte. J'imagine que c'est pour éviter de ruiner les ménages pauvres qui ne seraient pas en mesure de payer à temps l'impôt sur les cinquante-trois euros que leur livret fiscalisé rapporte ? Afin de protéger les contribuables contre cette menace réelle et sérieuse, le dispositif de dispense a été créé, mais rassurez-vous il ne coûte rien à l'État puisque ce sont les organismes financiers qui doivent le gérer.
-Mais c'était toujours trop simple...
+Sous certaines conditions, la loi prÃ©voit une dispense de ce prÃ©lÃ¨vement forfaitaire non libÃ©ratoire. Attention, cela ne dispense pas de payer l'impÃ´t, mais simplement de verser l'acompte. J'imagine que c'est pour Ã©viter de ruiner les mÃ©nages pauvres qui ne seraient pas en mesure de payer Ã  temps l'impÃ´t sur les cinquante-trois euros que leur livret fiscalisÃ© rapporte ? Afin de protÃ©ger les contribuables contre cette menace rÃ©elle et sÃ©rieuse, le dispositif de dispense a Ã©tÃ© crÃ©Ã©, mais rassurez-vous il ne coÃ»te rien Ã  l'Ã‰tat puisque ce sont les organismes financiers qui doivent le gÃ©rer.
+Mais c'Ã©tait toujours trop simple...
 
-# Le prélèvement forfaitaire non libératoire avec exception et option pour le rendre libératoire quand même
+# Le prÃ©lÃ¨vement forfaitaire non libÃ©ratoire avec exception et option pour le rendre libÃ©ratoire quand mÃªme
 
-Là, nos parasites de la société ont enfin justifié leur salaire et garanti leur emploi pour l'avenir !
-Ce prélèvement désormais non libératoire, on va le rendre libératoire quand même, mais sans lui donner ce nom. Si vos revenus de produits de placement à taux fixe (case 2TR) sont inférieurs à 2000EUR, vous pouvez opter pour une imposition à 24% sur ces revenus (en les inscrivant en case 2FA et en rectifiant certains montants, en suivant la notice que j'ai dû lire dix fois pour la comprendre). Bref, vous pouvez opter pour un prélèvement forfaitaire libératoire, exactement comme avant, mais alors qu'avant il suffisait d'une case à cocher auprès de votre organisme financier, il y a maintenant 5 ou 6 valeurs différentes à renseigner et recalculer sur la déclaration n°2042. (Ce faisant, vous perdrez la déductibilité partielle de la CSG, donc l'avantage réel est un peu inférieur à la différence entre votre taux marginal et 24%.)
-La seule différence est le plafond à 2000EUR, que nombre d'entre nous n'atteignent pas. 
+LÃ , nos parasites de la sociÃ©tÃ© ont enfin justifiÃ© leur salaire et garanti leur emploi pour l'avenir !
+Ce prÃ©lÃ¨vement dÃ©sormais non libÃ©ratoire, on va le rendre libÃ©ratoire quand mÃªme, mais sans lui donner ce nom. Si vos revenus de produits de placement Ã  taux fixe (case 2TR) sont infÃ©rieurs Ã  2000EUR, vous pouvez opter pour une imposition Ã  24% sur ces revenus (en les inscrivant en case 2FA et en rectifiant certains montants, en suivant la notice que j'ai dÃ» lire dix fois pour la comprendre). Bref, vous pouvez opter pour un prÃ©lÃ¨vement forfaitaire libÃ©ratoire, exactement comme avant, mais alors qu'avant il suffisait d'une case Ã  cocher auprÃ¨s de votre organisme financier, il y a maintenant 5 ou 6 valeurs diffÃ©rentes Ã  renseigner et recalculer sur la dÃ©claration nÂ°2042. (Ce faisant, vous perdrez la dÃ©ductibilitÃ© partielle de la CSG, donc l'avantage rÃ©el est un peu infÃ©rieur Ã  la diffÃ©rence entre votre taux marginal et 24%.)
+La seule diffÃ©rence est le plafond Ã  2000EUR, que nombre d'entre nous n'atteignent pas. 
 
-Pour plus de détails, voir page 107 du PDF de la [brochure "pratique" 2015 pour la déclaration des revenus 2014](http://www2.impots.gouv.fr/documentation/2015/brochure_ir/files/assets/common/downloads/publication.pdf) éditée par notre administration.
+Pour plus de dÃ©tails, voir page 107 du PDF de la [brochure "pratique" 2015 pour la dÃ©claration des revenus 2014](http://www2.impots.gouv.fr/documentation/2015/brochure_ir/files/assets/common/downloads/publication.pdf) Ã©ditÃ©e par notre administration.
 
-Nos députés avaient bu quand ils ont voté ce dispositif.
+Nos dÃ©putÃ©s avaient bu quand ils ont votÃ© ce dispositif.
 

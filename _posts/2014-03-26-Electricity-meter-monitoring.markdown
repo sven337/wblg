@@ -14,7 +14,7 @@ This article is a short translation of <http://perso.aquilenet.fr/~sven337/franc
 1. contents placeholder
 {:toc}
 
-# La sortie téléinfo
+# La sortie tÃ©lÃ©info
 
 All recent french meters by **EDF** have a *teleinfo* hardware output. Mine looks like that: !["Compteur A14C5"](compteur.jpg). 
 The screw opens a door to two contacts labelled I1 and I2. Those contacts carry a signal with a documented protocol (in French) <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. The meter reports information through that interface every second. This information includes, but isn't limited to:

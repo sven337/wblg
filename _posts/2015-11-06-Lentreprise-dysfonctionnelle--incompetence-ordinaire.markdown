@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "L'entreprise dysfonctionnelle : incompétence ordinaire"
+title: "L'entreprise dysfonctionnelle : incompÃ©tence ordinaire"
 date: 2015-11-06 23:29:08
 tags: politique entreprise_dysfonctionnelle
 category: francais
@@ -8,13 +8,13 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-Aujourd'hui une anecdote qui plaira à mes lecteurs informaticiens.
-C'est l'histoire d'un responsable de la sécurité informatique travaillant dans un grand groupe industriel français. Cette personne, comme il est d'usage dans ces entreprises avec un diplôme d'ingénieur en carton et une quinzaine d'années d'ancienneté, touchait un salaire supérieur à celui de 95% de la population française.
+Aujourd'hui une anecdote qui plaira Ã  mes lecteurs informaticiens.
+C'est l'histoire d'un responsable de la sÃ©curitÃ© informatique travaillant dans un grand groupe industriel franÃ§ais. Cette personne, comme il est d'usage dans ces entreprises avec un diplÃ´me d'ingÃ©nieur en carton et une quinzaine d'annÃ©es d'anciennetÃ©, touchait un salaire supÃ©rieur Ã  celui de 95% de la population franÃ§aise.
 
-Lors d'une discussion sur la mise en place d'IPv6 dans l'entreprise, ce responsable (par ailleurs diplômé en mécanique et non en informatique) m'affirme que la pénurie d'IPv4 ne concerne pas notre grand groupe préféré, car celui-ci dispose de son propre bloc de "seize millions d'adresses". Je le contredis immédiatement, sachant que s'il est vrai que certaines entreprises telles que Ford se sont historiquement vues attribuer un /8, aucune entreprise française ne fait partie de la liste.
+Lors d'une discussion sur la mise en place d'IPv6 dans l'entreprise, ce responsable (par ailleurs diplÃ´mÃ© en mÃ©canique et non en informatique) m'affirme que la pÃ©nurie d'IPv4 ne concerne pas notre grand groupe prÃ©fÃ©rÃ©, car celui-ci dispose de son propre bloc de "seize millions d'adresses". Je le contredis immÃ©diatement, sachant que s'il est vrai que certaines entreprises telles que Ford se sont historiquement vues attribuer un /8, aucune entreprise franÃ§aise ne fait partie de la liste.
 
-Le responsable, fort de son titre et de son ancienneté, me répond avec mépris :
+Le responsable, fort de son titre et de son anciennetÃ©, me rÃ©pond avec mÃ©pris :
 
-**"Bien sûr que l'entreprise a son propre bloc d'adresses IP publiques, c'est le bloc 10.\*.\*.\* !"**
+**"Bien sÃ»r que l'entreprise a son propre bloc d'adresses IP publiques, c'est le bloc 10.\*.\*.\* !"**
 
-Réalisant que je pouvais espérer au bout d'une quinzaine d'années arriver au niveau hiérarchique de cet homme, n'ayant aucune intention de travailler sous ses ordres d'ici là, je décidai de remettre ma démission.
+RÃ©alisant que je pouvais espÃ©rer au bout d'une quinzaine d'annÃ©es arriver au niveau hiÃ©rarchique de cet homme, n'ayant aucune intention de travailler sous ses ordres d'ici lÃ , je dÃ©cidai de remettre ma dÃ©mission.

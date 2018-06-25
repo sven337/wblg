@@ -1,88 +1,88 @@
 ---
 layout: post
-title: "La loi est écrite par un consultant J2EE bourré - épisode 2 : le titre restaurant"
+title: "La loi est Ã©crite par un consultant J2EE bourrÃ© - Ã©pisode 2 : le titre restaurant"
 date: 2015-03-15 14:30:58
 tags: politique finance droit
 category: francais
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
-Dans cet épisode nous allons parler du **titre restaurant** (TR), c'est-à-dire d'un dispositif légal de fraude fiscale.
+Dans cet Ã©pisode nous allons parler du **titre restaurant** (TR), c'est-Ã -dire d'un dispositif lÃ©gal de fraude fiscale.
 
-Un [article sur les titres restaurants](http://linuxfr.org/users/thamieu/journaux/histoire-des-titres-restaurant-ou-comment-les-salaires-furent-places-sous-drm) est paru sur LinuxFR à peu près au moment où je préparais le mien. Il dénonce, à raison, la dématérialisation du titre restaurant, mais surtout réalise une bonne introduction au sujet. Commencez donc par lire cet article et quelques-uns des commentaires, et nous verrons ce que j'ai d'intéressant à rajouter. 
+Un [article sur les titres restaurants](http://linuxfr.org/users/thamieu/journaux/histoire-des-titres-restaurant-ou-comment-les-salaires-furent-places-sous-drm) est paru sur LinuxFR Ã  peu prÃ¨s au moment oÃ¹ je prÃ©parais le mien. Il dÃ©nonce, Ã  raison, la dÃ©matÃ©rialisation du titre restaurant, mais surtout rÃ©alise une bonne introduction au sujet. Commencez donc par lire cet article et quelques-uns des commentaires, et nous verrons ce que j'ai d'intÃ©ressant Ã  rajouter. 
 
 # Fraudons le fisc !
 
-Le titre restaurant, c'est un chèque qui vous permet de vous payer à manger. Ses avantages sont les suivants :
+Le titre restaurant, c'est un chÃ¨que qui vous permet de vous payer Ã  manger. Ses avantages sont les suivants :
 
-1. payé en partie par l'employeur (souvent 50%)
-2. part employeur non soumise à l'impôt sur le revenu (dans la limite de 5.30EUR par titre, nouveauté 2015)
+1. payÃ© en partie par l'employeur (souvent 50%)
+2. part employeur non soumise Ã  l'impÃ´t sur le revenu (dans la limite de 5.30EUR par titre, nouveautÃ© 2015)
 3. non soumis aux charges sociales
 
-Je ne prends pas le temps d'évaluer sous forme chiffrée l'avantage pour le salarié, mais il doit s'élever à environ 70% en prenant tout en compte. Sur le premier point, aucun problème : l'employeur est libre de verser la rémunération qu'il souhaite à son salarié, il n'y a pas besoin que l'État intervienne là dedans. C'est une bonne chose que l'employeur puisse contribuer aux frais de repas de ses employés, et avec seulement ce point le titre restaurant serait strictement équivalent (du point de vue fiscal) à une augmentation de salaire.
-Le problème, ce sont les deux points suivants, qui correspondent à un renoncement de l'État à percevoir des revenus, et qui par conséquent ont un coût pour tous les contribuables, au lieu de simplement concerner le salarié et son employeur.
+Je ne prends pas le temps d'Ã©valuer sous forme chiffrÃ©e l'avantage pour le salariÃ©, mais il doit s'Ã©lever Ã  environ 70% en prenant tout en compte. Sur le premier point, aucun problÃ¨me : l'employeur est libre de verser la rÃ©munÃ©ration qu'il souhaite Ã  son salariÃ©, il n'y a pas besoin que l'Ã‰tat intervienne lÃ  dedans. C'est une bonne chose que l'employeur puisse contribuer aux frais de repas de ses employÃ©s, et avec seulement ce point le titre restaurant serait strictement Ã©quivalent (du point de vue fiscal) Ã  une augmentation de salaire.
+Le problÃ¨me, ce sont les deux points suivants, qui correspondent Ã  un renoncement de l'Ã‰tat Ã  percevoir des revenus, et qui par consÃ©quent ont un coÃ»t pour tous les contribuables, au lieu de simplement concerner le salariÃ© et son employeur.
 
-La conséquence pratique est que le titre restaurant est plus intéressant pour l'employeur et l'employé que du salaire, ce qui le rend si populaire : en fait, c'est un **moyen légal de contourner le fisc**.
+La consÃ©quence pratique est que le titre restaurant est plus intÃ©ressant pour l'employeur et l'employÃ© que du salaire, ce qui le rend si populaire : en fait, c'est un **moyen lÃ©gal de contourner le fisc**.
 
 ## ... dans certaines limites
 
-L'État n'aime pas qu'on profite trop de lui, donc les avantages fiscaux accordés au titre restaurant sont assortis de **limitations** drastiques, afin de concentrer l'avantage fiscal sur ce qui est jugé comme étant le *but* du titre restaurant.
-Ces limites sont définies par le code du travail (qui comme son nom ne l'indique pas traite donc de fiscalité) : <http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533524&cidTexte=LEGITEXT000006072050>
+L'Ã‰tat n'aime pas qu'on profite trop de lui, donc les avantages fiscaux accordÃ©s au titre restaurant sont assortis de **limitations** drastiques, afin de concentrer l'avantage fiscal sur ce qui est jugÃ© comme Ã©tant le *but* du titre restaurant.
+Ces limites sont dÃ©finies par le code du travail (qui comme son nom ne l'indique pas traite donc de fiscalitÃ©) : <http://www.legifrance.gouv.fr/affichCode.do?idSectionTA=LEGISCTA000018533524&cidTexte=LEGITEXT000006072050>
 
 Ces limites sont :
 
-1. TR uniquement utilisables pour payer les restaurateurs (et d'autres, rajoutés au fur et à mesure de leur lobbying) 
-2. limitation de durée de validité
-3. TR uniquement utilisables par le salarié qui les reçus (= nominatifs)
-4. un seul TR par jour travaillé
-5. TR non utilisables les dimanches, jours fériés, vacances du salarié (**sauf mention contraire apposée par l'employeur**)
-6. TR utilisables uniquement dans le département d'émission (**sauf mention contraire apposée par l'employeur**)
-7. jusqu'à récemment, un seul TR utilisable par repas (limitation **légale** ignorée officiellement, illégalement et impunément par les émetteurs de titres). Désormais, limitation à 19EUR par repas.
+1. TR uniquement utilisables pour payer les restaurateurs (et d'autres, rajoutÃ©s au fur et Ã  mesure de leur lobbying) 
+2. limitation de durÃ©e de validitÃ©
+3. TR uniquement utilisables par le salariÃ© qui les reÃ§us (= nominatifs)
+4. un seul TR par jour travaillÃ©
+5. TR non utilisables les dimanches, jours fÃ©riÃ©s, vacances du salariÃ© (**sauf mention contraire apposÃ©e par l'employeur**)
+6. TR utilisables uniquement dans le dÃ©partement d'Ã©mission (**sauf mention contraire apposÃ©e par l'employeur**)
+7. jusqu'Ã  rÃ©cemment, un seul TR utilisable par repas (limitation **lÃ©gale** ignorÃ©e officiellement, illÃ©galement et impunÃ©ment par les Ã©metteurs de titres). DÃ©sormais, limitation Ã  19EUR par repas.
 
-D'abord, remarquons ces articles qui décrivent une limitation que l'employeur a le droit d'ignorer en faisant apposer une mention contraire sur le titre. Quel est l'intérêt de ces articles, dès lors qu'ils n'ont *aucune valeur contraignante* et ne créent *aucune sanction* ? À part occuper du volume ces articles ne produisent aucun effet légal et ne devraient donc pas exister.
+D'abord, remarquons ces articles qui dÃ©crivent une limitation que l'employeur a le droit d'ignorer en faisant apposer une mention contraire sur le titre. Quel est l'intÃ©rÃªt de ces articles, dÃ¨s lors qu'ils n'ont *aucune valeur contraignante* et ne crÃ©ent *aucune sanction* ? Ã€ part occuper du volume ces articles ne produisent aucun effet lÃ©gal et ne devraient donc pas exister.
 
-Et voyons maintenant les limites qui *ont* un effet légal.
+Et voyons maintenant les limites qui *ont* un effet lÃ©gal.
 
 ## ... ignorer la loi parce qu'on le peut
 
-Tous ceux qui ont utilisé des titres restaurant le savent : aucune des limites sus-mentionnées n'est vraiment respectée. Les choses se sont un petit peu durcies depuis deux ans, mais il reste assez facile d'utiliser ses titres restaurant pour acheter de la lessive dans un supermarché, en vacances à 500km de son lieu de travail.
-On a affaire à deux cas où l'État tire contre son camp.
+Tous ceux qui ont utilisÃ© des titres restaurant le savent : aucune des limites sus-mentionnÃ©es n'est vraiment respectÃ©e. Les choses se sont un petit peu durcies depuis deux ans, mais il reste assez facile d'utiliser ses titres restaurant pour acheter de la lessive dans un supermarchÃ©, en vacances Ã  500km de son lieu de travail.
+On a affaire Ã  deux cas oÃ¹ l'Ã‰tat tire contre son camp.
 
-### Contournement légal
+### Contournement lÃ©gal
 
-Là, le législateur a complètement oublié que les titres restaurant étaient un manque à gagner fiscal et social, et par démagogie a prétendu ignorer que les limitations à l'usage de ces titres sont destinées à s'assurer que le manque à gagner était utilisé conformément à l'objectif du titre restaurant. On peut lui pardonner car ledit objectif n'a jamais été clairement défini (quand je vous parle de consultant bourré... le programmeur ne sait même pas ce que son programme doit faire !).
-Par conséquent la loi est **modifiée** pour autoriser un usage du titre restaurant qui n'a plus rien à voir avec l'idée d'aider les salariés à se restaurer correctement près de leur lieu de travail, dépensant ainsi l'argent de la collectivité pour une contrepartie floue : l'État tire contre son camp.
+LÃ , le lÃ©gislateur a complÃ¨tement oubliÃ© que les titres restaurant Ã©taient un manque Ã  gagner fiscal et social, et par dÃ©magogie a prÃ©tendu ignorer que les limitations Ã  l'usage de ces titres sont destinÃ©es Ã  s'assurer que le manque Ã  gagner Ã©tait utilisÃ© conformÃ©ment Ã  l'objectif du titre restaurant. On peut lui pardonner car ledit objectif n'a jamais Ã©tÃ© clairement dÃ©fini (quand je vous parle de consultant bourrÃ©... le programmeur ne sait mÃªme pas ce que son programme doit faire !).
+Par consÃ©quent la loi est **modifiÃ©e** pour autoriser un usage du titre restaurant qui n'a plus rien Ã  voir avec l'idÃ©e d'aider les salariÃ©s Ã  se restaurer correctement prÃ¨s de leur lieu de travail, dÃ©pensant ainsi l'argent de la collectivitÃ© pour une contrepartie floue : l'Ã‰tat tire contre son camp.
 
-### Contournement illégal
+### Contournement illÃ©gal
 
-En toute illégalité, il était possible pour un restaurateur d'accepter deux titres restaurant pour un repas. Les différents émetteurs qui allaient lui rembourser les titres le toléraient en effet, alors que la loi l'interdisait. Désormais le problème est réglé, et ce contournement est légal.
-Il reste qu'il n'existe aucun contrôle sérieux de l'utilisation des titres restaurant en dehors des horaires de repas correspondant à une journée de travail (c'est-à-dire que vous pouvez en général les utiliser le soir), et souvent un contrôle seulement *a minima* des contraintes sur le type de produit qui peut être acheté. 
-L'État ne l'ignore pas mais néglige de contrôler sérieusement. Il tire donc contre son camp par inaction.
+En toute illÃ©galitÃ©, il Ã©tait possible pour un restaurateur d'accepter deux titres restaurant pour un repas. Les diffÃ©rents Ã©metteurs qui allaient lui rembourser les titres le tolÃ©raient en effet, alors que la loi l'interdisait. DÃ©sormais le problÃ¨me est rÃ©glÃ©, et ce contournement est lÃ©gal.
+Il reste qu'il n'existe aucun contrÃ´le sÃ©rieux de l'utilisation des titres restaurant en dehors des horaires de repas correspondant Ã  une journÃ©e de travail (c'est-Ã -dire que vous pouvez en gÃ©nÃ©ral les utiliser le soir), et souvent un contrÃ´le seulement *a minima* des contraintes sur le type de produit qui peut Ãªtre achetÃ©. 
+L'Ã‰tat ne l'ignore pas mais nÃ©glige de contrÃ´ler sÃ©rieusement. Il tire donc contre son camp par inaction.
 
-# Prendre à l'État pour donner à des parasites : les intermédiaires privés
+# Prendre Ã  l'Ã‰tat pour donner Ã  des parasites : les intermÃ©diaires privÃ©s
 
-Jusque là, on est dans une situation inquiétante : un système aux objectifs mal défini, et qui est détourné. Mais ce n'est pas fini !
-Non content de renoncer à des recettes budgétaires en contrepartie d'un bénéfice ni défini ni mesuré, non content de tolérer voire de légaliser les dérives, l'État en profite également pour faire travailler les entreprises au profit de parasites. Voyons ensemble cette belle histoire.
+Jusque lÃ , on est dans une situation inquiÃ©tante : un systÃ¨me aux objectifs mal dÃ©fini, et qui est dÃ©tournÃ©. Mais ce n'est pas fini !
+Non content de renoncer Ã  des recettes budgÃ©taires en contrepartie d'un bÃ©nÃ©fice ni dÃ©fini ni mesurÃ©, non content de tolÃ©rer voire de lÃ©galiser les dÃ©rives, l'Ã‰tat en profite Ã©galement pour faire travailler les entreprises au profit de parasites. Voyons ensemble cette belle histoire.
 
-## Émission de titres restaurant
+## Ã‰mission de titres restaurant
 
-Les titres restaurant sont une quasi-monnaie. À ce titre il serait logique que les titres soient émis par l'État. Cependant, en accord avec le principe qu'on trouve à gauche comme à droite que "il vaut mieux confier au privé ce que l'État pourrait faire le mieux", il a été décidé qu'un groupe de sociétés privées auraient le droit d'émettre des titres restaurant. Chacune des ces quatre sociétés dispose de son propre nom commercial, avec sa propre marque déposée, pour faire référence à ces titres. 
-Les clients de ces sociétés sont les employeurs qui distribuent des titres restaurant. Ces employeurs achètent les titres par avance, les paient (à la livraison), et les distribuent ensuite aux salariés, mobilisant par là un peu de trésorerie. Il me semble en plus que des frais sont facturés en sus de la valeur faciale du titre.
+Les titres restaurant sont une quasi-monnaie. Ã€ ce titre il serait logique que les titres soient Ã©mis par l'Ã‰tat. Cependant, en accord avec le principe qu'on trouve Ã  gauche comme Ã  droite que "il vaut mieux confier au privÃ© ce que l'Ã‰tat pourrait faire le mieux", il a Ã©tÃ© dÃ©cidÃ© qu'un groupe de sociÃ©tÃ©s privÃ©es auraient le droit d'Ã©mettre des titres restaurant. Chacune des ces quatre sociÃ©tÃ©s dispose de son propre nom commercial, avec sa propre marque dÃ©posÃ©e, pour faire rÃ©fÃ©rence Ã  ces titres. 
+Les clients de ces sociÃ©tÃ©s sont les employeurs qui distribuent des titres restaurant. Ces employeurs achÃ¨tent les titres par avance, les paient (Ã  la livraison), et les distribuent ensuite aux salariÃ©s, mobilisant par lÃ  un peu de trÃ©sorerie. Il me semble en plus que des frais sont facturÃ©s en sus de la valeur faciale du titre.
 
 ## Placements financiers
 
-La société émettrice des titres restaurant, ayant touché la somme correspondant à leur valeur, va s'empresser de placer cette somme sur les marchés financiers de façon à générer des recettes. C'est de cela que vivent ces sociétés : elles placent l'argent de l'entreprise, qui devrait normalement être versé à l'employé, le temps que le titre soit utilisé par le salarié et présenté au remboursement par le restaurateur. Ce délai de plusieurs semaines permet à la société de gagner quelques intérêts sur de l'argent qui ne devrait pas être le sien.
+La sociÃ©tÃ© Ã©mettrice des titres restaurant, ayant touchÃ© la somme correspondant Ã  leur valeur, va s'empresser de placer cette somme sur les marchÃ©s financiers de faÃ§on Ã  gÃ©nÃ©rer des recettes. C'est de cela que vivent ces sociÃ©tÃ©s : elles placent l'argent de l'entreprise, qui devrait normalement Ãªtre versÃ© Ã  l'employÃ©, le temps que le titre soit utilisÃ© par le salariÃ© et prÃ©sentÃ© au remboursement par le restaurateur. Ce dÃ©lai de plusieurs semaines permet Ã  la sociÃ©tÃ© de gagner quelques intÃ©rÃªts sur de l'argent qui ne devrait pas Ãªtre le sien.
 
 ## Utilisation du titre et remboursement
 
-Lorsque le salarié utilise le titre pour régler un repas, le restaurateur ne peut déposer le titre directement sur son compte en banque, et là la société émettrice profite à nouveau du pouvoir qui lui est donné par la loi.
-En effet le restaurateur doit regrouper ses titres papier pour atteindre une somme minimale (de l'ordre du millier d'euros), et les envoyer à la société émettrice. Il paie non seulement les frais postaux (normaux), mais aussi des frais de remboursement, fixes et/ou proportionnels, et subit un délai de remboursement de 21 jours (un remboursement plus rapide étant possible mais avec des frais prohibitifs).
-Cette pratique, en imposant au restaurateur un délai important entre la vente du repas et le paiement du repas, fragilise la trésorerie des restaurateurs (qui ne roulent pas tous sur l'or), et par conséquent met en danger des milliers de petites entreprises en France qui sont contraintes (sous peine de voir leurs clients aller à la concurrence) d'accepter un titre restaurant dont le principal effet est d'acroître leur besoin en fonds de roulement.
-Et pour quelle raison renonce-t-on ainsi à des recettes fiscales et fragilise-t-on ainsi les restaurateurs ? Pour enrichir des intermédiaires parasites !
+Lorsque le salariÃ© utilise le titre pour rÃ©gler un repas, le restaurateur ne peut dÃ©poser le titre directement sur son compte en banque, et lÃ  la sociÃ©tÃ© Ã©mettrice profite Ã  nouveau du pouvoir qui lui est donnÃ© par la loi.
+En effet le restaurateur doit regrouper ses titres papier pour atteindre une somme minimale (de l'ordre du millier d'euros), et les envoyer Ã  la sociÃ©tÃ© Ã©mettrice. Il paie non seulement les frais postaux (normaux), mais aussi des frais de remboursement, fixes et/ou proportionnels, et subit un dÃ©lai de remboursement de 21 jours (un remboursement plus rapide Ã©tant possible mais avec des frais prohibitifs).
+Cette pratique, en imposant au restaurateur un dÃ©lai important entre la vente du repas et le paiement du repas, fragilise la trÃ©sorerie des restaurateurs (qui ne roulent pas tous sur l'or), et par consÃ©quent met en danger des milliers de petites entreprises en France qui sont contraintes (sous peine de voir leurs clients aller Ã  la concurrence) d'accepter un titre restaurant dont le principal effet est d'acroÃ®tre leur besoin en fonds de roulement.
+Et pour quelle raison renonce-t-on ainsi Ã  des recettes fiscales et fragilise-t-on ainsi les restaurateurs ? Pour enrichir des intermÃ©diaires parasites !
 
-# Accordons-nous pour frauder la société, qui ne pourra pas se défendre !
+# Accordons-nous pour frauder la sociÃ©tÃ©, qui ne pourra pas se dÃ©fendre !
 
-Ce que je trouve intéressant avec le titre restaurant, ainsi qu'avec la rupture conventionnelle du contrat de travail et quelques autres futurs sujets de ma série "consultant bourré", c'est que le législateur a fait exactement l'inverse de son métier. Au lieu de défendre l'intérêt général (qui est celui de la société), il a fait en sorte de permettre à certaines entités privées (les salariés, les restaurateurs, ...) de contourner les règles de droit commun, dans leur seul intérêt, avec pour principal résultat de coûter de l'argent à la société en avantageant de manière indûe certaines personnes par rapport à d'autres.
-On retrouve cela assez couramment : l'État dépense de l'argent (en général par réduction de recettes) pour avantager telle ou telle catégorie qui a absolument besoin (par présupposé idéologique, présent à gauche comme à droite) de l'intervention de l'État, le rapport coût/bénéfice de cet avantage n'est jamais évalué mais semble rarement bon (car il faut bien reconnaître que l'État français est assez mauvais lorsqu'il intervient dans l'économie), et cet avantage n'est jamais supprimé alors qu'il le devrait. Pire, non seulement on ne le supprime pas, mais on finit par oublier sa raison d'être, et on s'en sert comme fondation pour de nouvelles mesures stupides mais coûteuses. Le titre restaurant ne devrait pas exister.
+Ce que je trouve intÃ©ressant avec le titre restaurant, ainsi qu'avec la rupture conventionnelle du contrat de travail et quelques autres futurs sujets de ma sÃ©rie "consultant bourrÃ©", c'est que le lÃ©gislateur a fait exactement l'inverse de son mÃ©tier. Au lieu de dÃ©fendre l'intÃ©rÃªt gÃ©nÃ©ral (qui est celui de la sociÃ©tÃ©), il a fait en sorte de permettre Ã  certaines entitÃ©s privÃ©es (les salariÃ©s, les restaurateurs, ...) de contourner les rÃ¨gles de droit commun, dans leur seul intÃ©rÃªt, avec pour principal rÃ©sultat de coÃ»ter de l'argent Ã  la sociÃ©tÃ© en avantageant de maniÃ¨re indÃ»e certaines personnes par rapport Ã  d'autres.
+On retrouve cela assez couramment : l'Ã‰tat dÃ©pense de l'argent (en gÃ©nÃ©ral par rÃ©duction de recettes) pour avantager telle ou telle catÃ©gorie qui a absolument besoin (par prÃ©supposÃ© idÃ©ologique, prÃ©sent Ã  gauche comme Ã  droite) de l'intervention de l'Ã‰tat, le rapport coÃ»t/bÃ©nÃ©fice de cet avantage n'est jamais Ã©valuÃ© mais semble rarement bon (car il faut bien reconnaÃ®tre que l'Ã‰tat franÃ§ais est assez mauvais lorsqu'il intervient dans l'Ã©conomie), et cet avantage n'est jamais supprimÃ© alors qu'il le devrait. Pire, non seulement on ne le supprime pas, mais on finit par oublier sa raison d'Ãªtre, et on s'en sert comme fondation pour de nouvelles mesures stupides mais coÃ»teuses. Le titre restaurant ne devrait pas exister.
 
-Des usines à gaz qui font tout sauf ce qu'on attend d'elles ? La loi est écrite par un consultant J2EE bourré !
+Des usines Ã  gaz qui font tout sauf ce qu'on attend d'elles ? La loi est Ã©crite par un consultant J2EE bourrÃ© !

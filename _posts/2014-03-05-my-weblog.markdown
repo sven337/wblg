@@ -7,4 +7,4 @@ categories: francais
 img_rel: ""
 ---
 
-Bienvenue sur mon site. Je l'utiliserai pour publier des articles techniques portant sur l'informatique et l'électronique.
+Bienvenue sur mon site. Je l'utiliserai pour publier des articles techniques portant sur l'informatique et l'Ã©lectronique.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Le Canard Enchaîné raconte des bêtises dès qu'il s'agit de chiffres
+title: Le Canard EnchaÃ®nÃ© raconte des bÃªtises dÃ¨s qu'il s'agit de chiffres
 date: 2014-12-17 20:37:03
 tags: maljournalisme
 category: francais
@@ -8,32 +8,32 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-J'ai parfois eu l'occasion de dénoncer des erreurs du Canard Enchaîné. Ce journal est très bon lorsqu'il s'agit de politique, mais souffre d'avoir une rédaction n'ayant pas fait d'études scientifiques, et dès qu'un sujet un tant soit peu scientifique est abordé, cela se voit. 
+J'ai parfois eu l'occasion de dÃ©noncer des erreurs du Canard EnchaÃ®nÃ©. Ce journal est trÃ¨s bon lorsqu'il s'agit de politique, mais souffre d'avoir une rÃ©daction n'ayant pas fait d'Ã©tudes scientifiques, et dÃ¨s qu'un sujet un tant soit peu scientifique est abordÃ©, cela se voit. 
 
-David Monniaux a régulièrement abordé ce problème, et j'y suis revenu [récemment](http://david.monniaux.free.fr/dotclear/index.php/post/2014/07/11/Le-Canard-Encha%C3%AEn%C3%A9-joue-les-prudes)..
+David Monniaux a rÃ©guliÃ¨rement abordÃ© ce problÃ¨me, et j'y suis revenu [rÃ©cemment](http://david.monniaux.free.fr/dotclear/index.php/post/2014/07/11/Le-Canard-Encha%C3%AEn%C3%A9-joue-les-prudes)..
 
-Voici une liste d'erreurs que j'ai relevées dans les mois passés :
+Voici une liste d'erreurs que j'ai relevÃ©es dans les mois passÃ©s :
 
-- erreur, corrigée, sur la *quantité de chocolat* mangée par les français en un an. Une simple division montrait que l'ordre de grandeur initialement donné était irréaliste. À sa décharge, le palmidède a corrigé la semaine suivante, avec une donnée à nouveau fausse, qui a été rectifiée la semaine suivante.
-- dénonciation du scandale chinois du lait à la méla**n**ine. C'est de [méla**m**ine](http://fr.wikipedia.org/wiki/M%C3%A9lamine) qu'il s'agit, une matière plastique ; et non de [méla**n**ine](http://fr.wikipedia.org/wiki/M%C3%A9lanine). Les deux n'ont absolument rien à voir. L'erreur serait pardonnable... si l'article n'était pas arrivé deux ans après le scandale, et après que tout le monde ait fait l'erreur et se soit fait reprendre.
-- commentaires sur le caractère carcinogène des hydrocarbures **aromatisés**. Ils doivent sentir bon, tant mieux pour eux, mais il s'agit d'[hydrocarbures **aromatiques**](http://fr.wikipedia.org/wiki/Hydrocarbure_aromatique) (en gros, des hydrocarbures avec un cycle carboné), le premier terme n'existe pas en chimie.
-- répétition sans grand commentaire des affirmations de Thierry Lepaon qu'il *gagne 5000EUR par mois* et paye *20 000EUR d'impôts par an*. Si cet homme, défenseur des ouvriers exploités par les méchants capitalistes, paye réellement 20kEUR d'impôts par an, alors il gagne environ **100 000EUR** par an (en supposant qu'il vit seul, sinon c'est plus). On est plus près des *8000* que des *5000*.
+- erreur, corrigÃ©e, sur la *quantitÃ© de chocolat* mangÃ©e par les franÃ§ais en un an. Une simple division montrait que l'ordre de grandeur initialement donnÃ© Ã©tait irrÃ©aliste. Ã€ sa dÃ©charge, le palmidÃ¨de a corrigÃ© la semaine suivante, avec une donnÃ©e Ã  nouveau fausse, qui a Ã©tÃ© rectifiÃ©e la semaine suivante.
+- dÃ©nonciation du scandale chinois du lait Ã  la mÃ©la**n**ine. C'est de [mÃ©la**m**ine](http://fr.wikipedia.org/wiki/M%C3%A9lamine) qu'il s'agit, une matiÃ¨re plastique ; et non de [mÃ©la**n**ine](http://fr.wikipedia.org/wiki/M%C3%A9lanine). Les deux n'ont absolument rien Ã  voir. L'erreur serait pardonnable... si l'article n'Ã©tait pas arrivÃ© deux ans aprÃ¨s le scandale, et aprÃ¨s que tout le monde ait fait l'erreur et se soit fait reprendre.
+- commentaires sur le caractÃ¨re carcinogÃ¨ne des hydrocarbures **aromatisÃ©s**. Ils doivent sentir bon, tant mieux pour eux, mais il s'agit d'[hydrocarbures **aromatiques**](http://fr.wikipedia.org/wiki/Hydrocarbure_aromatique) (en gros, des hydrocarbures avec un cycle carbonÃ©), le premier terme n'existe pas en chimie.
+- rÃ©pÃ©tition sans grand commentaire des affirmations de Thierry Lepaon qu'il *gagne 5000EUR par mois* et paye *20 000EUR d'impÃ´ts par an*. Si cet homme, dÃ©fenseur des ouvriers exploitÃ©s par les mÃ©chants capitalistes, paye rÃ©ellement 20kEUR d'impÃ´ts par an, alors il gagne environ **100 000EUR** par an (en supposant qu'il vit seul, sinon c'est plus). On est plus prÃ¨s des *8000* que des *5000*.
 
-Et enfin dans l'édition de ce jour, un commentaire sur le manque à gagner constaté sur l'impôt sur le revenu cette année. Je cite :
+Et enfin dans l'Ã©dition de ce jour, un commentaire sur le manque Ã  gagner constatÃ© sur l'impÃ´t sur le revenu cette annÃ©e. Je cite :
 
-> Le gouvernement [...] a décidé d'intégrer les revenus du capital [...] au barème de l'impôt sur le revenu. 
-> Résultat : un contribuable ayant touché 10 000 euros de dividendes était jusqu'alors imposé à 36%. Il l'est désormais à 64.5% (tranche marginale + majoration exceptionnelle + CSG et CRDS).
+> Le gouvernement [...] a dÃ©cidÃ© d'intÃ©grer les revenus du capital [...] au barÃ¨me de l'impÃ´t sur le revenu. 
+> RÃ©sultat : un contribuable ayant touchÃ© 10 000 euros de dividendes Ã©tait jusqu'alors imposÃ© Ã  36%. Il l'est dÃ©sormais Ã  64.5% (tranche marginale + majoration exceptionnelle + CSG et CRDS).
 
-Le gouvernement aurait-il pratiquement **doublé le taux d'imposition sur les dividendes**, ou le Canard fait-il du **maljournalisme** ?
+Le gouvernement aurait-il pratiquement **doublÃ© le taux d'imposition sur les dividendes**, ou le Canard fait-il du **maljournalisme** ?
 
-En réalité, les revenus du capital ont toujours payé l'impôt sur le revenu, soit en étant directement intégrés au barème (cas par défaut), soit un *prélèvement forfaitaire libératoire* (qui est une *option*) : en d'autres termes il était *possible* d'exclure ces revenus du barème de l'impôt sur le revenu... en contrepartie d'un prélèvement à un taux de 21%, ou 24% (et d'autres variantes), selon la provenance exacte du revenu.
-Pour un contribuable dont le taux marginal d'imposition était de **30%** ou plus, il était intéressant de choisir cette option, qui disparaît désormais. C'est à mon avis parfaitement logique puisqu'il n'existait aucune justification sérieuse à ce que les revenus du capital supportent un taux d'imposition plus faible que le barème de droit commun. Cette décision me coûte personnellement de l'argent mais je l'approuve tout à fait.
-																																						La situation "avant" est décrite par le Canard Enchaîné comme supportant **36%** d'imposition. Soyons précis, il s'agit en fait de **36.5%** : **15.5%** de "prélèvements sociaux* (à ne pas confondre avec les *charges sociales*, non payées par les revenus du capital ; ici il s'agit de CSG + CRDS), et **21%** de prélèvement forfaitaire libératoire.
+En rÃ©alitÃ©, les revenus du capital ont toujours payÃ© l'impÃ´t sur le revenu, soit en Ã©tant directement intÃ©grÃ©s au barÃ¨me (cas par dÃ©faut), soit un *prÃ©lÃ¨vement forfaitaire libÃ©ratoire* (qui est une *option*) : en d'autres termes il Ã©tait *possible* d'exclure ces revenus du barÃ¨me de l'impÃ´t sur le revenu... en contrepartie d'un prÃ©lÃ¨vement Ã  un taux de 21%, ou 24% (et d'autres variantes), selon la provenance exacte du revenu.
+Pour un contribuable dont le taux marginal d'imposition Ã©tait de **30%** ou plus, il Ã©tait intÃ©ressant de choisir cette option, qui disparaÃ®t dÃ©sormais. C'est Ã  mon avis parfaitement logique puisqu'il n'existait aucune justification sÃ©rieuse Ã  ce que les revenus du capital supportent un taux d'imposition plus faible que le barÃ¨me de droit commun. Cette dÃ©cision me coÃ»te personnellement de l'argent mais je l'approuve tout Ã  fait.
+																																						La situation "avant" est dÃ©crite par le Canard EnchaÃ®nÃ© comme supportant **36%** d'imposition. Soyons prÃ©cis, il s'agit en fait de **36.5%** : **15.5%** de "prÃ©lÃ¨vements sociaux* (Ã  ne pas confondre avec les *charges sociales*, non payÃ©es par les revenus du capital ; ici il s'agit de CSG + CRDS), et **21%** de prÃ©lÃ¨vement forfaitaire libÃ©ratoire.
 
-Que se passe-t-il lorsqu'on applique la réforme du gouvernement ? Les **15.5%** de prélèvements sociaux restent. Les 21% de PFL deviennent, eux, le taux marginal d'imposition du contribuable. Prenons le cas d'un contribuable payant 30% de taux marginal, ce qui n'est déjà pas la majorité des français (mais probablement la majorité des contribuables qui détiennent des actions et donc touchent des dividendes). 
-Pour cette personne, cas majoritaire du contribuable qui touche des dividendes, le taux effectif passe à **15.5 + 30% = 45.5%**. C'est beaucoup, mais on est loin des 64.5% annoncés !
+Que se passe-t-il lorsqu'on applique la rÃ©forme du gouvernement ? Les **15.5%** de prÃ©lÃ¨vements sociaux restent. Les 21% de PFL deviennent, eux, le taux marginal d'imposition du contribuable. Prenons le cas d'un contribuable payant 30% de taux marginal, ce qui n'est dÃ©jÃ  pas la majoritÃ© des franÃ§ais (mais probablement la majoritÃ© des contribuables qui dÃ©tiennent des actions et donc touchent des dividendes). 
+Pour cette personne, cas majoritaire du contribuable qui touche des dividendes, le taux effectif passe Ã  **15.5 + 30% = 45.5%**. C'est beaucoup, mais on est loin des 64.5% annoncÃ©s !
 
-En fait, ce chiffre est correct... pour un contribuable dont le revenu annuel est **supérieur au million d'euros**. Dans ce cas, le taux marginal est de 45%, et s'applique en sus une majoration exceptionnelle de 4%. 15.5 + 45 + 4 = 64.5%, le compte est bon... mais l'hypothèse est un peu malhonnête !
+En fait, ce chiffre est correct... pour un contribuable dont le revenu annuel est **supÃ©rieur au million d'euros**. Dans ce cas, le taux marginal est de 45%, et s'applique en sus une majoration exceptionnelle de 4%. 15.5 + 45 + 4 = 64.5%, le compte est bon... mais l'hypothÃ¨se est un peu malhonnÃªte !
 Tous les "patrons d'entreprises familiales" dont parle l'article ne se versent pas un million d'euros par an...
 
 

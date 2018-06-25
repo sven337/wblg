@@ -8,11 +8,11 @@ comments: true
 img_rel: "/~sven337/data/degiro"
 ---
 
-Le courtier Degiro propose un certain nombre de fonds indiciels côtés (ETFs, exchange-traded funds) pour lesquels les frais de courtage sont offerts (pour le premier ordre du mois). Voir (https://www.degiro.fr/tarifs/trading-gratuit-etf/) pour les détails.
-Cette liste est toutefois (volontairement ?) rendue inexploitable car elle ne contient que des codes ISIN et des intitulés abrégés. Ayant fermement l'intention de profiter de cette offre, sans pour autant faire de concession sur la qualité de mes investissements, j'ai décidé de générer une liste utilisable. 
+Le courtier Degiro propose un certain nombre de fonds indiciels cÃ´tÃ©s (ETFs, exchange-traded funds) pour lesquels les frais de courtage sont offerts (pour le premier ordre du mois). Voir [https://www.degiro.fr/tarifs/trading-gratuit-etf/](https://www.degiro.fr/tarifs/trading-gratuit-etf/) pour les dÃ©tails.
+Cette liste est toutefois (volontairement ?) rendue inexploitable car elle ne contient que des codes ISIN et des intitulÃ©s abrÃ©gÃ©s. Ayant fermement l'intention de profiter de cette offre, sans pour autant faire de concession sur la qualitÃ© de mes investissements, j'ai dÃ©cidÃ© de gÃ©nÃ©rer une liste utilisable. 
 
-Cette liste est disponible [ici](/~sven337/data/degiro/current_list.txt), et s'ouvre aisément dans un tableur. Elle n'est pas tout à fait complète, il manque quelques ETFs sans intérêt. Tous les champs de la liste ne sont pas forcément remplis, selon la source que j'ai utilisée. De plus, certaines informations ne sont pas très fiables et gagneraient à être ignorées, par exemple la nature capitalisante ou distribuante du fonds qui est souvent incorrecte.
-Néanmoins cela aide à exploiter la liste des ETFs gratuits.
+[Cette liste est disponible ici](/~sven337/data/degiro/current_list.txt), et s'ouvre aisÃ©ment dans un tableur. Elle n'est pas tout Ã  fait complÃ¨te, il manque quelques ETFs sans intÃ©rÃªt. Tous les champs de la liste ne sont pas forcÃ©ment remplis, selon la source que j'ai utilisÃ©e. De plus, certaines informations ne sont pas trÃ¨s fiables et gagneraient Ã  Ãªtre ignorÃ©es, par exemple la nature capitalisante ou distribuante du fonds qui est souvent incorrecte.
+NÃ©anmoins cela aide Ã  exploiter la liste des ETFs gratuits.
 
-Au global, beaucoup de fonds sans intérêts pour un résident français. 
-J'aime bien le tracker MSCI World IE00B4L5Y983, et MSCI Emerging Markets FR0010959676 (ceci n'est pas une recommandation d'achat, j'indique simplement le choix que j'ai personnellement réalisé).
+Au global, beaucoup de fonds sans intÃ©rÃªts pour un rÃ©sident franÃ§ais. 
+J'aime bien le tracker MSCI World IE00B4L5Y983, et MSCI Emerging Markets FR0010959676 (ceci n'est pas une recommandation d'achat, j'indique simplement le choix que j'ai personnellement rÃ©alisÃ©).

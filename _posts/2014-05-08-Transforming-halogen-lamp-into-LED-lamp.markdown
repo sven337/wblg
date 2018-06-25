@@ -50,7 +50,7 @@ If we look at our objectives, we will likely require some electronics, probably 
 Power LEDs may have better efficiency than incandescent light bulbs, they still dissipate a lot of power as heat. However, unlike light bulbs, a power LED:
 	- has a small surface, so convection is practically non-existent
 	- does not radiate infrared, so radiation is practically non-existent
-	- cannot stand higher temperatures than about 100°C (unlike light bulbs which are happier the hotter they get)
+	- cannot stand higher temperatures than about 100Â°C (unlike light bulbs which are happier the hotter they get)
 
 So heat has to be *conducted* away from the LED, using a heatsink. I have no idea of its volume, having never used power LEDs before, but based on my experience with computer chips even a 20W power LED will require a fairly big heatsink.
 
@@ -151,7 +151,7 @@ I'll mod the driver to get the rated power out of the LED, but I'm not holding m
 
 ## Heatsink
 
-The heatsink is probably too small, but I've measured a maximum temperature of 52°C with the probe in contact with it. I'll estimate that means that the LED is running at about 95°C. Driving it at 900mA is probably going to exceed the safe operating temperature, so I'll need a bigger heatsink. I have a CPU heatsink lying around, if I can physically fit it will help.
+The heatsink is probably too small, but I've measured a maximum temperature of 52Â°C with the probe in contact with it. I'll estimate that means that the LED is running at about 95Â°C. Driving it at 900mA is probably going to exceed the safe operating temperature, so I'll need a bigger heatsink. I have a CPU heatsink lying around, if I can physically fit it will help.
 
 ## Oh my god this is ugly...
 

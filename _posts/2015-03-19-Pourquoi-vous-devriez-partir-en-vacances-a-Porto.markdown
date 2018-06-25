@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pourquoi vous devriez partir en vacances à Porto
+title: Pourquoi vous devriez partir en vacances Ã  Porto
 date: 2015-03-19 20:07:40
 tags: 
 category: francais
@@ -8,10 +8,10 @@ comments: true
 img_rel: "/~sven337/data/porto"
 ---
 
-Je m'écarte de mes sujets habituels afin de partager l'expérience inoubliable que j'ai vécue l'été dernier en vacances à Porto. La ville est fascinante, car elle donne un aperçu de la vie portugaise, et nous fait découvrir l'architecture si originale de ce pays qui a vécu tant d'histoire. 
-Cet article ne sera pas différent des guides touristiques (et vacanciers réguliers) qui vous recommandent chaudement de visiter Porto. D'ailleurs, le centre historique de Porto est classé par l'UNESCO au patrimoine mondial de l'humanité, preuve supplémentaire que le coût du voyage (assez faible avec Ryanair) est justifié.
+Je m'Ã©carte de mes sujets habituels afin de partager l'expÃ©rience inoubliable que j'ai vÃ©cue l'Ã©tÃ© dernier en vacances Ã  Porto. La ville est fascinante, car elle donne un aperÃ§u de la vie portugaise, et nous fait dÃ©couvrir l'architecture si originale de ce pays qui a vÃ©cu tant d'histoire. 
+Cet article ne sera pas diffÃ©rent des guides touristiques (et vacanciers rÃ©guliers) qui vous recommandent chaudement de visiter Porto. D'ailleurs, le centre historique de Porto est classÃ© par l'UNESCO au patrimoine mondial de l'humanitÃ©, preuve supplÃ©mentaire que le coÃ»t du voyage (assez faible avec Ryanair) est justifiÃ©.
 
-Commençons ensemble cette visite guidée, avec photos, de la ville de Porto. 
+CommenÃ§ons ensemble cette visite guidÃ©e, avec photos, de la ville de Porto. 
 
 ![](facades1.jpg)
 ![](facades2.jpg)
@@ -24,10 +24,10 @@ Commençons ensemble cette visite guidée, avec photos, de la ville de Porto.
 # La vie des habitants 
 
 ![](facades3.jpg)
-Si vous avez la chance de loger dans le centre ville, la grande densité des constructions vous donnera une vue imprenable, et très touchante, sur la vie des locaux. On voyait par exemple depuis notre chambre d'hôtel un magnifique exemple d'architecture taulo-néoclassique, décorée avec goût par de nombreuses tentures admirablement drapées sur les fils à linge qui ornent chacune des fenêtres de la ville.
-En baissant la tête on constate rapidement que les logements portugais sont petits, car la moitié des possessions des habitants semble être stockée à l'extérieur. Nous avons ainsi pu avoir une image authentique et touchante de la vie quotidienne des habitants.
+Si vous avez la chance de loger dans le centre ville, la grande densitÃ© des constructions vous donnera une vue imprenable, et trÃ¨s touchante, sur la vie des locaux. On voyait par exemple depuis notre chambre d'hÃ´tel un magnifique exemple d'architecture taulo-nÃ©oclassique, dÃ©corÃ©e avec goÃ»t par de nombreuses tentures admirablement drapÃ©es sur les fils Ã  linge qui ornent chacune des fenÃªtres de la ville.
+En baissant la tÃªte on constate rapidement que les logements portugais sont petits, car la moitiÃ© des possessions des habitants semble Ãªtre stockÃ©e Ã  l'extÃ©rieur. Nous avons ainsi pu avoir une image authentique et touchante de la vie quotidienne des habitants.
 
-# Le quai classé
+# Le quai classÃ©
 
 Sans commentaire.
 
@@ -35,18 +35,18 @@ Sans commentaire.
 
 # Les monuments
 
-Je dois reconnaître être légèrement de mauvaise foi : il y a quelques monuments qui tiennent encore debout. Mais ceux-là, vous les verrez dans les guides touristiques.
+Je dois reconnaÃ®tre Ãªtre lÃ©gÃ¨rement de mauvaise foi : il y a quelques monuments qui tiennent encore debout. Mais ceux-lÃ , vous les verrez dans les guides touristiques.
 
 ![](facades9.jpg)
 
 # La plage
 
-Ce qui est bien à Porto, c'est que c'est près de la plage. Les transports en commun sont excellents, peu onéreux, et vous mèneront à de nombreuses plages océanes, bien aménagées et agréables. L'eau a le bon goût d'être très froide (plus froide que dans le Sud-Ouest de la France, ce qui est contre-intuitif), et les vagues bien moins présentes que dans ce même Sud-Ouest. Si vous avez le choix, allez donc à Porto, ça me fera plus de place en France.
+Ce qui est bien Ã  Porto, c'est que c'est prÃ¨s de la plage. Les transports en commun sont excellents, peu onÃ©reux, et vous mÃ¨neront Ã  de nombreuses plages ocÃ©anes, bien amÃ©nagÃ©es et agrÃ©ables. L'eau a le bon goÃ»t d'Ãªtre trÃ¨s froide (plus froide que dans le Sud-Ouest de la France, ce qui est contre-intuitif), et les vagues bien moins prÃ©sentes que dans ce mÃªme Sud-Ouest. Si vous avez le choix, allez donc Ã  Porto, Ã§a me fera plus de place en France.
 
 # Conclusion
 
-Je n'ai rien contre les portugais, mais je constate que la ville de Porto est l'objet de publicité mensongère à tous les niveaux. C'est en réalité une ville tout à fait quelconque, voire franchement moche, sur la majorité de sa surface. Elle n'est pas différente de n'importe quelle grande ville française à cet égard, sauf qu'au moins, nos bâtiments en France ne tombent pas en ruine. Dans le centre historique de Porto environ 30% des bâtiments (commerces et habitations) sont inoccupés, et une bonne moitié d'entre eux le sont depuis tellement longtemps qu'ils tombent carrément en ruine. Notez que même les bâtiments qui sont occupés sont mal entretenus, et leurs façades sont, à quelques exceptions près qui sont celles qu'on voit justement dans les guides touristiques, sans grand intérêt.
-La seule explication que je vois qui justifierait d'apprécier Porto serait une espèce de fascination morbide et un peu raciste pour la misère dans laquelle de nombreux portugais semblent vivre. Si, comme moi, vous ne considérez pas la misère, la pauvreté et la saleté comme étant des composantes essentielles de vacances réussies, ne visitez donc pas Porto. À noter que je n'ai aucune remarque à faire concernant les autres villes du Portugal, ne les ayant pas visitées, et n'ayant aucune intention de le faire.
+Je n'ai rien contre les portugais, mais je constate que la ville de Porto est l'objet de publicitÃ© mensongÃ¨re Ã  tous les niveaux. C'est en rÃ©alitÃ© une ville tout Ã  fait quelconque, voire franchement moche, sur la majoritÃ© de sa surface. Elle n'est pas diffÃ©rente de n'importe quelle grande ville franÃ§aise Ã  cet Ã©gard, sauf qu'au moins, nos bÃ¢timents en France ne tombent pas en ruine. Dans le centre historique de Porto environ 30% des bÃ¢timents (commerces et habitations) sont inoccupÃ©s, et une bonne moitiÃ© d'entre eux le sont depuis tellement longtemps qu'ils tombent carrÃ©ment en ruine. Notez que mÃªme les bÃ¢timents qui sont occupÃ©s sont mal entretenus, et leurs faÃ§ades sont, Ã  quelques exceptions prÃ¨s qui sont celles qu'on voit justement dans les guides touristiques, sans grand intÃ©rÃªt.
+La seule explication que je vois qui justifierait d'apprÃ©cier Porto serait une espÃ¨ce de fascination morbide et un peu raciste pour la misÃ¨re dans laquelle de nombreux portugais semblent vivre. Si, comme moi, vous ne considÃ©rez pas la misÃ¨re, la pauvretÃ© et la saletÃ© comme Ã©tant des composantes essentielles de vacances rÃ©ussies, ne visitez donc pas Porto. Ã€ noter que je n'ai aucune remarque Ã  faire concernant les autres villes du Portugal, ne les ayant pas visitÃ©es, et n'ayant aucune intention de le faire.
 
 <script>
     $(document).ready(function() {

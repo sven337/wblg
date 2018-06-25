@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Détection de présence pour éclairage à LED
+title: DÃ©tection de prÃ©sence pour Ã©clairage Ã  LED
 date: 2014-08-03 20:04:50
 tags: electronics lighting
 category: francais
@@ -11,91 +11,91 @@ img_rel: ""
 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 
-Cet article vise à expliquer théoriquement comment rajouter une détection de présence à un système d'éclairage à LED. Je l'écris pour un ami, sans avoir réalisé tous les montages que je vais décrire. N'hésitez pas à me rapporter d'éventuelles erreurs, ou les détails de votre réalisation.
+Cet article vise Ã  expliquer thÃ©oriquement comment rajouter une dÃ©tection de prÃ©sence Ã  un systÃ¨me d'Ã©clairage Ã  LED. Je l'Ã©cris pour un ami, sans avoir rÃ©alisÃ© tous les montages que je vais dÃ©crire. N'hÃ©sitez pas Ã  me rapporter d'Ã©ventuelles erreurs, ou les dÃ©tails de votre rÃ©alisation.
 
 # Objectif
 
-On suppose une pièce éclairée par un ruban de LED 12V. Ce type d'installation devient à la mode : c'est plutôt joli, peu coûteux, et la qualité de lumière est acceptable, surtout depuis que les lampes à incandescence sont interdites en Union Européenne car c'est cela qui va sauver la planète, oui-je-suis-parti-en-Guadeloupe-à-Noël-dernier-mais-j'ai-mis-des-lampes-à-économie-d-énergie.
+On suppose une piÃ¨ce Ã©clairÃ©e par un ruban de LED 12V. Ce type d'installation devient Ã  la mode : c'est plutÃ´t joli, peu coÃ»teux, et la qualitÃ© de lumiÃ¨re est acceptable, surtout depuis que les lampes Ã  incandescence sont interdites en Union EuropÃ©enne car c'est cela qui va sauver la planÃ¨te, oui-je-suis-parti-en-Guadeloupe-Ã -NoÃ«l-dernier-mais-j'ai-mis-des-lampes-Ã -Ã©conomie-d-Ã©nergie.
 
-L'objectif de cet article est d'améliorer le montage typique d'éclairage à ruban de LED, pour y rajouter une détection de présence qui sera très pratique dans un couloir, une pièce de stockage, ... et de manière générale toute pièce aveugle. Référez-vous à mon [premier article sur la détection de présence](/~sven337/english/2014/03/30/Automatic_lighting_in_bathroom.html), en anglais, pour plus de détails sur les choix techniques dans la détection de présence. Je ne reviens pas dessus.
+L'objectif de cet article est d'amÃ©liorer le montage typique d'Ã©clairage Ã  ruban de LED, pour y rajouter une dÃ©tection de prÃ©sence qui sera trÃ¨s pratique dans un couloir, une piÃ¨ce de stockage, ... et de maniÃ¨re gÃ©nÃ©rale toute piÃ¨ce aveugle. RÃ©fÃ©rez-vous Ã  mon [premier article sur la dÃ©tection de prÃ©sence](/~sven337/english/2014/03/30/Automatic_lighting_in_bathroom.html), en anglais, pour plus de dÃ©tails sur les choix techniques dans la dÃ©tection de prÃ©sence. Je ne reviens pas dessus.
 
-# Situation de départ
+# Situation de dÃ©part
 
-Le montage de départ est le suivant : un ruban de LED d'une seule couleur (à deux fils, un + et un -) alimentée à environ 1 ampère/mètre sous 12V par une alimentation à découpage ÀPasCher(TM) reliée au secteur. Cette alimentation est reliée à une prise commandée par un interrupteur : lorsque l'utilisateur rentre dans la pièce, il ferme l'interrupteur, ce qui active l'alimentation, qui fait s'éclairer les LED.
+Le montage de dÃ©part est le suivant : un ruban de LED d'une seule couleur (Ã  deux fils, un + et un -) alimentÃ©e Ã  environ 1 ampÃ¨re/mÃ¨tre sous 12V par une alimentation Ã  dÃ©coupage Ã€PasCher(TM) reliÃ©e au secteur. Cette alimentation est reliÃ©e Ã  une prise commandÃ©e par un interrupteur : lorsque l'utilisateur rentre dans la piÃ¨ce, il ferme l'interrupteur, ce qui active l'alimentation, qui fait s'Ã©clairer les LED.
 
-# Détection de présence
+# DÃ©tection de prÃ©sence
 
-On réalisera la détection de présence avec un détecteur à infrarouge passif ÀPasCher(TM) acheté sur eBay : <http://www.ebay.com/itm/400330055400>.
-Ce détecteur doit être alimenté par 3.3...12V DC, et a une sortie binaire : 1 = présence detectée, 0 = pas de présence détectée.
+On rÃ©alisera la dÃ©tection de prÃ©sence avec un dÃ©tecteur Ã  infrarouge passif Ã€PasCher(TM) achetÃ© sur eBay : <http://www.ebay.com/itm/400330055400>.
+Ce dÃ©tecteur doit Ãªtre alimentÃ© par 3.3...12V DC, et a une sortie binaire : 1 = prÃ©sence detectÃ©e, 0 = pas de prÃ©sence dÃ©tectÃ©e.
 
 # Commutation
 
 ## Dans l'alimentation
 
-J'en parle en premier afin d'évacuer le sujet rapidement. Il est courant que les contrôleurs PWM des alimentations disposent d'une patte "on/off" activable avec un niveau logique compatible avec celui du détecteur choisi. 
-Toutefois, ce n'est pas évident que le modèle précis de votre alimentation ait une telle patte, et même si le contrôleur en avait une il faudrait aller y souder un fil. Cela peut-être compliqué.
-Mais le vrai problème est la **sécurité**. Le contrôleur est situé au primaire de l'alimentation, c'est-à-dire pour une alimentation secteur du côté du 230V AC. Si on s'amuse à interfacer un capteur avec le primaire de l'alimentation, on perd l'isolation galvanique qui est une propriété fondamentale d'une alimentation secteur : théoriquement le montage va fonctionner sans tuer son utilisateur, mais au moindre problème, on court le risque de voir du 230V AC se promener dans le capteur, et donc à la sortie, tuant à la fois l'électronique en sortie (de manière spectaculaire), et, pourquoi pas, l'utilisateur.
-Pour réaliser le montage correctement il faut rajouter un optocoupleur (c'est comme ça que fonctionnent les alimentations avec standby qu'on trouve par exemple dans les télévisions ou les ordinateurs), mais cela devient compliqué à faire.
+J'en parle en premier afin d'Ã©vacuer le sujet rapidement. Il est courant que les contrÃ´leurs PWM des alimentations disposent d'une patte "on/off" activable avec un niveau logique compatible avec celui du dÃ©tecteur choisi. 
+Toutefois, ce n'est pas Ã©vident que le modÃ¨le prÃ©cis de votre alimentation ait une telle patte, et mÃªme si le contrÃ´leur en avait une il faudrait aller y souder un fil. Cela peut-Ãªtre compliquÃ©.
+Mais le vrai problÃ¨me est la **sÃ©curitÃ©**. Le contrÃ´leur est situÃ© au primaire de l'alimentation, c'est-Ã -dire pour une alimentation secteur du cÃ´tÃ© du 230V AC. Si on s'amuse Ã  interfacer un capteur avec le primaire de l'alimentation, on perd l'isolation galvanique qui est une propriÃ©tÃ© fondamentale d'une alimentation secteur : thÃ©oriquement le montage va fonctionner sans tuer son utilisateur, mais au moindre problÃ¨me, on court le risque de voir du 230V AC se promener dans le capteur, et donc Ã  la sortie, tuant Ã  la fois l'Ã©lectronique en sortie (de maniÃ¨re spectaculaire), et, pourquoi pas, l'utilisateur.
+Pour rÃ©aliser le montage correctement il faut rajouter un optocoupleur (c'est comme Ã§a que fonctionnent les alimentations avec standby qu'on trouve par exemple dans les tÃ©lÃ©visions ou les ordinateurs), mais cela devient compliquÃ© Ã  faire.
 
-Oublions donc cette idée qui avait pour elle l'avantage de l'élégance.
+Oublions donc cette idÃ©e qui avait pour elle l'avantage de l'Ã©lÃ©gance.
 
-## En AC à l'entrée
+## En AC Ã  l'entrÃ©e
 
-L'idée la plus simple, c'est de remplacer (ou de compléter) l'interrupteur physique par un interrupteur électronique commandé par le capteur. 
-Il y a deux méthodes pour commuter une tension "secteur" en toute sécurité : 
+L'idÃ©e la plus simple, c'est de remplacer (ou de complÃ©ter) l'interrupteur physique par un interrupteur Ã©lectronique commandÃ© par le capteur. 
+Il y a deux mÃ©thodes pour commuter une tension "secteur" en toute sÃ©curitÃ© : 
 
-1. un relais électromécanique
-1. un relais à semiconducteurs
+1. un relais Ã©lectromÃ©canique
+1. un relais Ã  semiconducteurs
 
-Voir la [section correspondante](/~sven337/english/2014/03/30/Automatic_lighting_in_bathroom.html#turn-on-the-light) dans mon précédent article.
+Voir la [section correspondante](/~sven337/english/2014/03/30/Automatic_lighting_in_bathroom.html#turn-on-the-light) dans mon prÃ©cÃ©dent article.
 
-Le relais électromécanique coûte cher, nécessite une diode supplémentaire, et un courant assez important pour le maintenir en "on" : pas forcément une super idée.
-Le relais à semiconducteurs coûte cher, est assez gros, et nécessite un courant *un peu moins* important [...].
-Dans les deux cas le courant nécessaire pour commuter le relais est trop important pour le modèle de capteur que j'ai retenu, donc il faudra rajouter un transistor.
+Le relais Ã©lectromÃ©canique coÃ»te cher, nÃ©cessite une diode supplÃ©mentaire, et un courant assez important pour le maintenir en "on" : pas forcÃ©ment une super idÃ©e.
+Le relais Ã  semiconducteurs coÃ»te cher, est assez gros, et nÃ©cessite un courant *un peu moins* important [...].
+Dans les deux cas le courant nÃ©cessaire pour commuter le relais est trop important pour le modÃ¨le de capteur que j'ai retenu, donc il faudra rajouter un transistor.
 
-Cette solution est intéressante mais nécessite de faire attention lors du branchement et de la "mise en boîte", car le montage va manipuler les tensions importantes. Il faut impérativement couper l'électricité au compteur avant de toucher à l'installation, et s'assurer d'avoir correctement sécurisé les composants et les câblages.
+Cette solution est intÃ©ressante mais nÃ©cessite de faire attention lors du branchement et de la "mise en boÃ®te", car le montage va manipuler les tensions importantes. Il faut impÃ©rativement couper l'Ã©lectricitÃ© au compteur avant de toucher Ã  l'installation, et s'assurer d'avoir correctement sÃ©curisÃ© les composants et les cÃ¢blages.
 
-Le type de relais importe peu, et le choix de cette solution dépend principalement de vos contraintes spécifiques pour l'intégration. De manière générale je pense que la commutation AC demande de faire plus attention (sécurité), donc l'intégration est plus compliquée, donc ce n'est pas la solution que je retiendrais.
+Le type de relais importe peu, et le choix de cette solution dÃ©pend principalement de vos contraintes spÃ©cifiques pour l'intÃ©gration. De maniÃ¨re gÃ©nÃ©rale je pense que la commutation AC demande de faire plus attention (sÃ©curitÃ©), donc l'intÃ©gration est plus compliquÃ©e, donc ce n'est pas la solution que je retiendrais.
 
-## En DC à la sortie
+## En DC Ã  la sortie
 
-L'autre possibilité est de faire la commutation au niveau de la **sortie** de l'alimentation, c'est-à-dire rajouter un transistor qui va "couper l'électricité" aux LED sauf lorsque le capteur le rend passant.
+L'autre possibilitÃ© est de faire la commutation au niveau de la **sortie** de l'alimentation, c'est-Ã -dire rajouter un transistor qui va "couper l'Ã©lectricitÃ©" aux LED sauf lorsque le capteur le rend passant.
 
-Par rapport à la solution "AC", voici les avantages :
+Par rapport Ã  la solution "AC", voici les avantages :
 
-- pas de question de sécurité lors du montage et en utilisation
+- pas de question de sÃ©curitÃ© lors du montage et en utilisation
 - volume plus faible
-- coût plus faible
-- pas de courant de "holding", donc pas de transistor supplémentaire à rajouter
-- câblage plus simple
+- coÃ»t plus faible
+- pas de courant de "holding", donc pas de transistor supplÃ©mentaire Ã  rajouter
+- cÃ¢blage plus simple
 
-Et les inconvénients :
+Et les inconvÃ©nients :
 
 - le transistor va chauffer, donc il faut un radiateur
-- difficile de s'y retrouver parmi les centaines de milliers de transistors sur le marché
+- difficile de s'y retrouver parmi les centaines de milliers de transistors sur le marchÃ©
 
 ### Ennuis thermiques
 
-Cette solution a bien sûr ma faveur, toutefois il faut faire vraiment attention à l'aspect thermique. Faire passer 6A dans un transistor ne pose aucune espèce de problème à condition que celui-ci soit pourvu d'un radiateur. Celui-ci n'a pas besoin d'être énorme, mais sa présence est indispensable sous peine de détruire le transistor et de créer un danger d'incendie. Les vrais ingénieurs en électronique dimensionnent leurs radiateurs par le calcul théorique. Ce n'est pas difficile à faire, mais superflu pour un projet de ce genre. Il suffit d'acheter un radiateur conçu pour le format de transistor retenu (TO-220 par exemple), de le monter, et de mettre les doigts dessus pour voir s'il chauffe trop. Pour mémoire, vous commencez à vous brûler les doigts aux alentours de 50°C, et un transistor peut fonctionner sans problème jusqu'à 90°C voire 105°C. 
+Cette solution a bien sÃ»r ma faveur, toutefois il faut faire vraiment attention Ã  l'aspect thermique. Faire passer 6A dans un transistor ne pose aucune espÃ¨ce de problÃ¨me Ã  condition que celui-ci soit pourvu d'un radiateur. Celui-ci n'a pas besoin d'Ãªtre Ã©norme, mais sa prÃ©sence est indispensable sous peine de dÃ©truire le transistor et de crÃ©er un danger d'incendie. Les vrais ingÃ©nieurs en Ã©lectronique dimensionnent leurs radiateurs par le calcul thÃ©orique. Ce n'est pas difficile Ã  faire, mais superflu pour un projet de ce genre. Il suffit d'acheter un radiateur conÃ§u pour le format de transistor retenu (TO-220 par exemple), de le monter, et de mettre les doigts dessus pour voir s'il chauffe trop. Pour mÃ©moire, vous commencez Ã  vous brÃ»ler les doigts aux alentours de 50Â°C, et un transistor peut fonctionner sans problÃ¨me jusqu'Ã  90Â°C voire 105Â°C. 
 
-Notons également que ce genre de système d'éclairage est plutôt conçu pour les pièces de passage, et non pour les pièces de vie : la lumière reste rarement allumée plus de quelques minutes ! Par conséquent le transistor ne sera passant que pendant quelques minutes à chaque fois, et n'aura pas trop le temps de chauffer.
+Notons Ã©galement que ce genre de systÃ¨me d'Ã©clairage est plutÃ´t conÃ§u pour les piÃ¨ces de passage, et non pour les piÃ¨ces de vie : la lumiÃ¨re reste rarement allumÃ©e plus de quelques minutes ! Par consÃ©quent le transistor ne sera passant que pendant quelques minutes Ã  chaque fois, et n'aura pas trop le temps de chauffer.
 
 ### Choix du transistor
 
-Il existe pratiquement autant de modèles de transistors que d'êtres humains sur Terre, mais le choix est assez simple.
-D'abord, on va se restreindre à ceux qu'on peut [acheter facilement](/~sven337/francais/2014/06/02/Acheter-des-composants-electroniques-sur-Internet.html), ce qui réduit énormément la liste.
-On cherche un transistor de puissance, c'est-à-dire un transistor qui fait passer de gros (> 1A) courants, et dans un package suffisamment volumineux pour ne pas avoir de problème de dissipation thermique.
+Il existe pratiquement autant de modÃ¨les de transistors que d'Ãªtres humains sur Terre, mais le choix est assez simple.
+D'abord, on va se restreindre Ã  ceux qu'on peut [acheter facilement](/~sven337/francais/2014/06/02/Acheter-des-composants-electroniques-sur-Internet.html), ce qui rÃ©duit Ã©normÃ©ment la liste.
+On cherche un transistor de puissance, c'est-Ã -dire un transistor qui fait passer de gros (> 1A) courants, et dans un package suffisamment volumineux pour ne pas avoir de problÃ¨me de dissipation thermique.
 
-Nos critères sont les suivants :
+Nos critÃ¨res sont les suivants :
 
-- courant nominal > 6A (en supposant 5 mètres de ruban à 1.2A/m), le plus grand est le mieux
-- tension de claquage >= 16V (en supposant qu'on alimente en 12V, en prenant une marge de sécurité)
-- gate en "logic level" c-à-d tension de seuil < 3.3V (sinon le capteur n'imposera pas une tension assez grande pour commuter le transistor)
+- courant nominal > 6A (en supposant 5 mÃ¨tres de ruban Ã  1.2A/m), le plus grand est le mieux
+- tension de claquage >= 16V (en supposant qu'on alimente en 12V, en prenant une marge de sÃ©curitÃ©)
+- gate en "logic level" c-Ã -d tension de seuil < 3.3V (sinon le capteur n'imposera pas une tension assez grande pour commuter le transistor)
 
-En [trois secondes sur eBay](http://www.ebay.com/itm/5x-IRLZ44N-PBF-MOSFET-N-Channel-Logic-Level-41A-55V-0-022OHM-TO-220-IRLZ34NL-/121129875333?pt=LH_DefaultDomain_0&hash=item1c33e73785), je trouve des transistors qui ont l'air de faire parfaitement l'affaire (il est possible de les brancher en parallèle - correctement - pour diminuer le stress thermique ou faire passer des courants plus grands, à noter que les 47A nominaux de ce transistor ne sont atteignables qu'avec un *gros* radiateur, et si vous commutez 47A d'éclairage vous avez probablement mal conçu votre solution).
+En [trois secondes sur eBay](http://www.ebay.com/itm/5x-IRLZ44N-PBF-MOSFET-N-Channel-Logic-Level-41A-55V-0-022OHM-TO-220-IRLZ34NL-/121129875333?pt=LH_DefaultDomain_0&hash=item1c33e73785), je trouve des transistors qui ont l'air de faire parfaitement l'affaire (il est possible de les brancher en parallÃ¨le - correctement - pour diminuer le stress thermique ou faire passer des courants plus grands, Ã  noter que les 47A nominaux de ce transistor ne sont atteignables qu'avec un *gros* radiateur, et si vous commutez 47A d'Ã©clairage vous avez probablement mal conÃ§u votre solution).
 
-Pour les radiateurs, c'est un peu plus compliqué car il y en a plein et j'ignore quelle taille prendre. J'aurais tendance à choisir un modèle [de ce genre](http://www.ebay.com/itm/Lots-10-Heatsink-Heat-Sink-With-Screw-Sets-For-TO-220-/310317074587?pt=US_CPU_Fans_Heatsinks&hash=item484056c89b).
+Pour les radiateurs, c'est un peu plus compliquÃ© car il y en a plein et j'ignore quelle taille prendre. J'aurais tendance Ã  choisir un modÃ¨le [de ce genre](http://www.ebay.com/itm/Lots-10-Heatsink-Heat-Sink-With-Screw-Sets-For-TO-220-/310317074587?pt=US_CPU_Fans_Heatsinks&hash=item484056c89b).
 
-# Réalisation en commutation DC
+# RÃ©alisation en commutation DC
 
-On va "couper" la sortie de l'alimentation pour rajouter un transistor. Cela peut se faire sur le + ou sur le -, mais le choix n'est pas indifférent ! Avec un transistor de type N (le plus courant), il faut obligatoirement placer le transistor sur le - de telle sorte que sa patte "source" soit reliée au - de l'alimentation (la gate sera reliée à la sortie du capteur, et le drain sera relié au retour du - des LED). Cet article est bien assez long donc je n'explique pas pourquoi c'est ainsi.
+On va "couper" la sortie de l'alimentation pour rajouter un transistor. Cela peut se faire sur le + ou sur le -, mais le choix n'est pas indiffÃ©rent ! Avec un transistor de type N (le plus courant), il faut obligatoirement placer le transistor sur le - de telle sorte que sa patte "source" soit reliÃ©e au - de l'alimentation (la gate sera reliÃ©e Ã  la sortie du capteur, et le drain sera reliÃ© au retour du - des LED). Cet article est bien assez long donc je n'explique pas pourquoi c'est ainsi.

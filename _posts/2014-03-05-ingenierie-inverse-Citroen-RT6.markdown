@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ingénierie inverse de l'autoradio eMyWay (RT6) Citroën"
+title: "IngÃ©nierie inverse de l'autoradio eMyWay (RT6) CitroÃ«n"
 date: 2014-03-05 23:00:00
 tags: electronics auto
 category: francais
@@ -8,25 +8,25 @@ comments: true
 img_rel: "/~sven337/data/rt6"
 ---
 
-Je reprends ici un article que j'ai rédigé il y a plus d'un an concernant l'autoradio eMyWay disponible sur les Citroën C4. Cette version est plus complète et a l'intérêt d'être en un seul morceau.
+Je reprends ici un article que j'ai rÃ©digÃ© il y a plus d'un an concernant l'autoradio eMyWay disponible sur les CitroÃ«n C4. Cette version est plus complÃ¨te et a l'intÃ©rÃªt d'Ãªtre en un seul morceau.
 
-Notez que je ne possède plus ni de C4 ni de RT6, je ne suis donc plus actif sur ce projet.
+Notez que je ne possÃ¨de plus ni de C4 ni de RT6, je ne suis donc plus actif sur ce projet.
 
-# Table des matières
+# Table des matiÃ¨res
 {:.no_toc}
 
 1. contents placeholder
 {:toc}
 
-# 1. Travaux précédents
+# 1. Travaux prÃ©cÃ©dents
 
-Le RT6, développé par Magneti Marelli, semble à première vue être assez similaire au RT3, pour lequel un effort de documentation a déjà été fait. On
-est en présence d'une plateforme **VxWorks 5.5.1** avec Tornado 2.2.1. La carte mère est probablement similaire à une WindRiver d'architecture PowerPC
-(exemples de produits : [http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC](http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC)) La carte est-elle la même que le RT3 ? Je pensais que le RT3 était en MIPS mais [http://fr.viadeo.com/fr/profile/cyrille.lohier](http://fr.viadeo.com/fr/profile/cyrille.lohier) laisse penser le contraire. Les binaires semblent être produits avec GCC: `(GNU) gcc-2.96 (2.96+ MW/LM) AltiVec VxWorks 5.5`.
+Le RT6, dÃ©veloppÃ© par Magneti Marelli, semble Ã  premiÃ¨re vue Ãªtre assez similaire au RT3, pour lequel un effort de documentation a dÃ©jÃ  Ã©tÃ© fait. On
+est en prÃ©sence d'une plateforme **VxWorks 5.5.1** avec Tornado 2.2.1. La carte mÃ¨re est probablement similaire Ã  une WindRiver d'architecture PowerPC
+(exemples de produits : [http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC](http://www.windriver.com/products/bsp_web/bsp_architecture.html?architecture=PowerPC)) La carte est-elle la mÃªme que le RT3 ? Je pensais que le RT3 Ã©tait en MIPS mais [http://fr.viadeo.com/fr/profile/cyrille.lohier](http://fr.viadeo.com/fr/profile/cyrille.lohier) laisse penser le contraire. Les binaires semblent Ãªtre produits avec GCC: `(GNU) gcc-2.96 (2.96+ MW/LM) AltiVec VxWorks 5.5`.
 
-Le RT4 a une architecture très similaire et a été l'objet d'efforts d'ingénierie inverse menés par différentes personnes dont plusieurs ont posté en français sur [Planete Citroen](http://www.planete-citroen.com). On notera qu'il existe une version RT6 des "mira scripts", en cours de développement ([http://mira308sw.altervista.org/en/index.htm](http://mira308sw.altervista.org/en/index.htm)). Mira connaît très bien l'appareil.
+Le RT4 a une architecture trÃ¨s similaire et a Ã©tÃ© l'objet d'efforts d'ingÃ©nierie inverse menÃ©s par diffÃ©rentes personnes dont plusieurs ont postÃ© en franÃ§ais sur [Planete Citroen](http://www.planete-citroen.com). On notera qu'il existe une version RT6 des "mira scripts", en cours de dÃ©veloppement ([http://mira308sw.altervista.org/en/index.htm](http://mira308sw.altervista.org/en/index.htm)). Mira connaÃ®t trÃ¨s bien l'appareil.
 
-# 2. Étude du CD d'upgrade firmware 2.20
+# 2. Ã‰tude du CD d'upgrade firmware 2.20
 
 On trouve sur le CD:
 
@@ -38,7 +38,7 @@ On trouve sur le CD:
 
 ## 2.1. Fichiers .inf
 
-Ce sont des fichiers décrivant un binaire, le binaire semble porter le même nom que le fichier mais sans le ".inf" (a.bin.inf décrit le fichier a.bin).
+Ce sont des fichiers dÃ©crivant un binaire, le binaire semble porter le mÃªme nom que le fichier mais sans le ".inf" (a.bin.inf dÃ©crit le fichier a.bin).
 Exemple :
 ```
     c1d5be54
@@ -49,7 +49,7 @@ Exemple :
     ENTRY:NO
 ```    
 
-Pour obtenir la liste exhaustive des champs utilisés par le firmware :
+Pour obtenir la liste exhaustive des champs utilisÃ©s par le firmware :
 
     
 ``` bash  
@@ -70,13 +70,13 @@ On trouve :
     VER
     
 
-  * 1ère ligne : 2 valeurs hexa sur 16 bits chacune (4 caractères). La première valeur est un **CRC** (polynôme spécifique, voir plus bas) du fichier INF lui même. On l'obtient en calculant le CRC sur ce fichier à partir de l'octet n°5 inclus (seek de 4). La deuxième valeur est un CRC du fichier binaire correspondant au INF, calculé sur l'intégralité du binaire (compressé s'il est compressé). 
+  * 1Ã¨re ligne : 2 valeurs hexa sur 16 bits chacune (4 caractÃ¨res). La premiÃ¨re valeur est un **CRC** (polynÃ´me spÃ©cifique, voir plus bas) du fichier INF lui mÃªme. On l'obtient en calculant le CRC sur ce fichier Ã  partir de l'octet nÂ°5 inclus (seek de 4). La deuxiÃ¨me valeur est un CRC du fichier binaire correspondant au INF, calculÃ© sur l'intÃ©gralitÃ© du binaire (compressÃ© s'il est compressÃ©). 
   * VER : version du fichier 
-  * TYPE : soit "DATA" (données ?) soit "RELOCABLE" (code exécutable) 
-  * COMPRESSED : indique si le fichier binaire correspondant est compressé ou non. Le format de compression est DEFLATE tel qu'implémenté par zlib (outil zpipe), avec une petite subtilité au niveau du format 
-  * SIZE : taille du fichier tel que stocké (compressé ou non) 
-  * USIZE : **u**ncompressed **size**, taille du fichier après décompression (présent uniquement sur les COMPRESSED) 
-  * ENTRY: YES ou NO... (aucun idée de ce que c'est, à vérifier) 
+  * TYPE : soit "DATA" (donnÃ©es ?) soit "RELOCABLE" (code exÃ©cutable) 
+  * COMPRESSED : indique si le fichier binaire correspondant est compressÃ© ou non. Le format de compression est DEFLATE tel qu'implÃ©mentÃ© par zlib (outil zpipe), avec une petite subtilitÃ© au niveau du format 
+  * SIZE : taille du fichier tel que stockÃ© (compressÃ© ou non) 
+  * USIZE : **u**ncompressed **size**, taille du fichier aprÃ¨s dÃ©compression (prÃ©sent uniquement sur les COMPRESSED) 
+  * ENTRY: YES ou NO... (aucun idÃ©e de ce que c'est, Ã  vÃ©rifier) 
   * SUBVER : "sous version" ?? 
   * ID: "sous sous version" ?? 
 <br />
@@ -84,38 +84,38 @@ On trouve :
 ## 2.2. Fichiers .CMD et .ini
 
 On dirait que c'est une habitude chez MM d'utiliser des extensions pour des types de fichiers qui ne correspondent pas du tout. Les .CMD et .ini sont...
-du **code C** ! En réalité ce code est interprété par une bibliothèque dénommée [EiC](http://www.linuxbox.com/tiki/node/149), qui permet d'écrire des scripts avec une syntaxe très similaire au C.
+du **code C** ! En rÃ©alitÃ© ce code est interprÃ©tÃ© par une bibliothÃ¨que dÃ©nommÃ©e [EiC](http://www.linuxbox.com/tiki/node/149), qui permet d'Ã©crire des scripts avec une syntaxe trÃ¨s similaire au C.
 
 ## 2.3. Fichiers .out
 
-Il s'agit d'exécutables.
+Il s'agit d'exÃ©cutables.
 
 ```./Application/Boot/ssm_boot.out: ELF 32-bit MSB relocatable, PowerPC or cisco 4500, version 1 (SYSV), not stripped
 
-Architecture **PowerPC**, BigEndian, 32 bit. Désassemblable avec les binutils GNU compilés pour PowerPC... ils ont même laissé les symboles de debug (= les noms des fonctions) ! Merci MM !
+Architecture **PowerPC**, BigEndian, 32 bit. DÃ©sassemblable avec les binutils GNU compilÃ©s pour PowerPC... ils ont mÃªme laissÃ© les symboles de debug (= les noms des fonctions) ! Merci MM !
 
 ## 2.4. Fichiers .gz
 
-Ce sont des exécutables comme les .out, mais compressés. Voir plus bas.
+Ce sont des exÃ©cutables comme les .out, mais compressÃ©s. Voir plus bas.
 
 ## 2.5. Bootrom
 
-Il semble y avoir un fichier spécial, qui est un exécutable non compressé qui n'est pas ELF. C'est probablement le _BIOS_ de la carte. C'est le fichier `Application/Boot/RNEG2010_EUR_2_20/DG4/BOOTROM.DAT`. Ce fichier contient un certain nombre de chaînes de caractères intéressantes. Sa version est `BSP_PPC-SECT83+BSP_PPC_6.86k1:project:SECT39+1`. C'est probablement du code binaire sans structure particulière, il faudra essayer de le désassembler comme si c'était du code machine brut.
+Il semble y avoir un fichier spÃ©cial, qui est un exÃ©cutable non compressÃ© qui n'est pas ELF. C'est probablement le _BIOS_ de la carte. C'est le fichier `Application/Boot/RNEG2010_EUR_2_20/DG4/BOOTROM.DAT`. Ce fichier contient un certain nombre de chaÃ®nes de caractÃ¨res intÃ©ressantes. Sa version est `BSP_PPC-SECT83+BSP_PPC_6.86k1:project:SECT39+1`. C'est probablement du code binaire sans structure particuliÃ¨re, il faudra essayer de le dÃ©sassembler comme si c'Ã©tait du code machine brut.
 
 ## 2.6. BootRom.sym
 
-Attention ce fichier n'est pas le même que dans la section précédente. C'est un exécutable PowerPC statique dont les symboles n'ont pas été supprimés : on peut le désassembler pour l'étudier. C'est lui qui semble fournir la majorité des fonctions utilisées dans le firmware, par exemple **CheckCRCFile**.
+Attention ce fichier n'est pas le mÃªme que dans la section prÃ©cÃ©dente. C'est un exÃ©cutable PowerPC statique dont les symboles n'ont pas Ã©tÃ© supprimÃ©s : on peut le dÃ©sassembler pour l'Ã©tudier. C'est lui qui semble fournir la majoritÃ© des fonctions utilisÃ©es dans le firmware, par exemple **CheckCRCFile**.
 
 ## 2.7. Hash des fichiers
 
-Les fichiers .inf ont au début une valeur qui correspond à un hash **CRC**. J'ai essayé plusieurs possibilités - CRC32 avec divers polynômes connus, Adler32, sans succès. La formule de calcul du hash n'est donc pas évidente - mais en lisant le code on se rend compte que c'est un hash sur 16 bits et non 32 bits. Si on regarde dans le code de BootRom.sym on se rend compte que *CheckCRCFile* appelle *CheckCRCInf* qui lui même fait deux appels :
+Les fichiers .inf ont au dÃ©but une valeur qui correspond Ã  un hash **CRC**. J'ai essayÃ© plusieurs possibilitÃ©s - CRC32 avec divers polynÃ´mes connus, Adler32, sans succÃ¨s. La formule de calcul du hash n'est donc pas Ã©vidente - mais en lisant le code on se rend compte que c'est un hash sur 16 bits et non 32 bits. Si on regarde dans le code de BootRom.sym on se rend compte que *CheckCRCFile* appelle *CheckCRCInf* qui lui mÃªme fait deux appels :
 
-  * l'un à `ReadINFCRC__FPCcR9Crc16Type` (Le nom bizarre correspond au "mangling" des fonctions C++ fait par GCC. Cela correspond à la signature : `ReadINFCRC(char const *, Crc16Type &)`) 
-  * l'autre à `ComputeCRCFile`
+  * l'un Ã  `ReadINFCRC__FPCcR9Crc16Type` (Le nom bizarre correspond au "mangling" des fonctions C++ fait par GCC. Cela correspond Ã  la signature : `ReadINFCRC(char const *, Crc16Type &)`) 
+  * l'autre Ã  `ComputeCRCFile`
 
-J'ai manuellement recréé le code de calcul du hash à partir du code machine. Il opère par tranche de 8 bits, avec deux tables de lookup, et des échanges... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associé au contenu des tables permettra de recréer les hash si on veut faire des modifs. J'ai écrit un programme en C pour [calculer les hashs](/~sven337/data/rt6/crc_rt6.c).
+J'ai manuellement recrÃ©Ã© le code de calcul du hash Ã  partir du code machine. Il opÃ¨re par tranche de 8 bits, avec deux tables de lookup, et des Ã©changes... ce n'est pas un Adler16. Il peut s'agir d'un algo "maison", dans ce cas le code ci-dessous associÃ© au contenu des tables permettra de recrÃ©er les hash si on veut faire des modifs. J'ai Ã©crit un programme en C pour [calculer les hashs](/~sven337/data/rt6/crc_rt6.c).
 
-Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
+Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en dÃ©but de fichier est **0c622f64**. **0c62** est le hash du **.inf**, **2f64** est le hash du **binaire**, comme on peut le voir :
  
 ~~~ 
     $ ./crc_rt6 /mnt/hd/Application/BTL/File_Search.gz.inf 4
@@ -127,9 +127,9 @@ Exemple sur `/Application/BTL/File_Search.gz.inf` - le hash en début de fichier 
 
 ## 2.8. Compression des binaires
 
-La plupart des exécutables sont des fichiers .gz compressés. Un peu d'étude du code nous amène à la fonction **inflate** qui est utilisée pour décompresser ces binaires. Malheureusement cette fonction ne semble pas avoir le comportement standard de la zlib. Un peu de Google nous mène à [cette page](http://read.pudn.com/downloads58/sourcecode/embed/205887/src/util/inflateLib.c__.htm). Tout en bas du fichier, la fonction `inflate` semble correspondre au code source de celle du RT6. Il reste à vérifier en quoi cette fonction diffère de ce que fait la zlib nativement et nous pourrons décompresser (et je l'espère recompresser) les binaires du RT6. Avec décompression + CRC, on pourra commencer à s'amuser à tout casser.
+La plupart des exÃ©cutables sont des fichiers .gz compressÃ©s. Un peu d'Ã©tude du code nous amÃ¨ne Ã  la fonction **inflate** qui est utilisÃ©e pour dÃ©compresser ces binaires. Malheureusement cette fonction ne semble pas avoir le comportement standard de la zlib. Un peu de Google nous mÃ¨ne Ã  [cette page](http://read.pudn.com/downloads58/sourcecode/embed/205887/src/util/inflateLib.c__.htm). Tout en bas du fichier, la fonction `inflate` semble correspondre au code source de celle du RT6. Il reste Ã  vÃ©rifier en quoi cette fonction diffÃ¨re de ce que fait la zlib nativement et nous pourrons dÃ©compresser (et je l'espÃ¨re recompresser) les binaires du RT6. Avec dÃ©compression + CRC, on pourra commencer Ã  s'amuser Ã  tout casser.
 
-VxWorks ajoute en fait un octet de _bourrage_ au début de chaque fichier compressé (qui sert pour calculer un checksum, mais uniquement si la variable **inflateCksum** est définie - adresse `0xff4cf04` dans **BootRom.sym** qui est l'exécutable principal, et elle ne l'est pas pour l'instant). Cet octet fait que le format n'est pas reconnu par l'outil zpipe inclus dans zlib. Il faut donc faire une petite modification sur **zpipe** dans `main()`:
+VxWorks ajoute en fait un octet de _bourrage_ au dÃ©but de chaque fichier compressÃ© (qui sert pour calculer un checksum, mais uniquement si la variable **inflateCksum** est dÃ©finie - adresse `0xff4cf04` dans **BootRom.sym** qui est l'exÃ©cutable principal, et elle ne l'est pas pour l'instant). Cet octet fait que le format n'est pas reconnu par l'outil zpipe inclus dans zlib. Il faut donc faire une petite modification sur **zpipe** dans `main()`:
 
 ~~~ c
     /* do decompression if -d specified */
@@ -147,28 +147,28 @@ VxWorks ajoute en fait un octet de _bourrage_ au début de chaque fichier compres
 ~~~
     
 
-Cela permet de passer un _seek_ en argument. La valeur de _seek_ à utiliser est 1. On peut ensuite décompresser n'importe quel binaire du RT6 de la manière suivante :
+Cela permet de passer un _seek_ en argument. La valeur de _seek_ Ã  utiliser est 1. On peut ensuite dÃ©compresser n'importe quel binaire du RT6 de la maniÃ¨re suivante :
 
         
     zpipe -d 1 < file.gz > file.bin
     
 
-J'ai fait cela sur tous les binaires compressés du firmware. Pas de surprise, ce sont bien des binaires PowerPC, avec les symboles de debug.
+J'ai fait cela sur tous les binaires compressÃ©s du firmware. Pas de surprise, ce sont bien des binaires PowerPC, avec les symboles de debug.
 
-## 2.9 Le processus de mise à jour
+## 2.9 Le processus de mise Ã  jour
 
-On a ``/F`` qui est la partition de boot. Probablement du flash, probablement soudé sur la carte mère, peut-être une carte SD, à voir. (XXX mettre à jour selon les résultats des expérimentations qui ont eu lieu depuis) On a ``/SDC`` qui est la partition d'application. SDC comme **SD C**ard, je suppose.
+On a ``/F`` qui est la partition de boot. Probablement du flash, probablement soudÃ© sur la carte mÃ¨re, peut-Ãªtre une carte SD, Ã  voir. (XXX mettre Ã  jour selon les rÃ©sultats des expÃ©rimentations qui ont eu lieu depuis) On a ``/SDC`` qui est la partition d'application. SDC comme **SD C**ard, je suppose.
 
 ### 2.9.1 Initialisation
 
-Lors de l'insertion d'un CD d'upgrade du firmware, le système réagit à la présence du fichier ``CD.inf`` et exécute ``FlasherROMStart("/path/to/cd")`` dans ``/UPG/Flasher/FLASHER.ROM`` (indication de Mira non vérifiée). Celui-ci détecte la version de l'appareil et si c'est bien un RNEG il exécute le fichier ``/UPG/Flasher/FLASHER.ROM.RNEG``. Cela prouve que le RT6 est globalement similaire aux RT3/RT4 qui l'ont précédé.
-Dans ``FLASHER.ROM.RNEG`` on trouve la fonction ``FlasherRomRNEGStart(char *sourcedrive)`` qui appelle ``GetHardwareConfiguration("CFG_HW_FAMILY")`` pour vérifier (à nouveau ?!) si c'est bien un RNEG, et écrit la réponse (= 1 sur RNEG) dans deux variables: 
+Lors de l'insertion d'un CD d'upgrade du firmware, le systÃ¨me rÃ©agit Ã  la prÃ©sence du fichier ``CD.inf`` et exÃ©cute ``FlasherROMStart("/path/to/cd")`` dans ``/UPG/Flasher/FLASHER.ROM`` (indication de Mira non vÃ©rifiÃ©e). Celui-ci dÃ©tecte la version de l'appareil et si c'est bien un RNEG il exÃ©cute le fichier ``/UPG/Flasher/FLASHER.ROM.RNEG``. Cela prouve que le RT6 est globalement similaire aux RT3/RT4 qui l'ont prÃ©cÃ©dÃ©.
+Dans ``FLASHER.ROM.RNEG`` on trouve la fonction ``FlasherRomRNEGStart(char *sourcedrive)`` qui appelle ``GetHardwareConfiguration("CFG_HW_FAMILY")`` pour vÃ©rifier (Ã  nouveau ?!) si c'est bien un RNEG, et Ã©crit la rÃ©ponse (= 1 sur RNEG) dans deux variables: 
 - C_SETUP_HW::m_is_rneg_family
 - C_SETUP_HW::m_is_sd_present. 
 
-Ensuite, ``C_SETUP_HW::m_is_preampli_present`` et ``m_is_mtb_present`` sont renseignés. Apparemment "mtb" signifie motherboard (carte mère). J'espère bien, que la carte mère est présente... Il y a une également une variable ``mtb_tuner_type``... qui prend les valeurs 0 1 2 3).
+Ensuite, ``C_SETUP_HW::m_is_preampli_present`` et ``m_is_mtb_present`` sont renseignÃ©s. Apparemment "mtb" signifie motherboard (carte mÃ¨re). J'espÃ¨re bien, que la carte mÃ¨re est prÃ©sente... Il y a une Ã©galement une variable ``mtb_tuner_type``... qui prend les valeurs 0 1 2 3).
 
-Un affichage pour le _debug_ semble être réalisé par ``Splash_PrintL1__FPCc``.
+Un affichage pour le _debug_ semble Ãªtre rÃ©alisÃ© par ``Splash_PrintL1__FPCc``.
 
 Le stockage flash est sur``/F``. La partition subit les appels suivants, dans l'ordre : 
 
@@ -180,35 +180,35 @@ BootRomFormatTffs
 KernelProtectBoot
 ~~~
 
-**TFFS** semble donc être le format du FS. <http://en.wikipedia.org/wiki/Flash_file_system#TrueFFS> sous entend que c'est un FS utilisé par VxWorks, donc c'est une possibilité très nette que ce soit bien notre FS.
+**TFFS** semble donc Ãªtre le format du FS. <http://en.wikipedia.org/wiki/Flash_file_system#TrueFFS> sous entend que c'est un FS utilisÃ© par VxWorks, donc c'est une possibilitÃ© trÃ¨s nette que ce soit bien notre FS.
 
-### 2.9.2 Vérification du CD
-Une fois le FS formaté, c'est la fonction ``LaunchSoftUpgrade`` qui prend le relais. Le RT6 utilise la bibliothèque **EiC** (<http://www.linuxbox.com/tiki/node/149>, merci à Mira) pour fournir des scripts dont la syntaxe est celle du langage C. EiC va définir un ensemble de fonctions C qui seront appelables depuis les scripts .CMD. Je disposais de la liste exhaustive de ces fonctions mais suite à une erreur de manipulation je ne les ai plus.
-Ces fonctions sont exportées à travers EiC en appelant ``EiC_AddBuiltinFunc(const char *, void *(*func)(void))``. (Par exemple, ``EiC_AddBuiltinFunc("MaFunctionAMoi", &MaFunctionAMoi)``). On doit pouvoir en rajouter assez facilement de cette manière, mais Mira a utilisé une autre technique à mon avis plus compliquée.
+### 2.9.2 VÃ©rification du CD
+Une fois le FS formatÃ©, c'est la fonction ``LaunchSoftUpgrade`` qui prend le relais. Le RT6 utilise la bibliothÃ¨que **EiC** (<http://www.linuxbox.com/tiki/node/149>, merci Ã  Mira) pour fournir des scripts dont la syntaxe est celle du langage C. EiC va dÃ©finir un ensemble de fonctions C qui seront appelables depuis les scripts .CMD. Je disposais de la liste exhaustive de ces fonctions mais suite Ã  une erreur de manipulation je ne les ai plus.
+Ces fonctions sont exportÃ©es Ã  travers EiC en appelant ``EiC_AddBuiltinFunc(const char *, void *(*func)(void))``. (Par exemple, ``EiC_AddBuiltinFunc("MaFunctionAMoi", &MaFunctionAMoi)``). On doit pouvoir en rajouter assez facilement de cette maniÃ¨re, mais Mira a utilisÃ© une autre technique Ã  mon avis plus compliquÃ©e.
 
-Une fois **EiC** initialisée, le programme cherche le fichier ``[source]/UPG/Command/CHECK_CD.CMD`` ([source] correspond à l'adresse du "device" contenant la mise à jour, je ne sais pas encore quels sont les points de montage). Ce script est très explicite, écrit par un certain Philippe Chapelet <http://fr.linkedin.com/pub/philippe-chapelet/45/834/bb7>.
+Une fois **EiC** initialisÃ©e, le programme cherche le fichier ``[source]/UPG/Command/CHECK_CD.CMD`` ([source] correspond Ã  l'adresse du "device" contenant la mise Ã  jour, je ne sais pas encore quels sont les points de montage). Ce script est trÃ¨s explicite, Ã©crit par un certain Philippe Chapelet <http://fr.linkedin.com/pub/philippe-chapelet/45/834/bb7>.
 
-``EiC_ExeFile(argc, argv)``, **CHECK_CMD** est appelé avec ``argv[2]="BOOTROM"`` (TODO vérifier s'il y a un appel avec "NORMAL" ou une autre valeur, il existe aussi "RECOVERY", voir comment c'est utilisé), les 2 autres arguments sont l'adresse source et le path du script lui même (ce qui est confirmé par le contenu du script).
+``EiC_ExeFile(argc, argv)``, **CHECK_CMD** est appelÃ© avec ``argv[2]="BOOTROM"`` (TODO vÃ©rifier s'il y a un appel avec "NORMAL" ou une autre valeur, il existe aussi "RECOVERY", voir comment c'est utilisÃ©), les 2 autres arguments sont l'adresse source et le path du script lui mÃªme (ce qui est confirmÃ© par le contenu du script).
 
-### 2.9.3 Mise à jour
+### 2.9.3 Mise Ã  jour
 
-Le script de vérification retourne 0 si tout est OK. Dans ce cas, la mise à jour va avoir lieu. Le programme cherche le script d'upgrade, ``[source]/UPG/Command/FLASHER.ROM.RNEG.CMD``. Ce script est appelé avec les mêmes arguments qu'au-dessus.
+Le script de vÃ©rification retourne 0 si tout est OK. Dans ce cas, la mise Ã  jour va avoir lieu. Le programme cherche le script d'upgrade, ``[source]/UPG/Command/FLASHER.ROM.RNEG.CMD``. Ce script est appelÃ© avec les mÃªmes arguments qu'au-dessus.
 C'est lui qui fait l'essentiel du travail.
 
-### 2.9.4 Après la mise à jour
+### 2.9.4 AprÃ¨s la mise Ã  jour
 
-Une fonction vérifie le flag ``g_Flasher_ROMERROR``. **0** = pas d'erreur, **3** = message d'**erreur** + SetDBBootFlagError(), 1 2 4 message d'erreur, en cas d'erreur "emergency reboot".
+Une fonction vÃ©rifie le flag ``g_Flasher_ROMERROR``. **0** = pas d'erreur, **3** = message d'**erreur** + SetDBBootFlagError(), 1 2 4 message d'erreur, en cas d'erreur "emergency reboot".
 
 ## 2.10 Questions restantes
 
-À faire : détails du fonctionnement de l'upgrade firmware. Questions: est-ce qu'on peut ne mettre à jour qu'un seul fichier ? Est-ce qu'on peut faire des changements et revenir en arrière sur une version officielle du firmware ?
+Ã€ faire : dÃ©tails du fonctionnement de l'upgrade firmware. Questions: est-ce qu'on peut ne mettre Ã  jour qu'un seul fichier ? Est-ce qu'on peut faire des changements et revenir en arriÃ¨re sur une version officielle du firmware ?
 
-Le système reconnaît que le média est une mise à jour du firmware à travers la présence d'un fichier CD.inf, et il exécute le binaire `/upg/flasher/flasher.rom`.
+Le systÃ¨me reconnaÃ®t que le mÃ©dia est une mise Ã  jour du firmware Ã  travers la prÃ©sence d'un fichier CD.inf, et il exÃ©cute le binaire `/upg/flasher/flasher.rom`.
 
 
-# 3. Fonctionnalités Bluetooth
+# 3. FonctionnalitÃ©s Bluetooth
 
-Bluetooth définit plusieurs **profils**, qui correspondent à un ensemble de fonctionnalités rendues par un appareil à un autre. Pour la musique, il existe **AD2P** qui est le profil permettant de transférer le son par radio, et **AVRCP** qui permet le contrôle de l'appareil lecteur par un autre (play, pause, next, previous, ...). Je souhaite savoir quelle version du profil Bluetooth AVRCP mon véhicule supporte. Cette information n'est disponible nulle part mais l'étude du module Bluetooth pourra répondre à la question. On trouve dans `Application/BCM/t2bf/bcm_t2bf.bin` (note: je nomme **.bin** les fichiers obtenus par décompression du **.gz**) les chaînes suivantes :
+Bluetooth dÃ©finit plusieurs **profils**, qui correspondent Ã  un ensemble de fonctionnalitÃ©s rendues par un appareil Ã  un autre. Pour la musique, il existe **AD2P** qui est le profil permettant de transfÃ©rer le son par radio, et **AVRCP** qui permet le contrÃ´le de l'appareil lecteur par un autre (play, pause, next, previous, ...). Je souhaite savoir quelle version du profil Bluetooth AVRCP mon vÃ©hicule supporte. Cette information n'est disponible nulle part mais l'Ã©tude du module Bluetooth pourra rÃ©pondre Ã  la question. On trouve dans `Application/BCM/t2bf/bcm_t2bf.bin` (note: je nomme **.bin** les fichiers obtenus par dÃ©compression du **.gz**) les chaÃ®nes suivantes :
 
 
 ```
@@ -217,18 +217,18 @@ AVRCP version 1.3 supported
 AVRCP unknown version
 ```
 
-Donc le RT6 supporterait la version 1.3 d'AVRCP. Il y a une version 1.4 qui ajoute une fonction recherche et la possibilité de gérer plusieurs _players_ (par exemple deux téléphones simultanément pour streamer de la musique). <http://en.wikipedia.org/wiki/Bluetooth_profile#Audio.2FVideo_Remote_Control_Profile_.28AVRCP.29>
+Donc le RT6 supporterait la version 1.3 d'AVRCP. Il y a une version 1.4 qui ajoute une fonction recherche et la possibilitÃ© de gÃ©rer plusieurs _players_ (par exemple deux tÃ©lÃ©phones simultanÃ©ment pour streamer de la musique). <http://en.wikipedia.org/wiki/Bluetooth_profile#Audio.2FVideo_Remote_Control_Profile_.28AVRCP.29>
 
-**sdptool** sous Linux liste les profils supportés par un appareil Bluetooth... mais **BT_CAR_SYSTEM** (le RT6) ne répond pas aux requêtes. En tout cas cela m'a permis de détecter la version d'AVRCP sur mon Blackberry et mon YP-P2 - ces deux appareils sont en 1.0, donc la voiture ne pourra pas afficher les méta données ni m'indiquer la liste des pistes. Conclusion il vaut mieux brancher ces appareils en **USB** (sauf que le Blackberry n'est pas accepté par le RT6 en USB, "média illisible", probablement à cause de la table des partitions - en effet le BB expose une table des partitions avec une seule partition, alors que la plupart des clés n'ont pas de table des partitions, à vérifier si c'est effectivement le souci, dans ce cas on serait en présence d'une erreur/oubli de la part de MM). 
+**sdptool** sous Linux liste les profils supportÃ©s par un appareil Bluetooth... mais **BT_CAR_SYSTEM** (le RT6) ne rÃ©pond pas aux requÃªtes. En tout cas cela m'a permis de dÃ©tecter la version d'AVRCP sur mon Blackberry et mon YP-P2 - ces deux appareils sont en 1.0, donc la voiture ne pourra pas afficher les mÃ©ta donnÃ©es ni m'indiquer la liste des pistes. Conclusion il vaut mieux brancher ces appareils en **USB** (sauf que le Blackberry n'est pas acceptÃ© par le RT6 en USB, "mÃ©dia illisible", probablement Ã  cause de la table des partitions - en effet le BB expose une table des partitions avec une seule partition, alors que la plupart des clÃ©s n'ont pas de table des partitions, Ã  vÃ©rifier si c'est effectivement le souci, dans ce cas on serait en prÃ©sence d'une erreur/oubli de la part de MM). 
 
-# 4. Architecture matérielle
+# 4. Architecture matÃ©rielle
 
 ## 4.1 Stockage
-Le RT6 est équipé d'une carte SD de 8Go qui sert de stockage système au format TFFS, ainsi que d'une EEPROM qui stocke des paramètres de configuration persistants. La carte SD permet de réaliser certaines manipulations sans risque (car on peut facilement la sauvegarder). L'EEPROM peut donner lieu à des retours en garantie qui se sont avérés coûteux. Il convient d'être particulièrement prudent avec le _MiraScript_ **CONFIGFLAG**.
+Le RT6 est Ã©quipÃ© d'une carte SD de 8Go qui sert de stockage systÃ¨me au format TFFS, ainsi que d'une EEPROM qui stocke des paramÃ¨tres de configuration persistants. La carte SD permet de rÃ©aliser certaines manipulations sans risque (car on peut facilement la sauvegarder). L'EEPROM peut donner lieu Ã  des retours en garantie qui se sont avÃ©rÃ©s coÃ»teux. Il convient d'Ãªtre particuliÃ¨rement prudent avec le _MiraScript_ **CONFIGFLAG**.
 Il n'y a pas de disque dur, et pas de stockage volumineux qui permet de s'en servir en Jukebox : obligation d'utiliser le port USB si on veut avoir un stockage important.
 
-## 4.2 Démontage
-Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudie plus bas.
+## 4.2 DÃ©montage
+Voici des photographies prises par quelqu'un qui a dÃ©montÃ© son RT6. Je les Ã©tudie plus bas.
 
 ![1](01.jpg)
 ![2](02.jpg)
@@ -240,9 +240,9 @@ Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudi
 ![9](09.jpg)
 ![10 - puce GPS](10.jpg)
 ![11](11.jpg)
-![12 - microcontrôleur](12.jpg)
+![12 - microcontrÃ´leur](12.jpg)
 ![13 - audio & radio](13.jpg)
-![14 - microcontrôleur](14.jpg)
+![14 - microcontrÃ´leur](14.jpg)
 ![15 - audio & radio](15.jpg)
 ![16](16.jpg)
 ![18 - Minus & Cortex](18.jpg)
@@ -251,55 +251,55 @@ Voici des photographies prises par quelqu'un qui a démonté son RT6. Je les étudi
 
 ### GPS
 
-La puce **GPS** dans le RT6 est soit une **Atmel**, soit une **SIRF**, d'après le code. La photo n°10 nous montre un chip **SIRF GSC2Xi**, ce qui semble correspondre au produit **SIRFStarII**. Bien sûr, cette entreprise supprime de son site les anciennes références, et je n'ai pas pu trouver de datasheet. J'aurai l'occasion un jour de décrire tout le bien que je pense que ces pratiques.
+La puce **GPS** dans le RT6 est soit une **Atmel**, soit une **SIRF**, d'aprÃ¨s le code. La photo nÂ°10 nous montre un chip **SIRF GSC2Xi**, ce qui semble correspondre au produit **SIRFStarII**. Bien sÃ»r, cette entreprise supprime de son site les anciennes rÃ©fÃ©rences, et je n'ai pas pu trouver de datasheet. J'aurai l'occasion un jour de dÃ©crire tout le bien que je pense que ces pratiques.
 
-### Microcontrôleur
+### MicrocontrÃ´leur
 
-Sur les photos n°12 et 14 on trouve un microcontrôleur : <http://www.datasheetarchive.com/M30290FCTHP-datasheet.html>.
-Si on savait à quoi est relié le connecteur noir, on saurait à quoi il sert.
+Sur les photos nÂ°12 et 14 on trouve un microcontrÃ´leur : <http://www.datasheetarchive.com/M30290FCTHP-datasheet.html>.
+Si on savait Ã  quoi est reliÃ© le connecteur noir, on saurait Ã  quoi il sert.
 
 ### Circuit audio
 
-Photo n°13 et 15, la "carte son" **SAF7741** <http://www.nxp.com/documents/leaflet/75016755.pdf> associée aux deux tuners **TEF 7000** (en petit au dessus). Il faut que je trouve la datasheet du SAF7741, mais j'ai l'impression qu'il n'a que des sorties analogiques vers les HP (donc **pas de SPDIF**).
+Photo nÂ°13 et 15, la "carte son" **SAF7741** <http://www.nxp.com/documents/leaflet/75016755.pdf> associÃ©e aux deux tuners **TEF 7000** (en petit au dessus). Il faut que je trouve la datasheet du SAF7741, mais j'ai l'impression qu'il n'a que des sorties analogiques vers les HP (donc **pas de SPDIF**).
 
 ### Cortex
 
-Photo n°18, un FPGA **Altera Cyclone 3** <http://www.altera.com/literature/hb/cyc3/cyclone3_handbook.pdf>, modèle **EP3C25** package **F324** vitesse **A7**. Ce FPGA sert très probablement de carte graphique pour piloter l'écran. La technologie utilisée semble être <http://www.altera.com/support/examples/nios2/exm-tes-demo.html>.
-Un chip **flash 16Mo** Spansion <http://www.spansion.com/Support/Related%20Product%20Info/S29GL128N_overview.pdf> **GL128N90FFAR2** voila peut-être notre **/F**?
-3 chips **Micron** marqués ``2DF42 D9GPD``, probablement de la **RAM** (en haut pour le FPGA, en bas pour le CPU ?), à vérifier
-Un **CPU Freescale MPC5200B** <http://cache.freescale.com/files/32bit/doc/data_sheet/MPC5200.pdf>, modèle exact difficile à connaître, probablement **SPC5200CVR400** - PowerPC 32 bits 400MHz avec FPU, 16k cache, CAN, USB, Ethernet (??), ... 
+Photo nÂ°18, un FPGA **Altera Cyclone 3** <http://www.altera.com/literature/hb/cyc3/cyclone3_handbook.pdf>, modÃ¨le **EP3C25** package **F324** vitesse **A7**. Ce FPGA sert trÃ¨s probablement de carte graphique pour piloter l'Ã©cran. La technologie utilisÃ©e semble Ãªtre <http://www.altera.com/support/examples/nios2/exm-tes-demo.html>.
+Un chip **flash 16Mo** Spansion <http://www.spansion.com/Support/Related%20Product%20Info/S29GL128N_overview.pdf> **GL128N90FFAR2** voila peut-Ãªtre notre **/F**?
+3 chips **Micron** marquÃ©s ``2DF42 D9GPD``, probablement de la **RAM** (en haut pour le FPGA, en bas pour le CPU ?), Ã  vÃ©rifier
+Un **CPU Freescale MPC5200B** <http://cache.freescale.com/files/32bit/doc/data_sheet/MPC5200.pdf>, modÃ¨le exact difficile Ã  connaÃ®tre, probablement **SPC5200CVR400** - PowerPC 32 bits 400MHz avec FPU, 16k cache, CAN, USB, Ethernet (??), ... 
 
 
 # 5. Upgrade POI
 
-Détails du fonctionnement. Questions : pourquoi est-ce que ça boucle à l'infini chez certaines personnes sans plus d'infos ? Est-ce qu'on peut y faire quelque chose ? RE du format peut-être déjà fait car il existe des POI non-officiels issues de SCDB pour le RT6 (vu sur gpsunderground). 
-Le système reconnaît que le média est une mise à jour des points d'intérêt à travers la présence d'un fichier **POI_VER.POI**, et il exécute le script `upg/poi_upgrade.cmd`.
+DÃ©tails du fonctionnement. Questions : pourquoi est-ce que Ã§a boucle Ã  l'infini chez certaines personnes sans plus d'infos ? Est-ce qu'on peut y faire quelque chose ? RE du format peut-Ãªtre dÃ©jÃ  fait car il existe des POI non-officiels issues de SCDB pour le RT6 (vu sur gpsunderground). 
+Le systÃ¨me reconnaÃ®t que le mÃ©dia est une mise Ã  jour des points d'intÃ©rÃªt Ã  travers la prÃ©sence d'un fichier **POI_VER.POI**, et il exÃ©cute le script `upg/poi_upgrade.cmd`.
 
 # 6. Upgrade Carto
 
-Détails du fonctionnement. Questions : Est-ce que le format est compréhensible ? Est-ce qu'on peut envisager de mettre à jour les cartes à partir d'Openstreetmap ? Que signifie exactement "mise à jour pas compatible avec les véhicules après août 2011" ?
-Le système reconnaît que le média est une mise à jour des points d'intérêt à travers la présence d'un fichier **CD_VER.NAV**, et il exécute le script NAV_UPGRADE.CMD.
+DÃ©tails du fonctionnement. Questions : Est-ce que le format est comprÃ©hensible ? Est-ce qu'on peut envisager de mettre Ã  jour les cartes Ã  partir d'Openstreetmap ? Que signifie exactement "mise Ã  jour pas compatible avec les vÃ©hicules aprÃ¨s aoÃ»t 2011" ?
+Le systÃ¨me reconnaÃ®t que le mÃ©dia est une mise Ã  jour des points d'intÃ©rÃªt Ã  travers la prÃ©sence d'un fichier **CD_VER.NAV**, et il exÃ©cute le script NAV_UPGRADE.CMD.
 
 # 7. Modifier le code firmware
 
-Il faut bien garder à l'esprit qu'il est assez facile de **comprendre comment les choses fonctionnent** (en tout cas pour quelqu'un du métier), car le firmware est livré avec ses symboles de debug. Il suffit d'un désassembleur et de temps pour lire ce que le programme fait. Faire des modifications est un autre débat, malheureusement. À moins de se procurer un kit de développement VxWorks (payant), il faudra faire les modifications directement en assembleur PowerPC, et les injecter dans le firmware existant. J'avais commencé à travailler avec **objdump** pour supprimer une fonction quelconque du firmware, et la remplacer par une écrite à la main, ce qui est un montage plus "propre" que le bidouillage de Mira pour les *generic function calls*. Toutefois la manipulation n'avait pas abouti.
+Il faut bien garder Ã  l'esprit qu'il est assez facile de **comprendre comment les choses fonctionnent** (en tout cas pour quelqu'un du mÃ©tier), car le firmware est livrÃ© avec ses symboles de debug. Il suffit d'un dÃ©sassembleur et de temps pour lire ce que le programme fait. Faire des modifications est un autre dÃ©bat, malheureusement. Ã€ moins de se procurer un kit de dÃ©veloppement VxWorks (payant), il faudra faire les modifications directement en assembleur PowerPC, et les injecter dans le firmware existant. J'avais commencÃ© Ã  travailler avec **objdump** pour supprimer une fonction quelconque du firmware, et la remplacer par une Ã©crite Ã  la main, ce qui est un montage plus "propre" que le bidouillage de Mira pour les *generic function calls*. Toutefois la manipulation n'avait pas abouti.
 
 # 9. Changer l'image d'accueil
 
-Le BMP d'accueil est stocké sur le RT6 dans le chemin suivant : **/F/Application/Boot/BootScreen.bmp**. Il est, comme tous les fichiers du RT6, soumis à une vérification du CRC selon la procédure décrite plus haut. Ce fichier ne semble pas présent sur le média d'install du firmware 2.20. 
-C'est la fonction **BootRomSplash** qui le charge (je crois). Elle est appelée avec une valeur entre 0 et 5 qui décrit le type de splash - "please insert upgrade CD", "error detected", etc.
+Le BMP d'accueil est stockÃ© sur le RT6 dans le chemin suivant : **/F/Application/Boot/BootScreen.bmp**. Il est, comme tous les fichiers du RT6, soumis Ã  une vÃ©rification du CRC selon la procÃ©dure dÃ©crite plus haut. Ce fichier ne semble pas prÃ©sent sur le mÃ©dia d'install du firmware 2.20. 
+C'est la fonction **BootRomSplash** qui le charge (je crois). Elle est appelÃ©e avec une valeur entre 0 et 5 qui dÃ©crit le type de splash - "please insert upgrade CD", "error detected", etc.
 
-Je n'ai jamais procédé à un changement d'image d'accueil, mais c'est une opération que Mira sait réaliser.
+Je n'ai jamais procÃ©dÃ© Ã  un changement d'image d'accueil, mais c'est une opÃ©ration que Mira sait rÃ©aliser.
 
 # 10. Pour rigoler/avis sur l'appareil
 
-Le code du firmware fait apparaître que **Maserati** est également utilisateur du RT6. Moi, si j'achète une Maserati, j'attends nettement mieux que le RT6... :)
-Je suis plutôt déçu de cet appareil qui est lent dans la plupart de ses opérations (saisie d'une adresse GPS, démarrage, lecture d'une clé USB), qui contient certains bugs particulièrement gênants (déconnexions intempestives Bluetooth AD2P, refus de lire certaines clés USB), et dont le système de navigation est assez mauvais tant dans ses algorithmes (il ne démord pas du chemin qu'il a choisi, par une espèce d'hystérèse, si vous vous en écartez) que dans sa cartographie (qui n'est pas vraiment à jour même dans ses éditions récentes, le tout pour un prix prohibitif).
-Il est vrai que travaillant dans un secteur plus dynamique et plus rapide à innover que l'automobile, j'ai des exigences très importantes de la part de l'informatique embarquée que j'utilise au quotidien. Le RT6 fait ce pour quoi il a été conçu, mais le prix de l'option ne me semble pas être réaliste en regard des défauts qu'il présente.
+Le code du firmware fait apparaÃ®tre que **Maserati** est Ã©galement utilisateur du RT6. Moi, si j'achÃ¨te une Maserati, j'attends nettement mieux que le RT6... :)
+Je suis plutÃ´t dÃ©Ã§u de cet appareil qui est lent dans la plupart de ses opÃ©rations (saisie d'une adresse GPS, dÃ©marrage, lecture d'une clÃ© USB), qui contient certains bugs particuliÃ¨rement gÃªnants (dÃ©connexions intempestives Bluetooth AD2P, refus de lire certaines clÃ©s USB), et dont le systÃ¨me de navigation est assez mauvais tant dans ses algorithmes (il ne dÃ©mord pas du chemin qu'il a choisi, par une espÃ¨ce d'hystÃ©rÃ¨se, si vous vous en Ã©cartez) que dans sa cartographie (qui n'est pas vraiment Ã  jour mÃªme dans ses Ã©ditions rÃ©centes, le tout pour un prix prohibitif).
+Il est vrai que travaillant dans un secteur plus dynamique et plus rapide Ã  innover que l'automobile, j'ai des exigences trÃ¨s importantes de la part de l'informatique embarquÃ©e que j'utilise au quotidien. Le RT6 fait ce pour quoi il a Ã©tÃ© conÃ§u, mais le prix de l'option ne me semble pas Ãªtre rÃ©aliste en regard des dÃ©fauts qu'il prÃ©sente.
 
 # 11. <s>Besoin d'aide</s>
 
-N'étant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations à me transmettre je les mettrai en ligne (contact en bas de la page).
+N'Ã©tant plus actif sur ce projet je n'ai pas besoin d'aide - mais si vous avez des informations Ã  me transmettre je les mettrai en ligne (contact en bas de la page).
 
 
 <script>

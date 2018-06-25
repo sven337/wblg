@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Suivre sa consommation électrique avec un Raspberry Pi"
+title: "Suivre sa consommation Ã©lectrique avec un Raspberry Pi"
 date: 2014-03-09 22:17:00
 category: francais
 img_rel: /~sven337/data/teleinfo
 ---
 
-Cet article détaille comment **suivre sa consommation électrique** avec un **Raspberry Pi** et un montage électronique simple et surtout très bon marché. 
-Il nécessite de disposer d'un compteur électrique suffisamment moderne.
+Cet article dÃ©taille comment **suivre sa consommation Ã©lectrique** avec un **Raspberry Pi** et un montage Ã©lectronique simple et surtout trÃ¨s bon marchÃ©. 
+Il nÃ©cessite de disposer d'un compteur Ã©lectrique suffisamment moderne.
 
-# Table des matières
+# Table des matiÃ¨res
 {:.no_toc}
 
 1. contents placeholder
@@ -17,126 +17,126 @@ Il nécessite de disposer d'un compteur électrique suffisamment moderne.
 
 # Introduction
 
-Le Raspberry Pi est un mini ordinateur capable de faire fonctionner Linux, et qui coûte peu cher. De nombreuses personnes suggèrent de s'en servir comme serveur (web, e-mails, ...), mais je doute que ses performances soient suffisantes pour cela. (À vrai dire je n'ai jamais testé car j'utilise un eeePC 701 comme serveur depuis plusieurs années, dont je suis très satisfait.)
+Le Raspberry Pi est un mini ordinateur capable de faire fonctionner Linux, et qui coÃ»te peu cher. De nombreuses personnes suggÃ¨rent de s'en servir comme serveur (web, e-mails, ...), mais je doute que ses performances soient suffisantes pour cela. (Ã€ vrai dire je n'ai jamais testÃ© car j'utilise un eeePC 701 comme serveur depuis plusieurs annÃ©es, dont je suis trÃ¨s satisfait.)
 
-Néanmoins je possède un Raspberry Pi, ainsi qu'un placard électrique dans lequel je peux le poser, le brancher, et l'interfacer avec le compteur. En avant !
+NÃ©anmoins je possÃ¨de un Raspberry Pi, ainsi qu'un placard Ã©lectrique dans lequel je peux le poser, le brancher, et l'interfacer avec le compteur. En avant !
 
-# La sortie téléinfo
+# La sortie tÃ©lÃ©info
 
-La sortie **téléinfo** est présente sur **tous les compteurs EDF** de moins de quelques années. Le mien ressemble à cela : !["Compteur A14C5"](compteur.jpg). La vis que j'indique sur la photo n'est normalement pas scellée, et permet d'ouvrir la trappe inférieure qui vous donnera accès aux bornes I1/I2 (à gauche) de la téléinfo. Il y a deux autres bornes qui elles véhiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe témoin du _jour plein_ (option tarifaire désuète).
+La sortie **tÃ©lÃ©info** est prÃ©sente sur **tous les compteurs EDF** de moins de quelques annÃ©es. Le mien ressemble Ã  cela : !["Compteur A14C5"](compteur.jpg). La vis que j'indique sur la photo n'est normalement pas scellÃ©e, et permet d'ouvrir la trappe infÃ©rieure qui vous donnera accÃ¨s aux bornes I1/I2 (Ã  gauche) de la tÃ©lÃ©info. Il y a deux autres bornes qui elles vÃ©hiculent (parfois) du 230V AC, donc ne mettez pas les doigts, je crois qu'elles servent pour brancher une lampe tÃ©moin du _jour plein_ (option tarifaire dÃ©suÃ¨te).
 
-La téléinfo répond à une spécification disponible en ligne : <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. De nombreux projets se contentent de **capter l'impulsion lumineuse** du compteur (une impulsion = 1W.h en général), mais la sortie téléinfo peut nous donner bien plus que cela :
+La tÃ©lÃ©info rÃ©pond Ã  une spÃ©cification disponible en ligne : <http://norm.edf.fr/pdf/HN44S812emeeditionMars2007.pdf>. De nombreux projets se contentent de **capter l'impulsion lumineuse** du compteur (une impulsion = 1W.h en gÃ©nÃ©ral), mais la sortie tÃ©lÃ©info peut nous donner bien plus que cela :
 
-- puissance instantanée en watts
+- puissance instantanÃ©e en watts
 - indice du compteur
 - situation heure pleine/heure creuse (qui ne me concerne toutefois pas car je me contente de l'option base, plus avantageuse dans ma situation)
 
-La sortie téléinfo implémente un protocole qui n'est électriquement pas compatible avec les protocoles que parlent les ordinateurs en général (RS-232, USB, parallèle, ...), ni d'ailleurs avec les protocoles du monde de l'informatique embarquée tels que I2C, SPI, ou un bête GPIO. C'est un choix curieux de la part d'EDF, mais le protocole téléinfo est assez facile à convertir en un protocole connu tel que **RS-232**.
-La spécification est publique et plutôt bien écrite, alors au travail !
+La sortie tÃ©lÃ©info implÃ©mente un protocole qui n'est Ã©lectriquement pas compatible avec les protocoles que parlent les ordinateurs en gÃ©nÃ©ral (RS-232, USB, parallÃ¨le, ...), ni d'ailleurs avec les protocoles du monde de l'informatique embarquÃ©e tels que I2C, SPI, ou un bÃªte GPIO. C'est un choix curieux de la part d'EDF, mais le protocole tÃ©lÃ©info est assez facile Ã  convertir en un protocole connu tel que **RS-232**.
+La spÃ©cification est publique et plutÃ´t bien Ã©crite, alors au travail !
 
-La forme du signal est la suivante : un **0** correspond à une **sinusoïde** à **50KHz** variant entre **-12V** et **+12V**, un **1** correspond à un plateau à **+0V**. (Mise à jour en 2016 : j'ai enfin relié un oscilloscope au compteur pour regarder le signal !)
+La forme du signal est la suivante : un **0** correspond Ã  une **sinusoÃ¯de** Ã  **50KHz** variant entre **-12V** et **+12V**, un **1** correspond Ã  un plateau Ã  **+0V**. (Mise Ã  jour en 2016 : j'ai enfin reliÃ© un oscilloscope au compteur pour regarder le signal !)
 
-![Signal issu du compteur correspondant à un 0](scope_meter_output.png)
+![Signal issu du compteur correspondant Ã  un 0](scope_meter_output.png)
 
-**RS-232** utilise quant à lui **+12V** pour un 1, et **-12V** pour un 0. Cette tension négative est un choix technique discutable qui complique la vie de l'électronique moderne souhaitant implémenter RS-232. En général les circuits intégrés ont une UART qui utilise des niveaux de signaux différents (TTL) : +Vdd = 3.3V pour un 1, et +0V pour un 0. C'est plus simple, et plus logique... mais les ports série des ordinateurs "parlent" du vrai RS-232. Le circuit **MAX232** est un exemple de circuit intégré qui s'occupe de la conversion des niveaux entre RS-232 "réel" et RS-232 TTL (celui à 3.3V).
+**RS-232** utilise quant Ã  lui **+12V** pour un 1, et **-12V** pour un 0. Cette tension nÃ©gative est un choix technique discutable qui complique la vie de l'Ã©lectronique moderne souhaitant implÃ©menter RS-232. En gÃ©nÃ©ral les circuits intÃ©grÃ©s ont une UART qui utilise des niveaux de signaux diffÃ©rents (TTL) : +Vdd = 3.3V pour un 1, et +0V pour un 0. C'est plus simple, et plus logique... mais les ports sÃ©rie des ordinateurs "parlent" du vrai RS-232. Le circuit **MAX232** est un exemple de circuit intÃ©grÃ© qui s'occupe de la conversion des niveaux entre RS-232 "rÃ©el" et RS-232 TTL (celui Ã  3.3V).
 
-# Travaux précédents
+# Travaux prÃ©cÃ©dents
 
-J'ignore ici les montages basés sur la **détection de l'impulsion lumineuse**. De nombreuses personnes ont réalisé des montages (et parfois créé une activité commerciale) permettant d'**interfacer la téléinfo avec RS-232**.
+J'ignore ici les montages basÃ©s sur la **dÃ©tection de l'impulsion lumineuse**. De nombreuses personnes ont rÃ©alisÃ© des montages (et parfois crÃ©Ã© une activitÃ© commerciale) permettant d'**interfacer la tÃ©lÃ©info avec RS-232**.
 
-Le problème de ces montages est que bien souvent ils visent à obtenir une compatibilité avec RS-232 (par exemple <https://store.adtek.fr/home/12-interface-teleinfo-rs232.html> ou  <https://store.adtek.fr/home/10-teleinfo-usb-sans-souris-folle-v2.html>. Je ne connais pas cette société ni leurs produits, dont je n'ai pas de raison de penser qu'ils fonctionnent mal. Par contre, dépenser 30 euros ou plus pour ce genre de montage est clairement en dehors du budget que je m'étais fixé.). Or, RS-232 ne nous intéresse pas, puisque le R-Pi implémente RS-232 avec des niveaux TTL, incompatible, mais aussi plus simple. Je ne suis bien sûr pas le premier à le remarquer, et on voit des montages qui consistent à brancher directement un optocoupleur bidirectionnel **SHF6206** à la sortie téléinfo et au Pi... sauf que ce modèle est pratiquement introuvable, et que de manière générale les optos bidirectionnels coûtent cher. On trouve un exemple abouti et bien expliqué, qui a servi de base à ma réalisation, à l'adresse suivante : <http://www.chaleurterre.com/forum/viewtopic.php?t=15153>.
+Le problÃ¨me de ces montages est que bien souvent ils visent Ã  obtenir une compatibilitÃ© avec RS-232 (par exemple <https://store.adtek.fr/home/12-interface-teleinfo-rs232.html> ou  <https://store.adtek.fr/home/10-teleinfo-usb-sans-souris-folle-v2.html>. Je ne connais pas cette sociÃ©tÃ© ni leurs produits, dont je n'ai pas de raison de penser qu'ils fonctionnent mal. Par contre, dÃ©penser 30 euros ou plus pour ce genre de montage est clairement en dehors du budget que je m'Ã©tais fixÃ©.). Or, RS-232 ne nous intÃ©resse pas, puisque le R-Pi implÃ©mente RS-232 avec des niveaux TTL, incompatible, mais aussi plus simple. Je ne suis bien sÃ»r pas le premier Ã  le remarquer, et on voit des montages qui consistent Ã  brancher directement un optocoupleur bidirectionnel **SHF6206** Ã  la sortie tÃ©lÃ©info et au Pi... sauf que ce modÃ¨le est pratiquement introuvable, et que de maniÃ¨re gÃ©nÃ©rale les optos bidirectionnels coÃ»tent cher. On trouve un exemple abouti et bien expliquÃ©, qui a servi de base Ã  ma rÃ©alisation, Ã  l'adresse suivante : <http://www.chaleurterre.com/forum/viewtopic.php?t=15153>.
 
-J'ai réalisé un montage différent dont l'objectif (atteint) était de n'utiliser que des composants facilement disponibles (sur eBay, DealExtreme ou AliExpress, par exemple), et peu chers.
+J'ai rÃ©alisÃ© un montage diffÃ©rent dont l'objectif (atteint) Ã©tait de n'utiliser que des composants facilement disponibles (sur eBay, DealExtreme ou AliExpress, par exemple), et peu chers.
 
 # Architecture
 
-Ayant eu beaucoup de mal à trouver un optocoupleur qui ferait l'affaire pour un branchement direct (car il faut non seulement qu'il soit bidirectionnel mais aussi que ses caractéristiques soient compatibles avec le timing du signal, chose pas toujours facile à garantir), j'ai opté pour un montage redresseur et un filtrage (permettant d'obtenir **0** = **+12V** constant, **1** = **+0V**, qui attaque l'optocoupleur le moins cher que j'ai pu trouver, dont la sortie est reliée au Pi de manière similaire au message du forum dont je donne un lien ci-dessus.
+Ayant eu beaucoup de mal Ã  trouver un optocoupleur qui ferait l'affaire pour un branchement direct (car il faut non seulement qu'il soit bidirectionnel mais aussi que ses caractÃ©ristiques soient compatibles avec le timing du signal, chose pas toujours facile Ã  garantir), j'ai optÃ© pour un montage redresseur et un filtrage (permettant d'obtenir **0** = **+12V** constant, **1** = **+0V**, qui attaque l'optocoupleur le moins cher que j'ai pu trouver, dont la sortie est reliÃ©e au Pi de maniÃ¨re similaire au message du forum dont je donne un lien ci-dessus.
 
-Voici le schéma correspondant (cliquez pour l'avoir en grand):
-![Schéma redressement téléinfo](schema.jpg){:style="border:1px solid black"}
+Voici le schÃ©ma correspondant (cliquez pour l'avoir en grand):
+![SchÃ©ma redressement tÃ©lÃ©info](schema.jpg){:style="border:1px solid black"}
 
-J'ai d'abord tenté un redressement simple alternance, mais comme on verra dans le paragraphe suivant ce n'était pas une bonne idée.
+J'ai d'abord tentÃ© un redressement simple alternance, mais comme on verra dans le paragraphe suivant ce n'Ã©tait pas une bonne idÃ©e.
 
-# Réalisation électronique
+# RÃ©alisation Ã©lectronique
 
 ## Simulation
 
-Avant toute chose et afin de dimensionner correctement les composants, j'ai choisi de simuler le circuit à l'aide de **ngspice** (logiciel libre disponible sous Linux). Ce type de simulateur ne donne pas toujours de bons résultats mais pour un circuit aussi simple il nous sera très utile. Une alternative consisterait à calculer la valeur du condensateur et de la résistance de protection de l'optocoupleur à la main, mais cela nécessiterait de savoir ce qu'on veut obtenir en termes mathématiques ! En réalité, on se contentera de regarder la forme du signal et de décider si oui ou non il se rapproche suffisament du signal carré attendu par l'UART du Raspberry Pi. N'ayant pas d'oscilloscope, je fais tout cela en simulation.
+Avant toute chose et afin de dimensionner correctement les composants, j'ai choisi de simuler le circuit Ã  l'aide de **ngspice** (logiciel libre disponible sous Linux). Ce type de simulateur ne donne pas toujours de bons rÃ©sultats mais pour un circuit aussi simple il nous sera trÃ¨s utile. Une alternative consisterait Ã  calculer la valeur du condensateur et de la rÃ©sistance de protection de l'optocoupleur Ã  la main, mais cela nÃ©cessiterait de savoir ce qu'on veut obtenir en termes mathÃ©matiques ! En rÃ©alitÃ©, on se contentera de regarder la forme du signal et de dÃ©cider si oui ou non il se rapproche suffisament du signal carrÃ© attendu par l'UART du Raspberry Pi. N'ayant pas d'oscilloscope, je fais tout cela en simulation.
 
-Voici un premier circuit à simuler, avec redressement en simple alternance :
+Voici un premier circuit Ã  simuler, avec redressement en simple alternance :
 [Circuit redressement mono alternance](/~sven337/data/teleinfo/filtrage_1diode.net)
 
-Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier, ensuite la commande ``tran 0.05us 3.2ms`` fait une simulation pendant 3.2 ms par pas de 0.05 us, et on peut visualiser la courbe de tension en un point donné en utilisant la commande ``plot``.
-``plot v(1)`` nous montre le signal appliqué à l'entrée :
-![Signal d'entrée](spice_input_signal.jpg)
+Pour lancer la simulation, ``ngspice filtrage_1diode.net`` va charger le fichier, ensuite la commande ``tran 0.05us 3.2ms`` fait une simulation pendant 3.2 ms par pas de 0.05 us, et on peut visualiser la courbe de tension en un point donnÃ© en utilisant la commande ``plot``.
+``plot v(1)`` nous montre le signal appliquÃ© Ã  l'entrÃ©e :
+![Signal d'entrÃ©e](spice_input_signal.jpg)
 
-Il s'agit de la séquence 0->1->0->1. Bien sûr, c'est plutôt la sortie qui nous intéresse. Ce qu'on voudrait voir, c'est quand est-ce que **le Pi** voit un zéro ou un un. Ce n'est pas quelque chose qu'on trouve directement, mais cette information dépend du courant qui traverse la LED de l'optocoupleur, qui est lui-même proportionnel à la tension aux bornes du condensateur. On se contentera donc de regarder la tension aux bornes du condensateur, et de décider _au doigt mouillé_ si les transitions sont suffisamment franches ou pas.
+Il s'agit de la sÃ©quence 0->1->0->1. Bien sÃ»r, c'est plutÃ´t la sortie qui nous intÃ©resse. Ce qu'on voudrait voir, c'est quand est-ce que **le Pi** voit un zÃ©ro ou un un. Ce n'est pas quelque chose qu'on trouve directement, mais cette information dÃ©pend du courant qui traverse la LED de l'optocoupleur, qui est lui-mÃªme proportionnel Ã  la tension aux bornes du condensateur. On se contentera donc de regarder la tension aux bornes du condensateur, et de dÃ©cider _au doigt mouillÃ©_ si les transitions sont suffisamment franches ou pas.
 
 Pour la tension aux bornes du condensateur, c'est ``plot v(3)``. On obtient la courbe suivante :
 ![Redressement mono-alternance](spice_output_1D.jpg)
 
 ### Qu'est-ce qu'on aimerait avoir ?
 
-Un beau signal en créneau !
+Un beau signal en crÃ©neau !
 
 ### Qu'est-ce qu'on a ?
 
-Un moche signal en créneau :)
-Plus sérieusement, deux éléments attirent l'oeil : 
-1. l'ondulation résiduelle entre 4.5 et 5.7V, alors qu'on aimerait quelque chose de bien plat. Cela pourrait se traduire par 0 qui n'est pas complètement stable et qui risquerait d'être mal interprété
-1. le temps de chute lors du passage à 0V, qui est tellement important que le 0V n'est jamais atteint. Cela pourrait se traduire par un 1 qui est systématiquement lu comme un 0 car le niveau logique bas n'est jamais atteint
+Un moche signal en crÃ©neau :)
+Plus sÃ©rieusement, deux Ã©lÃ©ments attirent l'oeil : 
+1. l'ondulation rÃ©siduelle entre 4.5 et 5.7V, alors qu'on aimerait quelque chose de bien plat. Cela pourrait se traduire par 0 qui n'est pas complÃ¨tement stable et qui risquerait d'Ãªtre mal interprÃ©tÃ©
+1. le temps de chute lors du passage Ã  0V, qui est tellement important que le 0V n'est jamais atteint. Cela pourrait se traduire par un 1 qui est systÃ©matiquement lu comme un 0 car le niveau logique bas n'est jamais atteint
 
-Ces points sont-ils vraiment un problème ? Dur à dire sans rentrer plus en détails dans les caractéristiques de l'optocoupleur.
+Ces points sont-ils vraiment un problÃ¨me ? Dur Ã  dire sans rentrer plus en dÃ©tails dans les caractÃ©ristiques de l'optocoupleur.
 
 ### Redressement double alternance 
 
-On peut améliorer l'ondulation résiduelle en faisant un redressement double alternance, ce qui correspond au schéma que j'ai présenté plus haut.
+On peut amÃ©liorer l'ondulation rÃ©siduelle en faisant un redressement double alternance, ce qui correspond au schÃ©ma que j'ai prÃ©sentÃ© plus haut.
 
 [Circuit redressement double alternance](/~sven337/data/teleinfo/filtrage_4diodes.net)
 
 Voici le signal aux bornes du condensateur :
 ![Redressement bi-alternance](spice_output_4D.jpg)
 
-Si le temps de chute n'a pas bougé, et reste inquiétant, on note que l'ondulation résiduelle est bien meilleure (car on charge le condensateur deux fois plus souvent, il se décharge donc deux fois moins pendant l'oscillation !). On pourrait faire mieux, mais il faudrait alors augmenter la capacité (ce qui compromettrait très fortement le temps de chute, alors qu'on est déjà limite), ou diminuer la résistance **R1** afin d'augmenter le courant de charge - mais cela nous sortirait de la spécification d'EDF, ce qui nous enverrait probablement directement en prison après le départ de feu à notre compteur ! 
+Si le temps de chute n'a pas bougÃ©, et reste inquiÃ©tant, on note que l'ondulation rÃ©siduelle est bien meilleure (car on charge le condensateur deux fois plus souvent, il se dÃ©charge donc deux fois moins pendant l'oscillation !). On pourrait faire mieux, mais il faudrait alors augmenter la capacitÃ© (ce qui compromettrait trÃ¨s fortement le temps de chute, alors qu'on est dÃ©jÃ  limite), ou diminuer la rÃ©sistance **R1** afin d'augmenter le courant de charge - mais cela nous sortirait de la spÃ©cification d'EDF, ce qui nous enverrait probablement directement en prison aprÃ¨s le dÃ©part de feu Ã  notre compteur ! 
 
-Pour améliorer le temps de chute, on peut jouer sur la valeur de **R2**, mais on assiste alors (je vous laisse jouer avec Spice) à un phénomène de _vases communicants_ : le passage à 0 est plus rapide si on diminue R2, mais l'ondulation résiduelle à 1 devient très importante.
-La valeur de R2 est contrainte par la sécurité de l'optocoupleur, qui nous impose dans la datasheet un courant maximal correspondant à une résistance d'au moins 270 Ohm. J'ai choisi 2.2 kOhm.
+Pour amÃ©liorer le temps de chute, on peut jouer sur la valeur de **R2**, mais on assiste alors (je vous laisse jouer avec Spice) Ã  un phÃ©nomÃ¨ne de _vases communicants_ : le passage Ã  0 est plus rapide si on diminue R2, mais l'ondulation rÃ©siduelle Ã  1 devient trÃ¨s importante.
+La valeur de R2 est contrainte par la sÃ©curitÃ© de l'optocoupleur, qui nous impose dans la datasheet un courant maximal correspondant Ã  une rÃ©sistance d'au moins 270 Ohm. J'ai choisi 2.2 kOhm.
 
-En 2016, après plusieurs années de bons et loyaux services de ce système qui semble fonctionner parfaitement, j'ai relié un oscilloscope au module pour regarder la "vraie" allure du signal, et pas seulement celle issue de la simulation. On est assez proche.
+En 2016, aprÃ¨s plusieurs annÃ©es de bons et loyaux services de ce systÃ¨me qui semble fonctionner parfaitement, j'ai reliÃ© un oscilloscope au module pour regarder la "vraie" allure du signal, et pas seulement celle issue de la simulation. On est assez proche.
 
 ![Sortie du module](scope_module_output.png)
-![Entrée et sortie du module superposées](scope_module_input_and_output.png)
+![EntrÃ©e et sortie du module superposÃ©es](scope_module_input_and_output.png)
 
 ## Achat des fournitures
 
-- diode 1N4148, vendue par 10 sur ebay à environ 1EUR (le montage en nécessite une seule, mais autant en utiliser 4 et faire un redressement double alternance)
-- optocoupleur PC817, vendu par 10 sur ebay à environ 1EUR (un seul est nécessaire et nous n'en mettrons pas quatre)
-- résistances 0.25W classiques (900 Ohm, 2.2 kOhm, 47 kOhm), à acheter dans un assortiment tel que <http://dx.com/p/1-4w-resistance-metal-film-resistors-400-piece-pack-121339>
-- un condensateur de 22nF, j'ai pris un _ceramic disc_ sur eBay à environ 1EUR les 10 (vous commencez à connaître le refrain)
+- diode 1N4148, vendue par 10 sur ebay Ã  environ 1EUR (le montage en nÃ©cessite une seule, mais autant en utiliser 4 et faire un redressement double alternance)
+- optocoupleur [PC817](http://www.futurlec.com/Datasheet/LED/PC817.pdf), vendu par 10 sur ebay Ã  environ 1EUR (un seul est nÃ©cessaire et nous n'en mettrons pas quatre)
+- rÃ©sistances 0.25W classiques (900 Ohm, 2.2 kOhm, 47 kOhm), Ã  acheter dans un assortiment tel que <http://dx.com/p/1-4w-resistance-metal-film-resistors-400-piece-pack-121339>
+- un condensateur de 22nF, j'ai pris un _ceramic disc_ sur eBay Ã  environ 1EUR les 10 (vous commencez Ã  connaÃ®tre le refrain)
 - (optionnel) une mini breadboard pour un premier montage (<http://dx.com/p/mini-prototype-printed-circuit-board-breadboard-white-140716>, <http://dx.com/p/breadboard-jumper-wires-for-electronic-diy-65-cable-pack-118826>, <http://dx.com/p/male-to-female-dupont-breadboard-jumper-wires-for-arduino-40-piece-pack-20cm-length-146935>)
 - un petit PCB proto pour mettre le montage au propre <http://dx.com/p/pcb-prototype-blank-pcb-2-layers-double-side-3-x-7cm-protoboard-green-140924>
-- une boîte de biscuits en carton, des ciseaux et du scotch pour faire un boîtier moche **ou** un boîtier plastique qui vous coûtera plus cher que tous les composants réunis
+- une boÃ®te de biscuits en carton, des ciseaux et du scotch pour faire un boÃ®tier moche **ou** un boÃ®tier plastique qui vous coÃ»tera plus cher que tous les composants rÃ©unis
 
 ## Assemblage et branchement
 
-J'ai réalisé un premier prototype sur platine d'essai (_breadboard_). Le fonctionnement m'ayant donné satisfaction j'ai décidé de réaliser un assemblage plus propre sur un PCB proto, que j'ai ensuite placé dans un écrin en carton-de-paquet-de-biscuits.
+J'ai rÃ©alisÃ© un premier prototype sur platine d'essai (_breadboard_). Le fonctionnement m'ayant donnÃ© satisfaction j'ai dÃ©cidÃ© de rÃ©aliser un assemblage plus propre sur un PCB proto, que j'ai ensuite placÃ© dans un Ã©crin en carton-de-paquet-de-biscuits.
 
-![Montage final en écrin carton](montage_final.jpg)
+![Montage final en Ã©crin carton](montage_final.jpg)
 
-Note : les connexions sont faites avec des _jumper wires_ que j'ai soudés. En effet ce type de PCB dispose de pastilles mais pas de pistes pré-tracées, et je me suis rendu compte que les connexions sont finalement assez difficiles à faire. Je préfère travailler avec une [Veroboard](https://en.wikipedia.org/wiki/Veroboard).
+Note : les connexions sont faites avec des _jumper wires_ que j'ai soudÃ©s. En effet ce type de PCB dispose de pastilles mais pas de pistes prÃ©-tracÃ©es, et je me suis rendu compte que les connexions sont finalement assez difficiles Ã  faire. Je prÃ©fÃ¨re travailler avec une [Veroboard](https://en.wikipedia.org/wiki/Veroboard).
 
 
-# Intégration logicielle
+# IntÃ©gration logicielle
 
-Si tout est bon matériellement, le Pi recevra sur son port série un signal qu'il est capable de comprendre.
-Il faut tout de même:
+Si tout est bon matÃ©riellement, le Pi recevra sur son port sÃ©rie un signal qu'il est capable de comprendre.
+Il faut tout de mÃªme:
 
-1. s'assurer qu'aucun programme (par exemple un **getty** pour la console série) n'écoute sur le port série
-1. configurer le port en **1200 baud**, **7/E/1** (7 bits de données, 1 bit de parité paire, 1 bit de stop)
-1. lancer un programme pour écouter sur le port série
-1. créer des tableaux, des graphes, présenter tout dans une application web, ...
+1. s'assurer qu'aucun programme (par exemple un **getty** pour la console sÃ©rie) n'Ã©coute sur le port sÃ©rie
+1. configurer le port en **1200 baud**, **7/E/1** (7 bits de donnÃ©es, 1 bit de paritÃ© paire, 1 bit de stop)
+1. lancer un programme pour Ã©couter sur le port sÃ©rie
+1. crÃ©er des tableaux, des graphes, prÃ©senter tout dans une application web, ...
 
-Je couvrirai le dernier point dans un article séparé, qui concernera l'électricité mais aussi le gaz.
+Je couvrirai le dernier point dans un article sÃ©parÃ©, qui concernera l'Ã©lectricitÃ© mais aussi le gaz.
 
 Mon Raspberry Pi fonctionne avec la distribution Arch Linux, et voici le script que j'utilise :
 
@@ -145,33 +145,33 @@ Mon Raspberry Pi fonctionne avec la distribution Arch Linux, et voici le script 
 	./ti_cat | egrep '^(PAPP|BASE)' -a --line-buffered | ./cksum | ../~sven337/data/report_to_hm_web.sh
 ~~~
 
-La deuxième ligne n'est pas l'expression la plus simple. 
+La deuxiÃ¨me ligne n'est pas l'expression la plus simple. 
 
-- Le programme ``ti_cat`` est une version très allégée d'un programme de teleinfo réalisé par quelqu'un d'autre, celui-ci se contente d'écrire tout ce qu'il reçoit du port série, après l'avoir configuré correctement. ``cat`` n'est malheureusement pas suffisant opur cela.
-- Le grep filtre les seuls éléments qui m'intéressent, qui sont la puissance apparente et l'indice du compteur. Peut-être certains autres vous intéresseront-ils en particulier pour les abonnements HP/HC. 
-- ``cksum`` est un programme qui calcule les checksums tels que spécifiés par EDF, et, comme son nom ne l'indique pas, accumule les valeurs pour calculer une moyenne de puissance sur une minute. En effet la plupart des programmes tels que ``teleinfofs`` fournissent, lorsque vous les interrogez, la valeur *instantanée* de la puissance apparente, alors qu'il est plus correct de faire la moyenne depuis la dernière requête, ce que fait cksum.
+- Le programme ``ti_cat`` est une version trÃ¨s allÃ©gÃ©e d'un programme de teleinfo rÃ©alisÃ© par quelqu'un d'autre, celui-ci se contente d'Ã©crire tout ce qu'il reÃ§oit du port sÃ©rie, aprÃ¨s l'avoir configurÃ© correctement. ``cat`` n'est malheureusement pas suffisant opur cela.
+- Le grep filtre les seuls Ã©lÃ©ments qui m'intÃ©ressent, qui sont la puissance apparente et l'indice du compteur. Peut-Ãªtre certains autres vous intÃ©resseront-ils en particulier pour les abonnements HP/HC. 
+- ``cksum`` est un programme qui calcule les checksums tels que spÃ©cifiÃ©s par EDF, et, comme son nom ne l'indique pas, accumule les valeurs pour calculer une moyenne de puissance sur une minute. En effet la plupart des programmes tels que ``teleinfofs`` fournissent, lorsque vous les interrogez, la valeur *instantanÃ©e* de la puissance apparente, alors qu'il est plus correct de faire la moyenne depuis la derniÃ¨re requÃªte, ce que fait cksum.
 
-Au final, on obtient, chaque minute, l'indice du compteur, ainsi que la puissance apparente. (On pourrait penser à intégrer la puissance apparente pour obtenir l'indice, mais comme me fait judicieusement remarquer Bruno en commentaire, cela n'est pas correct car les particuliers payent l'énergie active et non l'énergie apparente.) 
+Au final, on obtient, chaque minute, l'indice du compteur, ainsi que la puissance apparente. (On pourrait penser Ã  intÃ©grer la puissance apparente pour obtenir l'indice, mais comme me fait judicieusement remarquer Bruno en commentaire, cela n'est pas correct car les particuliers payent l'Ã©nergie active et non l'Ã©nergie apparente.) 
 
-Ces programmes sont disponibles sur Github : <https://github.com/sven337/home-monitoring-client> dans le répertoire **edf**. Les autres programmes seront couverts dans les articles suivants, parfois en anglais. Si vous ne parlez pas anglais et qu'un article vous intéresse, je ferai la traduction sur demande. Mon objectif est de décrire en français ce qui concerne uniquement notre brave patrie, et en anglais ce qui peut intéresser une plus large audience.
+Ces programmes sont disponibles sur Github : <https://github.com/sven337/home-monitoring-client> dans le rÃ©pertoire **edf**. Les autres programmes seront couverts dans les articles suivants, parfois en anglais. Si vous ne parlez pas anglais et qu'un article vous intÃ©resse, je ferai la traduction sur demande. Mon objectif est de dÃ©crire en franÃ§ais ce qui concerne uniquement notre brave patrie, et en anglais ce qui peut intÃ©resser une plus large audience.
 
 # Graphes
 
-Je traiterai cela plus en détail dans un prochain article, mais voici quand même un _teaser_:
+Je traiterai cela plus en dÃ©tail dans un prochain article, mais voici quand mÃªme un _teaser_:
 
 ## Graphe RRD
 ![Graphe de consommation RRD sur une semaine](teleinfo_rrdgraph.png)
 
-On voit ici plusieurs informations intéressantes, mais c'est à grosse maille. J'ai beaucoup cuisiné vendredi soir, et on peut voir que le four et les plaques à induction étaient allumés en même temps car j'ai consommé une puissance importante. On voit également assez facilement que, contrairement à mon habitude, j'ai cuisiné le mardi midi en plus du soir (je ne me souviens pas de ce que j'ai mangé et cela n'est pas sur le graphe).
-Le trou mercredi correspond à la désactivation temporaire du système de reporting afin de prendre les photos qui sont présentes sur cette page. (Ce n'est d'ailleurs pas une grande réussite).
+On voit ici plusieurs informations intÃ©ressantes, mais c'est Ã  grosse maille. J'ai beaucoup cuisinÃ© vendredi soir, et on peut voir que le four et les plaques Ã  induction Ã©taient allumÃ©s en mÃªme temps car j'ai consommÃ© une puissance importante. On voit Ã©galement assez facilement que, contrairement Ã  mon habitude, j'ai cuisinÃ© le mardi midi en plus du soir (je ne me souviens pas de ce que j'ai mangÃ© et cela n'est pas sur le graphe).
+Le trou mercredi correspond Ã  la dÃ©sactivation temporaire du systÃ¨me de reporting afin de prendre les photos qui sont prÃ©sentes sur cette page. (Ce n'est d'ailleurs pas une grande rÃ©ussite).
 
-Le total de puissance et le coût correspondant sont calculés par RRD avec le script ``rrd_render_graphs.sh``.
+Le total de puissance et le coÃ»t correspondant sont calculÃ©s par RRD avec le script ``rrd_render_graphs.sh``.
 
 ## Graphe Javascript
-![Graphe de consommation sur la journée](teleinfo_jsgraph.jpg)
+![Graphe de consommation sur la journÃ©e](teleinfo_jsgraph.jpg)
 
-Ce graphe est interactif, en Javascript, et créé à partir des mêmes données. Sur la capture que je montre ce sont les données sur une journée. On visualise entre 1h et 2h du matin l'activation du compresseur du réfrigérateur, puis à nouveau de 4h à 5h. Je me suis levé vers 8h50 et j'ai allumé mon ordinateur. Un peu avant 12h on observe la courbe caractéristique (parce que j'ai l'habitude de la voir) de la plaque à induction utilisée pour faire chauffer de l'eau : en mode _booster_ pendant quelques minutes à 3.2kW, puis à 1.75kW pendant le temps de cuisson de ce qui était (je m'en souviens) des pâtes.
-On a ensuite la bouilloire électrique, l'aspirateur, et le sèche-cheveux, le tout pour une consommation en régime permanent d'environ 300W (informatique, réfrigérateur, VMC) en journée, et 600W le soir (éclairage à _économie de gaz naturel_, je veux dire, éclairage incandescent).
+Ce graphe est interactif, en Javascript, et crÃ©Ã© Ã  partir des mÃªmes donnÃ©es. Sur la capture que je montre ce sont les donnÃ©es sur une journÃ©e. On visualise entre 1h et 2h du matin l'activation du compresseur du rÃ©frigÃ©rateur, puis Ã  nouveau de 4h Ã  5h. Je me suis levÃ© vers 8h50 et j'ai allumÃ© mon ordinateur. Un peu avant 12h on observe la courbe caractÃ©ristique (parce que j'ai l'habitude de la voir) de la plaque Ã  induction utilisÃ©e pour faire chauffer de l'eau : en mode _booster_ pendant quelques minutes Ã  3.2kW, puis Ã  1.75kW pendant le temps de cuisson de ce qui Ã©tait (je m'en souviens) des pÃ¢tes.
+On a ensuite la bouilloire Ã©lectrique, l'aspirateur, et le sÃ¨che-cheveux, le tout pour une consommation en rÃ©gime permanent d'environ 300W (informatique, rÃ©frigÃ©rateur, VMC) en journÃ©e, et 600W le soir (Ã©clairage Ã  _Ã©conomie de gaz naturel_, je veux dire, Ã©clairage incandescent).
 
 
 <script>

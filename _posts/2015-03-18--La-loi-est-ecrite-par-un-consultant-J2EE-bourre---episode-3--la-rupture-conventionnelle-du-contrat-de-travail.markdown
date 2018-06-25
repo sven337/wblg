@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le loi est écrite par un consultant J2EE bourré - épisode 3 : la rupture conventionnelle du contrat de travail"
+title: "Le loi est Ã©crite par un consultant J2EE bourrÃ© - Ã©pisode 3 : la rupture conventionnelle du contrat de travail"
 date: 2015-03-18 20:50:03
 tags: politique droit finance
 category: francais
@@ -8,70 +8,70 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-"La France est le seul pays soviétique qui a réussi." (JF Zobrist)
+"La France est le seul pays soviÃ©tique qui a rÃ©ussi." (JF Zobrist)
 
-Dans notre pays, les gentils travailleurs sont protégés des méchants patrons. En particulier, il existe le contrat de travail à durée indéterminée (CDI), qui est le Graal permettant la location d'un logement ou l'obtention d'un prêt immobilier, clé du bonheur. Ce CDI peut être rompu à l'initiative du salarié, moyennant un préavis de départ qui peut durer jusqu'à quelques mois. Il peut également être rompu à l'initiative du patr-- euh, en fait, non.
+Dans notre pays, les gentils travailleurs sont protÃ©gÃ©s des mÃ©chants patrons. En particulier, il existe le contrat de travail Ã  durÃ©e indÃ©terminÃ©e (CDI), qui est le Graal permettant la location d'un logement ou l'obtention d'un prÃªt immobilier, clÃ© du bonheur. Ce CDI peut Ãªtre rompu Ã  l'initiative du salariÃ©, moyennant un prÃ©avis de dÃ©part qui peut durer jusqu'Ã  quelques mois. Il peut Ã©galement Ãªtre rompu Ã  l'initiative du patr-- euh, en fait, non.
 
 # Rupture du contrat de travail
 
-On peut considérer qu'il existe trois façons de rompre un contrat de travail.
+On peut considÃ©rer qu'il existe trois faÃ§ons de rompre un contrat de travail.
 
-1. par démission du salarié
-2. par licenciement économique collectif
+1. par dÃ©mission du salariÃ©
+2. par licenciement Ã©conomique collectif
 3. par licenciement individuel pour motif personnel
 
-Attention, mes commentaires dans cette section sont à prendre avec des pincettes, car je n'ai pas fait de travail de recherche approfondi pour vérifier mes propos.
+Attention, mes commentaires dans cette section sont Ã  prendre avec des pincettes, car je n'ai pas fait de travail de recherche approfondi pour vÃ©rifier mes propos.
 
-## Démission 
+## DÃ©mission 
 
-La démission, c'est lorsque le salarié veut partir et que le patron ne veut pas qu'il parte. Dans ce cas, le salarié perd tout droit à l'assurance chômage : s'il s'en va par sa propre volonté, et qu'il ne retrouve pas de travail, c'est parce qu'il l'a voulu et donc c'est de sa faute. À noter qu'on ne lui rembourse pas pour autant ses cotisations à l'assurance chômage, on lui refuse simplement le bénéfice de cette assurance. (On peut trouver ça normal, à cela près que les salariés sont par conséquent fortement encouragés à rester sur un emploi qu'ils détestent, gros problème français.)
+La dÃ©mission, c'est lorsque le salariÃ© veut partir et que le patron ne veut pas qu'il parte. Dans ce cas, le salariÃ© perd tout droit Ã  l'assurance chÃ´mage : s'il s'en va par sa propre volontÃ©, et qu'il ne retrouve pas de travail, c'est parce qu'il l'a voulu et donc c'est de sa faute. Ã€ noter qu'on ne lui rembourse pas pour autant ses cotisations Ã  l'assurance chÃ´mage, on lui refuse simplement le bÃ©nÃ©fice de cette assurance. (On peut trouver Ã§a normal, Ã  cela prÃ¨s que les salariÃ©s sont par consÃ©quent fortement encouragÃ©s Ã  rester sur un emploi qu'ils dÃ©testent, gros problÃ¨me franÃ§ais.)
 
 ## Licenciement collectif
 
-Le licenciement collectif, c'est lorsque le salarié ne veut pas partir, le patron ne veut pas qu'il parte, mais qu'il n'a plus d'argent pour le payer. Dans ce cas il existe une procédure très encadrée légalement, nommée paradoxalement **plan de sauvegarde de l'emploi** (PSE). Dans le temps elle s'appelait non moins paradoxalement "plan social". Lors d'un licenciement économique collectif, l'employeur a une obligation de **reclassement**, idée stupide du législateur, qui pense qu'il faut que ce soit écrit dans la loi pour que l'employeur y pense. Si l'employeur pouvait reclasser il n'aurait pas besoin de licencier. C'est ainsi qu'on entend des syndicalistes scandalisés qu'à l'occasion d'un plan social quelconque les salariés se soient vus proposer un reclassement en Chine ou en Roumanie... en réalité l'employeur était obligé de proposer quelque chose, aussi stupide que ce soit, sous peine de nullité de toute la procédure !
+Le licenciement collectif, c'est lorsque le salariÃ© ne veut pas partir, le patron ne veut pas qu'il parte, mais qu'il n'a plus d'argent pour le payer. Dans ce cas il existe une procÃ©dure trÃ¨s encadrÃ©e lÃ©galement, nommÃ©e paradoxalement **plan de sauvegarde de l'emploi** (PSE). Dans le temps elle s'appelait non moins paradoxalement "plan social". Lors d'un licenciement Ã©conomique collectif, l'employeur a une obligation de **reclassement**, idÃ©e stupide du lÃ©gislateur, qui pense qu'il faut que ce soit Ã©crit dans la loi pour que l'employeur y pense. Si l'employeur pouvait reclasser il n'aurait pas besoin de licencier. C'est ainsi qu'on entend des syndicalistes scandalisÃ©s qu'Ã  l'occasion d'un plan social quelconque les salariÃ©s se soient vus proposer un reclassement en Chine ou en Roumanie... en rÃ©alitÃ© l'employeur Ã©tait obligÃ© de proposer quelque chose, aussi stupide que ce soit, sous peine de nullitÃ© de toute la procÃ©dure !
 
-Certes, on a affaire à des abus (les licenciements "boursiers"), mais il existe aussi des entreprises qui sont vraiment en difficulté, qui ont vraiment besoin de se séparer de leur personnel, et auxquelles la loi complique la vie dans un moment où ce n'est pas souhaitable, mettant en danger les emplois restants. 
+Certes, on a affaire Ã  des abus (les licenciements "boursiers"), mais il existe aussi des entreprises qui sont vraiment en difficultÃ©, qui ont vraiment besoin de se sÃ©parer de leur personnel, et auxquelles la loi complique la vie dans un moment oÃ¹ ce n'est pas souhaitable, mettant en danger les emplois restants. 
 
 ## Licenciement individuel pour motif personnel
 
-Dans ce cas, le salarié ne veut pas partir, mais le patron aimerait bien qu'il parte. Le droit commun pour apprécier la légalité d'un licenciement est qu'il doit avoir une **cause réelle et sérieuse**. En pratique cela signifie que la cause doit être **objective** et suffisamment **grave** pour justifier de mettre le salarié à la porte. En général il s'agit d'un licenciement pour faute, le licenciement pour insuffisance professionnelle étant très difficile à prouver (car la performance professionnelle et son évaluation sont rarement objectives !).
-Au final, on peut se faire licencier pour faute, mais pas vraiment pour incompétence, et certainement pas pour différence de vues avec son patron... Les salariés étant en position de faiblesse vis-à-vis de leur patron il est compréhensible que le licenciement soit difficile à réaliser. Toutefois, cela porte préjudice à tous les salariés, en sacralisant le CDI et le principe de l'emploi à vie. En effet, si vous recrutez un salarié, et qu'il ne fait pas l'affaire, vous êtes coincé avec jusqu'à ce qu'il veuille bien partir. (Bien sûr, il y a une période d'essai, mais elle est parfois un peu courte.) En vertu de ce problème, réel ou supposé, les employeurs réfléchissent à deux fois avant de faire un recrutement, ce qui complique la vie de quelqu'un qui recherche un emploi. 
+Dans ce cas, le salariÃ© ne veut pas partir, mais le patron aimerait bien qu'il parte. Le droit commun pour apprÃ©cier la lÃ©galitÃ© d'un licenciement est qu'il doit avoir une **cause rÃ©elle et sÃ©rieuse**. En pratique cela signifie que la cause doit Ãªtre **objective** et suffisamment **grave** pour justifier de mettre le salariÃ© Ã  la porte. En gÃ©nÃ©ral il s'agit d'un licenciement pour faute, le licenciement pour insuffisance professionnelle Ã©tant trÃ¨s difficile Ã  prouver (car la performance professionnelle et son Ã©valuation sont rarement objectives !).
+Au final, on peut se faire licencier pour faute, mais pas vraiment pour incompÃ©tence, et certainement pas pour diffÃ©rence de vues avec son patron... Les salariÃ©s Ã©tant en position de faiblesse vis-Ã -vis de leur patron il est comprÃ©hensible que le licenciement soit difficile Ã  rÃ©aliser. Toutefois, cela porte prÃ©judice Ã  tous les salariÃ©s, en sacralisant le CDI et le principe de l'emploi Ã  vie. En effet, si vous recrutez un salariÃ©, et qu'il ne fait pas l'affaire, vous Ãªtes coincÃ© avec jusqu'Ã  ce qu'il veuille bien partir. (Bien sÃ»r, il y a une pÃ©riode d'essai, mais elle est parfois un peu courte.) En vertu de ce problÃ¨me, rÃ©el ou supposÃ©, les employeurs rÃ©flÃ©chissent Ã  deux fois avant de faire un recrutement, ce qui complique la vie de quelqu'un qui recherche un emploi. 
 
 # Et si les deux sont d'accord ?
 
-Il arrive que les deux parties soient d'accord pour mettre fin au contrat de travail. Un employé qui ne s'épanouit pas (et donc préfèrerait faire autre chose) ne fera pas un excellent travail, ce qui sera remarqué par le patron qui souhaitera dès lors voir l'employé partir. Cette situation arrive en fait assez souvent dans la réalité - mais pas en droit du travail français jusqu'à 2008&nbsp;!
+Il arrive que les deux parties soient d'accord pour mettre fin au contrat de travail. Un employÃ© qui ne s'Ã©panouit pas (et donc prÃ©fÃ¨rerait faire autre chose) ne fera pas un excellent travail, ce qui sera remarquÃ© par le patron qui souhaitera dÃ¨s lors voir l'employÃ© partir. Cette situation arrive en fait assez souvent dans la rÃ©alitÃ© - mais pas en droit du travail franÃ§ais jusqu'Ã  2008&nbsp;!
 
-En 2008 a été introduite la notion de rupture conventionnelle du contrat de travail (qu'on appelle parfois "licenciement à l'amiable" ou "départ négocié"). Ce principe répond à un vrai besoin, en effet par le passé il était impossible de sécuriser un départ d'un commun accord. Bien sûr, l'employé pouvait démissionner directement, mais il y perdait l'indemnité de licenciement, et cela ne prenait pas acte du désir du patron de le voir partir. De son côté le patron pouvait licencier l'employé, mais il s'exposait à un risque légal (l'employé prétendrait accepter son licenciement, et se retournerait contre l'employeur quelques mois plus tard, lequel aurait du mal à prouver aux prud'hommes que le licenciement avait une cause réelle et sérieuse). 
+En 2008 a Ã©tÃ© introduite la notion de rupture conventionnelle du contrat de travail (qu'on appelle parfois "licenciement Ã  l'amiable" ou "dÃ©part nÃ©gociÃ©"). Ce principe rÃ©pond Ã  un vrai besoin, en effet par le passÃ© il Ã©tait impossible de sÃ©curiser un dÃ©part d'un commun accord. Bien sÃ»r, l'employÃ© pouvait dÃ©missionner directement, mais il y perdait l'indemnitÃ© de licenciement, et cela ne prenait pas acte du dÃ©sir du patron de le voir partir. De son cÃ´tÃ© le patron pouvait licencier l'employÃ©, mais il s'exposait Ã  un risque lÃ©gal (l'employÃ© prÃ©tendrait accepter son licenciement, et se retournerait contre l'employeur quelques mois plus tard, lequel aurait du mal Ã  prouver aux prud'hommes que le licenciement avait une cause rÃ©elle et sÃ©rieuse). 
 
-La rupture conventionnelle présente les caractéristiques suivantes :
+La rupture conventionnelle prÃ©sente les caractÃ©ristiques suivantes :
 
-- pas de préavis de départ (négociation sur la date exacte, souvent "le plus tôt possible")
-- versement de l'indemnité légale de licenciement
-- possibilité de toucher des indemnités de l'assurance chômage
-- équivalence légale à un licenciement dans les rapports avec les tiers
+- pas de prÃ©avis de dÃ©part (nÃ©gociation sur la date exacte, souvent "le plus tÃ´t possible")
+- versement de l'indemnitÃ© lÃ©gale de licenciement
+- possibilitÃ© de toucher des indemnitÃ©s de l'assurance chÃ´mage
+- Ã©quivalence lÃ©gale Ã  un licenciement dans les rapports avec les tiers
 
-Le problème de cette invention vient des deux derniers points. 
+Le problÃ¨me de cette invention vient des deux derniers points. 
 
-# Comment notre consultant bourré a créé une égalité à deux vitesses 
+# Comment notre consultant bourrÃ© a crÃ©Ã© une Ã©galitÃ© Ã  deux vitesses 
 
-Sur le principe, la rupture conventionnelle du contrat de travail répond à un vrai besoin, le problème est qu'elle est assortie de certains privilèges qui sont difficiles à justifier et crée une forte inégalité avec les salariés démissionnaires.
+Sur le principe, la rupture conventionnelle du contrat de travail rÃ©pond Ã  un vrai besoin, le problÃ¨me est qu'elle est assortie de certains privilÃ¨ges qui sont difficiles Ã  justifier et crÃ©e une forte inÃ©galitÃ© avec les salariÃ©s dÃ©missionnaires.
 
-## Assurance chômage 
+## Assurance chÃ´mage 
 
-Le principe théorique de l'assurance chômage est de n'indemniser que les pertes **non souhaitées** d'emploi (puisque les démissions ne sont pas couvertes). Or, dans une rupture conventionnelle, le salarié exprime sa volonté de quitter l'entreprise - donc on est beaucoup plus proche d'une démission que d'un licenciement. On m'opposera, bien sûr, les salariés qui ont subi une pression de leur employeur pour signer cette rupture conventionnelle. N'auraient-ils pas subi une pression équivalente (voire supérieure) pour démissionner ? 
+Le principe thÃ©orique de l'assurance chÃ´mage est de n'indemniser que les pertes **non souhaitÃ©es** d'emploi (puisque les dÃ©missions ne sont pas couvertes). Or, dans une rupture conventionnelle, le salariÃ© exprime sa volontÃ© de quitter l'entreprise - donc on est beaucoup plus proche d'une dÃ©mission que d'un licenciement. On m'opposera, bien sÃ»r, les salariÃ©s qui ont subi une pression de leur employeur pour signer cette rupture conventionnelle. N'auraient-ils pas subi une pression Ã©quivalente (voire supÃ©rieure) pour dÃ©missionner ? 
 
-Pour quelle raison est-ce que l'assurance chômage, qui ne protège normalement que la perte *involontaire* d'emploi, couvrirait-elle la rupture conventionnelle (perte semi-volontaire) et non la démission ?
-Pourquoi l'employeur et le salarié ont-ils le pouvoir de se mettre d'accord pour forcer un tiers (l'assurance chômage) à payer le salarié ?
+Pour quelle raison est-ce que l'assurance chÃ´mage, qui ne protÃ¨ge normalement que la perte *involontaire* d'emploi, couvrirait-elle la rupture conventionnelle (perte semi-volontaire) et non la dÃ©mission ?
+Pourquoi l'employeur et le salariÃ© ont-ils le pouvoir de se mettre d'accord pour forcer un tiers (l'assurance chÃ´mage) Ã  payer le salariÃ© ?
 
-## Équivalence au licenciement
+## Ã‰quivalence au licenciement
 
-La perte de son emploi, en droit, correspond à un licenciement. La démission n'est pas une perte de son emploi... mais la rupture conventionnelle, si !
+La perte de son emploi, en droit, correspond Ã  un licenciement. La dÃ©mission n'est pas une perte de son emploi... mais la rupture conventionnelle, si !
 
-Cela a un effet par exemple pour les baux d'habitation régis par la loi du 6 juillet 1989. Si vous êtes locataire et prévoyez de déménager car vous changez d'employeur, la rupture conventionnelle du contrat de travail vous permet de prétendre à un préavis réduit à un mois. Si vous vous contentez de démissionner, c'est un préavis de trois mois qui s'appliquera.
+Cela a un effet par exemple pour les baux d'habitation rÃ©gis par la loi du 6 juillet 1989. Si vous Ãªtes locataire et prÃ©voyez de dÃ©mÃ©nager car vous changez d'employeur, la rupture conventionnelle du contrat de travail vous permet de prÃ©tendre Ã  un prÃ©avis rÃ©duit Ã  un mois. Si vous vous contentez de dÃ©missionner, c'est un prÃ©avis de trois mois qui s'appliquera.
 
-Pourquoi l'employeur a-t-il un rôle aussi prépondérant dans les critères d'accès au préavis réduit ? On peut comprendre que le salarié licencié ait besoin de déménager rapidement, mais il en est de même du salarié qui démissionne pour se reconvertir ou travailler sur un autre lieu ! 
-(En fait, je connais la réponse à cette question : notre société française est basée sur le principe de "**un CDI pour la vie**". Ce n'est pas normal de vouloir changer de travail, ce n'est pas normal de démissionner, car il y a tant de chômage ! Seul un fou renoncerait à la sécurité d'un CDI en démissionnant...)
-Pourquoi l'employeur et le salarié ont-ils le pouvoir de se mettre d'accord pour forcer un tiers (le propriétaire) à subir un préjudice potentiel (le préavis réduit) ?
+Pourquoi l'employeur a-t-il un rÃ´le aussi prÃ©pondÃ©rant dans les critÃ¨res d'accÃ¨s au prÃ©avis rÃ©duit ? On peut comprendre que le salariÃ© licenciÃ© ait besoin de dÃ©mÃ©nager rapidement, mais il en est de mÃªme du salariÃ© qui dÃ©missionne pour se reconvertir ou travailler sur un autre lieu ! 
+(En fait, je connais la rÃ©ponse Ã  cette question : notre sociÃ©tÃ© franÃ§aise est basÃ©e sur le principe de "**un CDI pour la vie**". Ce n'est pas normal de vouloir changer de travail, ce n'est pas normal de dÃ©missionner, car il y a tant de chÃ´mage ! Seul un fou renoncerait Ã  la sÃ©curitÃ© d'un CDI en dÃ©missionnant...)
+Pourquoi l'employeur et le salariÃ© ont-ils le pouvoir de se mettre d'accord pour forcer un tiers (le propriÃ©taire) Ã  subir un prÃ©judice potentiel (le prÃ©avis rÃ©duit) ?
 
 
 

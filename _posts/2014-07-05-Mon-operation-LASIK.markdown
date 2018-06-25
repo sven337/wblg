@@ -1,113 +1,113 @@
 ---
 layout: post
-title: Mon opération LASIK
+title: Mon opÃ©ration LASIK
 date: 2014-07-05 18:04:00
-tags: médecine
+tags: mÃ©decine
 category: francais
 comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-J'ai été opéré de la myopie il y a environ deux ans. Je rends compte dans cet article de mon expérience : l'opération en elle-même, ainsi que ses conséquences positives et négatives. Il s'agit seulement de mon expérience ainsi que celle de deux de mes proches, mais j'espère qu'elle pourra vous aider à vous poser les bonnes questions afin de prendre votre décision en connaissance de cause. Je ne recommande rien et je n'ai pas (encore) d'actions dans les entreprises fabriquant le matériel utilisé en LASIK. **Je ne suis pas médecin** (affirmation que je vais regretter lorsque j'aborderai les problèmes de notre système de santé), juste un bonhomme sur Internet qui publie sa prose anonymement. Interrogez votre praticien, lisez la littérature médicale, posez des questions à votre entourage (ou à moi), ... mais votre décision doit être personnelle. J'espère bien que mon article vous informera, mais je n'ai aucune prétention d'objectivité sur ce weblog.
+J'ai Ã©tÃ© opÃ©rÃ© de la myopie il y a environ deux ans. Je rends compte dans cet article de mon expÃ©rience : l'opÃ©ration en elle-mÃªme, ainsi que ses consÃ©quences positives et nÃ©gatives. Il s'agit seulement de mon expÃ©rience ainsi que celle de deux de mes proches, mais j'espÃ¨re qu'elle pourra vous aider Ã  vous poser les bonnes questions afin de prendre votre dÃ©cision en connaissance de cause. Je ne recommande rien et je n'ai pas (encore) d'actions dans les entreprises fabriquant le matÃ©riel utilisÃ© en LASIK. **Je ne suis pas mÃ©decin** (affirmation que je vais regretter lorsque j'aborderai les problÃ¨mes de notre systÃ¨me de santÃ©), juste un bonhomme sur Internet qui publie sa prose anonymement. Interrogez votre praticien, lisez la littÃ©rature mÃ©dicale, posez des questions Ã  votre entourage (ou Ã  moi), ... mais votre dÃ©cision doit Ãªtre personnelle. J'espÃ¨re bien que mon article vous informera, mais je n'ai aucune prÃ©tention d'objectivitÃ© sur ce weblog.
 
 # LASIK "tout laser"
 
-Je ne vais pas décrire l'opération en détail car cela est fait par de nombreux sites. 
-Par contre, je voudrais revenir sur certains points qui m'ont marqué en tant que patient. Dans un LASIK moderne, l'opération a lieu en deux temps : découpe du capot cornéen avec un premier laser, sur un oeil, puis l'autre, et abrasion avec un deuxième laser, sur un oeil, puis l'autre. Il est bien sûr possible d'opérer un seul oeil, mais je n'ai pas retenu cette approche, afin de minimiser la durée totale de "handicap".
+Je ne vais pas dÃ©crire l'opÃ©ration en dÃ©tail car cela est fait par de nombreux sites. 
+Par contre, je voudrais revenir sur certains points qui m'ont marquÃ© en tant que patient. Dans un LASIK moderne, l'opÃ©ration a lieu en deux temps : dÃ©coupe du capot cornÃ©en avec un premier laser, sur un oeil, puis l'autre, et abrasion avec un deuxiÃ¨me laser, sur un oeil, puis l'autre. Il est bien sÃ»r possible d'opÃ©rer un seul oeil, mais je n'ai pas retenu cette approche, afin de minimiser la durÃ©e totale de "handicap".
 
-## Pourquoi j'ai décidé de faire l'opération
+## Pourquoi j'ai dÃ©cidÃ© de faire l'opÃ©ration
 
-J'ai porté des lunettes pendant des années, mais les questions de confort m'ont rapidement poussé vers les lentilles. J'ai porté des lentilles souples, d'abord des hydrogel classiques (rien de tel pour asphyxier votre cornée), puis des silicone hydrogel, pendant plus d'une décennie... et je suis arrivé à un point où je ne supportais plus les lentilles que deux heures par jour. Ensuite, ma vision se troublait et j'étais forcé de les enlever, pour remettre des lunettes.
-Inutile de détailler les raisons pour lesquelles je n'aime pas les lunettes.
+J'ai portÃ© des lunettes pendant des annÃ©es, mais les questions de confort m'ont rapidement poussÃ© vers les lentilles. J'ai portÃ© des lentilles souples, d'abord des hydrogel classiques (rien de tel pour asphyxier votre cornÃ©e), puis des silicone hydrogel, pendant plus d'une dÃ©cennie... et je suis arrivÃ© Ã  un point oÃ¹ je ne supportais plus les lentilles que deux heures par jour. Ensuite, ma vision se troublait et j'Ã©tais forcÃ© de les enlever, pour remettre des lunettes.
+Inutile de dÃ©tailler les raisons pour lesquelles je n'aime pas les lunettes.
 
 ## Aspect financier
 
 {:.CSSTableGenerator}
-| Correction | Coût sur 25 ans | Coût par an |
+| Correction | CoÃ»t sur 25 ans | CoÃ»t par an |
 | LASIK | 2000EUR | 100EUR |
 | Lentilles | 3200EUR | 160EUR |
 | Lunettes | 2200EUR | 110EUR |
 
-Je vais faire un calcul qui correspond à mon cas (myopie moyenne, astigmatisme très faible). Le vôtre peut différer, mais la méthode de calcul reste applicable.
+Je vais faire un calcul qui correspond Ã  mon cas (myopie moyenne, astigmatisme trÃ¨s faible). Le vÃ´tre peut diffÃ©rer, mais la mÃ©thode de calcul reste applicable.
 
 ### LASIK
 
-Supposons une opération qui coûte environ **2000EUR**. Demandez un devis à votre praticien, mais c'est le haut de la fourchette pour un LASIK tout laser, en tout cas à l'époque où j'ai fait mon opération (qui m'a coûté 1800EUR). Comparons son coût sur 20 ans avec le coût de lentilles ou de lunettes sur 20 ans. 
+Supposons une opÃ©ration qui coÃ»te environ **2000EUR**. Demandez un devis Ã  votre praticien, mais c'est le haut de la fourchette pour un LASIK tout laser, en tout cas Ã  l'Ã©poque oÃ¹ j'ai fait mon opÃ©ration (qui m'a coÃ»tÃ© 1800EUR). Comparons son coÃ»t sur 20 ans avec le coÃ»t de lentilles ou de lunettes sur 20 ans. 
 
 ### Lentilles
 
-Mes lentilles silicone hydrogel revenaient à environ 40EUR pour 6 lentilles, qui en théorie doivent durer un mois chacune (en pratique, comme tout le monde sur Terre, je les conservais 6 semaines, ce qui n'est d'ailleurs pas étranger à mes problèmes d'inconfort).
-Il faut quatre boîtes par an (j'ai deux yeux), soit environ **160EUR** par an de lentilles.
+Mes lentilles silicone hydrogel revenaient Ã  environ 40EUR pour 6 lentilles, qui en thÃ©orie doivent durer un mois chacune (en pratique, comme tout le monde sur Terre, je les conservais 6 semaines, ce qui n'est d'ailleurs pas Ã©tranger Ã  mes problÃ¨mes d'inconfort).
+Il faut quatre boÃ®tes par an (j'ai deux yeux), soit environ **160EUR** par an de lentilles.
 
 ### Lunettes
 
-Les lunettes peuvent revenir très peu cher si votre vue est stable et vos montures bon marché. 
+Les lunettes peuvent revenir trÃ¨s peu cher si votre vue est stable et vos montures bon marchÃ©. 
 
-J'avais une monture en titane, environ 300EUR, et les verres étaient à environ 85EUR pièce, soit un total de 470EUR, pour une durée d'environ 4 ans, soit **110EUR** par an.
+J'avais une monture en titane, environ 300EUR, et les verres Ã©taient Ã  environ 85EUR piÃ¨ce, soit un total de 470EUR, pour une durÃ©e d'environ 4 ans, soit **110EUR** par an.
 
 ### Bilan
 
-Certes, en changeant un peu les hypothèses on peut faire dire n'importe quoi à ces données. Ce qui est certain, par contre, c'est que le LASIK ne revient pas significativement plus cher que les lentilles ou les lunettes, ce serait plutôt l'inverse.
+Certes, en changeant un peu les hypothÃ¨ses on peut faire dire n'importe quoi Ã  ces donnÃ©es. Ce qui est certain, par contre, c'est que le LASIK ne revient pas significativement plus cher que les lentilles ou les lunettes, ce serait plutÃ´t l'inverse.
 
-Notez que je n'ai pas pris en compte les remboursements de la sécurité sociale (c'est normal, ils sont inexistants en optique) ou de votre mutuelle. Cela dit, les contrats de mutuelle remboursent en général le LASIK à hauteur de 15 à 20 ans de lentilles, donc cela ne change que peu l'équation.
+Notez que je n'ai pas pris en compte les remboursements de la sÃ©curitÃ© sociale (c'est normal, ils sont inexistants en optique) ou de votre mutuelle. Cela dit, les contrats de mutuelle remboursent en gÃ©nÃ©ral le LASIK Ã  hauteur de 15 Ã  20 ans de lentilles, donc cela ne change que peu l'Ã©quation.
 
-## Quelles sont les raisons de ne pas vous faire opérer ?
+## Quelles sont les raisons de ne pas vous faire opÃ©rer ?
 
-À mon avis :
+Ã€ mon avis :
 
-- si vous portez des lunettes et n'avez jamais essayé les lentilles, ne vous faites pas opérer et essayez les lentilles de contact qui vous fourniront presque tous les avantages du LASIK, sans modifier vos yeux de manière irréversible
-- si vous ne voyez pas le problème des lunettes
-- si vous n'avez pas totalement confiance dans le praticien que vous avez rencontré
+- si vous portez des lunettes et n'avez jamais essayÃ© les lentilles, ne vous faites pas opÃ©rer et essayez les lentilles de contact qui vous fourniront presque tous les avantages du LASIK, sans modifier vos yeux de maniÃ¨re irrÃ©versible
+- si vous ne voyez pas le problÃ¨me des lunettes
+- si vous n'avez pas totalement confiance dans le praticien que vous avez rencontrÃ©
 
-# La procédure et ses conséquences immédiates
+# La procÃ©dure et ses consÃ©quences immÃ©diates
 
-## L'opération
+## L'opÃ©ration
 
-### À savoir
+### Ã€ savoir
 
-L'opération est réalisée en une vingtaine de minutes environ, soit en incluant le temps de préparation et celui du paiement (ce qui sera l'étape la plus douloureuse pour certains !) un total d'une heure. Il faut impérativement se faire accompagner. Conduire après l'opération est absolument hors de question, et même marcher sans se heurter à tous les obstacles peut être une épreuve. Rendez vous service et considérez que vous serez totalement aveugle pendant la demi-journée qui suit l'opération. C'est un peu exagéré, mais cela fixe les idées.
+L'opÃ©ration est rÃ©alisÃ©e en une vingtaine de minutes environ, soit en incluant le temps de prÃ©paration et celui du paiement (ce qui sera l'Ã©tape la plus douloureuse pour certains !) un total d'une heure. Il faut impÃ©rativement se faire accompagner. Conduire aprÃ¨s l'opÃ©ration est absolument hors de question, et mÃªme marcher sans se heurter Ã  tous les obstacles peut Ãªtre une Ã©preuve. Rendez vous service et considÃ©rez que vous serez totalement aveugle pendant la demi-journÃ©e qui suit l'opÃ©ration. C'est un peu exagÃ©rÃ©, mais cela fixe les idÃ©es.
 
 ### Pendant
 
-L'opération n'est pas sans douleur. Dans mon cas et celui d'un ami, elle était même assez douloureuse. Un autre de mes amis ne s'est, lui, pas plaint de la douleur.
+L'opÃ©ration n'est pas sans douleur. Dans mon cas et celui d'un ami, elle Ã©tait mÃªme assez douloureuse. Un autre de mes amis ne s'est, lui, pas plaint de la douleur.
 
-#### Découpe du capot
+#### DÃ©coupe du capot
 
-La découpe du capot nécessite de présenter au laser une cornée aplatie. Pour atteindre cet objectif ambitieux, un dispositif qui m'a semblé être une pompe à vide est placé sur votre oeil. Le placement du dispositif demande précision et ... force. Le médecin va vous écraser l'oeil de toutes ses forces avant d'enclencher une pompe qui a pour effet (car elle "attire" le sang) de vous rendre complètement aveugle pendant le temps où elle est appliquée.
-Le premier laser va ensuite brûler la cornée, à la bonne profondeur, en dessinant des points équirépartis (comme des pointillés de papier toilette, mais en 2D, en quelque sorte). Ce "dessin" m'a permis de sentir chaque point sous la forme d'une brûlure relativement intense, et ce malgré l'anesthésie.
+La dÃ©coupe du capot nÃ©cessite de prÃ©senter au laser une cornÃ©e aplatie. Pour atteindre cet objectif ambitieux, un dispositif qui m'a semblÃ© Ãªtre une pompe Ã  vide est placÃ© sur votre oeil. Le placement du dispositif demande prÃ©cision et ... force. Le mÃ©decin va vous Ã©craser l'oeil de toutes ses forces avant d'enclencher une pompe qui a pour effet (car elle "attire" le sang) de vous rendre complÃ¨tement aveugle pendant le temps oÃ¹ elle est appliquÃ©e.
+Le premier laser va ensuite brÃ»ler la cornÃ©e, Ã  la bonne profondeur, en dessinant des points Ã©quirÃ©partis (comme des pointillÃ©s de papier toilette, mais en 2D, en quelque sorte). Ce "dessin" m'a permis de sentir chaque point sous la forme d'une brÃ»lure relativement intense, et ce malgrÃ© l'anesthÃ©sie.
 
 #### Abrasion
 
-Cette étape est désagréable car il faut fixer un laser (qui éblouit), sans cligner des yeux, pendant une durée d'environ 30 secondes (et qui dépend bien sûr de la quantité de matière à détruire, c'est-à-dire de la puissance optique de votre correction - les détails sont en général dans la *datasheet* de l'appareil qui sera utilisé pour vous opérer). L'abrasion n'a pas été très douloureuse pour moi, mais l'un de mes amis, mal anesthésié, s'était plaint qu'elle était intolérable. Il semblerait que le dosage des anesthésies locales occulaires est un peu aléatoire.
+Cette Ã©tape est dÃ©sagrÃ©able car il faut fixer un laser (qui Ã©blouit), sans cligner des yeux, pendant une durÃ©e d'environ 30 secondes (et qui dÃ©pend bien sÃ»r de la quantitÃ© de matiÃ¨re Ã  dÃ©truire, c'est-Ã -dire de la puissance optique de votre correction - les dÃ©tails sont en gÃ©nÃ©ral dans la *datasheet* de l'appareil qui sera utilisÃ© pour vous opÃ©rer). L'abrasion n'a pas Ã©tÃ© trÃ¨s douloureuse pour moi, mais l'un de mes amis, mal anesthÃ©siÃ©, s'Ã©tait plaint qu'elle Ã©tait intolÃ©rable. Il semblerait que le dosage des anesthÃ©sies locales occulaires est un peu alÃ©atoire.
 
-### Après
+### AprÃ¨s
 
-Immédiatement après l'opération vous porterez des lunettes noires et aurez interdiction absolue de vous toucher les yeux, car le capot, détaché, n'a aucune résistance mécanique. Il pourrait "tomber" comme une lentille de contact, ce qui vous donnerait l'immense joie de vous inscrire sur les listes d'attente pour une greffe de cornée afin de recouvrer la vue. Sérieusement, j'ignore les probabilités de complications, mais mon médecin m'avait dit que la plupart des problèmes graves se produisent dans les quelques jours suivant l'opération, soit à cause d'un souci mécanique comme je viens de décrire, soit à cause d'une infection.
+ImmÃ©diatement aprÃ¨s l'opÃ©ration vous porterez des lunettes noires et aurez interdiction absolue de vous toucher les yeux, car le capot, dÃ©tachÃ©, n'a aucune rÃ©sistance mÃ©canique. Il pourrait "tomber" comme une lentille de contact, ce qui vous donnerait l'immense joie de vous inscrire sur les listes d'attente pour une greffe de cornÃ©e afin de recouvrer la vue. SÃ©rieusement, j'ignore les probabilitÃ©s de complications, mais mon mÃ©decin m'avait dit que la plupart des problÃ¨mes graves se produisent dans les quelques jours suivant l'opÃ©ration, soit Ã  cause d'un souci mÃ©canique comme je viens de dÃ©crire, soit Ã  cause d'une infection.
 
-Vous pourrez ouvrir les yeux dans les minutes qui suivent l'opération, et vous y verrez suffisamment pour marcher un petit peu. Par contre, dès que l'anesthésie va se dissiper, vos yeux retrouveront leur sensibilité et indiqueront à votre cerveau qu'[ils ont été endommagés](http://fr.wikipedia.org/wiki/Douleur). L'anti-inflammatoire (qui vous aura été prescrit) calmera la douleur, mais tant qu'il n'est pas appliqué vous serez incapable d'ouvrir les yeux (et dans mon cas, en train de vous rouler par terre, en pleurs, dans un parking souterrain - véridique). C'est de très loin le plus mauvais souvenir que je conserve de cette procédure, mais il me faut signaler que mes deux amis qui ont fait l'opération n'ont aucun souvenir d'un tel niveau de douleur. J'ai juste été malchanceux.
+Vous pourrez ouvrir les yeux dans les minutes qui suivent l'opÃ©ration, et vous y verrez suffisamment pour marcher un petit peu. Par contre, dÃ¨s que l'anesthÃ©sie va se dissiper, vos yeux retrouveront leur sensibilitÃ© et indiqueront Ã  votre cerveau qu'[ils ont Ã©tÃ© endommagÃ©s](http://fr.wikipedia.org/wiki/Douleur). L'anti-inflammatoire (qui vous aura Ã©tÃ© prescrit) calmera la douleur, mais tant qu'il n'est pas appliquÃ© vous serez incapable d'ouvrir les yeux (et dans mon cas, en train de vous rouler par terre, en pleurs, dans un parking souterrain - vÃ©ridique). C'est de trÃ¨s loin le plus mauvais souvenir que je conserve de cette procÃ©dure, mais il me faut signaler que mes deux amis qui ont fait l'opÃ©ration n'ont aucun souvenir d'un tel niveau de douleur. J'ai juste Ã©tÃ© malchanceux.
 
-Dans les heures qui suivent l'opération, la lumière vous gênera beaucoup. L'idéal est de se coucher et d'essayer de dormir (ou d'écouter [Rendez-vous avec X](http://rendezvousavecmrx.free.fr/)). Vous ressentirez rapidement que vous avez les yeux secs, sensation qui ne vous quittera pas pendant de nombreux mois, et qui vous réveillera parfois la nuit. Vous y verrez "correctement" dans les heures qui suivent l'opération, et une vue normale reviendra sous 24h à 48h. Deux jours après l'opération, je voyais 10/10.
+Dans les heures qui suivent l'opÃ©ration, la lumiÃ¨re vous gÃªnera beaucoup. L'idÃ©al est de se coucher et d'essayer de dormir (ou d'Ã©couter [Rendez-vous avec X](http://rendezvousavecmrx.free.fr/)). Vous ressentirez rapidement que vous avez les yeux secs, sensation qui ne vous quittera pas pendant de nombreux mois, et qui vous rÃ©veillera parfois la nuit. Vous y verrez "correctement" dans les heures qui suivent l'opÃ©ration, et une vue normale reviendra sous 24h Ã  48h. Deux jours aprÃ¨s l'opÃ©ration, je voyais 10/10.
 
-# Retour d'expérience après deux ans
+# Retour d'expÃ©rience aprÃ¨s deux ans
 
-On lit beaucoup de choses inquiétantes sur Internet, et j'ai conscience que cet article n'est pas exactement une publicité pour le LASIK. Néanmoins nous n'avons pas encore abordé les aspects positifs, qui arrivent à plus long terme.
+On lit beaucoup de choses inquiÃ©tantes sur Internet, et j'ai conscience que cet article n'est pas exactement une publicitÃ© pour le LASIK. NÃ©anmoins nous n'avons pas encore abordÃ© les aspects positifs, qui arrivent Ã  plus long terme.
 
 ## Les effets secondaires
 
 ### Les yeux secs 
 
-L'effet secondaire principal de l'opération est les yeux secs. J'ai personnellement toujours eu les yeux très secs (14 heures par jour devant un écran et les lentilles de contact n'ont pas aidé), et cela ne s'est évidemment pas arrangé après l'opération. La durée "officielle" des symptômes est d'environ 6 mois après l'opération (pendant lesquels il vous sera impossible de vous passer de lubrifiant occulaire - j'utilisais du sérum physiologique pour des raisons de coût - plus de quelques heures). Leur intensité va décroissant, mais j'ai eu les yeux secs pendant plus d'un an après l'opération.
+L'effet secondaire principal de l'opÃ©ration est les yeux secs. J'ai personnellement toujours eu les yeux trÃ¨s secs (14 heures par jour devant un Ã©cran et les lentilles de contact n'ont pas aidÃ©), et cela ne s'est Ã©videmment pas arrangÃ© aprÃ¨s l'opÃ©ration. La durÃ©e "officielle" des symptÃ´mes est d'environ 6 mois aprÃ¨s l'opÃ©ration (pendant lesquels il vous sera impossible de vous passer de lubrifiant occulaire - j'utilisais du sÃ©rum physiologique pour des raisons de coÃ»t - plus de quelques heures). Leur intensitÃ© va dÃ©croissant, mais j'ai eu les yeux secs pendant plus d'un an aprÃ¨s l'opÃ©ration.
 
-Quelques-uns sur Internet affirment être "handicapés à vie" parce qu'ils ont les yeux secs après leur opération. Je n'ai pas de raison particulière de remettre en question leur témoignage, alors peut-être qu'ils disent vrai - en tout cas, je m'attendais à souffrir beaucoup plus des yeux secs que ce que cela a été finalement. Si vous travaillez devant un écran et avez porté des lentilles pendant plus d'une décennie, vous avez déjà les yeux secs, vous ne serez à mon avis pas dépaysé suite à l'opération !
+Quelques-uns sur Internet affirment Ãªtre "handicapÃ©s Ã  vie" parce qu'ils ont les yeux secs aprÃ¨s leur opÃ©ration. Je n'ai pas de raison particuliÃ¨re de remettre en question leur tÃ©moignage, alors peut-Ãªtre qu'ils disent vrai - en tout cas, je m'attendais Ã  souffrir beaucoup plus des yeux secs que ce que cela a Ã©tÃ© finalement. Si vous travaillez devant un Ã©cran et avez portÃ© des lentilles pendant plus d'une dÃ©cennie, vous avez dÃ©jÃ  les yeux secs, vous ne serez Ã  mon avis pas dÃ©paysÃ© suite Ã  l'opÃ©ration !
 
 ### Lunettes de soleil
 
-La cornée post-opératoire est très sensible aux rayons ultra-violets (à vrai dire, la cornée *tout court* est très sensible [...]). Le médecin vous recommendera formellement de porter des lunettes de soleil dès que vous êtes en extérieur. J'ai la "chance" d'être particulièrement sensible à la lumière (je n'ai jamais pu sortir sans lunettes de soleil en été), et cette sensibilité m'a toujours efficacement rappelé de porter mes lunettes de soleil.
-En été, point de difficulté, mais à la mi-saison vous devrez également protéger vos yeux des UV. Le choix que j'ai fait, étant donné le cyclisme que je pratique par ailleurs, est d'acheter des [lunettes de vélo de catégorie 1](http://www.decathlon.fr/arenberg-cat1-id_8118519.html). Ce modèle précis est peu onéreux, de bonne qualité (pour le cyclisme comme pour la protection au quotidien), et sa forme enveloppante aide également à limiter la séchèresse occulaire. Je recommande fortement d'acheter ces onéreuses lunettes et de les porter systématiquement en extérieur et pourquoi pas en intérieur.
+La cornÃ©e post-opÃ©ratoire est trÃ¨s sensible aux rayons ultra-violets (Ã  vrai dire, la cornÃ©e *tout court* est trÃ¨s sensible [...]). Le mÃ©decin vous recommendera formellement de porter des lunettes de soleil dÃ¨s que vous Ãªtes en extÃ©rieur. J'ai la "chance" d'Ãªtre particuliÃ¨rement sensible Ã  la lumiÃ¨re (je n'ai jamais pu sortir sans lunettes de soleil en Ã©tÃ©), et cette sensibilitÃ© m'a toujours efficacement rappelÃ© de porter mes lunettes de soleil.
+En Ã©tÃ©, point de difficultÃ©, mais Ã  la mi-saison vous devrez Ã©galement protÃ©ger vos yeux des UV. Le choix que j'ai fait, Ã©tant donnÃ© le cyclisme que je pratique par ailleurs, est d'acheter des [lunettes de vÃ©lo de catÃ©gorie 1](http://www.decathlon.fr/arenberg-cat1-id_8118519.html). Ce modÃ¨le prÃ©cis est peu onÃ©reux, de bonne qualitÃ© (pour le cyclisme comme pour la protection au quotidien), et sa forme enveloppante aide Ã©galement Ã  limiter la sÃ©chÃ¨resse occulaire. Je recommande fortement d'acheter ces onÃ©reuses lunettes et de les porter systÃ©matiquement en extÃ©rieur et pourquoi pas en intÃ©rieur.
 
 ## Pourquoi je le referais
 
-Ma vue est excellente. Dans les mois qui suivaient l'opération elle était à 12/10, et s'est légèrement dégradée (ce qui est normal) en un an pour revenir à 10/10. J'ai été légèrement sur-corrigé d'un oeil, ce qui a entraîné des céphalées vespérales (ça veut dire "mal à la tête le soir" en langage <s>pédant</s>médical).
-Ma vie a changé : plus besoin de lunettes au réveil, moins de gêne le soir à cause des lentilles que je ne supportais plus (mais la vue se dégrade de toute façon avec la fatigue), plus besoin d'emporter un demi kilogramme de produits pour lentilles à chaque fois que je pars en vacances, et un confort équivalent à celui des lentilles (avec une meilleure vue) lors des activités sportives.
+Ma vue est excellente. Dans les mois qui suivaient l'opÃ©ration elle Ã©tait Ã  12/10, et s'est lÃ©gÃ¨rement dÃ©gradÃ©e (ce qui est normal) en un an pour revenir Ã  10/10. J'ai Ã©tÃ© lÃ©gÃ¨rement sur-corrigÃ© d'un oeil, ce qui a entraÃ®nÃ© des cÃ©phalÃ©es vespÃ©rales (Ã§a veut dire "mal Ã  la tÃªte le soir" en langage <s>pÃ©dant</s>mÃ©dical).
+Ma vie a changÃ© : plus besoin de lunettes au rÃ©veil, moins de gÃªne le soir Ã  cause des lentilles que je ne supportais plus (mais la vue se dÃ©grade de toute faÃ§on avec la fatigue), plus besoin d'emporter un demi kilogramme de produits pour lentilles Ã  chaque fois que je pars en vacances, et un confort Ã©quivalent Ã  celui des lentilles (avec une meilleure vue) lors des activitÃ©s sportives.
 
-Le plus gros problème à l'heure où j'écris ces lignes est qu'on s'habitue vite au luxe, et que j'ai tout bonnement oublié ce que c'était d'être myope. L'opération vous rend les yeux normaux que vous n'avez jamais eus, à un coût qui à l'échelle d'une vie reste raisonnable.
+Le plus gros problÃ¨me Ã  l'heure oÃ¹ j'Ã©cris ces lignes est qu'on s'habitue vite au luxe, et que j'ai tout bonnement oubliÃ© ce que c'Ã©tait d'Ãªtre myope. L'opÃ©ration vous rend les yeux normaux que vous n'avez jamais eus, Ã  un coÃ»t qui Ã  l'Ã©chelle d'une vie reste raisonnable.

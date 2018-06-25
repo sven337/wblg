@@ -8,10 +8,10 @@ comments: true
 img_rel: "/~sven337/data/XXX"
 ---
 
-Dans cette série d'articles je souhaite apporter quelques explications sur le fonctionnement de notre système fiscal français. Je ne suis ni fiscaliste ni économiste, mais j'ai répondu au fil des ans à tellement de questions que je remarque que le peu que je comprends semble être supérieur à la moyenne.
-Mon objectif est d'expliquer simplement comment fonctionne notre système fiscal (et ses raisons d'être), et d'aborder certaines idées reçues et considérations politiques qui manquent bien souvent au débat. Notre système fiscal atteint un niveau de complexité tel que, malheureusement, un citoyen est obligé de dépenser plusieurs semaines de son temps pour le comprendre - et les sources d'information sont en général de mauvaise qualité.
+Dans cette sÃ©rie d'articles je souhaite apporter quelques explications sur le fonctionnement de notre systÃ¨me fiscal franÃ§ais. Je ne suis ni fiscaliste ni Ã©conomiste, mais j'ai rÃ©pondu au fil des ans Ã  tellement de questions que je remarque que le peu que je comprends semble Ãªtre supÃ©rieur Ã  la moyenne.
+Mon objectif est d'expliquer simplement comment fonctionne notre systÃ¨me fiscal (et ses raisons d'Ãªtre), et d'aborder certaines idÃ©es reÃ§ues et considÃ©rations politiques qui manquent bien souvent au dÃ©bat. Notre systÃ¨me fiscal atteint un niveau de complexitÃ© tel que, malheureusement, un citoyen est obligÃ© de dÃ©penser plusieurs semaines de son temps pour le comprendre - et les sources d'information sont en gÃ©nÃ©ral de mauvaise qualitÃ©.
 
-# Table des matières
+# Table des matiÃ¨res
 {:.no_toc}
 
 1. contents placeholder
@@ -19,109 +19,109 @@ Mon objectif est d'expliquer simplement comment fonctionne notre système fiscal 
 
 # La mafia
 
-Sans jugement de valeur, la société est un parasite de l'activité économique. Dès que de l'argent change de mains, la société est là, pour exiger sa part. Ce principe fondamental est simple, et trop peu souvent rappelé. L'adage "tout travail mérite salaire" justifie ce principe : toute l'activité économique en France n'est possible que parce que le pays est développé et qu'il existe autour des acteurs une société évoluée qui rend de nombreux services.
+Sans jugement de valeur, la sociÃ©tÃ© est un parasite de l'activitÃ© Ã©conomique. DÃ¨s que de l'argent change de mains, la sociÃ©tÃ© est lÃ , pour exiger sa part. Ce principe fondamental est simple, et trop peu souvent rappelÃ©. L'adage "tout travail mÃ©rite salaire" justifie ce principe : toute l'activitÃ© Ã©conomique en France n'est possible que parce que le pays est dÃ©veloppÃ© et qu'il existe autour des acteurs une sociÃ©tÃ© Ã©voluÃ©e qui rend de nombreux services.
 
-## "Si j'ai réussi, c'est grâce à mes efforts" : je ne dois rien à personne
+## "Si j'ai rÃ©ussi, c'est grÃ¢ce Ã  mes efforts" : je ne dois rien Ã  personne
 
-On entend régulièrement (et souvent de la part des membres de notre société qui lui doivent le plus) des propos similaires. Le financement des services que nous rend la société se découpe essentiellement en trois parties, dont la séparation est largement artificielle et ne nous intéresse pas vraiment : l'État, la sécurité sociale, et les collectivités locales. Je m'intéresserai aux deux premiers. Dans cet article, nous aborderons les impôts qui sont payés par les personnes physiques. Par la suite nous aborderons les impôts qui concernent les sociétés, puis le financement de la sécurité sociale.
+On entend rÃ©guliÃ¨rement (et souvent de la part des membres de notre sociÃ©tÃ© qui lui doivent le plus) des propos similaires. Le financement des services que nous rend la sociÃ©tÃ© se dÃ©coupe essentiellement en trois parties, dont la sÃ©paration est largement artificielle et ne nous intÃ©resse pas vraiment : l'Ã‰tat, la sÃ©curitÃ© sociale, et les collectivitÃ©s locales. Je m'intÃ©resserai aux deux premiers. Dans cet article, nous aborderons les impÃ´ts qui sont payÃ©s par les personnes physiques. Par la suite nous aborderons les impÃ´ts qui concernent les sociÃ©tÃ©s, puis le financement de la sÃ©curitÃ© sociale.
 
-# État
+# Ã‰tat
 
-L'État se finance de diverses manières (dont la majorité constitue du parasitisme économique), les principales étant reprises ci-dessous *par ordre décroissant d'importance*.
+L'Ã‰tat se finance de diverses maniÃ¨res (dont la majoritÃ© constitue du parasitisme Ã©conomique), les principales Ã©tant reprises ci-dessous *par ordre dÃ©croissant d'importance*.
 
 ## TVA
 
-La taxe sur la valeur ajoutée est l'impôt le plus simple qui existe en France : lorsque un être humain achète quelque chose, il verse une taxe proportionnelle à l'État, en rémunération des services qui ont rendu possible la création du produit ou du service acheté. La TVA est donc intégralement supportée par le consommateur personne physique (donc il est idiot de se demander si une augmentation de la TVA sera "reportée" sur les consommateurs ou pas : par conception la TVA doit être reportée sur les consommateurs).
-Le mode de perception de la TVA est toutefois un petit peu plus complexe, car c'est en réalité chaque acteur de la chaîne économique qui paie sa quote-part de TVA (assise sur la valeur ajoutée comptable qu'il a créé). Pour une fois, [l'article Wikipédia en français sur la TVA](http://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e) est de bonne qualité, je ne vais pas [trop] le paraphraser.
-En conséquence, les entreprises s'intéressent principalement aux prix hors-taxes, car la TVA ne les concerne que d'un point de vue comptable, puisque ce sont les consommateurs "humains" qui la paient effectivement.
-Du fait du taux élevé de la TVA et de la complexité de son mécanisme de perception, la TVA est une cible attrayante pour la fraude. 
+La taxe sur la valeur ajoutÃ©e est l'impÃ´t le plus simple qui existe en France : lorsque un Ãªtre humain achÃ¨te quelque chose, il verse une taxe proportionnelle Ã  l'Ã‰tat, en rÃ©munÃ©ration des services qui ont rendu possible la crÃ©ation du produit ou du service achetÃ©. La TVA est donc intÃ©gralement supportÃ©e par le consommateur personne physique (donc il est idiot de se demander si une augmentation de la TVA sera "reportÃ©e" sur les consommateurs ou pas : par conception la TVA doit Ãªtre reportÃ©e sur les consommateurs).
+Le mode de perception de la TVA est toutefois un petit peu plus complexe, car c'est en rÃ©alitÃ© chaque acteur de la chaÃ®ne Ã©conomique qui paie sa quote-part de TVA (assise sur la valeur ajoutÃ©e comptable qu'il a crÃ©Ã©). Pour une fois, [l'article WikipÃ©dia en franÃ§ais sur la TVA](http://fr.wikipedia.org/wiki/Taxe_sur_la_valeur_ajout%C3%A9e) est de bonne qualitÃ©, je ne vais pas [trop] le paraphraser.
+En consÃ©quence, les entreprises s'intÃ©ressent principalement aux prix hors-taxes, car la TVA ne les concerne que d'un point de vue comptable, puisque ce sont les consommateurs "humains" qui la paient effectivement.
+Du fait du taux Ã©levÃ© de la TVA et de la complexitÃ© de son mÃ©canisme de perception, la TVA est une cible attrayante pour la fraude. 
 
-### Impôt injuste ?
+### ImpÃ´t injuste ?
 
-"La gauche" lutte régulièrement contre toute augmentation de la TVA car celle-ci serait "injuste", frappant plus durement les pauvres que les riches. La notion de "justice" d'un impôt est un concept très flou qui permet d'affirmer tout et son contraire, et il convient de se ramener à l'objectif premier de l'impôt : financer les services rendus à la collectivité. 
-En réalité, la TVA est un impôt égalitaire, qui est plus importante en valeur absolue pour les riches que pour les pauvres, car elle est strictement proportionnelle à la consommation. Si vous êtes *k* fois plus riche, vous allez dépenser environ *k* fois plus, et vous paierez exactement *k* fois plus de TVA. 
-Bien sûr, la consommation (= les sommes depensées pour acheter produits et services) n'est pas une fonction linéaire du revenu. Il existe une consommation "de base", incompressible, qui correspond aux dépenses contraintes (nourriture, logement, énergie). 
-Cela justifie l'argument selon lequel la TVA est inéquitable : en pourcentage du revenu, il est relativement exact qu'elle est plus importante chez les pauvres que chez les riches (mais en aucun cas en valeur absolue). 
+"La gauche" lutte rÃ©guliÃ¨rement contre toute augmentation de la TVA car celle-ci serait "injuste", frappant plus durement les pauvres que les riches. La notion de "justice" d'un impÃ´t est un concept trÃ¨s flou qui permet d'affirmer tout et son contraire, et il convient de se ramener Ã  l'objectif premier de l'impÃ´t : financer les services rendus Ã  la collectivitÃ©. 
+En rÃ©alitÃ©, la TVA est un impÃ´t Ã©galitaire, qui est plus importante en valeur absolue pour les riches que pour les pauvres, car elle est strictement proportionnelle Ã  la consommation. Si vous Ãªtes *k* fois plus riche, vous allez dÃ©penser environ *k* fois plus, et vous paierez exactement *k* fois plus de TVA. 
+Bien sÃ»r, la consommation (= les sommes depensÃ©es pour acheter produits et services) n'est pas une fonction linÃ©aire du revenu. Il existe une consommation "de base", incompressible, qui correspond aux dÃ©penses contraintes (nourriture, logement, Ã©nergie). 
+Cela justifie l'argument selon lequel la TVA est inÃ©quitable : en pourcentage du revenu, il est relativement exact qu'elle est plus importante chez les pauvres que chez les riches (mais en aucun cas en valeur absolue). 
 
-La simplicité de la TVA est intéressante : qui que je sois, je paie le même montant de TVA lorsque j'achète le même produit. Augmenter la TVA n'a rien d'une mesure "anti-pauvres", dans l'absolu : la vraie question est celle de **l'arbitrage**, c'est-à-dire *"vaut il mieux augmenter la TVA ou un autre impôt"*. Et on verra que cette caractéristique d'égalité stricte de la TVA n'est pas présente dans les autres impôts, donc l'arbitrage entre deux impôts donne, lui, lieu à une discussion sur l'équité : est-ce que je souhaite faire porter l'augmentation à égalité par tous les citoyens (bon courage pour m'expliquer que ce n'est pas une mesure juste), ou plutôt par les plus aisés d'entre eux (bon courage pour m'expliquer que ce n'est pas une mesure juste).
+La simplicitÃ© de la TVA est intÃ©ressante : qui que je sois, je paie le mÃªme montant de TVA lorsque j'achÃ¨te le mÃªme produit. Augmenter la TVA n'a rien d'une mesure "anti-pauvres", dans l'absolu : la vraie question est celle de **l'arbitrage**, c'est-Ã -dire *"vaut il mieux augmenter la TVA ou un autre impÃ´t"*. Et on verra que cette caractÃ©ristique d'Ã©galitÃ© stricte de la TVA n'est pas prÃ©sente dans les autres impÃ´ts, donc l'arbitrage entre deux impÃ´ts donne, lui, lieu Ã  une discussion sur l'Ã©quitÃ© : est-ce que je souhaite faire porter l'augmentation Ã  Ã©galitÃ© par tous les citoyens (bon courage pour m'expliquer que ce n'est pas une mesure juste), ou plutÃ´t par les plus aisÃ©s d'entre eux (bon courage pour m'expliquer que ce n'est pas une mesure juste).
 
 ### TVA sociale
 
-La TVA sert à financer la partie "non sociale" de l'action de l'État. Pour l'action "sociale" (maladie, vieillesse principalement), une comptabilité séparée est tenue, qui est celle de la sécurité sociale. La TVA sociale serait une TVA destinée au financement de la sécurité sociale. L'idée n'est en rien choquante et permettrait de faire porter de manière **plus égalitaire** le financement de la sécurité sociale par tous ses utilisateurs, et non seulement par ses travailleurs salariés ou assimilés.
-Le réel problème de la TVA sociale est qu'elle viendrait en sus de la TVA, et porterait notre taux de TVA à 23% voire 25%, ce qui porterait atteinte à notre compétitivité.
+La TVA sert Ã  financer la partie "non sociale" de l'action de l'Ã‰tat. Pour l'action "sociale" (maladie, vieillesse principalement), une comptabilitÃ© sÃ©parÃ©e est tenue, qui est celle de la sÃ©curitÃ© sociale. La TVA sociale serait une TVA destinÃ©e au financement de la sÃ©curitÃ© sociale. L'idÃ©e n'est en rien choquante et permettrait de faire porter de maniÃ¨re **plus Ã©galitaire** le financement de la sÃ©curitÃ© sociale par tous ses utilisateurs, et non seulement par ses travailleurs salariÃ©s ou assimilÃ©s.
+Le rÃ©el problÃ¨me de la TVA sociale est qu'elle viendrait en sus de la TVA, et porterait notre taux de TVA Ã  23% voire 25%, ce qui porterait atteinte Ã  notre compÃ©titivitÃ©.
 
-## Impôt sur le revenu (IR)
+## ImpÃ´t sur le revenu (IR)
 
-L'impôt sur le revenu des personnes physiques est l'impôt le plus compliqué, le plus chronophage, le plus traumatisant, et donc le plus présent dans notre débat politique. C'est à mon sens, pour les informaticiens qui me lisent, comme un gros logiciel mal écrit, patché au fil des ans, mal maintenu, que plus personne ne maîtrise et dont le fonctionnement s'écarte souvent de la spécification. La spécification en question étant **récrite partiellement au gré de la météo**, cet état de fait n'est pas surprenant.
+L'impÃ´t sur le revenu des personnes physiques est l'impÃ´t le plus compliquÃ©, le plus chronophage, le plus traumatisant, et donc le plus prÃ©sent dans notre dÃ©bat politique. C'est Ã  mon sens, pour les informaticiens qui me lisent, comme un gros logiciel mal Ã©crit, patchÃ© au fil des ans, mal maintenu, que plus personne ne maÃ®trise et dont le fonctionnement s'Ã©carte souvent de la spÃ©cification. La spÃ©cification en question Ã©tant **rÃ©crite partiellement au grÃ© de la mÃ©tÃ©o**, cet Ã©tat de fait n'est pas surprenant.
 Mais restons factuel pour quelques lignes de plus.
 
 ### Principe
 
-Le principe de cet impôt est de taxer non les dépenses (à l'instar de la TVA), mais les revenus, c'est-à-dire les rentrées d'argent nettes d'un individu. "Net" a ici une définition spécifique qui perturbera les comptables d'entreprise (pour qui "net" correspond à *rentrées - sorties*), ainsi que les salariés (pour qui "net" correspond à *ce que je reçois sur mon compte chaque mois*). 
-Chaque personne déclare chaque année *N* combien elle a gagné l'année *N-1*, cette somme passe dans une "moulinette" (un peu) complexe et donne lieu au paiement d'un impôt dont le taux effectif varie entre 0% et 30% environ (mais peut tendre jusqu'à 49%, sans jamais le dépasser - vous en déduirez la crédibilité de certaines célébrités qui affirment "travailler à 80% pour l'État").
+Le principe de cet impÃ´t est de taxer non les dÃ©penses (Ã  l'instar de la TVA), mais les revenus, c'est-Ã -dire les rentrÃ©es d'argent nettes d'un individu. "Net" a ici une dÃ©finition spÃ©cifique qui perturbera les comptables d'entreprise (pour qui "net" correspond Ã  *rentrÃ©es - sorties*), ainsi que les salariÃ©s (pour qui "net" correspond Ã  *ce que je reÃ§ois sur mon compte chaque mois*). 
+Chaque personne dÃ©clare chaque annÃ©e *N* combien elle a gagnÃ© l'annÃ©e *N-1*, cette somme passe dans une "moulinette" (un peu) complexe et donne lieu au paiement d'un impÃ´t dont le taux effectif varie entre 0% et 30% environ (mais peut tendre jusqu'Ã  49%, sans jamais le dÃ©passer - vous en dÃ©duirez la crÃ©dibilitÃ© de certaines cÃ©lÃ©britÃ©s qui affirment "travailler Ã  80% pour l'Ã‰tat").
 
 ### Objectif secondaire : la redistribution
 
-Cet impôt répond à un objectif secondaire (en sus de l'objectif fondamental) : redistribuer les richesses, en faisant contribuer plus fortement en pourcentage les hauts revenus. Pour cela, le taux de l'impôt est dit progressif (augmente quand le revenu augmente), et il est exprimé sous la forme d'un taux marginal. 
+Cet impÃ´t rÃ©pond Ã  un objectif secondaire (en sus de l'objectif fondamental) : redistribuer les richesses, en faisant contribuer plus fortement en pourcentage les hauts revenus. Pour cela, le taux de l'impÃ´t est dit progressif (augmente quand le revenu augmente), et il est exprimÃ© sous la forme d'un taux marginal. 
 
-#### Taux réel
+#### Taux rÃ©el
 
-Le principe du taux marginal progressif est que chaque euro supplémentaire est imposé à un taux un peu plus élevé que le précédent, avec toutefois un système de palier dont le but est de simplifier les calculs. Un revenu est dit "dans" une tranche à taux donné, si chaque euro supplémentaire sur ce revenu est taxé au taux en question. Par exemple, la plupart des salariés célibataires à bac+5 sont "dans la tranche des 30%", c'est-à-dire que chaque euro supplémentaire qu'ils gagnent sera imposé à hauteur de 30 centimes d'euro.
-Leur taux *réel* d'imposition est donné par l'administration fiscale, est relativement aisé à calculer, et s'élèvera à environ 15%. La plupart des français même instruits semble ignorer (au moins inconsciemment) cela, ce qui augmente l'aspect traumatisant de l'IR.
+Le principe du taux marginal progressif est que chaque euro supplÃ©mentaire est imposÃ© Ã  un taux un peu plus Ã©levÃ© que le prÃ©cÃ©dent, avec toutefois un systÃ¨me de palier dont le but est de simplifier les calculs. Un revenu est dit "dans" une tranche Ã  taux donnÃ©, si chaque euro supplÃ©mentaire sur ce revenu est taxÃ© au taux en question. Par exemple, la plupart des salariÃ©s cÃ©libataires Ã  bac+5 sont "dans la tranche des 30%", c'est-Ã -dire que chaque euro supplÃ©mentaire qu'ils gagnent sera imposÃ© Ã  hauteur de 30 centimes d'euro.
+Leur taux *rÃ©el* d'imposition est donnÃ© par l'administration fiscale, est relativement aisÃ© Ã  calculer, et s'Ã©lÃ¨vera Ã  environ 15%. La plupart des franÃ§ais mÃªme instruits semble ignorer (au moins inconsciemment) cela, ce qui augmente l'aspect traumatisant de l'IR.
 
-### Objectifs détournés
+### Objectifs dÃ©tournÃ©s
 
-Tout mauvais logiciel doit avoir ses objectifs détournés qui le rendent moins efficace et plus difficile à maintenir, et l'IR ne fait pas exception. Comme cet impôt est *personnalisé* (son taux et son assiette sont différents selon chaque personne, ce qui n'est pas le cas de la TVA, ou de la TIPP), c'est une bonne cible pour "greffer" d'autres objectifs, politiques : encourager les femmes à rester dans la cuisine et s'occuper des enfants, encourager la natalité, encourager l'accès à la propriété, encourager l'achat de logements à visée locative, encourager les travaux d'isolation, encourager les dons aux associations caritatives et aux partis politiques, ... 
-Ces différents objectifs détournés sont parfois louables (travaux d'isolation, dons aux Restos du Coeur), parfois économiquement débattus (accès à la propriété), parfois socialement très discutables (quotient familial permettant de payer moins d'impôts lorsque bobonne reste à la maison pour me faire à manger et éduquer mes enfants, dont l'existence me permet d'ailleurs de payer encore moins d'impôts).
+Tout mauvais logiciel doit avoir ses objectifs dÃ©tournÃ©s qui le rendent moins efficace et plus difficile Ã  maintenir, et l'IR ne fait pas exception. Comme cet impÃ´t est *personnalisÃ©* (son taux et son assiette sont diffÃ©rents selon chaque personne, ce qui n'est pas le cas de la TVA, ou de la TIPP), c'est une bonne cible pour "greffer" d'autres objectifs, politiques : encourager les femmes Ã  rester dans la cuisine et s'occuper des enfants, encourager la natalitÃ©, encourager l'accÃ¨s Ã  la propriÃ©tÃ©, encourager l'achat de logements Ã  visÃ©e locative, encourager les travaux d'isolation, encourager les dons aux associations caritatives et aux partis politiques, ... 
+Ces diffÃ©rents objectifs dÃ©tournÃ©s sont parfois louables (travaux d'isolation, dons aux Restos du Coeur), parfois Ã©conomiquement dÃ©battus (accÃ¨s Ã  la propriÃ©tÃ©), parfois socialement trÃ¨s discutables (quotient familial permettant de payer moins d'impÃ´ts lorsque bobonne reste Ã  la maison pour me faire Ã  manger et Ã©duquer mes enfants, dont l'existence me permet d'ailleurs de payer encore moins d'impÃ´ts).
 
-Certains de ces objectifs fonctionnent avec une réduction de l'assiette d'imposition (quotient familial = revenus divisés par nombre de personnes à charge, ou déduction des intérêts d'emprunts pour l'achat de la résidence principale), d'autres sur une réduction du montant final d'imposition. Dans tous les cas il s'agit d'éléments supplémentaires à déclarer, qu'on appelle les niches fiscales. Celles-ci sont vigoureusement défendues par leurs bénéficiaires.
+Certains de ces objectifs fonctionnent avec une rÃ©duction de l'assiette d'imposition (quotient familial = revenus divisÃ©s par nombre de personnes Ã  charge, ou dÃ©duction des intÃ©rÃªts d'emprunts pour l'achat de la rÃ©sidence principale), d'autres sur une rÃ©duction du montant final d'imposition. Dans tous les cas il s'agit d'Ã©lÃ©ments supplÃ©mentaires Ã  dÃ©clarer, qu'on appelle les niches fiscales. Celles-ci sont vigoureusement dÃ©fendues par leurs bÃ©nÃ©ficiaires.
 
 ### Traumatisant
 
-Le problème majeur de l'impôt sur le revenu est qu'il est **traumatisant**, pour les raisons suivantes :
+Le problÃ¨me majeur de l'impÃ´t sur le revenu est qu'il est **traumatisant**, pour les raisons suivantes :
 
-- taux trompeur (le taux marginal, supérieur au taux réel, est celui utilisé légalement, mais il est contre-intuitif)
-- perception *ex post* qui renforce le sentiment de se faire "prendre de l'argent" (d'où le titre de cet article, propos que j'ai réellement entendus)
-- rupture d'égalité devant l'impôt (niches non accessibles à tous, connaissances et délais spécifiques à maîtriser pour bénéficier de certains avantages)
+- taux trompeur (le taux marginal, supÃ©rieur au taux rÃ©el, est celui utilisÃ© lÃ©galement, mais il est contre-intuitif)
+- perception *ex post* qui renforce le sentiment de se faire "prendre de l'argent" (d'oÃ¹ le titre de cet article, propos que j'ai rÃ©ellement entendus)
+- rupture d'Ã©galitÃ© devant l'impÃ´t (niches non accessibles Ã  tous, connaissances et dÃ©lais spÃ©cifiques Ã  maÃ®triser pour bÃ©nÃ©ficier de certains avantages)
 
 ### Les nouveaux parasites 
 
-La complexité délirante de l'impôt sur le revenu (et autres) a donné naissance à des parasites de l'économie, que sont les avocats fiscalistes (qui vous aident à tricher). 
+La complexitÃ© dÃ©lirante de l'impÃ´t sur le revenu (et autres) a donnÃ© naissance Ã  des parasites de l'Ã©conomie, que sont les avocats fiscalistes (qui vous aident Ã  tricher). 
 
 ### Plus d'informations
 
-Beaucoup a été écrit sur l'impôt sur le revenu. La plupart des auteurs considèrent sa complexité comme inéluctable, ce qui me semble un peu facile.
+Beaucoup a Ã©tÃ© Ã©crit sur l'impÃ´t sur le revenu. La plupart des auteurs considÃ¨rent sa complexitÃ© comme inÃ©luctable, ce qui me semble un peu facile.
 
-À mon sens l'aspect traumatisant de l'impôt sur le revenu est un vrai problème car il est sans rapport avec l'importance de cet impôt dans le budget de l'État. Le prélèvement à la source réduirait cet aspect (sans toutefois économiser quoi que ce soit car les employeurs supporteraient la charge déclarative qui pesait auparavant sur les salariés). Les niches fiscales ne devraient à mon avis pas exister (sur le principe de la philosophie Unix "faire une chose, une seule, et la faire bien"), et pour celles qui sont justifiées, correspondre à un dispositif séparé. L'utilisation d'un taux marginal n'a pas forcément beaucoup de sens - et notre cerveau "intuitif" (dénommé system 1 par Kahneman) n'est pas capable de le comprendre.
+Ã€ mon sens l'aspect traumatisant de l'impÃ´t sur le revenu est un vrai problÃ¨me car il est sans rapport avec l'importance de cet impÃ´t dans le budget de l'Ã‰tat. Le prÃ©lÃ¨vement Ã  la source rÃ©duirait cet aspect (sans toutefois Ã©conomiser quoi que ce soit car les employeurs supporteraient la charge dÃ©clarative qui pesait auparavant sur les salariÃ©s). Les niches fiscales ne devraient Ã  mon avis pas exister (sur le principe de la philosophie Unix "faire une chose, une seule, et la faire bien"), et pour celles qui sont justifiÃ©es, correspondre Ã  un dispositif sÃ©parÃ©. L'utilisation d'un taux marginal n'a pas forcÃ©ment beaucoup de sens - et notre cerveau "intuitif" (dÃ©nommÃ© system 1 par Kahneman) n'est pas capable de le comprendre.
 
-[http://www.revolution-fiscale.fr/simulez-votre-propre-reforme-fiscale](http://www.revolution-fiscale.fr/simulez-votre-propre-reforme-fiscale) est un site intéressant.
+[http://www.revolution-fiscale.fr/simulez-votre-propre-reforme-fiscale](http://www.revolution-fiscale.fr/simulez-votre-propre-reforme-fiscale) est un site intÃ©ressant.
 
-## Impôt sur les sociétés
+## ImpÃ´t sur les sociÃ©tÃ©s
 
-Je le traiterai dans un article spécifique, mais je le mentionne ici pour respecter l'ordre d'importance.
+Je le traiterai dans un article spÃ©cifique, mais je le mentionne ici pour respecter l'ordre d'importance.
 
-## Taxe intérieure sur les produits pétroliers (TIPP)
+## Taxe intÃ©rieure sur les produits pÃ©troliers (TIPP)
 
-La taxe intérieure sur les produits pétroliers, dont le nom change avec chaque gouvernement afin de vous aider à mieux comprendre notre système fiscal, porte essentiellement sur le carburant (y compris non pétrolier) que vous mettez dans votre voiture. Elle représente une rentrée d'argent importante pour l'État. Encore une fois [l'article Wikipédia](http://fr.wikipedia.org/wiki/TIPP) est bon.
+La taxe intÃ©rieure sur les produits pÃ©troliers, dont le nom change avec chaque gouvernement afin de vous aider Ã  mieux comprendre notre systÃ¨me fiscal, porte essentiellement sur le carburant (y compris non pÃ©trolier) que vous mettez dans votre voiture. Elle reprÃ©sente une rentrÃ©e d'argent importante pour l'Ã‰tat. Encore une fois [l'article WikipÃ©dia](http://fr.wikipedia.org/wiki/TIPP) est bon.
 
-La TIPP sert également de droit d'accise, c'est-à-dire de taxe dissuasive, sur la consommation de carburant. Cet objectif secondaire est (une fois n'est pas coutume) légitime et efficacement implémenté. Malheureusement, votre niveau de vie est le résultat pratiquement exclusif du bas coût de l'énergie. Réduire la consommation d'essence (ce que [JM Jancovici](http://www.manicore.com/) explique mieux que moi) est un objectif louable pour la société, et le faire à travers l'augmentation du droit d'accise serait efficace, mais aussi mauvais pour votre niveau de vie. 
+La TIPP sert Ã©galement de droit d'accise, c'est-Ã -dire de taxe dissuasive, sur la consommation de carburant. Cet objectif secondaire est (une fois n'est pas coutume) lÃ©gitime et efficacement implÃ©mentÃ©. Malheureusement, votre niveau de vie est le rÃ©sultat pratiquement exclusif du bas coÃ»t de l'Ã©nergie. RÃ©duire la consommation d'essence (ce que [JM Jancovici](http://www.manicore.com/) explique mieux que moi) est un objectif louable pour la sociÃ©tÃ©, et le faire Ã  travers l'augmentation du droit d'accise serait efficace, mais aussi mauvais pour votre niveau de vie. 
 
-## Impôt sur la fortune (ISF)
+## ImpÃ´t sur la fortune (ISF)
 
-L'impôt sur la fortune est un impôt assis sur le patrimoine. C'est le seul impôt que j'aborde qui porte sur une **possession** et non sur un **flux** (il y en a peu d'autres, tels que la taxe foncière).
-Dès lors que votre patrimoine (à propos, connaissez-vous le montant total de votre patrimoine ?) dépasse un certain seuil, vous devez le déclarer à l'État français (y compris votre tondeuse à gazon et votre fer à souder, si vous êtes assez snob pour avoir acheté du matériel cher) ; vous paierez chaque année un pourcentage de ce patrimoine.
+L'impÃ´t sur la fortune est un impÃ´t assis sur le patrimoine. C'est le seul impÃ´t que j'aborde qui porte sur une **possession** et non sur un **flux** (il y en a peu d'autres, tels que la taxe fonciÃ¨re).
+DÃ¨s lors que votre patrimoine (Ã  propos, connaissez-vous le montant total de votre patrimoine ?) dÃ©passe un certain seuil, vous devez le dÃ©clarer Ã  l'Ã‰tat franÃ§ais (y compris votre tondeuse Ã  gazon et votre fer Ã  souder, si vous Ãªtes assez snob pour avoir achetÃ© du matÃ©riel cher) ; vous paierez chaque annÃ©e un pourcentage de ce patrimoine.
 
-### Objectif secondaire : vous devriez avoir honte d'être riche
+### Objectif secondaire : vous devriez avoir honte d'Ãªtre riche
 
-Mon titre est légèrement provocateur mais personne ne nie sérieusement qu'un objectif de l'ISF est de stigmatiser les riches. Si vous avez de l'argent, vous allez devoir expliquer exactement combien, et payer chaque année une partie du bateau pour lequel vous avez payé la TVA, et payé l'impôt sur le revenu. En réalité, l'ISF ne représente qu'une part très faible du budget de l'État, et de nombreux auteurs suggèrent que le coût de son recouvrement n'en fait pas un impôt très rentable pour l'État.
-En pratique, l'objectif secondaire (qui est formellement de "redistribuer les richesses") est devenu objectif principal - ce dont les votants de gauche *Passion Jalousie(TM)* ne se cachent pas, mais qui traduit à mon sens une dérive inacceptable dans l'architecture d'un système complexe. L'argument de la redistribution des richesses est bien sûr correct, mais l'implémentation de l'ISF est telle que cette redistribution est nettement moins efficace que celle induite par l'IR - notamment parce que l'ISF est tellement traumatisant qu'il donne envie à de nombreuses personnes de s'expatrier fiscalement. Le coût réel de l'expatriation fiscale est loin d'être aussi élevé que ce que la droite *Passion Pognon(TM)* prétend, mais il est tout de même à considérer.
+Mon titre est lÃ©gÃ¨rement provocateur mais personne ne nie sÃ©rieusement qu'un objectif de l'ISF est de stigmatiser les riches. Si vous avez de l'argent, vous allez devoir expliquer exactement combien, et payer chaque annÃ©e une partie du bateau pour lequel vous avez payÃ© la TVA, et payÃ© l'impÃ´t sur le revenu. En rÃ©alitÃ©, l'ISF ne reprÃ©sente qu'une part trÃ¨s faible du budget de l'Ã‰tat, et de nombreux auteurs suggÃ¨rent que le coÃ»t de son recouvrement n'en fait pas un impÃ´t trÃ¨s rentable pour l'Ã‰tat.
+En pratique, l'objectif secondaire (qui est formellement de "redistribuer les richesses") est devenu objectif principal - ce dont les votants de gauche *Passion Jalousie(TM)* ne se cachent pas, mais qui traduit Ã  mon sens une dÃ©rive inacceptable dans l'architecture d'un systÃ¨me complexe. L'argument de la redistribution des richesses est bien sÃ»r correct, mais l'implÃ©mentation de l'ISF est telle que cette redistribution est nettement moins efficace que celle induite par l'IR - notamment parce que l'ISF est tellement traumatisant qu'il donne envie Ã  de nombreuses personnes de s'expatrier fiscalement. Le coÃ»t rÃ©el de l'expatriation fiscale est loin d'Ãªtre aussi Ã©levÃ© que ce que la droite *Passion Pognon(TM)* prÃ©tend, mais il est tout de mÃªme Ã  considÃ©rer.
 
 ### Taxer le capital non productif
 
-En réalité, l'intérêt de la société est d'encourager les personnes riches à dépenser au maximum (car cela crée des emplois, qui vont payer l'IR, la TVA, ...), ou, à défaut de savoir comment dépenser leur argent, de l'investir dans un dispositif productif. J'en parlerai dans un autre article, mais "investir" de manière productive consiste à créer des entreprises directement ou en accordant des prêts, ou à la rigueur en épargnant financièrement. Acheter des immeubles ou des actions *en bourse* n'est pas au sens strict un investissement, et n'apporte rien (voire nuit) à la société.
+En rÃ©alitÃ©, l'intÃ©rÃªt de la sociÃ©tÃ© est d'encourager les personnes riches Ã  dÃ©penser au maximum (car cela crÃ©e des emplois, qui vont payer l'IR, la TVA, ...), ou, Ã  dÃ©faut de savoir comment dÃ©penser leur argent, de l'investir dans un dispositif productif. J'en parlerai dans un autre article, mais "investir" de maniÃ¨re productive consiste Ã  crÃ©er des entreprises directement ou en accordant des prÃªts, ou Ã  la rigueur en Ã©pargnant financiÃ¨rement. Acheter des immeubles ou des actions *en bourse* n'est pas au sens strict un investissement, et n'apporte rien (voire nuit) Ã  la sociÃ©tÃ©.
 
-Il y a un certain sens à taxer le capital qui n'est pas utilisé de manière conforme à l'intérêt de la société, c'est-à-dire celui qui n'est pas dépensé ou investi productivement. C'est bien ce que fait l'ISF (qui taxe vos actions *en bourse*, vos immeubles), mais pas spécifiquement (car votre voiture de luxe est également taxée, et la société a tout intérêt à vous encourager à en acheter une !).
-Finalement, un ISF bien conçu serait dans l'intérêt de la société, mais une telle charge émotionnelle est en jeu - que ce soit avec *Passion Jalousie(TM)* ou *Passion Pognon(TM)* - que celui-ci est un désastre.
+Il y a un certain sens Ã  taxer le capital qui n'est pas utilisÃ© de maniÃ¨re conforme Ã  l'intÃ©rÃªt de la sociÃ©tÃ©, c'est-Ã -dire celui qui n'est pas dÃ©pensÃ© ou investi productivement. C'est bien ce que fait l'ISF (qui taxe vos actions *en bourse*, vos immeubles), mais pas spÃ©cifiquement (car votre voiture de luxe est Ã©galement taxÃ©e, et la sociÃ©tÃ© a tout intÃ©rÃªt Ã  vous encourager Ã  en acheter une !).
+Finalement, un ISF bien conÃ§u serait dans l'intÃ©rÃªt de la sociÃ©tÃ©, mais une telle charge Ã©motionnelle est en jeu - que ce soit avec *Passion Jalousie(TM)* ou *Passion Pognon(TM)* - que celui-ci est un dÃ©sastre.
 
 # Protection sociale
 

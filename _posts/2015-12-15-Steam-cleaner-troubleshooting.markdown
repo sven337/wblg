@@ -54,8 +54,8 @@ Nothing looked obviously wrong. I measured the resistance of the heating element
 
 # The problem persists
 
-I believe that the thermostat was no longer working properly. It is a KSD301, 150°C model, and from what I could tell it would correctly open at 150°C... but it looked like it never closed back, at least not with a reasonable delay, instead letting the heating element cool down way too much (and therefore stop producing vapor).
-I ordered another KSD301 from eBay - luckily they're cheap - and tested the cleaner with the thermostat shorted. Of course that would be dangerous were it not for the thermal cutoff fuse that I didn't see! That fuse blew (at 240°C, so I really was playing with potential fire), rendering the cleaner useless until the fuse was replaced.
+I believe that the thermostat was no longer working properly. It is a KSD301, 150Â°C model, and from what I could tell it would correctly open at 150Â°C... but it looked like it never closed back, at least not with a reasonable delay, instead letting the heating element cool down way too much (and therefore stop producing vapor).
+I ordered another KSD301 from eBay - luckily they're cheap - and tested the cleaner with the thermostat shorted. Of course that would be dangerous were it not for the thermal cutoff fuse that I didn't see! That fuse blew (at 240Â°C, so I really was playing with potential fire), rendering the cleaner useless until the fuse was replaced.
 
 ![KSD301](ksd301.jpg)
 
