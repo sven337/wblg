@@ -8,7 +8,7 @@ comments: true
 img_rel: "/~sven337/data/books"
 ---
 
-Je m'intéresse à plein de sujets divers, et on me demande parfois des conseils de lecture. Je liste ici les ouvrages intellos que j'ai lus et dont j'ai un bon souvenir. Deux catégories : l'ouvrage intellectuel-mais-facile-à-lire et l'ouvrage hardcore qui demande du courage. Pas de romans ici, on est pas là pour se distraire on est là pour apprendre en se distrayant.
+Je m'intéresse à plein de sujets divers, et on me demande parfois des conseils de lecture. Je liste ici les ouvrages intellos que j'ai lus et dont j'ai un bon souvenir. Deux catégories : l'ouvrage intellectuel-mais-facile-à-lire et l'ouvrage hardcore qui demande du courage. Pas de romans ici, on est pas là pour se distraire, on est là pour apprendre.
 
 # Facile à lire
 
@@ -52,9 +52,9 @@ Prérequis : avoir travaillé dans une grande entreprise est préférable
 
 ## Flash Boys: a Wall Street Revolt
 
-Ce roman est une vulgarisation documentaire du high-frequency trading, qui raconte l'histoire de la création d'une place boursière qui ferait échec à l'HFT. 
+Ce quasi-roman est une vulgarisation documentaire du high-frequency trading, qui raconte l'histoire de la création d'une place boursière qui ferait échec à l'HFT. Intéressant car il permet de comprendre en quoi le HFT est mauvais pour l'investisseur individuel.
 
-Prérequis : connaître un peu la bourse et de préférence américaine (système différent de l'Europe)
+Prérequis : connaître un peu la bourse et de préférence américaine (système différent de l'Europe), être investisseur en bourse
 
 <https://en.wikipedia.org/wiki/Flash_Boys>
 
@@ -85,7 +85,7 @@ Par arrogance institutionnelle, et par mensonge au sein de l'appareil d'État - 
 
 Ceci n'est pas un ouvrage d'histoire sur la guerre du Vietnam, mais un ouvrage de documentation du processus de décision concernant la guerre du Vietnam. Il a été rédigé avant la fin de la guerre.
 
-Prérequis : un peu d'histoire de l'Asie au XXè siècle (guerres d'Indochine, de Corée, et du Vietnam, mise en place du communisme en Chine), connaissance des institutions US
+Prérequis : un peu d'histoire de l'Asie au XXè siècle ([guerres d'Indochine](https://fr.wikipedia.org/wiki/Guerre_d'Indochine), de [Corée](https://en.wikipedia.org/wiki/Korean_War), et [du Vietnam](https://en.wikipedia.org/wiki/Vietnam_War), [mise en place du communisme en Chine](https://en.wikipedia.org/wiki/Chinese_Civil_War)), connaissance des institutions US
 
 <https://www.amazon.fr/Best-Brightest-David-Halberstam/dp/0449908704>
 ## La logique de l'honneur, Philippe d'Iribarne
