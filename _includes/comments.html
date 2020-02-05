@@ -1,0 +1,5 @@
+<ul>
+  {% for comment in include.comments %}
+    {% include comment-single.html comment=comment %}
+  {% endfor %}
+</ul>

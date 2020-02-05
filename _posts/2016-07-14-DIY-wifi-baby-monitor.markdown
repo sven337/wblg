@@ -6,6 +6,7 @@ tags: electronics
 category: english
 comments: true
 img_rel: "/~sven337/data/babymonitor"
+disqus_comment_thread: BabymonEN
 ---
 
 In this article I will describe the **baby monitor** I built, reusing the case of an old crappy one, and re-doing all of the electronics from scratch. I tore down the crappy one in a [previous article](/~sven337/francais/2016/04/10/Analyse-dun-babyphone-pourri.html) (in French).
@@ -167,3 +168,5 @@ The receiver, as previously stated, uses an I2C DAC. I2C on the ESP8266 doesn't 
 		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
     });
 </script>
+
+

@@ -6,6 +6,7 @@ tags: electronics
 category: francais
 comments: true
 img_rel: "/~sven337/data/acleis"
+disqus_comment_thread: Acleis1
 ---
 
 Le logement dans lequel je viens d'emménager dispose d'un **chauffage central** au gaz avec une chaudière E.L.M. Leblanc Acleis de 2008. **Aucun thermostat** d'ambiance n'est présent, et il n'y a par ailleurs **pas de robinet thermostatique** sur les radiateurs : en d'autres termes il n'existe aucun des moyens raisonnablement modernes de contrôler la température du logement, et le choix est celui d'avoir trop chaud et de brûler trop de gaz, ou d'avoir trop froid.

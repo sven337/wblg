@@ -6,6 +6,7 @@ tags: electronique reparation
 category: francais
 comments: true
 img_rel: "/~sven337/data/four"
+disqus_comment_thread: SebPorte
 ---
 
 Je vais expliquer comment ouvrir et changer des pièces dans le four Seb <s>turbo-diesel</s> délice turbo **OF265800**. Ces informations sont probablement valables pour les modèles de la même gamme mais de taille différente (30L, ...).

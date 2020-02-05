@@ -4,6 +4,7 @@ title:  "DIY - Rajouter une entrée AUX sur Yaris 2007"
 date:   2014-03-07 21:16:55
 categories: francais
 img_rel: /~sven337/data/w58824
+disqus_comment_thread: YarisAuxFR
 ---
 
 # Objectif

@@ -37,7 +37,7 @@ Il faut retirer les 6 transistors et leurs résistances de base et d'émetteur p
 !["Cleaning up" the board](cleanboard.jpg)
 
 Ensuite j'ai utilisé module buck ÀPasCher(TM) à base de MP1584-EN. (Marque chinoise "D-Sun".) On en trouve partout sur eBay, par exemple
-(https://www.ebay.fr/itm/Ultra-Small-...-/322408214136)
+[celui-ci](https://www.ebay.fr/itm/Ultra-Small-...-/322408214136)
 
 Réglé sur 1.5V, il faut le connecter pour qu'il alimente les filaments de l'afficheur.
 

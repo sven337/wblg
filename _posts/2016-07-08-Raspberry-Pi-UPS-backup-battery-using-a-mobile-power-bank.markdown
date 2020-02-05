@@ -6,6 +6,7 @@ tags: electronics
 category: english
 comments: true
 img_rel: "/~sven337/data/piups"
+disqus_comment_thread: RPiPowerbank
 ---
 
 I decided to write this article because I could find no reliable account on the web of **what mobile power banks** will work as a **battery backup for a Raspberry Pi**.

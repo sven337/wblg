@@ -6,6 +6,7 @@ tags: electronics auto
 category: english
 comments: true
 img_rel: "/~sven337/data/yarisclock"
+disqus_comment_thread: ToyClockEN
 ---
 
 The dashboard clock on my 2007 Toyota Yaris turned off after a few days of steadily losing brightness.
@@ -60,8 +61,7 @@ I couldn't fully work out how the transistors were driven (= what their base is 
 
 So if all we have to do is feed about 300mA to the filaments, we can remove all these transistors and plug in a cheap buck module instead set at the right voltage. I had an adjustable MP1584EN-based buck module ("D-Sun" chinese brand) lying around.
 These super common modules you can find for a few dollars.
-For example:
-(https://www.ebay.fr/itm/Ultra-Small-...-/322408214136)
+For example [this one](https://www.ebay.fr/itm/Ultra-Small-...-/322408214136)
 
 I used my poor man's lab power supply to test what were the minimal voltage and currents needed to obtain full brightness, and I found out that a constant voltage 1.5V supply would yield a steady 300mA current that would correspond to full brightness. Going to 2.5V would increase current to 450mA without any visible change in brightness, and starting at 4V the filaments would glow red.
 (Sorry about the quality of my pictures, I was focused on solving the problem and only took the pics as an afterthought).
