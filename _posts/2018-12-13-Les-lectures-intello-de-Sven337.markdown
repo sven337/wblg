@@ -14,6 +14,20 @@ Je m'intéresse à plein de sujets divers, et on me demande parfois des conseils
 
 J'ai trouvé ces ouvrages faciles à lire (demandant peu de connaissances sur le sujet a priori, écrits de manière simple, etc.). 
 
+## More Money Than God, Sebastian Mallaby 
+
+Une petite histoire des "hedge funds", ces fonds de placement sulfureux qu'on accuse régulièrement de tous les maux. Décrit l'évolution de cette industrie, et surtout explique pourquoi elle n'est pas si mauvaise que ce que beaucoup croient.
+
+Prérequis : connaître un peu la bourse
+
+<https://en.wikipedia.org/wiki/More_Money_Than_God>
+
+## Le piège américain, Frédéric Pierucci 
+
+L'histoire d'un cadre d'Alstrom, retenu en "otage économique" par les USA pour forcer la vente d'Alstom à General Electric.
+ 
+<https://www.editions-jclattes.fr/le-piege-americain-9782709664073>
+
 ## L'Internet des familles modestes, Dominique Pasquier
 
 Comment les familles modestes se sont appropriées Internet, un outil qui sert essentiellement aux gens diplômés. Enquête de sociologie avec des extraits d'entretiens, assez facile à lire, bonne bibliographie pour rebondir. 
@@ -41,7 +55,7 @@ Intéressant parce qu'il montre comment la bureaucratie déresponsabilise et dé
 
 Prérequis : quelques notions de droit, un peu de pratique des guichetiers dans les administrations
 
-## Bad Blood
+## Bad Blood, John Carreyrou
 
 L'histoire de [Theranos](https://en.wikipedia.org/wiki/Theranos), pourri de l'intérieur dès le début. Très facile à lire.
 Intéressant parce qu'il montre comme il est aisé et naturel de tromper ses investisseurs et ses clients, et d'enrôler ses salariés de force dans ce type de démarche. Pour Theranos il y a un happy ending en cours (mort de la société et, on l'espère, de la prison pour ses deux dirigeants), mais combien d'autres sociétés ont ce genre de personnalité aux commandes ?
@@ -50,7 +64,7 @@ Intéressant parce qu'il montre comme il est aisé et naturel de tromper ses inv
 
 Prérequis : avoir travaillé dans une grande entreprise est préférable
 
-## Flash Boys: a Wall Street Revolt
+## Flash Boys: a Wall Street Revolt, Michael Lewis
 
 Ce quasi-roman est une vulgarisation documentaire du high-frequency trading, qui raconte l'histoire de la création d'une place boursière qui ferait échec à l'HFT. Intéressant car il permet de comprendre en quoi le HFT est mauvais pour l'investisseur individuel.
 
@@ -63,20 +77,19 @@ Prérequis : connaître un peu la bourse et de préférence américaine (systèm
 Un livre "féministe" que j'ai dévoré d'un trait lors d'un long voyage en train. Je me souviens qu'il m'avait plu, mais je ne me souviens pas pourquoi, car c'était il y a longtemps.
 
 <https://www.editionsladecouverte.fr/catalogue/index-Beaute_fatale-9782355220395.html>
+## 
 
 # Courageux
 
 Passons maintenant aux livres pour intello confirmé. Ce sont des ouvrages pointus sur leur sujet, qui demandent un vif intérêt pour le domaine et quelques connaissances, et qui peuvent parfois être longs à lire.
 
-## Manuel de médecine militaire de 1864
+## The Prize, Daniel Yergin
 
-Le vrai titre est **A manual of military surgery, for the use of surgeons in the Confederate States army; with explanatory plates of all useful operations** et l'auteur est Julian Chisolm.
+Une très longue et très complète histoire du pétrole, de sa découverte à son exploitation massive, avec tous les détails géopolitiques et même un peu de technique. Passionnant, et relativement aisé à lire car c'est une narration chronologique, mais un peu long à mon goût.
 
-Un livre de médecine datant de la guerre de sécession américaine. Passionnant historiquement, sur deux plans : pour comprendre les problèmes et les méthodes médicales de l'époque (on amputait énormément à cause des balles Minié rondes qui faisaient de gros dégâts au squelette, avec anesthésie mais un taux de survie catastrophique), et aussi réaliser les progrès que la médecine a fait (et donc qu'elle fera). Ce médecin d'époque, suffisamment prestigieux pour écrire un manuel de médecine à l'usage des médecins militaires des états confédérés, ne connaissait pas les bactéries ni l'hygiène des mains et certainement pas les antibiotiques. Dans 150 ans, que pensera-t-on de nos médecins actuels ?
+Prérequis : pas grand chose car tout est expliqué
 
-Prérequis : quelques connaissances en médecine, anatomie, et histoire des USA et de l'Europe au XIXè siècle
-
-<https://archive.org/details/manualofmilita00chis/page/n23>
+<https://en.wikipedia.org/wiki/The_Prize:_The_Epic_Quest_for_Oil,_Money,_and_Power>
 
 ## The Best and the Brightest, David Halberstam 
 
@@ -88,6 +101,7 @@ Ceci n'est pas un ouvrage d'histoire sur la guerre du Vietnam, mais un ouvrage d
 Prérequis : un peu d'histoire de l'Asie au XXè siècle ([guerres d'Indochine](https://fr.wikipedia.org/wiki/Guerre_d'Indochine), de [Corée](https://en.wikipedia.org/wiki/Korean_War), et [du Vietnam](https://en.wikipedia.org/wiki/Vietnam_War), [mise en place du communisme en Chine](https://en.wikipedia.org/wiki/Chinese_Civil_War)), connaissance des institutions US
 
 <https://www.amazon.fr/Best-Brightest-David-Halberstam/dp/0449908704>
+
 ## La logique de l'honneur, Philippe d'Iribarne
 
 Un ouvrage de management international qui compare la logique française (l'honneur), américaine (le contrat) et néerlandaise (le consensus). L'ouvrage n'est pas scientifiquement sérieux (étude de cas d'une entreprise par pays), mais affectivement il "sonne" juste et aide à comprendre pourquoi en tant que français il nous est désagréable de verser un pourboire alors qu'un américain trouve normal d'en attendre un.
@@ -103,6 +117,16 @@ Je pense qu'il aurait été possible de faire 5 fois plus court et de dire autan
 Prérequis : patience et tolérance pour les mauvais rapports signal-bruit, connaissances en fiscalité et en économie
 
 <https://www.amazon.fr/Capital-au-XXIe-si%C3%A8cle/dp/2021082288>
+
+## Manuel de médecine militaire de 1864
+
+Le vrai titre est **A manual of military surgery, for the use of surgeons in the Confederate States army; with explanatory plates of all useful operations** et l'auteur est Julian Chisolm.
+
+Un livre de médecine datant de la guerre de sécession américaine. Passionnant historiquement, sur deux plans : pour comprendre les problèmes et les méthodes médicales de l'époque (on amputait énormément à cause des balles Minié rondes qui faisaient de gros dégâts au squelette, avec anesthésie mais un taux de survie catastrophique), et aussi réaliser les progrès que la médecine a fait (et donc qu'elle fera). Ce médecin d'époque, suffisamment prestigieux pour écrire un manuel de médecine à l'usage des médecins militaires des états confédérés, ne connaissait pas les bactéries ni l'hygiène des mains et certainement pas les antibiotiques. Dans 150 ans, que pensera-t-on de nos médecins actuels ?
+
+Prérequis : quelques connaissances en médecine, anatomie, et histoire des USA et de l'Europe au XIXè siècle
+
+<https://archive.org/details/manualofmilita00chis/page/n23>
 
 ## PHTLS: Pre-hospital trauma life support
 
