@@ -4,7 +4,7 @@ title: Thoughts on the Xilence XPXQ-1000R4 computer power supply unit
 date: 2015-01-26 21:28:57
 tags: electronics
 category: english
-comments: true
+comments: xilence
 img_rel: "/~sven337/data/xilence"
 ---
 

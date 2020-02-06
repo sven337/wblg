@@ -4,7 +4,7 @@ title: Mon opération LASIK
 date: 2014-07-05 18:04:00
 tags: médecine
 category: francais
-comments: true
+comments: lasik
 img_rel: "/~sven337/data/XXX"
 ---
 

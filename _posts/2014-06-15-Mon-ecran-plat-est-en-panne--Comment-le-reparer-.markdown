@@ -4,7 +4,7 @@ title: Mon écran plat est en panne ! Comment le réparer ?
 date: 2014-06-15 17:40:10
 tags: electronics
 category: francais
-comments: true
+comments: pannecran
 img_rel: "/~sven337/data/lcdfix"
 ---
 

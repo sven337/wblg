@@ -4,7 +4,7 @@ title: Régulation de chauffage central avec une chaudière Acléis - thermostat
 date: 2016-02-29 22:59:05
 tags: electronics
 category: francais
-comments: true
+comments: acleis2
 img_rel: "/~sven337/data/acleis"
 ---
 

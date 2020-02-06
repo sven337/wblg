@@ -4,7 +4,7 @@ title: "Épargne (1/2) : pourquoi placer son argent"
 date: 2015-01-28 10:15:39
 tags: argent
 category: francais
-comments: true
+comments: placements1
 img_rel: "/~sven337/data/placements"
 ---
 

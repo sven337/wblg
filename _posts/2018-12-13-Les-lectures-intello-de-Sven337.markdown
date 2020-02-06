@@ -4,7 +4,7 @@ title: Les lectures intello de Sven337
 date: 2018-12-12 20:17:54
 tags: XXX
 category: francais
-comments: true
+comments: lecturesIntello
 img_rel: "/~sven337/data/books"
 ---
 

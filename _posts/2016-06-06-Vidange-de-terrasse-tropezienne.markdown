@@ -4,7 +4,6 @@ title: "Vidange de terrasse tropézienne"
 date: 2016-06-06 06:30:17
 tags: electronics
 category: francais
-comments: true
 img_rel: "/~sven337/data/terrasse"
 ---
 

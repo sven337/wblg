@@ -4,7 +4,7 @@ title: Pourquoi vous devriez partir en vacances à Porto
 date: 2015-03-19 20:07:40
 tags: 
 category: francais
-comments: true
+comments: porto
 img_rel: "/~sven337/data/porto"
 ---
 

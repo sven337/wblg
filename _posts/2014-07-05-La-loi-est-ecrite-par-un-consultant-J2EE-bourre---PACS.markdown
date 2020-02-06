@@ -4,7 +4,7 @@ title: "La loi est écrite par un consultant J2EE bourré - épisode 1 : le PACS
 date: 2014-07-05 08:30:58
 tags: politique finance droit
 category: francais
-comments: true
+comments: j2eepacs
 img_rel: "/~sven337/data/XXX"
 ---
 

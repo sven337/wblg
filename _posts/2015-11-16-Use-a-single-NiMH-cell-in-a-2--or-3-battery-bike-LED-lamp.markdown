@@ -4,7 +4,7 @@ title: Use a single NiMH cell in a 2- or 3-battery bike LED lamp
 date: 2015-11-16 18:44:44
 tags: electronics
 category: english
-comments: true
+comments: ledlamp_boost
 img_rel: "/~sven337/data/ledlamp_boost"
 ---
 

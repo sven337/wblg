@@ -4,7 +4,7 @@ title: "La loi est écrite par un consultant J2EE bourré - épisode 2 : le titr
 date: 2015-03-15 14:30:58
 tags: politique finance droit
 category: francais
-comments: true
+comments: j2eeTR
 img_rel: "/~sven337/data/XXX"
 ---
 Dans cet épisode nous allons parler du **titre restaurant** (TR), c'est-à-dire d'un dispositif légal de fraude fiscale.

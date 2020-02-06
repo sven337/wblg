@@ -4,7 +4,7 @@ title: Cheap and simple automatic closet lighting
 date: 2015-01-25 18:53:52
 tags: electronics lighting
 category: english
-comments: true
+comments: closetlight
 img_rel: "/~sven337/data/closet"
 ---
 

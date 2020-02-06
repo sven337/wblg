@@ -4,8 +4,8 @@ title: Liste des ETFs gratuits de Degiro
 date: 2017-01-16 22:01:33
 tags: finance
 category: francais
-comments: true
 img_rel: "/~sven337/data/degiro"
+comments: freeDGRetf
 ---
 
 Le courtier Degiro propose un certain nombre de fonds indiciels côtés (ETFs, exchange-traded funds) pour lesquels les frais de courtage sont offerts (pour le premier ordre du mois). Voir [https://www.degiro.fr/tarifs/trading-gratuit-etf/](https://www.degiro.fr/tarifs/trading-gratuit-etf/) pour les détails.

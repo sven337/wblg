@@ -4,7 +4,7 @@ title: "Épargne (2/2) : comment placer son argent"
 date: 2016-03-01 01:40:34
 tags: argent
 category: francais
-comments: true
+comments: epargne2of2
 img_rel: "/~sven337/data/placements"
 ---
 

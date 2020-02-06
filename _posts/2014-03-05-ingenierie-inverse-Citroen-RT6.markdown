@@ -4,7 +4,7 @@ title: "Ingénierie inverse de l'autoradio eMyWay (RT6) Citroën"
 date: 2014-03-05 23:00:00
 tags: electronics auto
 category: francais
-comments: true
+comments: rt6fr
 img_rel: "/~sven337/data/rt6"
 ---
 

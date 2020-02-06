@@ -4,7 +4,7 @@ title: Avertissement de sur-consommation EDF
 date: 2016-02-29 10:36:11
 tags: electronique
 category: francais
-comments: true
+comments: ADPSEDF
 img_rel: "/~sven337/data/teleinfo"
 ---
 

@@ -4,7 +4,7 @@ title: Suivre sa consommation électrique avec un Raspberry Pi et un compteur Li
 date: 2018-06-24 12:31:54
 tags: electronics
 category: francais
-comments: true
+comments: teleinfolinky
 img_rel: /~sven337/data/teleinfo
 ---
 

@@ -4,7 +4,7 @@ title: Steam cleaner troubleshooting fail
 date: 2015-12-15 12:25:38
 tags: electronics
 category: english
-comments: true
+comments: steamcleaner
 img_rel: "/~sven337/data/h2o"
 ---
 

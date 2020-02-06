@@ -4,7 +4,7 @@ title: Analyse d'un babyphone pourri
 date: 2016-04-10 12:35:59
 tags: electronics
 category: francais
-comments: true
+comments: babyphoneREFR
 img_rel: "/~sven337/data/babyphone"
 ---
 

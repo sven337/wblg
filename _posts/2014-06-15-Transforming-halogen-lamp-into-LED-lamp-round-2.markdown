@@ -4,7 +4,7 @@ title: Transforming halogen lamp into LED lamp - Round 2
 date: 2014-06-15 12:06:35
 tags: electronics lighting
 category: english
-comments: true
+comments: ledlamp2
 img_rel: "/~sven337/data/hal2led"
 ---
 

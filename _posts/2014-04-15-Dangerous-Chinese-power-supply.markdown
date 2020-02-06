@@ -7,6 +7,7 @@ category: english
 comments: true
 img_rel: "/~sven337/data/chinese_smps"
 disqus_comment_thread: ChineseSMPS
+comments: ChineseSMPS
 ---
 
 I bought a cheap, Chinese, [12V 1A power supply](http://www.smunchina.com/html_products/10W-12V-Ultra-thin-single-output-series-186.html), to use in my LED lamp retrofit project (about which I've been writing an article for weeks, but it's not published yet). It's marked CE (meaning it respects European norms, which essentially have to do with EMI interference), but it still has a serious problem.

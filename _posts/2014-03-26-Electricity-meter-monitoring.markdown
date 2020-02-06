@@ -4,6 +4,7 @@ title: "Electricity meter monitoring with Raspberry Pi"
 date: 2014-03-26 22:17:00
 category: english
 img_rel: /~sven337/data/teleinfo
+comments: teleinfo_EN
 ---
 
 This article is a short translation of <http://perso.aquilenet.fr/~sven337/francais/2014/03/09/Suivi-de-consommation-elec-avec-R-Pi.html>. It describes how to monitor electricity consumption with a Raspberry Pi and simple electronics, on a french meter.

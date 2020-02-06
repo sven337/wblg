@@ -4,7 +4,7 @@ title: "Le loi est écrite par un consultant J2EE bourré - épisode 3 : la rupt
 date: 2015-03-18 20:50:03
 tags: politique droit finance
 category: francais
-comments: true
+comments: J2EERuptureConv
 img_rel: "/~sven337/data/XXX"
 ---
 

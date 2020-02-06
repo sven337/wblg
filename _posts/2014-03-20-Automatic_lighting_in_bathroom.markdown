@@ -4,7 +4,7 @@ title: Automatic lighting in the bathroom using a motion sensor
 date: 2014-03-30 21:22:39
 tags: electronics lighting
 category: english
-comments: true
+comments: PIR_SSR_EN
 img_rel: "/~sven337/data/pir_ssr"
 ---
 

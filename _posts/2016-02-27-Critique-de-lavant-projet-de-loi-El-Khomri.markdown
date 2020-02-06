@@ -4,7 +4,7 @@ title: Critique de l'avant-projet de loi El Konneri
 date: 2016-02-27 12:04:58
 tags: politique
 category: francais
-comments: true
+comments: elkonneri
 img_rel: "/~sven337/data/khomri"
 ---
 

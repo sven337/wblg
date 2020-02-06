@@ -4,6 +4,7 @@ title:  "Low power wireless gas meter monitoring"
 date:   2014-03-18 01:02:03
 categories: english
 img_rel: /~sven337/data/gas
+comments: TeleGasEN
 ---
 
 # Table of contents

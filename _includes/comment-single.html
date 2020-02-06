@@ -1,12 +1,6 @@
 <li>
-  {% if include.comment.url %}<a href="{{ include.comment.url }}">{% endif %}
-  {% if include.comment.avatar %}<img src="{{ include.comment.avatar }}" alt="{{ include.comment.name }}" />{% endif %}
-  {% if include.comment.url %}</a>{% endif %}
-
-  {% if include.comment.url %}<a href="{{ include.comment.url }}">{% endif %}
-  <span class="author">{{ include.comment.name }}</span>
-  {% if include.comment.url %}</a>{% endif %}
-  • <time>{{ include.comment.created | date: "%b %d, %Y" }}</time>
+  <span class="author-and-date">{{ include.comment.name }}</span>
+  • <time>{{ include.comment.created | date: "%Y-%m-%d" }}</time>
 
   {{ include.comment.message }}
 

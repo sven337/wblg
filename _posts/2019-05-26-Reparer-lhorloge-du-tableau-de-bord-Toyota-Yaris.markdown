@@ -4,7 +4,7 @@ title: Réparer l'horloge de tableau de bord HS d'une Toyota Yaris
 date: 2019-05-26 13:55:19
 tags: electronics auto
 category: francais
-comments: true
+comments: ToyClockFR
 img_rel: "/~sven337/data/yarisclock"
 ---
 
@@ -55,3 +55,5 @@ Désolé pour la qualité des photos.
 		$("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.png'],a[href$='.gif']").attr('rel', 'gallery').fancybox();
     });
 </script>
+
+La réparation fonctionne parfaitement désormais, et elle fonctionne également pour d'autres personnes qui l'ont mise en oeuvre !

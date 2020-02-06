@@ -4,7 +4,7 @@ title: Éclairage automatique d'étagères
 date: 2015-01-25 18:04:41
 tags: electronics lighting
 category: francais
-comments: true
+comments: shelves
 img_rel: "/~sven337/data/shelves"
 ---
 

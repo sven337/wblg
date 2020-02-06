@@ -4,9 +4,9 @@ title: Tearing down a RGB LED strip amplifier
 date: 2015-01-19 18:21:17
 tags: electronics lighting
 category: english
-comments: true
 img_rel: "/~sven337/data/led_amplifier"
 disqus_comment_thread: AmpliStrip
+comments: AmpliStrip
 ---
 
 I bought a cheap [LED strip amplifier](http://www.ebay.com/itm/160902725296) on eBay. It is supposed to be used to build long LED strips: due to the resistivity of the copper tracks on a strip, you can't really plug more than 5 to 10 meters of strip to a single power supply without experiencing color fading, or thermal issues. The amplifier is supposed to be interposed between strips, and it will allow you to chain as many strips as you like in a row. Of course, the amplifier has a *power input*, so you need an extra power supply.

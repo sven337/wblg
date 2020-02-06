@@ -4,8 +4,8 @@ title: Fixing a broken dashboard clock on Toyota Yaris
 date: 2019-05-25 13:55:19
 tags: electronics auto
 category: english
-comments: true
 img_rel: "/~sven337/data/yarisclock"
+comments: ToyClockEN
 disqus_comment_thread: ToyClockEN
 ---
 

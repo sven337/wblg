@@ -4,7 +4,7 @@ title: Détection de présence pour éclairage à LED
 date: 2014-08-03 20:04:50
 tags: electronics lighting
 category: francais
-comments: true
+comments: LEDpresenceFR
 img_rel: ""
 ---
 

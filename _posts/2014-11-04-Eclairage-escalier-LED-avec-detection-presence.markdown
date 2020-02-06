@@ -4,7 +4,7 @@ title: Éclairage d'escalier à LED avec détection de présence
 date: 2014-11-04 13:06:25
 tags: electronics lighting
 category: francais
-comments: true
+comments: stairslightFR
 img_rel: "/~sven337/data/stairs"
 ---
 

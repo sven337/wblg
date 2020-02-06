@@ -4,7 +4,7 @@ title: Music-synchronized party lighting with LEDs
 date: 2015-07-20 10:27:50
 tags: electronics
 category: english
-comments: true
+comments: partylightEN
 img_rel: "/~sven337/data/party_strobe"
 ---
 

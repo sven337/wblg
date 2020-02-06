@@ -4,7 +4,7 @@ title: Acheter des composants électroniques sur Internet
 date: 2014-06-02 18:49:55
 tags: electronique
 category: francais
-comments: true
+comments: achatcomposants
 img_rel: "/~sven337/data/XXX"
 ---
 

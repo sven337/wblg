@@ -4,7 +4,7 @@ title: Le Canard Enchaîné raconte des bêtises dès qu'il s'agit de chiffres
 date: 2014-12-17 20:37:03
 tags: maljournalisme
 category: francais
-comments: true
+comments: canardenchaine
 img_rel: "/~sven337/data/XXX"
 ---
 

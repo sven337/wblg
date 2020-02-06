@@ -4,7 +4,7 @@ title: The Github Syndrome
 date: 2014-05-15 12:35:18
 tags: software
 category: english
-comments: true
+comments: githubSyndrome
 img_rel: "/~sven337/data/XXX"
 ---
 

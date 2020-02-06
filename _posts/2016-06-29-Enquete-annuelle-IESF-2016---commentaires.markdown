@@ -4,7 +4,6 @@ title: "Enquête annuelle IESF 2016 - commentaires"
 date: 2016-06-29 15:44:09
 tags: politique
 category: francais
-comments: true
 img_rel: "/~sven337/data/iesf"
 ---
 <style type="text/css">

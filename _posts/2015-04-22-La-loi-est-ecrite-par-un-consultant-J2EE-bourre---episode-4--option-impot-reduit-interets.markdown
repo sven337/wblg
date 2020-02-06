@@ -4,7 +4,7 @@ title: "La loi est écrite par un consultant J2EE bourré - épisode 4 : l'optio
 date: 2015-04-22 10:03:26
 tags: politique finance
 category: francais
-comments: true
+comments: J2EE24pctinteret
 img_rel: "/~sven337/data/XXX"
 ---
 

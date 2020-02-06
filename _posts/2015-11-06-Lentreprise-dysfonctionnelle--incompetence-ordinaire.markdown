@@ -4,7 +4,7 @@ title: "L'entreprise dysfonctionnelle : incompétence ordinaire"
 date: 2015-11-06 23:29:08
 tags: politique entreprise_dysfonctionnelle
 category: francais
-comments: true
+comments: EDysincompetenceordin
 img_rel: "/~sven337/data/XXX"
 ---
 

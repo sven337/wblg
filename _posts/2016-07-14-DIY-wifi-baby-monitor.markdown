@@ -4,9 +4,9 @@ title: ESP8266-based DIY wifi baby monitor
 date: 2016-07-14 10:08:20
 tags: electronics
 category: english
-comments: true
 img_rel: "/~sven337/data/babymonitor"
 disqus_comment_thread: BabymonEN
+comments: BabymonEN
 ---
 
 In this article I will describe the **baby monitor** I built, reusing the case of an old crappy one, and re-doing all of the electronics from scratch. I tore down the crappy one in a [previous article](/~sven337/francais/2016/04/10/Analyse-dun-babyphone-pourri.html) (in French).

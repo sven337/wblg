@@ -4,8 +4,8 @@ title: Régulation de chauffage central avec une chaudière Acleis - prototype
 date: 2015-11-06 23:38:31
 tags: electronics
 category: francais
-comments: true
 img_rel: "/~sven337/data/acleis"
+comments: Acleis1
 disqus_comment_thread: Acleis1
 ---
 
