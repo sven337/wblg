@@ -6,6 +6,8 @@ tags: electronics
 category: francais
 comments: teleinfolinky
 img_rel: /~sven337/data/teleinfo
+redirect_from:
+    - /teleinfolinky
 ---
 
 Je décrivais voila 4 ans [le montage que j'utilise](/~sven337/francais/2014/03/09/Suivi-de-consommation-elec-avec-R-Pi.html) pour le suivi de consommation électrique en utilisant la téléinfo du compteur bleu électronique. 

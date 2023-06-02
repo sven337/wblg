@@ -5,8 +5,10 @@ kramdown:
     input: GFM
     syntax_highlighter: rouge
 baseurl: /~sven337
+url: https://perso.aquilenet.fr/
 encoding: UTF-8
-url: https://perso.aquilenet.fr/~sven337
 slideshow:
     width: 300
     height: 300
+plugins:
+  - jekyll-redirect-from

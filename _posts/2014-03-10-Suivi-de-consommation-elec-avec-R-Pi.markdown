@@ -5,6 +5,8 @@ date: 2014-03-09 22:17:00
 category: francais
 img_rel: /~sven337/data/teleinfo
 comments: teleinfoFR
+redirect_from:
+    - /teleinfoFR
 ---
 
 Cet article détaille comment **suivre sa consommation électrique** avec un **Raspberry Pi** et un montage électronique simple et surtout très bon marché. 

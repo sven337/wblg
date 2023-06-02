@@ -6,6 +6,8 @@ tags: electronics auto
 category: francais
 comments: ToyClockFR
 img_rel: "/~sven337/data/yarisclock"
+redirect_from:
+    - /ToyClockFR
 ---
 
 L'horlogue du tableau de bord (qui affiche également l'autonomie restante du véhicule) a fini par mourir après quelques semaines à perdre en luminosité. Cela semble être un problème assez courant. Quelques personnes en ont discuté sur [le forum YarisWorld (en anglais)](http://www.yarisworld.com/forums/showthread.php?t=44172). Après beaucoup de travail j'ai identifié la cause de la panne et fait une bonne réparation.
@@ -45,9 +47,10 @@ Désolé pour la qualité des photos.
 
 ![Test setup](test_setup.jpg)
 ![1.5V 0.5W](halfwatt.jpg)
+![Démonstration du résultat](final2.jpg)
 
 
-![Final result](final.jpg)
+![Résultat final](final.jpg)
 
 
 <script>

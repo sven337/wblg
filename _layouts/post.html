@@ -37,9 +37,7 @@ layout: default
   var rb_src = "https://my.remarkbox.com/embed" +
       "?rb_owner_key=" + rb_owner_key +
       "&thread_title=" + encodeURI(thread_title) +
-      "&thread_uri=" + thread_comment_key;
-/*      "&thread_uri=" + encodeURIComponent(thread_uri) +
-      thread_fragment;*/
+      "&thread_uri=" + encodeURIComponent("https://perso.aquilenet.fr/~sven337/" + thread_comment_key); 
 
   function create_remarkbox_iframe() {
     var ifrm = document.createElement("iframe");

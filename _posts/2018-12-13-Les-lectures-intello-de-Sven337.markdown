@@ -6,6 +6,8 @@ tags: XXX
 category: francais
 comments: lecturesIntello
 img_rel: "/~sven337/data/books"
+redirect_from: 
+    - /lecturesIntello
 ---
 
 Je m'intéresse à plein de sujets divers, et on me demande parfois des conseils de lecture. Je liste ici les ouvrages intellos que j'ai lus et dont j'ai un bon souvenir. Deux catégories : l'ouvrage intellectuel-mais-facile-à-lire et l'ouvrage hardcore qui demande du courage. Pas de romans ici, on est pas là pour se distraire, on est là pour apprendre.

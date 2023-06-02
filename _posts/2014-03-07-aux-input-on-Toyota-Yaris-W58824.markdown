@@ -6,6 +6,8 @@ categories: english
 img_rel: /~sven337/data/w58824
 disqus_comment_thread: YarisAuxEN
 comments: YarisAuxEN
+redirect_from:
+    - /YarisAuxEN
 ---
 
 # Objective

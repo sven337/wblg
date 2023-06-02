@@ -6,6 +6,8 @@ tags: electronics
 category: francais
 comments: pannecran
 img_rel: "/~sven337/data/lcdfix"
+redirect_from:
+    - pannecran
 ---
 
 Dans cet article je vais expliquer comment réparer un écran plat (télévision, écran d'ordinateur) en panne.

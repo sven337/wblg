@@ -6,6 +6,8 @@ categories: francais
 img_rel: /~sven337/data/w58824
 disqus_comment_thread: YarisAuxFR
 comments: YarisAuxFR
+redirect_from:
+    - /YarisAuxFR
 ---
 
 # Objectif

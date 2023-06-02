@@ -7,6 +7,8 @@ category: english
 img_rel: "/~sven337/data/yarisclock"
 comments: ToyClockEN
 disqus_comment_thread: ToyClockEN
+redirect_from: 
+    - /ToyClockEN
 ---
 
 The dashboard clock on my 2007 Toyota Yaris turned off after a few days of steadily losing brightness.
@@ -69,6 +71,7 @@ I used my poor man's lab power supply to test what were the minimal voltage and 
 ![Test setup](test_setup.jpg)
 ![1.5V 0.5W](halfwatt.jpg)
 ![2.5V 1.1W](2halfvolt.jpg)
+![Demonstration](final2.jpg)
 
 
 Once this was proven working, I cleared some space on the board by removing the transistors and their base and emitter resistors.
