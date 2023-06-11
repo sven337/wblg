@@ -4,7 +4,7 @@ title: Grésillement radiateur Acova Taffetas 2
 date: 2023-06-04 11:29:55
 tags: electronics
 category: francais
-comments: true
+comments: Acova
 img_rel: "/~sven337/data/acovataffetas"
 ---
 

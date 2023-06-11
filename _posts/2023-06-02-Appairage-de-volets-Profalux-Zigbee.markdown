@@ -4,7 +4,7 @@ title: Appairage de volets Profalux Zigbee
 date: 2023-06-02 01:27:46
 tags: electronics
 category: francais
-comments: true
+comments: Profalux
 img_rel: "/~sven337/data/profalux"
 ---
 
