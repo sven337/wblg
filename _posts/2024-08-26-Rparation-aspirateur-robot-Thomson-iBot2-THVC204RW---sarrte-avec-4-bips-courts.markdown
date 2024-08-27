@@ -4,7 +4,7 @@ title: Réparation aspirateur robot Thomson iBot2 THVC204RW - s'arrête avec 4 b
 date: 2024-08-26 18:47:05
 tags: electronics
 category: francais
-comments: true
+comments: thomsonvac
 img_rel: "/~sven337/data/thomsonvac"
 ---
 
