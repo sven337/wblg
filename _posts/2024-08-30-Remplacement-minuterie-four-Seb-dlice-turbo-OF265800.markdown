@@ -34,8 +34,6 @@ Le remplacement est très simple en suivant mes indications de l'époque.
 # Commande de minuterie : pièce fournisseur
 
 J'ai donc fini par **commander les références identifiées**, tout en sachant que je prenais un gros **risque de compatibilité**, mais après tout le droit de **rétractation** existe pour cela.
-La commande s'est faite auprès de la SARL Campoy qui exploite le site le-sav.com, que je ne recommande pas du tout car ils ont été particulièrement réticents à traiter ma rétractation, et je n'ai d'ailleurs toujours pas été remboursé. Cet aspect du droit de la consommation en France est assez simple à comprendre mais il perdure une fraction significative de vendeurs qui mettent toute la **mauvaise volonté** du monde à l'appliquer.
-(Je mettrai à jour ce post le jour où je serai remboursé, mais cela ne changera pas vraiment mon opinion : mon prochain achat de pièces se fera ailleurs.)
 
 À réception, sans surprise, la nouvelle minuterie **ne se monte pas** sur l'ancien bouton, le nouveau bouton n'est lui **pas compatible** avec la pasturgie existante.
 Je ne détaille pas la procédure, il faut **arracher le bouton par l'avant et défaire les deux vis de rétention** :
@@ -46,7 +44,7 @@ Et **retirer les cosses** du contact électrique :
 
 ![Démontage minuterie - arrière](demontage_minuterie2.jpg)
 
-On remballe tout, on renvoie, et on espère récupérer son argent un jour.
+On remballe tout, on renvoie, et on espère se faire rembourser.
 
 # Point conseil
 

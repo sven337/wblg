@@ -121,8 +121,9 @@ On trouve sur Aliexpress pas mal de "roues + moteurs" pour le robot iLife v3s Pr
 
 Ma piste préférée pour l'instant (et je mettrai à ce ce post en fonction de mes résultats) est d'acheter un moteur Standard Motor *proche* puisque je n'en retrouve pas dont les spécifications sont *identiques*. Dès lors qu'il rentre physiquement et que le diamètre de l'arbre est compatible avec le pignon de sortie et l'encodeur, à peu près n'importe quel moteur devrait faire l'affaire... enfin j'espère. La suite au prochain épisode.
 
-Mon choix s'est porté sur [**ce modèle**](https://www.aliexpress.com/item/1005006868330376.html) dont les cotes semblent correspondre au mien. La photographie éclatée correspond exactement ce qui me donne bon espoir.
+Mon choix s'est porté sur [**ce modèle PRI-365SV-14175**](https://www.aliexpress.com/item/1005006868330376.html) dont les cotes semblent correspondre au mien. La photographie éclatée correspond exactement ce qui me donne bon espoir.
 Il faudra monter l'ancienne carte encodeur dessus. Il existe des moteurs proposés avec un encodeur, mais leur connecteur de sortie ne correspond pas au mien (que ce soit son type ou son nombre de pins), une incompatibilité sans nul doute volontaire de la part de l'OEM.
+Mise à jour du post :  ce modèle fonctionne parfaitement et le montage a été relativement aisé.
 
 Pour choisir le moteur il faut être vigilant à ce que l'arbre **dépasse des deux côtés** (afin de pouvoir monter l'encodeur), et que l'arbre sur sa sortie dispose de **stries** puisque c'est ce que l'arbre d'origine a. (On en trouve certains en D mais surtout un grand nombre qui sont lisses.)
 
