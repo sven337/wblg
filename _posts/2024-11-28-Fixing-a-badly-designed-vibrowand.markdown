@@ -63,8 +63,8 @@ Here is an annotated picture:
 Long story short, I haven't been able to definitely fix the problem, but it does feel like a marginal condition either on the power supply or on one of the pins of the MCU.
 
 The MCUs pins are: 
-```
-       _____
+```   
+ _____
 Vcc   -|1  8|- GND
 MOTOR -|2  7|- Bpwr
 LED   -|3  6|- B+
@@ -76,8 +76,7 @@ Bpwr, the power button, is connected through a weird resistor voltage divider, s
 There could be something wrong there, actually, especially as this is also used as an interrupt pin.
 
 The LED is shared with the XT9502: both chips can drive it.
-RST is used by the XT9502 to block running the motor while the battery is charging (no great reason why, but given how the inductor on the boost circuit heats up in normal charge, I can imagine it would burn up if one was drawing more current).
-
+RST is used by the XT9502 to inhibit the motor while the battery is charging (no great reason why, but given how the inductor on the boost circuit heats up in normal charge, I can imagine it would burn up if one was drawing more current).
 
 With the added capacitors, I see the issue less often, but still sometimes, which does suggest that the problem was/is indeed an electrical noise issue.
 Sadly there's only so much I can do and maybe replacing the MCU will actually help, if the replacement is less "touchy".
