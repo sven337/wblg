@@ -2,9 +2,9 @@
 layout: post
 title: Fixing a badly designed vibration device
 date: 2024-11-28 14:19:13
-tags: XXX
+tags: electronics
 category: english
-comments: true
+comments: vibro
 img_rel: "/~sven337/data/vibro"
 ---
 
@@ -93,9 +93,19 @@ UI improvements would be:
 - different/custom vibrations
 - no wifi/bluetooth because that's not terribly useful
 
-# Current situation
+# Replacing the MCU altogether
 
-I have better behavior now, the device turns on successfully about 50% of the time, up from 0%. But this isn't 100%, so I am not satisfied. The MCU replacement comes next as a project.
+I have better behavior now, the device turns on successfully about 50% of the time, up from 0%. But this isn't 100%, so I am not satisfied. The MCU replacement comes next.
+
+I would honestly have saved more time re-doing the entire board from scratch or at least replacing the MCU from the start, instead of trying to reverse engineer their design and figure out what is wrong.
+It turns out, the firmware was wrong - after hooking up the oscilloscope I could see the MCU driving (as output) the pin normally used for power button input, unless some magic/luck is happening, and I think this is the core of the issue.
+
+I bit the bullet and replaced the MCU with an Arduino Pro Mini, using 30AWG wire wrapping wire to connect it in the spot of the SOIC8 MCU. This was not very easy but it worked. In my testing I killed the MOSFET so I replaced it with a FDS6690A I had lying around. This took but a few hours.
+The [code for the custom vibro firmware](https://github.com/sven337/arduinostuff/tree/master/vibro/vibro.ino) is on my Github as always.
+
+# Custom vibro firmware
+
+This custom firmware has the UI improvements that I needed, namely: start right away on a power button press, ramp speed up and down on long presses, plus custom vibration modes tailored to personal tastes established after a rigorous evaluation process.
 
 <script>
     $(document).ready(function() {
