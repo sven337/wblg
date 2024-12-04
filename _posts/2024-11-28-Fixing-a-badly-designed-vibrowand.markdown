@@ -42,6 +42,8 @@ The electronic architecture consists of several key components:
 - A custom boost circuit for the charging_
 - 3 buttons and 2 (in parallel) LEDs for status reporting
 
+![Original board](board_orig.jpg)
+
 Here is an annotated picture:
 
 ![Picture of (modifications WIP) board](board.jpg)
