@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Comparaison de granulés de bois pour poêle
-date: 2024-12-04 03:42:49
-tags: XXX
 category: francais
-comments: true
+comments: pellets
 img_rel: "/~sven337/data/pellets"
 ---
 
@@ -49,18 +47,65 @@ De toute façon, je ne pense pas que les traces brunes observées sur la vitre s
 
 ## Quantité de cendres des sacs Leclerc
 
-L'analyse de combustion des granulés Leclerc révèle une production de cendres très faible. Les mesures effectuées montrent :
+J'ai pesé les cendres suite à la combustion du sac Leclerc et obtenu les valeurs suivantes :
 - Creuset : 7g de cendres (2754g - 2747g)
 - Tiroir : 68g de cendres (1810g - 1742g), attention cela ne compte pas la cendre dans le poêle qui n'était pas tombée dans le tiroir, que j'estime à 10g supplémentaires
 
-La quantité totale de cendres s'élève donc à 75-85g, ce qui représente un taux de cendres entre 0.05% et 0.06%, démontrant une excellente qualité de combustion.
+La quantité totale de cendres s'élèverait donc à 75-85g, ce qui représente un taux de cendres entre 0.05% et 0.06%, démontrant une bonne qualité de granulés. (Voir plus bas : en réalité c'est plus tout en restant conforme à l'étiquette.)
+Nous allons comparer avec Woodstock.
 
-## Températures de flamme
+# Résultat de combustion des granulés Woodstock
+
+Je constate qu'il existe deux variantes de sac Woodstock : en magasin à Leroy Merlin il y avait 2 palettes, l'une dont l'emballage était bleu et orange, l'autre dont l'emballage était bleu et jaune. La couleur des granulés à l'intérieur n'est pas la même : soit claire, soit foncée. Il faut que j'écrive à la marque pour leur demander des explications.
+# Photographies du poêle après 1 sac Woodstock
+
+Quelques dépôts dans le creuset. Dans le tiroir, plusieurs granulés non brûlés, je les ai retirés pour la pesée des cendres. Ce problème n'avait pas été présent sur le sac Leclerc.
+La vitre est très sale, plus qu'avec les granulés Leclerc.
+
+![Creuset, granulés Woodstock](creuset_woodstock.jpg)
+![Tiroir, granulés Woodstock, quelques granulés non brûlés](tiroir_woodstock_pellets.jpg)
+![Tiroir, granulés Woodstock](tiroir_woodstock.jpg)
+![Vitre, granulés Woodstock](vitre_woodstock.jpg)
+
+## Quantité de cendres des sacs Woodstock
+
+- Creuset : 6g de cendres (moyenne sur 2 sacs)
+- Tiroir : 50g de cendres (1792g - 1742g)
+
+On a *beaucoup* moins de cendres avec le granulé Woodstock, une différence d'environ 30%.
+On peut essayer d'utiliser cette mesure pour remonter au taux de cendres réel du granulés Leclerc. Le Woodstock nous garantit 0.5% de cendres, soit 75g au total par sac.
+Supposons que c'est bien ce qui a été produit par la combustion de mon sac, nous avons pesé 50g dans le tiroir. On "sait" qu'il y a donc 25g de cendre déposée dans le poêle que nous n'avons pas pesé, c'est-à-dire 1.5x la pesée.
+
+En applicant cela au granulé Leclerc on trouve 68 * 1.5 / 15000 = **0.68% de cendres**. Cela apparait tout à fait en ligne avec la spécification.
+
+# Températures de flamme
 
 Je ne sais pas trop comment analyser le graphe des température de flamme, mais à première vue il ne semble pas montrer de différence significative.
 Cela me suggère résineux/feuillus ou le débat sur le marque n'a pas tellement d'importance pour ce poêle en terme de chaleur : il régule pour atteindre la température de combustion désirée, sans différence apparente entre les deux marques.
 
 ![Températures de flamme](temperature_flamme.jpg)
+
+# Conclusion
+
+Le sac Leclerc semble tenir sa spécification au niveau du taux de cendres. Il est inférieur au sac Woodstock sur ce point, il faudra vider le tiroir environ 4 fois là où 3 fois auraient suffi avec des granulés Woodstock. Par contre l'encrassement de la vitre ou les dépôts dans le creuset ne sont pas apparus pires (voire meilleurs au niveau de l'encrassement). 
+Il est très difficile pour moi de mesurer la capacité calorifique, mais je vais choisir de faire confiance à la spécification Leclerc puisque le taux de cendre observé corrsespond à l'information de l'étiquette.
+
+Le sac Leclerc est donc un **choix intéressant** dès lors qu'il est **plus de 8% moins cher** que le sac Woodstock.
+
+<div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 20px 0;">
+    <h3>Calcul de prix réel des granulés</h3>
+    <div style="margin: 10px 0;">
+        <label>Prix du sac Woodstock (€): </label>
+        <input type="number" id="prixWoodstock" step="0.01" value="4.49">
+    </div>
+    <div style="margin: 10px 0;">
+        <label>Prix du sac Leclerc (€): </label>
+        <input type="number" id="prixLeclerc" step="0.01" value="3.79">
+    </div>
+    <button onclick="calculerPrix()" style="margin: 10px 0;">Calculer</button>
+    <div id="resultat" style="margin-top: 10px; font-weight: bold;">Le sac Leclerc est-il moins cher compte tenu de la différence de pouvoir calorifique ?</div>
+</div>
+<script src="/~sven337/data/pellets/calculator.js"> </script>
 
 <script>
     $(document).ready(function() {

@@ -1,5 +1,5 @@
 name: Sven337
-description: Computers, electronics, politics
+description: Reverse engineering the world, one device at a time
 markdown: kramdown
 kramdown:
     input: GFM
